@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Robotics Publications Globe</title>
+  <link rel="stylesheet" href="style.css">
+  <script type="importmap">
+    {
+      "imports": {
+        "three": "https://cdn.jsdelivr.net/npm/three@0.170.0/build/three.webgpu.js",
+        "three/webgpu": "https://cdn.jsdelivr.net/npm/three@0.170.0/build/three.webgpu.js",
+        "three/tsl": "https://cdn.jsdelivr.net/npm/three@0.170.0/build/three.tsl.js",
+        "three/addons/": "https://cdn.jsdelivr.net/npm/three@0.170.0/examples/jsm/"
+      }
+    }
+  </script>
+</head>
+<body>
+  <div id="loading-overlay">
+    <div class="spinner"></div>
+    <p>Loading globe…</p>
+  </div>
+  <div id="tooltip" aria-hidden="true">
+    <div class="tooltip-name"></div>
+    <div class="tooltip-country"></div>
+    <div class="tooltip-papers"></div>
+  </div>
+  <aside id="sidebar">
+    <button id="sidebar-toggle" type="button" aria-label="Toggle sidebar">◀</button>
+    <div id="sidebar-content">
+      <h1>Robotics Publications</h1>
+      <p id="meta-last-updated">—</p>
+      <p id="meta-total-papers">—</p>
+      <p id="meta-total-institutions">—</p>
+      <label for="search-input">Search institutions</label>
+      <input type="text" id="search-input" placeholder="Filter by name…" autocomplete="off">
+    </div>
+  </aside>
+  <canvas id="canvas"></canvas>
+  <script type="module" src="main.js"></script>
+</body>
+</html>
