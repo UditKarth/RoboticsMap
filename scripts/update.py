@@ -11,7 +11,8 @@ import requests
 
 DB_PATH = Path(__file__).resolve().parent.parent / "data" / "publications.db"
 DATA_DIR = Path(__file__).resolve().parent.parent / "data"
-OPENALEX_URL = "https://api.openalex.org/works"
+OPENALEX_WORKS_URL = "https://api.openalex.org/works"
+OPENALEX_INSTITUTIONS_URL = "https://api.openalex.org/institutions"
 MAILTO = "your@email.com"
 CONCEPT_ID = "C18903297"
 TO_DATE = "2026-01-01"
@@ -55,9 +56,39 @@ def fetch_page(from_date, cursor=None):
     }
     if cursor:
         params["cursor"] = cursor
-    r = requests.get(OPENALEX_URL, params=params, timeout=60)
+    r = requests.get(OPENALEX_WORKS_URL, params=params, timeout=60)
     r.raise_for_status()
     return r.json()
+
+
+def resolve_institution(inst_id, conn, cache):
+    """Return (lat, lng, name, country_code) or None. Uses cache, DB, then Institution API."""
+    if inst_id in cache:
+        return cache[inst_id]
+    row = conn.execute(
+        "SELECT lat, lng, name, country_code FROM institutions WHERE id = ?", (inst_id,)
+    ).fetchone()
+    if row is not None:
+        cache[inst_id] = (row[0], row[1], row[2], row[3])
+        return cache[inst_id]
+    try:
+        short_id = inst_id.replace("https://openalex.org/", "") if inst_id.startswith("http") else inst_id
+        url = f"{OPENALEX_INSTITUTIONS_URL}/{short_id}"
+        r = requests.get(url, params={"mailto": MAILTO}, timeout=15, headers={"Accept": "application/json"})
+        r.raise_for_status()
+        data = r.json()
+    except Exception:
+        cache[inst_id] = None
+        return None
+    geo = data.get("geo") or {}
+    lat, lng = geo.get("latitude"), geo.get("longitude")
+    if lat is None or lng is None:
+        cache[inst_id] = None
+        return None
+    name = data.get("display_name") or ""
+    country = (data.get("country_code") or data.get("geo", {}).get("country_code")) or None
+    cache[inst_id] = (float(lat), float(lng), name, country)
+    return cache[inst_id]
 
 
 def run():
@@ -72,6 +103,7 @@ def run():
     total_skipped_geo = 0
     start = time.time()
     cursor = None
+    inst_cache = {}
 
     while True:
         data = fetch_page(from_date, cursor)
@@ -98,26 +130,25 @@ def run():
                 for inst in a.get("institutions") or []:
                     if not inst:
                         continue
-                    geo = inst.get("geo") or {}
-                    lat, lng = geo.get("latitude"), geo.get("longitude")
-                    if lat is None or lng is None:
+                    inst_id = (inst.get("id") or "").strip()
+                    if not inst_id:
+                        continue
+                    resolved = resolve_institution(inst_id, conn, inst_cache)
+                    if resolved is None:
                         total_skipped_geo += 1
                         continue
-                    inst_id = (inst.get("id") or "").replace("https://openalex.org/", "")
-                    name = inst.get("display_name") or ""
-                    country = (inst.get("country_code") or "") or None
-                    if inst_id and name:
+                    lat, lng, name, country = resolved
+                    conn.execute(
+                        "INSERT OR IGNORE INTO institutions (id, name, lat, lng, country_code) VALUES (?, ?, ?, ?, ?)",
+                        (inst_id, name, lat, lng, country),
+                    )
+                    key = (work_id, inst_id)
+                    if key not in seen_inst:
+                        seen_inst.add(key)
                         conn.execute(
-                            "INSERT OR IGNORE INTO institutions (id, name, lat, lng, country_code) VALUES (?, ?, ?, ?, ?)",
-                            (inst_id, name, float(lat), float(lng), country),
+                            "INSERT OR IGNORE INTO paper_institutions (paper_id, institution_id) VALUES (?, ?)",
+                            (work_id, inst_id),
                         )
-                        key = (work_id, inst_id)
-                        if key not in seen_inst:
-                            seen_inst.add(key)
-                            conn.execute(
-                                "INSERT OR IGNORE INTO paper_institutions (paper_id, institution_id) VALUES (?, ?)",
-                                (work_id, inst_id),
-                            )
 
             total_fetched += 1
 
