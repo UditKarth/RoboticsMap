@@ -1,6 +1,9 @@
 {
-  "last_updated": "",
-  "total_papers": 0,
-  "total_institutions": 0,
-  "date_range": { "from": "", "to": "" }
+  "last_updated": "2025-10-29",
+  "total_papers": 200,
+  "total_institutions": 952,
+  "date_range": {
+    "from": "2018-01-01",
+    "to": "2025-10-29"
+  }
 }
