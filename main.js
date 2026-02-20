@@ -1,7 +1,7 @@
 import * as THREE from "three/webgpu";
 import {
   step,
-  normalWorldGeometry,
+  normalWorld,
   output,
   texture,
   vec3,
@@ -18,7 +18,29 @@ import {
 } from "three/tsl";
 import { OrbitControls } from "three/addons/controls/OrbitControls.js";
 
-const timer = new THREE.Timer();
+/** Minimal timer (THREE.Timer not in webgpu build). */
+class Timer {
+  constructor() {
+    this._last = performance.now() / 1000;
+    this._elapsed = 0;
+    this._delta = 0;
+  }
+  connect() {}
+  update() {
+    const now = performance.now() / 1000;
+    this._delta = now - this._last;
+    this._last = now;
+    this._elapsed += this._delta;
+  }
+  getDelta() {
+    return this._delta;
+  }
+  getElapsed() {
+    return this._elapsed;
+  }
+}
+
+const timer = new Timer();
 
 let camera, scene, renderer, controls, globe, atmosphere;
 let markerMesh, institutions = [];
@@ -41,7 +63,7 @@ function latLngToVector3(lat, lng, radius = 1.015) {
 }
 
 function init() {
-  timer.connect(document);
+  timer.connect();
 
   camera = new THREE.PerspectiveCamera(45, window.innerWidth / window.innerHeight, 0.1, 100);
   camera.position.set(0, 0, 2.5);
@@ -70,9 +92,9 @@ function init() {
   bumpRoughnessCloudsTexture.anisotropy = 8;
 
   const viewDirection = positionWorld.sub(cameraPosition).normalize();
-  const fresnel = viewDirection.dot(normalWorldGeometry).abs().oneMinus().toVar();
+  const fresnel = viewDirection.dot(normalWorld).abs().oneMinus().toVar();
 
-  const sunOrientation = normalWorldGeometry.dot(normalize(sun.position)).toVar();
+  const sunOrientation = normalWorld.dot(normalize(sun.position)).toVar();
 
   const atmosphereColor = mix(
     atmosphereTwilightColor,
@@ -124,9 +146,16 @@ function init() {
   renderer = new THREE.WebGPURenderer({ antialias: true });
   renderer.setPixelRatio(window.devicePixelRatio);
   renderer.setSize(window.innerWidth, window.innerHeight);
-  renderer.setAnimationLoop(animate);
   const canvas = document.getElementById("canvas");
   canvas.appendChild(renderer.domElement);
+  // WebGPU backend must be initialized asynchronously before first render
+  window._rendererReady = renderer.init().then(() => {
+    console.log("[Globe] WebGPU renderer initialized");
+    renderer.setAnimationLoop(animate);
+  }).catch((err) => {
+    console.error("[Globe] WebGPU init failed:", err);
+    throw err;
+  });
 
   controls = new OrbitControls(camera, renderer.domElement);
   controls.enableDamping = true;
@@ -270,6 +299,7 @@ function setupRaycasting() {
 }
 
 async function loadData() {
+  console.log("[Globe] loadData started");
   overlayEl.classList.remove("hidden");
   overlayEl.classList.remove("error");
   overlayEl.querySelector("p").textContent = "Loading globe…";
@@ -278,19 +308,22 @@ async function loadData() {
   let metaData = null;
 
   try {
+    console.log("[Globe] Fetching data/institutions.json and data/meta.json…");
     const [instRes, metaRes] = await Promise.all([
       fetch("data/institutions.json"),
       fetch("data/meta.json"),
     ]);
 
-    if (!instRes.ok) throw new Error("Failed to load institutions.json");
+    console.log("[Globe] Fetch done.", "institutions:", instRes.status, "meta:", metaRes.status);
+
+    if (!instRes.ok) throw new Error("Failed to load institutions.json: " + instRes.status);
     institutionsData = await instRes.json();
 
     if (metaRes.ok) {
       metaData = await metaRes.json();
     }
   } catch (e) {
-    console.error(e);
+    console.error("[Globe] Fetch error:", e);
     overlayEl.classList.add("error");
     overlayEl.querySelector("p").textContent = "Error loading data. " + (e.message || "");
     overlayEl.classList.remove("hidden");
@@ -299,6 +332,7 @@ async function loadData() {
 
   institutions = Array.isArray(institutionsData) ? institutionsData : [];
   markerScales = [];
+  console.log("[Globe] Loaded", institutions.length, "institutions");
 
   if (metaData) {
     metaLastUpdated.textContent = "Last updated: " + (metaData.last_updated || "—");
@@ -310,12 +344,23 @@ async function loadData() {
     metaTotalInstitutions.textContent = "Total institutions: " + institutions.length;
   }
 
-  buildMarkers();
-  setupRaycasting();
+  try {
+    console.log("[Globe] Building markers…");
+    buildMarkers();
+    setupRaycasting();
+  } catch (e) {
+    console.error("[Globe] buildMarkers/setup error:", e);
+    overlayEl.classList.add("error");
+    overlayEl.querySelector("p").textContent = "Error building markers. " + (e.message || "");
+    overlayEl.classList.remove("hidden");
+    return;
+  }
+
+  console.log("[Globe] Ready, hiding overlay");
   overlayEl.classList.add("hidden");
 }
 
-function animate() {
+async function animate() {
   timer.update();
   const delta = timer.getDelta();
 
@@ -325,8 +370,27 @@ function animate() {
 
   updateMarkerPulse();
   controls.update();
-  renderer.render(scene, camera);
+  if (typeof renderer.renderAsync === "function") {
+    await renderer.renderAsync(scene, camera);
+  } else {
+    renderer.render(scene, camera);
+  }
 }
 
-init();
-loadData();
+function main() {
+  console.log("[Globe] init started");
+  init();
+  console.log("[Globe] init done, waiting for WebGPU…");
+  window._rendererReady
+    .then(() => loadData())
+    .catch((e) => {
+      console.error("[Globe] Fatal:", e);
+      if (overlayEl) {
+        overlayEl.classList.add("error");
+        overlayEl.querySelector("p").textContent = "WebGPU failed. " + (e.message || String(e));
+        overlayEl.classList.remove("hidden");
+      }
+    });
+}
+
+main();
