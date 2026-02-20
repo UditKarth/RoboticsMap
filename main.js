@@ -47,10 +47,17 @@ let markerMesh, institutions = [];
 let markerScales = [];
 let markerPulseUniform;
 let userInteracting = false;
+let markerHovered = false;
 let tooltipEl, overlayEl, sidebarEl, searchInputEl;
 let metaLastUpdated, metaTotalPapers, metaTotalInstitutions;
 
 const textureBase = "./img/";
+const ROTATION_SPEED_INITIAL = 0.025;  // rad/s when not hovering
+const ROTATION_TRANSITION_DURATION = 0.3;  // seconds to blend 0 <-> initial
+let currentRotationSpeed = ROTATION_SPEED_INITIAL;
+let rotationTransitionStartTime = 0;
+let rotationTransitionStartSpeed = ROTATION_SPEED_INITIAL;
+let rotationTargetSpeed = ROTATION_SPEED_INITIAL;
 
 function latLngToVector3(lat, lng, radius = 1.015) {
   const phi = (90 - lat) * (Math.PI / 180);
@@ -284,13 +291,19 @@ function setupRaycasting() {
         tooltipEl.style.left = `${event.clientX + 12}px`;
         tooltipEl.style.top = `${event.clientY + 12}px`;
         tooltipEl.classList.add("visible");
+        markerHovered = true;
+      } else {
+        markerHovered = false;
+        tooltipEl.classList.remove("visible");
       }
     } else {
+      markerHovered = false;
       tooltipEl.classList.remove("visible");
     }
   }
 
   function onMouseLeave() {
+    markerHovered = false;
     tooltipEl.classList.remove("visible");
   }
 
@@ -365,7 +378,16 @@ async function animate() {
   const delta = timer.getDelta();
 
   if (!userInteracting) {
-    globe.rotation.y += delta * 0.025;
+    const targetSpeed = markerHovered ? 0 : ROTATION_SPEED_INITIAL;
+    if (targetSpeed !== rotationTargetSpeed) {
+      rotationTransitionStartTime = timer.getElapsed();
+      rotationTransitionStartSpeed = currentRotationSpeed;
+      rotationTargetSpeed = targetSpeed;
+    }
+    const elapsed = timer.getElapsed() - rotationTransitionStartTime;
+    const t = Math.min(1, elapsed / ROTATION_TRANSITION_DURATION);
+    currentRotationSpeed = rotationTransitionStartSpeed + (rotationTargetSpeed - rotationTransitionStartSpeed) * t;
+    globe.rotation.y += delta * currentRotationSpeed;
   }
 
   updateMarkerPulse();
