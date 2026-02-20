@@ -168,7 +168,11 @@ function init() {
   controls.enableDamping = true;
   controls.minDistance = 1.2;
   controls.maxDistance = 8;
-  controls.addEventListener("start", () => (userInteracting = true));
+  controls.addEventListener("start", () => {
+    userInteracting = true;
+    markerHovered = false;
+    tooltipEl.classList.remove("visible");
+  });
   controls.addEventListener("end", () => (userInteracting = false));
 
   window.addEventListener("resize", onWindowResize);
