@@ -193,6 +193,97 @@ function init() {
   searchInputEl.addEventListener("input", onSearchInput);
 }
 
+const LEADERBOARD_TOP_N = 10;
+
+function getCountryName(code) {
+  if (!code) return "—";
+  try {
+    return new Intl.DisplayNames(["en"], { type: "region" }).of(code) || code;
+  } catch {
+    return code;
+  }
+}
+
+function buildLeaderboards() {
+  console.log("[Globe] buildLeaderboards() entered");
+  const sidebarContent = document.getElementById("sidebar-content");
+  console.log("[Globe] sidebar-content element:", sidebarContent ? "found" : "NULL");
+  if (!sidebarContent) {
+    console.warn("[Globe] buildLeaderboards aborted: no #sidebar-content");
+    return;
+  }
+
+  // Remove any existing leaderboard sections (from HTML or previous run)
+  const existing = sidebarContent.querySelectorAll(".leaderboard");
+  console.log("[Globe] Removing", existing.length, "existing .leaderboard section(s)");
+  existing.forEach((el) => el.remove());
+
+  function addSection(ariaLabel, title, items) {
+    console.log("[Globe] addSection:", title, "items:", items.length);
+    const section = document.createElement("section");
+    section.className = "leaderboard";
+    section.setAttribute("aria-label", ariaLabel);
+    const h2 = document.createElement("h2");
+    h2.textContent = title;
+    const ol = document.createElement("ol");
+    items.forEach((item) => {
+      const li = document.createElement("li");
+      if (item === "No data loaded") {
+        li.className = "leaderboard-empty";
+        li.textContent = item;
+      } else {
+        li.innerHTML = item;
+      }
+      ol.appendChild(li);
+    });
+    section.appendChild(h2);
+    section.appendChild(ol);
+    console.log("[Globe] Appending section to sidebar-content, section children:", section.children.length);
+    sidebarContent.appendChild(section);
+  }
+
+  if (!institutions.length) {
+    console.log("[Globe] No institutions, adding empty-state leaderboards");
+    addSection("Top institutions by paper count", "Top institutions", ["No data loaded"]);
+    addSection("Top countries by paper count", "Top countries", ["No data loaded"]);
+    console.log("[Globe] buildLeaderboards done (empty state)");
+    return;
+  }
+
+  const topInstitutions = institutions.slice(0, LEADERBOARD_TOP_N);
+  const instItems = topInstitutions.map(
+    (inst, i) =>
+      `<span class="leaderboard-rank">${i + 1}</span><span class="leaderboard-name">${escapeHtml(inst.name || "—")}</span><span class="leaderboard-count">${inst.paper_count ?? 0}</span>`
+  );
+  console.log("[Globe] Adding institutions leaderboard with", instItems.length, "rows");
+  addSection("Top institutions by paper count", "Top institutions", instItems);
+
+  const byCountry = new Map();
+  for (const inst of institutions) {
+    const code = inst.country_code || "";
+    if (!code) continue;
+    const prev = byCountry.get(code) || 0;
+    byCountry.set(code, prev + (inst.paper_count ?? 0));
+  }
+  const topCountries = [...byCountry.entries()]
+    .map(([code, papers]) => ({ code, papers }))
+    .sort((a, b) => b.papers - a.papers)
+    .slice(0, LEADERBOARD_TOP_N);
+  const countryItems = topCountries.map(
+    ({ code, papers }, i) =>
+      `<span class="leaderboard-rank">${i + 1}</span><span class="leaderboard-name">${escapeHtml(getCountryName(code))}</span><span class="leaderboard-count">${papers}</span>`
+  );
+  console.log("[Globe] Adding countries leaderboard with", countryItems.length, "rows");
+  addSection("Top countries by paper count", "Top countries", countryItems);
+  console.log("[Globe] buildLeaderboards done");
+}
+
+function escapeHtml(text) {
+  const div = document.createElement("div");
+  div.textContent = text;
+  return div.innerHTML;
+}
+
 function onSearchInput() {
   const q = searchInputEl.value.trim().toLowerCase();
   if (!markerMesh || !institutions.length) return;
@@ -350,6 +441,7 @@ async function loadData() {
   institutions = Array.isArray(institutionsData) ? institutionsData : [];
   markerScales = [];
   console.log("[Globe] Loaded", institutions.length, "institutions");
+  console.log("[Globe] institutions is array?", Array.isArray(institutions), "first item:", institutions[0]);
 
   if (metaData) {
     metaLastUpdated.textContent = "Last updated: " + (metaData.last_updated || "—");
@@ -360,6 +452,17 @@ async function loadData() {
     metaTotalPapers.textContent = "Total papers: —";
     metaTotalInstitutions.textContent = "Total institutions: " + institutions.length;
   }
+
+  console.log("[Globe] About to call buildLeaderboards (via requestAnimationFrame)");
+  requestAnimationFrame(() => {
+    console.log("[Globe] requestAnimationFrame fired, calling buildLeaderboards now");
+    try {
+      buildLeaderboards();
+      console.log("[Globe] buildLeaderboards returned");
+    } catch (err) {
+      console.error("[Globe] buildLeaderboards threw:", err);
+    }
+  });
 
   try {
     console.log("[Globe] Building markers…");
