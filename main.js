@@ -50,6 +50,8 @@ let userInteracting = false;
 let markerHovered = false;
 let tooltipEl, overlayEl, sidebarEl, searchInputEl;
 let metaLastUpdated, metaTotalPapers, metaTotalInstitutions;
+/** When set, markers are filtered to this institution (id) or country (countryCode). */
+let leaderboardFilter = null;
 
 const textureBase = "./img/";
 const ROTATION_SPEED_INITIAL = 0.025;  // rad/s when not hovering
@@ -218,7 +220,15 @@ function buildLeaderboards() {
   console.log("[Globe] Removing", existing.length, "existing .leaderboard section(s)");
   existing.forEach((el) => el.remove());
 
-  function addSection(ariaLabel, title, items) {
+  function setLeaderboardSelection(filter, selectedElement) {
+    leaderboardFilter = filter;
+    searchInputEl.value = "";
+    sidebarContent.querySelectorAll(".leaderboard li.leaderboard-clickable").forEach((el) => el.classList.remove("selected"));
+    if (selectedElement) selectedElement.classList.add("selected");
+    applyMarkerVisibility();
+  }
+
+  function addSection(ariaLabel, title, items, options = {}) {
     console.log("[Globe] addSection:", title, "items:", items.length);
     const section = document.createElement("section");
     section.className = "leaderboard";
@@ -231,6 +241,22 @@ function buildLeaderboards() {
       if (item === "No data loaded") {
         li.className = "leaderboard-empty";
         li.textContent = item;
+      } else if (typeof item === "object" && (item.institutionId != null || item.countryCode != null)) {
+        li.className = "leaderboard-clickable";
+        li.innerHTML = item.html;
+        if (item.institutionId != null) {
+          li.dataset.institutionId = item.institutionId;
+          li.addEventListener("click", () => {
+            const same = leaderboardFilter?.type === "institution" && leaderboardFilter.id === item.institutionId;
+            setLeaderboardSelection(same ? null : { type: "institution", id: item.institutionId }, same ? null : li);
+          });
+        } else {
+          li.dataset.countryCode = item.countryCode;
+          li.addEventListener("click", () => {
+            const same = leaderboardFilter?.type === "country" && leaderboardFilter.countryCode === item.countryCode;
+            setLeaderboardSelection(same ? null : { type: "country", countryCode: item.countryCode }, same ? null : li);
+          });
+        }
       } else {
         li.innerHTML = item;
       }
@@ -251,10 +277,10 @@ function buildLeaderboards() {
   }
 
   const topInstitutions = institutions.slice(0, LEADERBOARD_TOP_N);
-  const instItems = topInstitutions.map(
-    (inst, i) =>
-      `<span class="leaderboard-rank">${i + 1}</span><span class="leaderboard-name">${escapeHtml(inst.name || "—")}</span><span class="leaderboard-count">${inst.paper_count ?? 0}</span>`
-  );
+  const instItems = topInstitutions.map((inst, i) => ({
+    html: `<span class="leaderboard-rank">${i + 1}</span><span class="leaderboard-name">${escapeHtml(inst.name || "—")}</span><span class="leaderboard-count">${inst.paper_count ?? 0}</span>`,
+    institutionId: inst.id,
+  }));
   console.log("[Globe] Adding institutions leaderboard with", instItems.length, "rows");
   addSection("Top institutions by paper count", "Top institutions", instItems);
 
@@ -269,10 +295,10 @@ function buildLeaderboards() {
     .map(([code, papers]) => ({ code, papers }))
     .sort((a, b) => b.papers - a.papers)
     .slice(0, LEADERBOARD_TOP_N);
-  const countryItems = topCountries.map(
-    ({ code, papers }, i) =>
-      `<span class="leaderboard-rank">${i + 1}</span><span class="leaderboard-name">${escapeHtml(getCountryName(code))}</span><span class="leaderboard-count">${papers}</span>`
-  );
+  const countryItems = topCountries.map(({ code, papers }, i) => ({
+    html: `<span class="leaderboard-rank">${i + 1}</span><span class="leaderboard-name">${escapeHtml(getCountryName(code))}</span><span class="leaderboard-count">${papers}</span>`,
+    countryCode: code,
+  }));
   console.log("[Globe] Adding countries leaderboard with", countryItems.length, "rows");
   addSection("Top countries by paper count", "Top countries", countryItems);
   console.log("[Globe] buildLeaderboards done");
@@ -284,10 +310,10 @@ function escapeHtml(text) {
   return div.innerHTML;
 }
 
-function onSearchInput() {
-  const q = searchInputEl.value.trim().toLowerCase();
+function applyMarkerVisibility() {
   if (!markerMesh || !institutions.length) return;
 
+  const q = searchInputEl.value.trim().toLowerCase();
   const matrix = new THREE.Matrix4();
   const pos = new THREE.Vector3();
   const quat = new THREE.Quaternion();
@@ -295,7 +321,16 @@ function onSearchInput() {
 
   for (let i = 0; i < institutions.length; i++) {
     const inst = institutions[i];
-    const visible = !q || (inst.name || "").toLowerCase().includes(q);
+    let visible;
+    if (leaderboardFilter) {
+      if (leaderboardFilter.type === "institution") {
+        visible = inst.id === leaderboardFilter.id;
+      } else {
+        visible = (inst.country_code || "") === leaderboardFilter.countryCode;
+      }
+    } else {
+      visible = !q || (inst.name || "").toLowerCase().includes(q);
+    }
     const s = visible ? markerScales[i] : 0;
     scale.set(s, s, s);
     pos.copy(latLngToVector3(inst.lat, inst.lng));
@@ -304,6 +339,15 @@ function onSearchInput() {
     markerMesh.setMatrixAt(i, matrix);
   }
   markerMesh.instanceMatrix.needsUpdate = true;
+}
+
+function onSearchInput() {
+  leaderboardFilter = null;
+  const sidebarContent = document.getElementById("sidebar-content");
+  if (sidebarContent) {
+    sidebarContent.querySelectorAll(".leaderboard li.leaderboard-clickable").forEach((el) => el.classList.remove("selected"));
+  }
+  applyMarkerVisibility();
 }
 
 function onWindowResize() {

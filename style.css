@@ -232,6 +232,19 @@ html, body {
   font-size: 0.8rem;
 }
 
+#sidebar-content .leaderboard li.leaderboard-clickable {
+  cursor: pointer;
+}
+
+#sidebar-content .leaderboard li.leaderboard-clickable:hover {
+  color: #00ffcc;
+}
+
+#sidebar-content .leaderboard li.leaderboard-clickable.selected {
+  background: rgba(0, 255, 204, 0.12);
+  color: #00ffcc;
+}
+
 #sidebar-content .leaderboard-rank {
   color: #00ffcc;
   font-weight: 600;
