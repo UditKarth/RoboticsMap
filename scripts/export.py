@@ -5,6 +5,7 @@ Run after backfill.py or update.py.
 """
 import json
 import sqlite3
+from datetime import date
 from pathlib import Path
 
 DB_PATH = Path(__file__).resolve().parent.parent / "data" / "publications.db"
@@ -63,7 +64,7 @@ def run_export():
     """).fetchall()
 
     meta = {
-        "last_updated": last_date[:10] if last_date else "",
+        "last_updated": date.today().isoformat(),
         "total_papers": total_papers,
         "total_institutions": total_institutions,
         "date_range": {"from": date_from[:10] if date_from else "", "to": date_to[:10] if date_to else ""},
