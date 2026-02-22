@@ -52,6 +52,8 @@ let tooltipEl, overlayEl, sidebarEl, searchInputEl;
 let metaLastUpdated, metaTotalPapers, metaTotalInstitutions;
 /** When set, markers are filtered to this institution (id) or country (countryCode). */
 let leaderboardFilter = null;
+/** Distinct papers per country from meta.json (so country counts never exceed total papers). */
+let papersByCountry = [];
 
 const textureBase = "./img/";
 const ROTATION_SPEED_INITIAL = 0.025;  // rad/s when not hovering
@@ -284,17 +286,21 @@ function buildLeaderboards() {
   console.log("[Globe] Adding institutions leaderboard with", instItems.length, "rows");
   addSection("Top institutions by paper count", "Top institutions", instItems);
 
-  const byCountry = new Map();
-  for (const inst of institutions) {
-    const code = inst.country_code || "";
-    if (!code) continue;
-    const prev = byCountry.get(code) || 0;
-    byCountry.set(code, prev + (inst.paper_count ?? 0));
-  }
-  const topCountries = [...byCountry.entries()]
-    .map(([code, papers]) => ({ code, papers }))
-    .sort((a, b) => b.papers - a.papers)
-    .slice(0, LEADERBOARD_TOP_N);
+  // Use distinct papers per country from export when available (so counts match "Total papers")
+  const topCountries = papersByCountry.length > 0
+    ? papersByCountry.slice(0, LEADERBOARD_TOP_N).map((r) => ({ code: r.country_code, papers: r.paper_count }))
+    : (() => {
+        const byCountry = new Map();
+        for (const inst of institutions) {
+          const code = inst.country_code || "";
+          if (!code) continue;
+          byCountry.set(code, (byCountry.get(code) || 0) + (inst.paper_count ?? 0));
+        }
+        return [...byCountry.entries()]
+          .map(([code, papers]) => ({ code, papers }))
+          .sort((a, b) => b.papers - a.papers)
+          .slice(0, LEADERBOARD_TOP_N);
+      })();
   const countryItems = topCountries.map(({ code, papers }, i) => ({
     html: `<span class="leaderboard-rank">${i + 1}</span><span class="leaderboard-name">${escapeHtml(getCountryName(code))}</span><span class="leaderboard-count">${papers}</span>`,
     countryCode: code,
@@ -460,10 +466,11 @@ async function loadData() {
   let metaData = null;
 
   try {
+    const dataVersion = "?v=" + Date.now();
     console.log("[Globe] Fetching data/institutions.json and data/meta.json…");
     const [instRes, metaRes] = await Promise.all([
-      fetch("data/institutions.json"),
-      fetch("data/meta.json"),
+      fetch("data/institutions.json" + dataVersion),
+      fetch("data/meta.json" + dataVersion),
     ]);
 
     console.log("[Globe] Fetch done.", "institutions:", instRes.status, "meta:", metaRes.status);
@@ -483,8 +490,14 @@ async function loadData() {
   }
 
   institutions = Array.isArray(institutionsData) ? institutionsData : [];
+  papersByCountry = Array.isArray(metaData?.papers_by_country) ? metaData.papers_by_country : [];
   markerScales = [];
   console.log("[Globe] Loaded", institutions.length, "institutions");
+  if (papersByCountry.length > 0) {
+    console.log("[Globe] Using papers_by_country from meta (distinct papers per country), total countries:", papersByCountry.length);
+  } else {
+    console.log("[Globe] No papers_by_country in meta; country leaderboard will use sum of institution counts (may exceed total papers)");
+  }
   console.log("[Globe] institutions is array?", Array.isArray(institutions), "first item:", institutions[0]);
 
   if (metaData) {

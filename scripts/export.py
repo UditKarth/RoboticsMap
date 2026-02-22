@@ -52,11 +52,22 @@ def run_export():
     date_from = conn.execute("SELECT MIN(publication_date) FROM papers").fetchone()[0] or ""
     date_to = last_date
 
+    # Distinct papers per country (papers with at least one institution in that country)
+    papers_by_country = conn.execute("""
+        SELECT i.country_code, COUNT(DISTINCT pi.paper_id) AS paper_count
+        FROM paper_institutions pi
+        JOIN institutions i ON pi.institution_id = i.id
+        WHERE i.country_code IS NOT NULL AND i.country_code != ''
+        GROUP BY i.country_code
+        ORDER BY paper_count DESC
+    """).fetchall()
+
     meta = {
         "last_updated": last_date[:10] if last_date else "",
         "total_papers": total_papers,
         "total_institutions": total_institutions,
         "date_range": {"from": date_from[:10] if date_from else "", "to": date_to[:10] if date_to else ""},
+        "papers_by_country": [{"country_code": r[0], "paper_count": r[1]} for r in papers_by_country],
     }
     with open(DATA_DIR / "meta.json", "w") as f:
         json.dump(meta, f, indent=2)

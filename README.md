@@ -43,9 +43,13 @@ python -m http.server 8000
 
 Then open the URL shown (e.g. `http://localhost:3000` or `http://localhost:8000`). The app must be served over HTTP (or HTTPS); opening `index.html` as a file will fail due to module/import rules.
 
-### 4. Nightly updates (optional)
+### 4. Daily updates (optional)
 
-To refresh with new papers daily:
+**GitHub Actions (recommended)**  
+Push the repo to GitHub; the workflow in `.github/workflows/daily-update.yml` runs `scripts/update.py` every day at 02:00 UTC and commits updated `data/` back to the repo. You can also trigger it manually from the Actions tab.
+
+**Local cron**  
+To run updates on your own machine instead:
 
 ```bash
 crontab -e
@@ -63,26 +67,30 @@ Replace `/usr/bin/python3` and `/path/to/RoboticsMap` with your Python path and 
 
 ```
 /
-├── index.html
-├── style.css
-├── main.js
+├── index.html              # Entry page; import map for Three.js
+├── main.js                 # Globe, markers, sidebar, leaderboards, data loading
+├── style.css               # Layout, sidebar, leaderboard, tooltip, loading overlay
+├── requirements.txt        # Python deps (requests, schedule)
 ├── data/
-│   ├── publications.db   # created by backfill/update
-│   ├── institutions.json # written by export
-│   └── meta.json
+│   ├── publications.db     # SQLite DB (papers, institutions, links); created by backfill/update
+│   ├── institutions.json  # Per-institution list + paper_count; written by export
+│   └── meta.json          # Totals, date range, papers_by_country; written by export
 ├── img/
 │   ├── earth_day.jpg
 │   ├── earth_night.jpg
 │   └── earth_bump_roughness_clouds.jpg
 ├── scripts/
-│   ├── backfill.py
-│   ├── update.py
-│   └── export.py
-└── requirements.txt
+│   ├── backfill.py        # Initial load: fetch robotics papers from OpenAlex, build DB, run export
+│   ├── update.py          # Incremental update from last date, then export
+│   └── export.py         # DB → institutions.json + meta.json (incl. distinct papers per country)
+└── .github/
+    └── workflows/
+        └── daily-update.yml   # Scheduled job: run update.py, commit updated data
 ```
 
 ## Tech notes
 
 - **Frontend:** Vanilla JS, Three.js r170+ WebGPU and TSL, no bundler. Three.js is loaded via the import map in `index.html`.
-- **Data:** OpenAlex Works API with concept filter for Robotics (`C18903297`), cursor pagination, institution geo required.
+- **Sidebar:** Search (filter markers by institution name), top institutions and top countries leaderboards (click to highlight that institution or country on the globe). Country counts use distinct papers per country from `meta.papers_by_country`.
+- **Data:** OpenAlex Works API with concept filter for Robotics (`C18903297`), cursor pagination, institution geo required. Export writes `papers_by_country` so country leaderboard counts never exceed total papers.
 - **Globe:** Day/night textures, bump/roughness/clouds, fresnel atmosphere; markers as instanced spheres with log-scaled size and a subtle opacity pulse.
