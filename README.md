@@ -43,25 +43,6 @@ python -m http.server 8000
 
 Then open the URL shown (e.g. `http://localhost:3000` or `http://localhost:8000`). The app must be served over HTTP (or HTTPS); opening `index.html` as a file will fail due to module/import rules.
 
-### 4. Daily updates (optional)
-
-**GitHub Actions (recommended)**  
-Push the repo to GitHub; the workflow in `.github/workflows/daily-update.yml` runs `scripts/update.py` every day at 02:00 UTC and commits updated `data/` back to the repo. You can also trigger it manually from the Actions tab.
-
-**Local cron**  
-To run updates on your own machine instead:
-
-```bash
-crontab -e
-```
-
-Add:
-
-```
-0 3 * * * /usr/bin/python3 /path/to/RoboticsMap/scripts/update.py
-```
-
-Replace `/usr/bin/python3` and `/path/to/RoboticsMap` with your Python path and project path.
 
 ## Project layout
 
