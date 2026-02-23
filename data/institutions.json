@@ -192,6 +192,14 @@
     "paper_count": 11
   },
   {
+    "id": "https://openalex.org/I188538660",
+    "name": "University of Colorado Boulder",
+    "lat": 40.014991760253906,
+    "lng": -105.27055358886719,
+    "country_code": "US",
+    "paper_count": 10
+  },
+  {
     "id": "https://openalex.org/I201448701",
     "name": "University of Washington",
     "lat": 47.60621,
@@ -237,14 +245,6 @@
     "lat": -23.5475,
     "lng": -46.63611,
     "country_code": "BR",
-    "paper_count": 9
-  },
-  {
-    "id": "https://openalex.org/I188538660",
-    "name": "University of Colorado Boulder",
-    "lat": 40.014991760253906,
-    "lng": -105.27055358886719,
-    "country_code": "US",
     "paper_count": 9
   },
   {
@@ -480,6 +480,14 @@
     "paper_count": 7
   },
   {
+    "id": "https://openalex.org/I157725225",
+    "name": "University of Illinois Urbana-Champaign",
+    "lat": 40.11059,
+    "lng": -88.20727,
+    "country_code": "US",
+    "paper_count": 7
+  },
+  {
     "id": "https://openalex.org/I165143802",
     "name": "The University of Queensland",
     "lat": -27.46794,
@@ -664,6 +672,14 @@
     "paper_count": 6
   },
   {
+    "id": "https://openalex.org/I129774422",
+    "name": "University of Vienna",
+    "lat": 48.20849,
+    "lng": 16.37208,
+    "country_code": "AT",
+    "paper_count": 6
+  },
+  {
     "id": "https://openalex.org/I1308126019",
     "name": "National Oceanic and Atmospheric Administration",
     "lat": 38.89511,
@@ -677,14 +693,6 @@
     "lat": 52.07667,
     "lng": 4.29861,
     "country_code": "NL",
-    "paper_count": 6
-  },
-  {
-    "id": "https://openalex.org/I157725225",
-    "name": "University of Illinois Urbana-Champaign",
-    "lat": 40.11059,
-    "lng": -88.20727,
-    "country_code": "US",
     "paper_count": 6
   },
   {
@@ -869,14 +877,6 @@
     "lat": -35.28346,
     "lng": 149.12807,
     "country_code": "AU",
-    "paper_count": 5
-  },
-  {
-    "id": "https://openalex.org/I129774422",
-    "name": "University of Vienna",
-    "lat": 48.20849,
-    "lng": 16.37208,
-    "country_code": "AT",
     "paper_count": 5
   },
   {
@@ -1244,6 +1244,14 @@
     "name": "University of Technology Sydney",
     "lat": -33.86785,
     "lng": 151.20732,
+    "country_code": "AU",
+    "paper_count": 4
+  },
+  {
+    "id": "https://openalex.org/I11701301",
+    "name": "Griffith University",
+    "lat": -27.46794,
+    "lng": 153.02809,
     "country_code": "AU",
     "paper_count": 4
   },
@@ -1792,14 +1800,6 @@
     "paper_count": 3
   },
   {
-    "id": "https://openalex.org/I11701301",
-    "name": "Griffith University",
-    "lat": -27.46794,
-    "lng": 153.02809,
-    "country_code": "AU",
-    "paper_count": 3
-  },
-  {
     "id": "https://openalex.org/I119454577",
     "name": "Nanjing Agricultural University",
     "lat": 32.061668395996094,
@@ -2013,6 +2013,14 @@
     "lat": 52.63859939575195,
     "lng": -1.1316900253295898,
     "country_code": "GB",
+    "paper_count": 3
+  },
+  {
+    "id": "https://openalex.org/I154130895",
+    "name": "University of Auckland",
+    "lat": -36.84853,
+    "lng": 174.76349,
+    "country_code": "NZ",
     "paper_count": 3
   },
   {
@@ -3013,14 +3021,6 @@
     "lat": 41.03121,
     "lng": -73.92708,
     "country_code": "US",
-    "paper_count": 2
-  },
-  {
-    "id": "https://openalex.org/I154130895",
-    "name": "University of Auckland",
-    "lat": -36.84853,
-    "lng": 174.76349,
-    "country_code": "NZ",
     "paper_count": 2
   },
   {
@@ -4056,6 +4056,14 @@
     "paper_count": 2
   },
   {
+    "id": "https://openalex.org/I4210140884",
+    "name": "National Cancer Institute",
+    "lat": 38.98067092895508,
+    "lng": -77.10025787353516,
+    "country_code": "US",
+    "paper_count": 2
+  },
+  {
     "id": "https://openalex.org/I4210140967",
     "name": "University of Tartu Natural History Museum and Botanical Garden",
     "lat": 58.373355865478516,
@@ -4141,6 +4149,14 @@
     "lat": 31.41554069519043,
     "lng": 73.08969116210938,
     "country_code": "PK",
+    "paper_count": 2
+  },
+  {
+    "id": "https://openalex.org/I4210149717",
+    "name": "Center for Cancer Research",
+    "lat": 39.0040283203125,
+    "lng": -77.10096740722656,
+    "country_code": "US",
     "paper_count": 2
   },
   {
@@ -4365,6 +4381,14 @@
     "lat": 53.95763,
     "lng": -1.08271,
     "country_code": "GB",
+    "paper_count": 2
+  },
+  {
+    "id": "https://openalex.org/I52179390",
+    "name": "University of Waikato",
+    "lat": -37.783329010009766,
+    "lng": 175.2833251953125,
+    "country_code": "NZ",
     "paper_count": 2
   },
   {
@@ -5976,6 +6000,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I1340669248",
+    "name": "Illinois Department of Natural Resources",
+    "lat": 39.840576171875,
+    "lng": -89.64656829833984,
+    "country_code": "US",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I134085113",
     "name": "King Fahd University of Petroleum and Minerals",
     "lat": 26.288639068603516,
@@ -7304,6 +7336,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I193181351",
+    "name": "Universidad de Guadalajara",
+    "lat": 20.66682,
+    "lng": -103.39182,
+    "country_code": "MX",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I193223587",
     "name": "University of Trento",
     "lat": 46.06787109375,
@@ -7381,6 +7421,14 @@
     "lat": 48.39841,
     "lng": 9.99155,
     "country_code": "DE",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I196375840",
+    "name": "Universidad Aut\u00f3noma de Sinaloa",
+    "lat": 24.80209,
+    "lng": -107.39421,
+    "country_code": "MX",
     "paper_count": 1
   },
   {
@@ -9032,6 +9080,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I41156924",
+    "name": "Victoria University of Wellington",
+    "lat": -41.28664,
+    "lng": 174.77557,
+    "country_code": "NZ",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I41461413",
     "name": "Universiti Malaysia Sarawak",
     "lat": 1.5499999523162842,
@@ -10376,6 +10432,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I4210117586",
+    "name": "Secretar\u00eda de Ciencia Tecnolog\u00eda e Innovaci\u00f3n",
+    "lat": 19.354745864868164,
+    "lng": -99.183837890625,
+    "country_code": "MX",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I4210118295",
     "name": "Isparta University of Applied Sciences",
     "lat": 37.76443862915039,
@@ -11456,14 +11520,6 @@
     "paper_count": 1
   },
   {
-    "id": "https://openalex.org/I4210140884",
-    "name": "National Cancer Institute",
-    "lat": 38.98067092895508,
-    "lng": -77.10025787353516,
-    "country_code": "US",
-    "paper_count": 1
-  },
-  {
     "id": "https://openalex.org/I4210141030",
     "name": "SickKids Foundation",
     "lat": 43.70642852783203,
@@ -11789,14 +11845,6 @@
     "lat": 40.84733963012695,
     "lng": 14.257694244384766,
     "country_code": "IT",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I4210149717",
-    "name": "Center for Cancer Research",
-    "lat": 39.0040283203125,
-    "lng": -77.10096740722656,
-    "country_code": "US",
     "paper_count": 1
   },
   {
@@ -12141,6 +12189,14 @@
     "lat": 51.60928,
     "lng": -1.24214,
     "country_code": "GB",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4210156743",
+    "name": "Illinois Archaeological Survey",
+    "lat": 40.11618423461914,
+    "lng": -88.24484252929688,
+    "country_code": "US",
     "paper_count": 1
   },
   {
@@ -12997,14 +13053,6 @@
     "lat": 40.49944305419922,
     "lng": -78.01638793945312,
     "country_code": "US",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I52179390",
-    "name": "University of Waikato",
-    "lat": -37.783329010009766,
-    "lng": 175.2833251953125,
-    "country_code": "NZ",
     "paper_count": 1
   },
   {
