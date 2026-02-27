@@ -6528,6 +6528,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I155419210",
+    "name": "Islamic Azad University, Science and Research Branch",
+    "lat": 35.782569885253906,
+    "lng": 51.317237854003906,
+    "country_code": "IR",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I156087764",
     "name": "University of California, Merced",
     "lat": 37.30215835571289,
@@ -6709,6 +6717,14 @@
     "lat": 35.6895,
     "lng": 139.69171,
     "country_code": "JP",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I161350542",
+    "name": "China Three Gorges University",
+    "lat": 30.720426559448242,
+    "lng": 111.31816864013672,
+    "country_code": "CN",
     "paper_count": 1
   },
   {
@@ -9069,6 +9085,14 @@
     "lat": 46.55583,
     "lng": 15.64593,
     "country_code": "SI",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I38476204",
+    "name": "Urmia University",
+    "lat": 37.52875518798828,
+    "lng": 45.046478271484375,
+    "country_code": "IR",
     "paper_count": 1
   },
   {
@@ -13152,6 +13176,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I4871159",
+    "name": "University of Mazandaran",
+    "lat": 36.69929122924805,
+    "lng": 52.650108337402344,
+    "country_code": "IR",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I49232843",
     "name": "Changchun University",
     "lat": 43.880001068115234,
@@ -14109,6 +14141,14 @@
     "lat": 38.88167190551758,
     "lng": -77.11333465576172,
     "country_code": "US",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I877176835",
+    "name": "University of Guilan",
+    "lat": 37.19422149658203,
+    "lng": 49.63624954223633,
+    "country_code": "IR",
     "paper_count": 1
   },
   {
