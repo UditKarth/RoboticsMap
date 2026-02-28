@@ -1,19 +1,19 @@
 [
   {
+    "id": "https://openalex.org/I1294671590",
+    "name": "Centre National de la Recherche Scientifique",
+    "lat": 48.85341,
+    "lng": 2.3488,
+    "country_code": "FR",
+    "paper_count": 29
+  },
+  {
     "id": "https://openalex.org/I19820366",
     "name": "Chinese Academy of Sciences",
     "lat": 39.9075,
     "lng": 116.39723,
     "country_code": "CN",
     "paper_count": 29
-  },
-  {
-    "id": "https://openalex.org/I1294671590",
-    "name": "Centre National de la Recherche Scientifique",
-    "lat": 48.85341,
-    "lng": 2.3488,
-    "country_code": "FR",
-    "paper_count": 28
   },
   {
     "id": "https://openalex.org/I913481162",
@@ -120,11 +120,27 @@
     "paper_count": 12
   },
   {
+    "id": "https://openalex.org/I4210088668",
+    "name": "Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement",
+    "lat": 48.85341,
+    "lng": 2.3488,
+    "country_code": "FR",
+    "paper_count": 12
+  },
+  {
     "id": "https://openalex.org/I4210165038",
     "name": "University of Chinese Academy of Sciences",
     "lat": 39.9075,
     "lng": 116.39723,
     "country_code": "CN",
+    "paper_count": 12
+  },
+  {
+    "id": "https://openalex.org/I47508984",
+    "name": "Imperial College London",
+    "lat": 51.50853,
+    "lng": -0.12574,
+    "country_code": "GB",
     "paper_count": 12
   },
   {
@@ -165,22 +181,6 @@
     "lat": 55.705841064453125,
     "lng": 13.193209648132324,
     "country_code": "SE",
-    "paper_count": 11
-  },
-  {
-    "id": "https://openalex.org/I4210088668",
-    "name": "Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement",
-    "lat": 48.85341,
-    "lng": 2.3488,
-    "country_code": "FR",
-    "paper_count": 11
-  },
-  {
-    "id": "https://openalex.org/I47508984",
-    "name": "Imperial College London",
-    "lat": 51.50853,
-    "lng": -0.12574,
-    "country_code": "GB",
     "paper_count": 11
   },
   {
@@ -373,6 +373,14 @@
     "lat": 50.92877960205078,
     "lng": 11.589900016784668,
     "country_code": "DE",
+    "paper_count": 8
+  },
+  {
+    "id": "https://openalex.org/I5681781",
+    "name": "The University of Adelaide",
+    "lat": -34.92866,
+    "lng": 138.59863,
+    "country_code": "AU",
     "paper_count": 8
   },
   {
@@ -605,14 +613,6 @@
     "lat": 39.907501220703125,
     "lng": 116.39723205566406,
     "country_code": "CN",
-    "paper_count": 7
-  },
-  {
-    "id": "https://openalex.org/I5681781",
-    "name": "The University of Adelaide",
-    "lat": -34.92866,
-    "lng": 138.59863,
-    "country_code": "AU",
     "paper_count": 7
   },
   {
@@ -1216,6 +1216,14 @@
     "paper_count": 5
   },
   {
+    "id": "https://openalex.org/I84884186",
+    "name": "Newcastle University",
+    "lat": 54.97328,
+    "lng": -1.61396,
+    "country_code": "GB",
+    "paper_count": 5
+  },
+  {
     "id": "https://openalex.org/I859038795",
     "name": "Virginia Tech",
     "lat": 37.22957,
@@ -1285,6 +1293,14 @@
     "lat": 32.061668395996094,
     "lng": 118.77777862548828,
     "country_code": "CN",
+    "paper_count": 4
+  },
+  {
+    "id": "https://openalex.org/I12093191",
+    "name": "University of Stirling",
+    "lat": 56.1190299987793,
+    "lng": -3.9368200302124023,
+    "country_code": "GB",
     "paper_count": 4
   },
   {
@@ -1768,14 +1784,6 @@
     "paper_count": 4
   },
   {
-    "id": "https://openalex.org/I84884186",
-    "name": "Newcastle University",
-    "lat": 54.97328,
-    "lng": -1.61396,
-    "country_code": "GB",
-    "paper_count": 4
-  },
-  {
     "id": "https://openalex.org/I86467917",
     "name": "James Cook University",
     "lat": -19.26639,
@@ -1845,14 +1853,6 @@
     "lat": 40.8105583190918,
     "lng": 111.6522216796875,
     "country_code": "CN",
-    "paper_count": 3
-  },
-  {
-    "id": "https://openalex.org/I12093191",
-    "name": "University of Stirling",
-    "lat": 56.1190299987793,
-    "lng": -3.9368200302124023,
-    "country_code": "GB",
     "paper_count": 3
   },
   {
@@ -2780,6 +2780,14 @@
     "name": "Georgia Institute of Technology",
     "lat": 33.749,
     "lng": -84.38798,
+    "country_code": "US",
+    "paper_count": 2
+  },
+  {
+    "id": "https://openalex.org/I130785548",
+    "name": "Clark University",
+    "lat": 42.26258850097656,
+    "lng": -71.80229187011719,
     "country_code": "US",
     "paper_count": 2
   },
@@ -5776,14 +5784,6 @@
     "paper_count": 1
   },
   {
-    "id": "https://openalex.org/I130785548",
-    "name": "Clark University",
-    "lat": 42.26258850097656,
-    "lng": -71.80229187011719,
-    "country_code": "US",
-    "paper_count": 1
-  },
-  {
     "id": "https://openalex.org/I1308548392",
     "name": "Santa Fe Institute",
     "lat": 35.686981201171875,
@@ -6476,6 +6476,14 @@
     "name": "Nanjing Normal University",
     "lat": 32.061668395996094,
     "lng": 118.77777862548828,
+    "country_code": "CN",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I152269853",
+    "name": "Qilu University of Technology",
+    "lat": 36.668331146240234,
+    "lng": 116.99722290039062,
     "country_code": "CN",
     "paper_count": 1
   },
@@ -8344,6 +8352,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I2800173700",
+    "name": "UCL Australia",
+    "lat": -34.92866134643555,
+    "lng": 138.5986328125,
+    "country_code": "AU",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I2800218126",
     "name": "Archbold Biological Station",
     "lat": 27.182952880859375,
@@ -8776,6 +8792,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I29745156",
+    "name": "Central Bank of Ireland",
+    "lat": 53.3480224609375,
+    "lng": -6.235175132751465,
+    "country_code": "IE",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I29891158",
     "name": "University of Sharjah",
     "lat": 25.337369918823242,
@@ -9085,6 +9109,14 @@
     "lat": 46.55583,
     "lng": 15.64593,
     "country_code": "SI",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I38192578",
+    "name": "Pandit Ravishankar Shukla University",
+    "lat": 21.246639251708984,
+    "lng": 81.59899139404297,
+    "country_code": "IN",
     "paper_count": 1
   },
   {
@@ -10600,6 +10632,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I4210118448",
+    "name": "Infectious Diseases Research Collaboration",
+    "lat": 0.31628,
+    "lng": 32.58219,
+    "country_code": "UG",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I4210118524",
     "name": "Universit\u00e9 Bourgogne Franche-Comt\u00e9",
     "lat": 47.24878,
@@ -10901,6 +10941,14 @@
     "lat": 59.92570877075195,
     "lng": 30.26790428161621,
     "country_code": "RU",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4210124184",
+    "name": "Heilongjiang Bayi Agricultural University",
+    "lat": 46.58332824707031,
+    "lng": 125.0,
+    "country_code": "CN",
     "paper_count": 1
   },
   {
@@ -12056,6 +12104,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I4210150507",
+    "name": "Centre d\u2019\u00e9tudes des Mondes Russe, Caucasien et Centre-Europ\u00e9en",
+    "lat": 48.85341,
+    "lng": 2.3488,
+    "country_code": "FR",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I4210150597",
     "name": "National Centre for Infectious Diseases",
     "lat": 1.3221030235290527,
@@ -12581,6 +12637,14 @@
     "lat": 41.40364074707031,
     "lng": -81.66424560546875,
     "country_code": "US",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4210161779",
+    "name": "Campbell Collaboration",
+    "lat": 59.9127311706543,
+    "lng": 10.746089935302734,
+    "country_code": "NO",
     "paper_count": 1
   },
   {
@@ -14285,6 +14349,14 @@
     "lat": 51.50852966308594,
     "lng": -0.12574000656604767,
     "country_code": "GB",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I91357014",
+    "name": "Banaras Hindu University",
+    "lat": 25.266632080078125,
+    "lng": 82.99057006835938,
+    "country_code": "IN",
     "paper_count": 1
   },
   {

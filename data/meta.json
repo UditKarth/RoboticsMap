@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-02-27",
-  "total_papers": 719,
-  "total_institutions": 1807,
+  "last_updated": "2026-02-28",
+  "total_papers": 727,
+  "total_institutions": 1816,
   "date_range": {
     "from": "2018-01-01",
     "to": "2026-01-01"
@@ -9,15 +9,15 @@
   "papers_by_country": [
     {
       "country_code": "US",
-      "paper_count": 199
+      "paper_count": 200
     },
     {
       "country_code": "CN",
-      "paper_count": 158
+      "paper_count": 159
     },
     {
       "country_code": "GB",
-      "paper_count": 110
+      "paper_count": 112
     },
     {
       "country_code": "DE",
@@ -25,7 +25,7 @@
     },
     {
       "country_code": "AU",
-      "paper_count": 75
+      "paper_count": 76
     },
     {
       "country_code": "NL",
@@ -36,16 +36,16 @@
       "paper_count": 56
     },
     {
+      "country_code": "FR",
+      "paper_count": 50
+    },
+    {
       "country_code": "IT",
       "paper_count": 49
     },
     {
       "country_code": "CH",
       "paper_count": 49
-    },
-    {
-      "country_code": "FR",
-      "paper_count": 48
     },
     {
       "country_code": "ES",
@@ -65,11 +65,11 @@
     },
     {
       "country_code": "NO",
-      "paper_count": 27
+      "paper_count": 28
     },
     {
       "country_code": "IN",
-      "paper_count": 27
+      "paper_count": 28
     },
     {
       "country_code": "BR",
@@ -112,11 +112,11 @@
       "paper_count": 13
     },
     {
-      "country_code": "NZ",
-      "paper_count": 12
+      "country_code": "IE",
+      "paper_count": 13
     },
     {
-      "country_code": "IE",
+      "country_code": "NZ",
       "paper_count": 12
     },
     {
@@ -252,6 +252,10 @@
       "paper_count": 2
     },
     {
+      "country_code": "UG",
+      "paper_count": 2
+    },
+    {
       "country_code": "SS",
       "paper_count": 2
     },
@@ -322,10 +326,6 @@
     {
       "country_code": "AE",
       "paper_count": 2
-    },
-    {
-      "country_code": "UG",
-      "paper_count": 1
     },
     {
       "country_code": "UA",
