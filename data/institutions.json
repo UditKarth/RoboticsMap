@@ -3840,6 +3840,14 @@
     "paper_count": 2
   },
   {
+    "id": "https://openalex.org/I4210095073",
+    "name": "Sustainability Institute",
+    "lat": -33.93462,
+    "lng": 18.86676,
+    "country_code": "ZA",
+    "paper_count": 2
+  },
+  {
     "id": "https://openalex.org/I4210096386",
     "name": "Bridge University",
     "lat": 4.835000038146973,
@@ -5341,6 +5349,14 @@
     "lat": 52.40692138671875,
     "lng": 16.929929733276367,
     "country_code": "PL",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I121345201",
+    "name": "Instituto de Engenharia de Sistemas e Computadores Investiga\u00e7\u00e3o e Desenvolvimento",
+    "lat": 38.73680877685547,
+    "lng": -9.140382766723633,
+    "country_code": "PT",
     "paper_count": 1
   },
   {
@@ -9621,14 +9637,6 @@
     "lat": 24.68773078918457,
     "lng": 46.72185134887695,
     "country_code": "SA",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I4210095073",
-    "name": "Sustainability Institute",
-    "lat": -33.93462,
-    "lng": 18.86676,
-    "country_code": "ZA",
     "paper_count": 1
   },
   {
