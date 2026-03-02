@@ -1872,6 +1872,14 @@
     "paper_count": 3
   },
   {
+    "id": "https://openalex.org/I123044942",
+    "name": "Universitat Aut\u00f2noma de Barcelona",
+    "lat": 41.4910888671875,
+    "lng": 2.1407899856567383,
+    "country_code": "ES",
+    "paper_count": 3
+  },
+  {
     "id": "https://openalex.org/I125839683",
     "name": "Beijing Institute of Technology",
     "lat": 39.9075,
@@ -2653,14 +2661,6 @@
     "lat": 43.594200134277344,
     "lng": 13.50337028503418,
     "country_code": "IT",
-    "paper_count": 2
-  },
-  {
-    "id": "https://openalex.org/I123044942",
-    "name": "Universitat Aut\u00f2noma de Barcelona",
-    "lat": 41.4910888671875,
-    "lng": 2.1407899856567383,
-    "country_code": "ES",
     "paper_count": 2
   },
   {
@@ -4589,6 +4589,14 @@
     "lat": 21.49012,
     "lng": 39.18624,
     "country_code": "SA",
+    "paper_count": 2
+  },
+  {
+    "id": "https://openalex.org/I71999127",
+    "name": "Universitat de Barcelona",
+    "lat": 41.38879,
+    "lng": 2.15899,
+    "country_code": "ES",
     "paper_count": 2
   },
   {
@@ -13821,14 +13829,6 @@
     "lat": 47.397239685058594,
     "lng": 8.618720054626465,
     "country_code": "CH",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I71999127",
-    "name": "Universitat de Barcelona",
-    "lat": 41.38879,
-    "lng": 2.15899,
-    "country_code": "ES",
     "paper_count": 1
   },
   {
