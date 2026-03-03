@@ -360,6 +360,14 @@
     "paper_count": 8
   },
   {
+    "id": "https://openalex.org/I31746571",
+    "name": "UNSW Sydney",
+    "lat": -33.86785,
+    "lng": 151.20732,
+    "country_code": "AU",
+    "paper_count": 8
+  },
+  {
     "id": "https://openalex.org/I34403800",
     "name": "GEOMAR Helmholtz Centre for Ocean Research Kiel",
     "lat": 54.32133,
@@ -565,14 +573,6 @@
     "lat": 51.33962,
     "lng": 12.37129,
     "country_code": "DE",
-    "paper_count": 7
-  },
-  {
-    "id": "https://openalex.org/I31746571",
-    "name": "UNSW Sydney",
-    "lat": -33.86785,
-    "lng": 151.20732,
-    "country_code": "AU",
     "paper_count": 7
   },
   {
@@ -3152,6 +3152,14 @@
     "paper_count": 2
   },
   {
+    "id": "https://openalex.org/I163340411",
+    "name": "Hohai University",
+    "lat": 32.061668395996094,
+    "lng": 118.77777862548828,
+    "country_code": "CN",
+    "paper_count": 2
+  },
+  {
     "id": "https://openalex.org/I165368041",
     "name": "University of Iceland",
     "lat": 64.13548,
@@ -3917,6 +3925,14 @@
     "lat": 43.61093,
     "lng": 3.87635,
     "country_code": "FR",
+    "paper_count": 2
+  },
+  {
+    "id": "https://openalex.org/I4210106122",
+    "name": "Southern Marine Science and Engineering Guangdong Laboratory (Guangzhou)",
+    "lat": 23.11667,
+    "lng": 113.25,
+    "country_code": "CN",
     "paper_count": 2
   },
   {
@@ -4773,6 +4789,14 @@
     "lat": 23.771400451660156,
     "lng": 90.37539672851562,
     "country_code": "BD",
+    "paper_count": 2
+  },
+  {
+    "id": "https://openalex.org/I90610280",
+    "name": "South China University of Technology",
+    "lat": 23.116670608520508,
+    "lng": 113.25,
+    "country_code": "CN",
     "paper_count": 2
   },
   {
@@ -6829,14 +6853,6 @@
     "lat": 48.30521,
     "lng": 16.32522,
     "country_code": "AT",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I163340411",
-    "name": "Hohai University",
-    "lat": 32.061668395996094,
-    "lng": 118.77777862548828,
-    "country_code": "CN",
     "paper_count": 1
   },
   {
@@ -9824,6 +9840,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I4210099662",
+    "name": "State Key Laboratory of Hydrology-Water Resources and Hydraulic Engineering",
+    "lat": 32.061668395996094,
+    "lng": 118.77777862548828,
+    "country_code": "CN",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I4210100064",
     "name": "Earth Cryosphere Institute",
     "lat": 57.166561126708984,
@@ -10016,6 +10040,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I4210104033",
+    "name": "Guangdong Research Institute of Water Resources and Hydropower",
+    "lat": 23.146207809448242,
+    "lng": 113.32402038574219,
+    "country_code": "CN",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I4210104344",
     "name": "Ningxia Academy of Agriculture and Forestry Sciences",
     "lat": 38.47431945800781,
@@ -10125,14 +10157,6 @@
     "lat": -6.894627094268799,
     "lng": 109.65936279296875,
     "country_code": "ID",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I4210106122",
-    "name": "Southern Marine Science and Engineering Guangdong Laboratory (Guangzhou)",
-    "lat": 23.11667,
-    "lng": 113.25,
-    "country_code": "CN",
     "paper_count": 1
   },
   {
@@ -14333,14 +14357,6 @@
     "lat": 51.50853,
     "lng": -0.12574,
     "country_code": "GB",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I90610280",
-    "name": "South China University of Technology",
-    "lat": 23.116670608520508,
-    "lng": 113.25,
-    "country_code": "CN",
     "paper_count": 1
   },
   {
