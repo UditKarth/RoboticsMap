@@ -5,7 +5,7 @@
     "lat": 48.85341,
     "lng": 2.3488,
     "country_code": "FR",
-    "paper_count": 29
+    "paper_count": 30
   },
   {
     "id": "https://openalex.org/I19820366",
@@ -80,19 +80,19 @@
     "paper_count": 14
   },
   {
-    "id": "https://openalex.org/I40120149",
-    "name": "University of Oxford",
-    "lat": 51.75222,
-    "lng": -1.25596,
-    "country_code": "GB",
-    "paper_count": 13
-  },
-  {
     "id": "https://openalex.org/I4210166444",
     "name": "Institut de Recherche pour le D\u00e9veloppement",
     "lat": 43.29695,
     "lng": 5.38107,
     "country_code": "FR",
+    "paper_count": 14
+  },
+  {
+    "id": "https://openalex.org/I40120149",
+    "name": "University of Oxford",
+    "lat": 51.75222,
+    "lng": -1.25596,
+    "country_code": "GB",
     "paper_count": 13
   },
   {
@@ -1240,6 +1240,14 @@
     "paper_count": 5
   },
   {
+    "id": "https://openalex.org/I86467917",
+    "name": "James Cook University",
+    "lat": -19.26639,
+    "lng": 146.80569,
+    "country_code": "AU",
+    "paper_count": 5
+  },
+  {
     "id": "https://openalex.org/I87216513",
     "name": "Michigan State University",
     "lat": 42.73698,
@@ -1608,6 +1616,14 @@
     "paper_count": 4
   },
   {
+    "id": "https://openalex.org/I3124161356",
+    "name": "University of South Bohemia in \u010cesk\u00e9 Bud\u011bjovice",
+    "lat": 48.97447,
+    "lng": 14.47434,
+    "country_code": "CZ",
+    "paper_count": 4
+  },
+  {
     "id": "https://openalex.org/I33213144",
     "name": "University of Florida",
     "lat": 29.65163,
@@ -1797,14 +1813,6 @@
     "lat": 40.014991760253906,
     "lng": -105.27055358886719,
     "country_code": "US",
-    "paper_count": 4
-  },
-  {
-    "id": "https://openalex.org/I86467917",
-    "name": "James Cook University",
-    "lat": -19.26639,
-    "lng": 146.80569,
-    "country_code": "AU",
     "paper_count": 4
   },
   {
@@ -2237,14 +2245,6 @@
     "lat": 55.67594,
     "lng": 12.56553,
     "country_code": "DK",
-    "paper_count": 3
-  },
-  {
-    "id": "https://openalex.org/I3124161356",
-    "name": "University of South Bohemia in \u010cesk\u00e9 Bud\u011bjovice",
-    "lat": 48.97447,
-    "lng": 14.47434,
-    "country_code": "CZ",
     "paper_count": 3
   },
   {
@@ -2684,6 +2684,14 @@
     "name": "University of Hawai\u02bbi at M\u0101noa",
     "lat": 21.30694007873535,
     "lng": -157.85833740234375,
+    "country_code": "US",
+    "paper_count": 2
+  },
+  {
+    "id": "https://openalex.org/I121980950",
+    "name": "Utah State University",
+    "lat": 41.73548889160156,
+    "lng": -111.83438873291016,
     "country_code": "US",
     "paper_count": 2
   },
@@ -3160,6 +3168,14 @@
     "paper_count": 2
   },
   {
+    "id": "https://openalex.org/I159176309",
+    "name": "Universit\u00e4t Hamburg",
+    "lat": 53.55073,
+    "lng": 9.99302,
+    "country_code": "DE",
+    "paper_count": 2
+  },
+  {
     "id": "https://openalex.org/I159885104",
     "name": "\u00c9cole Pratique des Hautes \u00c9tudes",
     "lat": 48.85341,
@@ -3461,6 +3477,14 @@
     "lat": 34.33332824707031,
     "lng": 134.0500030517578,
     "country_code": "JP",
+    "paper_count": 2
+  },
+  {
+    "id": "https://openalex.org/I202391551",
+    "name": "Czech Academy of Sciences",
+    "lat": 50.08804,
+    "lng": 14.42076,
+    "country_code": "CZ",
     "paper_count": 2
   },
   {
@@ -4160,6 +4184,14 @@
     "paper_count": 2
   },
   {
+    "id": "https://openalex.org/I4210132577",
+    "name": "Laboratoire Dynamique de la Biodiversit\u00e9",
+    "lat": 43.6042594909668,
+    "lng": 1.4436700344085693,
+    "country_code": "FR",
+    "paper_count": 2
+  },
+  {
     "id": "https://openalex.org/I4210132792",
     "name": "Czech Academy of Sciences, Institute of Botany",
     "lat": 49.99961853027344,
@@ -4397,6 +4429,22 @@
     "lat": 47.49209,
     "lng": 11.09576,
     "country_code": "DE",
+    "paper_count": 2
+  },
+  {
+    "id": "https://openalex.org/I4210164289",
+    "name": "G\u00e9osciences Environnement Toulouse",
+    "lat": 43.60426,
+    "lng": 1.44367,
+    "country_code": "FR",
+    "paper_count": 2
+  },
+  {
+    "id": "https://openalex.org/I4210164740",
+    "name": "Czech Academy of Sciences, Biology Centre",
+    "lat": 48.97447,
+    "lng": 14.47434,
+    "country_code": "CZ",
     "paper_count": 2
   },
   {
@@ -5472,14 +5520,6 @@
     "paper_count": 1
   },
   {
-    "id": "https://openalex.org/I121980950",
-    "name": "Utah State University",
-    "lat": 41.73548889160156,
-    "lng": -111.83438873291016,
-    "country_code": "US",
-    "paper_count": 1
-  },
-  {
     "id": "https://openalex.org/I122146667",
     "name": "Prefectural University of Hiroshima",
     "lat": 34.366249084472656,
@@ -5944,6 +5984,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I1313606977",
+    "name": "Museum f\u00fcr Naturkunde",
+    "lat": 52.530555725097656,
+    "lng": 13.379132270812988,
+    "country_code": "DE",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I1314042554",
     "name": "Norwegian Meteorological Institute",
     "lat": 59.9127311706543,
@@ -6245,6 +6293,14 @@
     "lat": 40.71427,
     "lng": -74.00597,
     "country_code": "US",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I134560555",
+    "name": "Universit\u00e9 Toulouse III - Paul Sabatier",
+    "lat": 43.60426,
+    "lng": 1.44367,
+    "country_code": "FR",
     "paper_count": 1
   },
   {
@@ -6765,14 +6821,6 @@
     "lat": 4.399280071258545,
     "lng": 113.99163055419922,
     "country_code": "MY",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I159176309",
-    "name": "Universit\u00e4t Hamburg",
-    "lat": 53.55073,
-    "lng": 9.99302,
-    "country_code": "DE",
     "paper_count": 1
   },
   {
@@ -7877,14 +7925,6 @@
     "lat": 38.26667,
     "lng": 140.86667,
     "country_code": "JP",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I202391551",
-    "name": "Czech Academy of Sciences",
-    "lat": 50.08804,
-    "lng": 14.42076,
-    "country_code": "CZ",
     "paper_count": 1
   },
   {
@@ -11064,6 +11104,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I4210122510",
+    "name": "Institute of Entomology",
+    "lat": 48.97446823120117,
+    "lng": 14.474340438842773,
+    "country_code": "CZ",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I4210122554",
     "name": "M\u00f8reforsking (Norway)",
     "lat": 62.14786148071289,
@@ -11464,14 +11512,6 @@
     "paper_count": 1
   },
   {
-    "id": "https://openalex.org/I4210132577",
-    "name": "Laboratoire Dynamique de la Biodiversit\u00e9",
-    "lat": 43.6042594909668,
-    "lng": 1.4436700344085693,
-    "country_code": "FR",
-    "paper_count": 1
-  },
-  {
     "id": "https://openalex.org/I4210132586",
     "name": "United Nations University Institute for Water, Environment, and Health",
     "lat": 43.256935119628906,
@@ -11756,6 +11796,14 @@
     "name": "Institute of Forest Productivity",
     "lat": 23.358001708984375,
     "lng": 85.24577331542969,
+    "country_code": "IN",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4210136827",
+    "name": "Central Inland Fisheries Research Institute",
+    "lat": 22.766019821166992,
+    "lng": 88.36335754394531,
     "country_code": "IN",
     "paper_count": 1
   },
@@ -12984,27 +13032,11 @@
     "paper_count": 1
   },
   {
-    "id": "https://openalex.org/I4210164289",
-    "name": "G\u00e9osciences Environnement Toulouse",
-    "lat": 43.60426,
-    "lng": 1.44367,
-    "country_code": "FR",
-    "paper_count": 1
-  },
-  {
     "id": "https://openalex.org/I4210164354",
     "name": "Heartfile",
     "lat": 33.6711311340332,
     "lng": 73.14682006835938,
     "country_code": "PK",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I4210164740",
-    "name": "Czech Academy of Sciences, Biology Centre",
-    "lat": 48.97447,
-    "lng": 14.47434,
-    "country_code": "CZ",
     "paper_count": 1
   },
   {
@@ -13069,6 +13101,14 @@
     "lat": 50.0644416809082,
     "lng": 19.93815040588379,
     "country_code": "PL",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4210166499",
+    "name": "Henan Polytechnic University",
+    "lat": 35.23971939086914,
+    "lng": 113.23306274414062,
+    "country_code": "CN",
     "paper_count": 1
   },
   {
@@ -13816,6 +13856,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I63098007",
+    "name": "Liverpool John Moores University",
+    "lat": 53.410579681396484,
+    "lng": -2.977940082550049,
+    "country_code": "GB",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I63190737",
     "name": "University at Buffalo, State University of New York",
     "lat": 42.88645,
@@ -14436,6 +14484,14 @@
     "name": "ENVIRON (United States)",
     "lat": 38.88167190551758,
     "lng": -77.11333465576172,
+    "country_code": "US",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I87552059",
+    "name": "Hood College",
+    "lat": 39.414268493652344,
+    "lng": -77.41053771972656,
     "country_code": "US",
     "paper_count": 1
   },
