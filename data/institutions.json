@@ -288,6 +288,14 @@
     "paper_count": 9
   },
   {
+    "id": "https://openalex.org/I5681781",
+    "name": "The University of Adelaide",
+    "lat": -34.92866,
+    "lng": 138.59863,
+    "country_code": "AU",
+    "paper_count": 9
+  },
+  {
     "id": "https://openalex.org/I92446798",
     "name": "Colorado State University",
     "lat": 40.58526,
@@ -389,14 +397,6 @@
     "lat": 50.92877960205078,
     "lng": 11.589900016784668,
     "country_code": "DE",
-    "paper_count": 8
-  },
-  {
-    "id": "https://openalex.org/I5681781",
-    "name": "The University of Adelaide",
-    "lat": -34.92866,
-    "lng": 138.59863,
-    "country_code": "AU",
     "paper_count": 8
   },
   {
@@ -6909,6 +6909,14 @@
     "lat": 30.720426559448242,
     "lng": 111.31816864013672,
     "country_code": "CN",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I161371597",
+    "name": "Universiti of Malaysia Sabah",
+    "lat": 5.974899768829346,
+    "lng": 116.07240295410156,
+    "country_code": "MY",
     "paper_count": 1
   },
   {
