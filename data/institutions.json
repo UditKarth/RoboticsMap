@@ -2464,6 +2464,14 @@
     "paper_count": 3
   },
   {
+    "id": "https://openalex.org/I4210156332",
+    "name": "Chinese Research Academy of Environmental Sciences",
+    "lat": 39.907501220703125,
+    "lng": 116.39723205566406,
+    "country_code": "CN",
+    "paper_count": 3
+  },
+  {
     "id": "https://openalex.org/I4210163172",
     "name": "Environmental Earth Sciences",
     "lat": -33.81703186035156,
@@ -4413,14 +4421,6 @@
     "lat": 53.55073,
     "lng": 9.99302,
     "country_code": "DE",
-    "paper_count": 2
-  },
-  {
-    "id": "https://openalex.org/I4210156332",
-    "name": "Chinese Research Academy of Environmental Sciences",
-    "lat": 39.907501220703125,
-    "lng": 116.39723205566406,
-    "country_code": "CN",
     "paper_count": 2
   },
   {
@@ -14061,6 +14061,14 @@
     "lat": 28.621370315551758,
     "lng": 77.21479797363281,
     "country_code": "IN",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I68986083",
+    "name": "Northwest Normal University",
+    "lat": 36.057010650634766,
+    "lng": 103.8398666381836,
+    "country_code": "CN",
     "paper_count": 1
   },
   {
