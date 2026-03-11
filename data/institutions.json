@@ -688,6 +688,14 @@
     "paper_count": 6
   },
   {
+    "id": "https://openalex.org/I114027177",
+    "name": "University of North Carolina at Chapel Hill",
+    "lat": 35.9132,
+    "lng": -79.05584,
+    "country_code": "US",
+    "paper_count": 6
+  },
+  {
     "id": "https://openalex.org/I124055696",
     "name": "University of Copenhagen",
     "lat": 55.67594,
@@ -870,14 +878,6 @@
     "lng": -85.48078,
     "country_code": "US",
     "paper_count": 6
-  },
-  {
-    "id": "https://openalex.org/I114027177",
-    "name": "University of North Carolina at Chapel Hill",
-    "lat": 35.9132,
-    "lng": -79.05584,
-    "country_code": "US",
-    "paper_count": 5
   },
   {
     "id": "https://openalex.org/I114457229",
@@ -2072,6 +2072,14 @@
     "paper_count": 3
   },
   {
+    "id": "https://openalex.org/I138006243",
+    "name": "University of Arizona",
+    "lat": 32.22174,
+    "lng": -110.92648,
+    "country_code": "US",
+    "paper_count": 3
+  },
+  {
     "id": "https://openalex.org/I141472210",
     "name": "University of Alaska Fairbanks",
     "lat": 64.83778381347656,
@@ -3000,6 +3008,14 @@
     "paper_count": 2
   },
   {
+    "id": "https://openalex.org/I134386540",
+    "name": "Louisiana State University Agricultural Center",
+    "lat": 30.44331932067871,
+    "lng": -91.18746948242188,
+    "country_code": "US",
+    "paper_count": 2
+  },
+  {
     "id": "https://openalex.org/I1343871089",
     "name": "Los Alamos National Laboratory",
     "lat": 35.88808059692383,
@@ -3060,14 +3076,6 @@
     "name": "North Carolina State University",
     "lat": 35.7721,
     "lng": -78.63861,
-    "country_code": "US",
-    "paper_count": 2
-  },
-  {
-    "id": "https://openalex.org/I138006243",
-    "name": "University of Arizona",
-    "lat": 32.22174,
-    "lng": -110.92648,
     "country_code": "US",
     "paper_count": 2
   },
@@ -4512,6 +4520,14 @@
     "paper_count": 2
   },
   {
+    "id": "https://openalex.org/I4210166460",
+    "name": "Institute of Systematics and Evolution of Animals",
+    "lat": 50.0644416809082,
+    "lng": 19.93815040588379,
+    "country_code": "PL",
+    "paper_count": 2
+  },
+  {
     "id": "https://openalex.org/I4210166801",
     "name": "CABI Switzerland",
     "lat": 47.36492919921875,
@@ -5560,6 +5576,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I121750182",
+    "name": "National Institute of Technology Warangal",
+    "lat": 18.0,
+    "lng": 79.58332824707031,
+    "country_code": "IN",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I121820613",
     "name": "Louisiana State University",
     "lat": 30.44332,
@@ -5669,6 +5693,14 @@
     "lat": 51.52289581298828,
     "lng": -0.11522500216960907,
     "country_code": "GB",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I124601658",
+    "name": "University of Parma",
+    "lat": 44.79935073852539,
+    "lng": 10.326180458068848,
+    "country_code": "IT",
     "paper_count": 1
   },
   {
@@ -6332,14 +6364,6 @@
     "name": "United States Fish and Wildlife Service",
     "lat": 38.89511,
     "lng": -77.03637,
-    "country_code": "US",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I134386540",
-    "name": "Louisiana State University Agricultural Center",
-    "lat": 30.44331932067871,
-    "lng": -91.18746948242188,
     "country_code": "US",
     "paper_count": 1
   },
@@ -7733,6 +7757,14 @@
     "lat": 46.06787109375,
     "lng": 11.12108039855957,
     "country_code": "IT",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I193278943",
+    "name": "Kristianstad University",
+    "lat": 56.031288146972656,
+    "lng": 14.152420043945312,
+    "country_code": "SE",
     "paper_count": 1
   },
   {
@@ -10784,6 +10816,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I4210113975",
+    "name": "Institute of Ecosystem Study",
+    "lat": 45.924015045166016,
+    "lng": 8.548195838928223,
+    "country_code": "IT",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I4210113999",
     "name": "RECETOX",
     "lat": 49.195220947265625,
@@ -11424,6 +11464,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I4210126505",
+    "name": "Amity University",
+    "lat": 25.12328338623047,
+    "lng": 55.41938400268555,
+    "country_code": "AE",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I4210126939",
     "name": "ZheJiang Academy of Agricultural Sciences",
     "lat": 30.293649673461914,
@@ -11557,6 +11605,14 @@
     "lat": 30.255815505981445,
     "lng": 120.16704559326172,
     "country_code": "CN",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4210130743",
+    "name": "Institute for Biomedical Research and Innovation",
+    "lat": 34.028255462646484,
+    "lng": 51.45514678955078,
+    "country_code": "IT",
     "paper_count": 1
   },
   {
@@ -13213,14 +13269,6 @@
     "lat": 54.8499641418457,
     "lng": 83.10347747802734,
     "country_code": "RU",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I4210166460",
-    "name": "Institute of Systematics and Evolution of Animals",
-    "lat": 50.0644416809082,
-    "lng": 19.93815040588379,
-    "country_code": "PL",
     "paper_count": 1
   },
   {

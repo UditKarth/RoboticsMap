@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-03-10",
-  "total_papers": 761,
-  "total_institutions": 1866,
+  "last_updated": "2026-03-11",
+  "total_papers": 764,
+  "total_institutions": 1872,
   "date_range": {
     "from": "2018-01-01",
     "to": "2026-01-01"
@@ -9,7 +9,7 @@
   "papers_by_country": [
     {
       "country_code": "US",
-      "paper_count": 203
+      "paper_count": 204
     },
     {
       "country_code": "CN",
@@ -40,12 +40,12 @@
       "paper_count": 56
     },
     {
-      "country_code": "CH",
+      "country_code": "IT",
       "paper_count": 51
     },
     {
-      "country_code": "IT",
-      "paper_count": 50
+      "country_code": "CH",
+      "paper_count": 51
     },
     {
       "country_code": "ES",
@@ -57,18 +57,18 @@
     },
     {
       "country_code": "SE",
-      "paper_count": 39
+      "paper_count": 40
     },
     {
       "country_code": "BE",
       "paper_count": 31
     },
     {
-      "country_code": "NO",
-      "paper_count": 29
+      "country_code": "IN",
+      "paper_count": 30
     },
     {
-      "country_code": "IN",
+      "country_code": "NO",
       "paper_count": 29
     },
     {
@@ -128,16 +128,16 @@
       "paper_count": 12
     },
     {
+      "country_code": "PL",
+      "paper_count": 11
+    },
+    {
       "country_code": "PK",
       "paper_count": 11
     },
     {
       "country_code": "IR",
       "paper_count": 11
-    },
-    {
-      "country_code": "PL",
-      "paper_count": 10
     },
     {
       "country_code": "BD",
@@ -244,6 +244,10 @@
       "paper_count": 3
     },
     {
+      "country_code": "AE",
+      "paper_count": 3
+    },
+    {
       "country_code": "VE",
       "paper_count": 2
     },
@@ -325,10 +329,6 @@
     },
     {
       "country_code": "AL",
-      "paper_count": 2
-    },
-    {
-      "country_code": "AE",
       "paper_count": 2
     },
     {
