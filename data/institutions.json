@@ -624,6 +624,14 @@
     "paper_count": 7
   },
   {
+    "id": "https://openalex.org/I5023651",
+    "name": "McGill University",
+    "lat": 45.50884,
+    "lng": -73.58781,
+    "country_code": "CA",
+    "paper_count": 7
+  },
+  {
     "id": "https://openalex.org/I63525965",
     "name": "Western Sydney University",
     "lat": -33.59955978393555,
@@ -821,14 +829,6 @@
     "lat": 1.465499997138977,
     "lng": 103.75779724121094,
     "country_code": "MY",
-    "paper_count": 6
-  },
-  {
-    "id": "https://openalex.org/I5023651",
-    "name": "McGill University",
-    "lat": 45.50884,
-    "lng": -73.58781,
-    "country_code": "CA",
     "paper_count": 6
   },
   {
@@ -3165,6 +3165,14 @@
     "lat": 39.91986846923828,
     "lng": 32.854270935058594,
     "country_code": "TR",
+    "paper_count": 2
+  },
+  {
+    "id": "https://openalex.org/I150807315",
+    "name": "Guangxi University",
+    "lat": 22.816669464111328,
+    "lng": 108.3166732788086,
+    "country_code": "CN",
     "paper_count": 2
   },
   {
@@ -6704,14 +6712,6 @@
     "paper_count": 1
   },
   {
-    "id": "https://openalex.org/I150807315",
-    "name": "Guangxi University",
-    "lat": 22.816669464111328,
-    "lng": 108.3166732788086,
-    "country_code": "CN",
-    "paper_count": 1
-  },
-  {
     "id": "https://openalex.org/I151075929",
     "name": "Army Medical University",
     "lat": 29.560260772705078,
@@ -9093,6 +9093,14 @@
     "lat": 43.073360443115234,
     "lng": -89.40813446044922,
     "country_code": "US",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I29739308",
+    "name": "Guangxi Normal University",
+    "lat": 25.28022003173828,
+    "lng": 110.29638671875,
+    "country_code": "CN",
     "paper_count": 1
   },
   {
@@ -13500,6 +13508,14 @@
     "name": "State Key Laboratory of Supramolecular Structure and Materials",
     "lat": 43.880001068115234,
     "lng": 125.3227767944336,
+    "country_code": "",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4391768241",
+    "name": "State Key Laboratory For Conservation and Utilization of Subtropical Agro-Bioresources",
+    "lat": 22.816669464111328,
+    "lng": 108.3166732788086,
     "country_code": "",
     "paper_count": 1
   },

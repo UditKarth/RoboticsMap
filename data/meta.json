@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-03-11",
-  "total_papers": 764,
-  "total_institutions": 1872,
+  "last_updated": "2026-03-12",
+  "total_papers": 766,
+  "total_institutions": 1874,
   "date_range": {
     "from": "2018-01-01",
     "to": "2026-01-01"
@@ -13,7 +13,7 @@
     },
     {
       "country_code": "CN",
-      "paper_count": 168
+      "paper_count": 169
     },
     {
       "country_code": "GB",
@@ -33,7 +33,7 @@
     },
     {
       "country_code": "CA",
-      "paper_count": 57
+      "paper_count": 58
     },
     {
       "country_code": "FR",
