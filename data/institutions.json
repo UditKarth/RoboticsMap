@@ -5,7 +5,7 @@
     "lat": 48.85341,
     "lng": 2.3488,
     "country_code": "FR",
-    "paper_count": 31
+    "paper_count": 32
   },
   {
     "id": "https://openalex.org/I19820366",
@@ -72,6 +72,14 @@
     "paper_count": 15
   },
   {
+    "id": "https://openalex.org/I40120149",
+    "name": "University of Oxford",
+    "lat": 51.75222,
+    "lng": -1.25596,
+    "country_code": "GB",
+    "paper_count": 14
+  },
+  {
     "id": "https://openalex.org/I4210088668",
     "name": "Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement",
     "lat": 48.85341,
@@ -96,10 +104,10 @@
     "paper_count": 13
   },
   {
-    "id": "https://openalex.org/I40120149",
-    "name": "University of Oxford",
-    "lat": 51.75222,
-    "lng": -1.25596,
+    "id": "https://openalex.org/I47508984",
+    "name": "Imperial College London",
+    "lat": 51.50853,
+    "lng": -0.12574,
     "country_code": "GB",
     "paper_count": 13
   },
@@ -141,14 +149,6 @@
     "lat": 39.9075,
     "lng": 116.39723,
     "country_code": "CN",
-    "paper_count": 12
-  },
-  {
-    "id": "https://openalex.org/I47508984",
-    "name": "Imperial College London",
-    "lat": 51.50853,
-    "lng": -0.12574,
-    "country_code": "GB",
     "paper_count": 12
   },
   {
@@ -744,6 +744,14 @@
     "paper_count": 6
   },
   {
+    "id": "https://openalex.org/I195460627",
+    "name": "University of Aberdeen",
+    "lat": 57.1436882019043,
+    "lng": -2.098140001296997,
+    "country_code": "GB",
+    "paper_count": 6
+  },
+  {
     "id": "https://openalex.org/I200202764",
     "name": "National Institute for Environmental Studies",
     "lat": 36.050418853759766,
@@ -1000,14 +1008,6 @@
     "paper_count": 5
   },
   {
-    "id": "https://openalex.org/I195460627",
-    "name": "University of Aberdeen",
-    "lat": 57.1436882019043,
-    "lng": -2.098140001296997,
-    "country_code": "GB",
-    "paper_count": 5
-  },
-  {
     "id": "https://openalex.org/I197251160",
     "name": "Hebrew University of Jerusalem",
     "lat": 31.76904,
@@ -1133,6 +1133,14 @@
     "lat": 39.907501220703125,
     "lng": 116.39723205566406,
     "country_code": "CN",
+    "paper_count": 5
+  },
+  {
+    "id": "https://openalex.org/I45129253",
+    "name": "University College London",
+    "lat": 51.50853,
+    "lng": -0.12574,
+    "country_code": "GB",
     "paper_count": 5
   },
   {
@@ -1480,6 +1488,14 @@
     "paper_count": 4
   },
   {
+    "id": "https://openalex.org/I161318765",
+    "name": "University of California, Los Angeles",
+    "lat": 34.05223,
+    "lng": -118.24368,
+    "country_code": "US",
+    "paper_count": 4
+  },
+  {
     "id": "https://openalex.org/I162148367",
     "name": "Pontificia Universidad Cat\u00f3lica de Chile",
     "lat": -33.45694,
@@ -1765,14 +1781,6 @@
     "lat": 60.39299,
     "lng": 5.32415,
     "country_code": "NO",
-    "paper_count": 4
-  },
-  {
-    "id": "https://openalex.org/I45129253",
-    "name": "University College London",
-    "lat": 51.50853,
-    "lng": -0.12574,
-    "country_code": "GB",
     "paper_count": 4
   },
   {
@@ -2157,14 +2165,6 @@
     "lat": -27.46794,
     "lng": 153.02809,
     "country_code": "AU",
-    "paper_count": 3
-  },
-  {
-    "id": "https://openalex.org/I161318765",
-    "name": "University of California, Los Angeles",
-    "lat": 34.05223,
-    "lng": -118.24368,
-    "country_code": "US",
     "paper_count": 3
   },
   {
@@ -3432,6 +3432,14 @@
     "paper_count": 2
   },
   {
+    "id": "https://openalex.org/I189712700",
+    "name": "University of Konstanz",
+    "lat": 47.66033172607422,
+    "lng": 9.175820350646973,
+    "country_code": "DE",
+    "paper_count": 2
+  },
+  {
     "id": "https://openalex.org/I190249584",
     "name": "Universit\u00e4t Innsbruck",
     "lat": 47.26266,
@@ -4045,6 +4053,14 @@
     "lat": 32.061668395996094,
     "lng": 118.77777862548828,
     "country_code": "CN",
+    "paper_count": 2
+  },
+  {
+    "id": "https://openalex.org/I4210104630",
+    "name": "Laboratoire Chrono-Environnement",
+    "lat": 47.24878,
+    "lng": 6.01815,
+    "country_code": "FR",
     "paper_count": 2
   },
   {
@@ -5405,6 +5421,14 @@
     "lat": 38.90903854370117,
     "lng": -77.04010772705078,
     "country_code": "US",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I115304662",
+    "name": "Universitat de Vic - Universitat Central de Catalunya",
+    "lat": 41.930118560791016,
+    "lng": 2.2548599243164062,
+    "country_code": "ES",
     "paper_count": 1
   },
   {
@@ -7408,6 +7432,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I178764607",
+    "name": "Kanchanaburi Rajabhat University",
+    "lat": 14.05919075012207,
+    "lng": 99.4254379272461,
+    "country_code": "TH",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I179225836",
     "name": "University of Augsburg",
     "lat": 48.37154,
@@ -7584,6 +7616,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I185103710",
+    "name": "University of California, Santa Cruz",
+    "lat": 36.97412109375,
+    "lng": -122.03079986572266,
+    "country_code": "US",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I186246823",
     "name": "University of Lucknow",
     "lat": 26.83928,
@@ -7637,14 +7677,6 @@
     "lat": 40.482051849365234,
     "lng": -3.3599600791931152,
     "country_code": "ES",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I189712700",
-    "name": "University of Konstanz",
-    "lat": 47.66033172607422,
-    "lng": 9.175820350646973,
-    "country_code": "DE",
     "paper_count": 1
   },
   {
@@ -8421,6 +8453,14 @@
     "lat": 55.95206069946289,
     "lng": -3.1964800357818604,
     "country_code": "GB",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I25399158",
+    "name": "Mahidol University",
+    "lat": 13.75398,
+    "lng": 100.50144,
+    "country_code": "TH",
     "paper_count": 1
   },
   {
@@ -9424,6 +9464,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I37796252",
+    "name": "Beijing University of Technology",
+    "lat": 39.907501220703125,
+    "lng": 116.39723205566406,
+    "country_code": "CN",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I38192578",
     "name": "Pandit Ravishankar Shukla University",
     "lat": 21.246639251708984,
@@ -10384,14 +10432,6 @@
     "paper_count": 1
   },
   {
-    "id": "https://openalex.org/I4210104630",
-    "name": "Laboratoire Chrono-Environnement",
-    "lat": 47.24878,
-    "lng": 6.01815,
-    "country_code": "FR",
-    "paper_count": 1
-  },
-  {
     "id": "https://openalex.org/I4210104744",
     "name": "Institute of Environmental Engineering",
     "lat": 50.316314697265625,
@@ -10701,6 +10741,14 @@
     "lat": 35.216365814208984,
     "lng": -111.63374328613281,
     "country_code": "US",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4210111059",
+    "name": "Hospital General de Granollers",
+    "lat": 41.613826751708984,
+    "lng": 2.295727014541626,
+    "country_code": "ES",
     "paper_count": 1
   },
   {
@@ -13565,6 +13613,14 @@
     "lat": 36.73225021362305,
     "lng": 3.0874600410461426,
     "country_code": "",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4405256580",
+    "name": "Universit\u00e9 Marie et Louis Pasteur",
+    "lat": 47.24878,
+    "lng": 6.01815,
+    "country_code": "FR",
     "paper_count": 1
   },
   {
