@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-03-14",
-  "total_papers": 784,
-  "total_institutions": 1903,
+  "last_updated": "2026-03-15",
+  "total_papers": 796,
+  "total_institutions": 1922,
   "date_range": {
     "from": "2018-01-01",
     "to": "2026-01-01"
@@ -9,19 +9,19 @@
   "papers_by_country": [
     {
       "country_code": "US",
-      "paper_count": 208
+      "paper_count": 214
     },
     {
       "country_code": "CN",
-      "paper_count": 173
+      "paper_count": 178
     },
     {
       "country_code": "GB",
-      "paper_count": 115
+      "paper_count": 117
     },
     {
       "country_code": "DE",
-      "paper_count": 94
+      "paper_count": 96
     },
     {
       "country_code": "AU",
@@ -49,7 +49,7 @@
     },
     {
       "country_code": "ES",
-      "paper_count": 46
+      "paper_count": 47
     },
     {
       "country_code": "SE",
@@ -68,11 +68,11 @@
       "paper_count": 30
     },
     {
-      "country_code": "NO",
-      "paper_count": 29
+      "country_code": "BR",
+      "paper_count": 30
     },
     {
-      "country_code": "BR",
+      "country_code": "NO",
       "paper_count": 29
     },
     {
@@ -136,16 +136,16 @@
       "paper_count": 11
     },
     {
+      "country_code": "MX",
+      "paper_count": 11
+    },
+    {
       "country_code": "IR",
       "paper_count": 11
     },
     {
       "country_code": "BD",
       "paper_count": 11
-    },
-    {
-      "country_code": "MX",
-      "paper_count": 10
     },
     {
       "country_code": "IL",
@@ -172,6 +172,10 @@
       "paper_count": 6
     },
     {
+      "country_code": "SG",
+      "paper_count": 6
+    },
+    {
       "country_code": "EE",
       "paper_count": 6
     },
@@ -184,11 +188,11 @@
       "paper_count": 5
     },
     {
-      "country_code": "SG",
+      "country_code": "PE",
       "paper_count": 5
     },
     {
-      "country_code": "PE",
+      "country_code": "PA",
       "paper_count": 5
     },
     {
@@ -229,10 +233,6 @@
     },
     {
       "country_code": "PH",
-      "paper_count": 3
-    },
-    {
-      "country_code": "PA",
       "paper_count": 3
     },
     {
