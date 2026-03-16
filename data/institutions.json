@@ -104,6 +104,14 @@
     "paper_count": 14
   },
   {
+    "id": "https://openalex.org/I99065089",
+    "name": "Tsinghua University",
+    "lat": 39.9075,
+    "lng": 116.39723,
+    "country_code": "CN",
+    "paper_count": 14
+  },
+  {
     "id": "https://openalex.org/I4210165038",
     "name": "University of Chinese Academy of Sciences",
     "lat": 39.9075,
@@ -117,14 +125,6 @@
     "lat": 51.50853,
     "lng": -0.12574,
     "country_code": "GB",
-    "paper_count": 13
-  },
-  {
-    "id": "https://openalex.org/I99065089",
-    "name": "Tsinghua University",
-    "lat": 39.9075,
-    "lng": 116.39723,
-    "country_code": "CN",
     "paper_count": 13
   },
   {
@@ -190,6 +190,14 @@
     "lng": 13.193209648132324,
     "country_code": "SE",
     "paper_count": 11
+  },
+  {
+    "id": "https://openalex.org/I165779595",
+    "name": "The University of Melbourne",
+    "lat": -37.814,
+    "lng": 144.96332,
+    "country_code": "AU",
+    "paper_count": 10
   },
   {
     "id": "https://openalex.org/I17974374",
@@ -285,14 +293,6 @@
     "lat": 49.24966,
     "lng": -123.11934,
     "country_code": "CA",
-    "paper_count": 9
-  },
-  {
-    "id": "https://openalex.org/I165779595",
-    "name": "The University of Melbourne",
-    "lat": -37.814,
-    "lng": 144.96332,
-    "country_code": "AU",
     "paper_count": 9
   },
   {
@@ -432,11 +432,27 @@
     "paper_count": 8
   },
   {
+    "id": "https://openalex.org/I5023651",
+    "name": "McGill University",
+    "lat": 45.50884,
+    "lng": -73.58781,
+    "country_code": "CA",
+    "paper_count": 8
+  },
+  {
     "id": "https://openalex.org/I60200437",
     "name": "Potsdam Institute for Climate Impact Research",
     "lat": 52.381282806396484,
     "lng": 13.064151763916016,
     "country_code": "DE",
+    "paper_count": 8
+  },
+  {
+    "id": "https://openalex.org/I63525965",
+    "name": "Western Sydney University",
+    "lat": -33.59955978393555,
+    "lng": 150.7514190673828,
+    "country_code": "AU",
     "paper_count": 8
   },
   {
@@ -640,22 +656,6 @@
     "paper_count": 7
   },
   {
-    "id": "https://openalex.org/I5023651",
-    "name": "McGill University",
-    "lat": 45.50884,
-    "lng": -73.58781,
-    "country_code": "CA",
-    "paper_count": 7
-  },
-  {
-    "id": "https://openalex.org/I63525965",
-    "name": "Western Sydney University",
-    "lat": -33.59955978393555,
-    "lng": 150.7514190673828,
-    "country_code": "AU",
-    "paper_count": 7
-  },
-  {
     "id": "https://openalex.org/I74801974",
     "name": "The University of Tokyo",
     "lat": 35.68949890136719,
@@ -717,6 +717,14 @@
     "lat": 35.9132,
     "lng": -79.05584,
     "country_code": "US",
+    "paper_count": 6
+  },
+  {
+    "id": "https://openalex.org/I119454577",
+    "name": "Nanjing Agricultural University",
+    "lat": 32.061668395996094,
+    "lng": 118.77777862548828,
+    "country_code": "CN",
     "paper_count": 6
   },
   {
@@ -917,14 +925,6 @@
     "lat": 46.20222,
     "lng": 6.14569,
     "country_code": "CH",
-    "paper_count": 5
-  },
-  {
-    "id": "https://openalex.org/I119454577",
-    "name": "Nanjing Agricultural University",
-    "lat": 32.061668395996094,
-    "lng": 118.77777862548828,
-    "country_code": "CN",
     "paper_count": 5
   },
   {
@@ -2524,6 +2524,14 @@
     "name": "Center for Excellence in Tibetan Plateau Earth Sciences",
     "lat": 40.005496978759766,
     "lng": 116.37577056884766,
+    "country_code": "CN",
+    "paper_count": 3
+  },
+  {
+    "id": "https://openalex.org/I4210149102",
+    "name": "Sanya University",
+    "lat": 18.32860565185547,
+    "lng": 109.55880737304688,
     "country_code": "CN",
     "paper_count": 3
   },
@@ -4360,6 +4368,14 @@
     "paper_count": 2
   },
   {
+    "id": "https://openalex.org/I4210131560",
+    "name": "Universit\u00e9 Mohammed VI Polytechnique",
+    "lat": 31.634159088134766,
+    "lng": -7.999939918518066,
+    "country_code": "MA",
+    "paper_count": 2
+  },
+  {
     "id": "https://openalex.org/I4210132279",
     "name": "Presidency University",
     "lat": 23.796411514282227,
@@ -4509,14 +4525,6 @@
     "lat": 31.41554069519043,
     "lng": 73.08969116210938,
     "country_code": "PK",
-    "paper_count": 2
-  },
-  {
-    "id": "https://openalex.org/I4210149102",
-    "name": "Sanya University",
-    "lat": 18.32860565185547,
-    "lng": 109.55880737304688,
-    "country_code": "CN",
     "paper_count": 2
   },
   {
@@ -7752,6 +7760,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I183519381",
+    "name": "Capital Medical University",
+    "lat": 39.9075,
+    "lng": 116.39723,
+    "country_code": "CN",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I183638586",
     "name": "Parthenope University of Naples",
     "lat": 40.8521614074707,
@@ -8653,6 +8669,14 @@
     "lat": 55.95206069946289,
     "lng": -3.1964800357818604,
     "country_code": "GB",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I25355098",
+    "name": "Chang'an University",
+    "lat": 34.258331298828125,
+    "lng": 108.9286117553711,
+    "country_code": "CN",
     "paper_count": 1
   },
   {
@@ -11976,14 +12000,6 @@
     "paper_count": 1
   },
   {
-    "id": "https://openalex.org/I4210131560",
-    "name": "Universit\u00e9 Mohammed VI Polytechnique",
-    "lat": 31.634159088134766,
-    "lng": -7.999939918518066,
-    "country_code": "MA",
-    "paper_count": 1
-  },
-  {
     "id": "https://openalex.org/I4210131804",
     "name": "National Taiwan University Hospital",
     "lat": 25.042715072631836,
@@ -13128,6 +13144,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I4210154593",
+    "name": "Beijing Shijitan Hospital",
+    "lat": 39.907501220703125,
+    "lng": 116.39723205566406,
+    "country_code": "CN",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I4210154894",
     "name": "Centro de Investigaci\u00f3n Biom\u00e9dica en Red de Epidemiolog\u00eda y Salud P\u00fablica",
     "lat": 41.386009216308594,
@@ -13349,6 +13373,14 @@
     "lat": -31.984180450439453,
     "lng": 115.81603240966797,
     "country_code": "AU",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4210159340",
+    "name": "The Synergetic Innovation Center for Advanced Materials",
+    "lat": 32.07342529296875,
+    "lng": 118.76742553710938,
+    "country_code": "CN",
     "paper_count": 1
   },
   {
