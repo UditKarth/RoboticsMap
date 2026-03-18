@@ -13,7 +13,7 @@
     "lat": 39.9075,
     "lng": 116.39723,
     "country_code": "CN",
-    "paper_count": 31
+    "paper_count": 32
   },
   {
     "id": "https://openalex.org/I913481162",
@@ -72,6 +72,14 @@
     "paper_count": 15
   },
   {
+    "id": "https://openalex.org/I4210088668",
+    "name": "Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement",
+    "lat": 48.85341,
+    "lng": 2.3488,
+    "country_code": "FR",
+    "paper_count": 15
+  },
+  {
     "id": "https://openalex.org/I25254941",
     "name": "Beijing Normal University",
     "lat": 39.9075,
@@ -88,11 +96,11 @@
     "paper_count": 14
   },
   {
-    "id": "https://openalex.org/I4210088668",
-    "name": "Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement",
-    "lat": 48.85341,
-    "lng": 2.3488,
-    "country_code": "FR",
+    "id": "https://openalex.org/I4210165038",
+    "name": "University of Chinese Academy of Sciences",
+    "lat": 39.9075,
+    "lng": 116.39723,
+    "country_code": "CN",
     "paper_count": 14
   },
   {
@@ -110,14 +118,6 @@
     "lng": 116.39723,
     "country_code": "CN",
     "paper_count": 14
-  },
-  {
-    "id": "https://openalex.org/I4210165038",
-    "name": "University of Chinese Academy of Sciences",
-    "lat": 39.9075,
-    "lng": 116.39723,
-    "country_code": "CN",
-    "paper_count": 13
   },
   {
     "id": "https://openalex.org/I47508984",
@@ -152,6 +152,14 @@
     "paper_count": 12
   },
   {
+    "id": "https://openalex.org/I187531555",
+    "name": "Lund University",
+    "lat": 55.705841064453125,
+    "lng": 13.193209648132324,
+    "country_code": "SE",
+    "paper_count": 12
+  },
+  {
     "id": "https://openalex.org/I20231570",
     "name": "Peking University",
     "lat": 39.907501220703125,
@@ -181,14 +189,6 @@
     "lat": 39.00455093383789,
     "lng": -76.87552642822266,
     "country_code": "US",
-    "paper_count": 11
-  },
-  {
-    "id": "https://openalex.org/I187531555",
-    "name": "Lund University",
-    "lat": 55.705841064453125,
-    "lng": 13.193209648132324,
-    "country_code": "SE",
     "paper_count": 11
   },
   {
@@ -301,6 +301,14 @@
     "lat": 48.85341,
     "lng": 2.3488,
     "country_code": "FR",
+    "paper_count": 9
+  },
+  {
+    "id": "https://openalex.org/I4210154168",
+    "name": "Max Planck Institute for Biogeochemistry",
+    "lat": 50.92877960205078,
+    "lng": 11.589900016784668,
+    "country_code": "DE",
     "paper_count": 9
   },
   {
@@ -424,11 +432,11 @@
     "paper_count": 8
   },
   {
-    "id": "https://openalex.org/I4210154168",
-    "name": "Max Planck Institute for Biogeochemistry",
-    "lat": 50.92877960205078,
-    "lng": 11.589900016784668,
-    "country_code": "DE",
+    "id": "https://openalex.org/I4210138501",
+    "name": "Chinese Academy of Agricultural Sciences",
+    "lat": 39.907501220703125,
+    "lng": 116.39723205566406,
+    "country_code": "CN",
     "paper_count": 8
   },
   {
@@ -616,6 +624,14 @@
     "paper_count": 7
   },
   {
+    "id": "https://openalex.org/I32597200",
+    "name": "Ghent University",
+    "lat": 51.05,
+    "lng": 3.71667,
+    "country_code": "BE",
+    "paper_count": 7
+  },
+  {
     "id": "https://openalex.org/I39343248",
     "name": "Humboldt-Universit\u00e4t zu Berlin",
     "lat": 52.52436828613281,
@@ -661,6 +677,14 @@
     "lat": 35.68949890136719,
     "lng": 139.69171142578125,
     "country_code": "JP",
+    "paper_count": 7
+  },
+  {
+    "id": "https://openalex.org/I79619799",
+    "name": "University of Birmingham",
+    "lat": 52.48142,
+    "lng": -1.89983,
+    "country_code": "GB",
     "paper_count": 7
   },
   {
@@ -792,11 +816,11 @@
     "paper_count": 6
   },
   {
-    "id": "https://openalex.org/I32597200",
-    "name": "Ghent University",
-    "lat": 51.05,
-    "lng": 3.71667,
-    "country_code": "BE",
+    "id": "https://openalex.org/I33213144",
+    "name": "University of Florida",
+    "lat": 29.65163,
+    "lng": -82.32483,
+    "country_code": "US",
     "paper_count": 6
   },
   {
@@ -821,14 +845,6 @@
     "lat": 43.60426,
     "lng": 1.44367,
     "country_code": "FR",
-    "paper_count": 6
-  },
-  {
-    "id": "https://openalex.org/I4210138501",
-    "name": "Chinese Academy of Agricultural Sciences",
-    "lat": 39.907501220703125,
-    "lng": 116.39723205566406,
-    "country_code": "CN",
     "paper_count": 6
   },
   {
@@ -877,14 +893,6 @@
     "lat": 52.52437,
     "lng": 13.41053,
     "country_code": "DE",
-    "paper_count": 6
-  },
-  {
-    "id": "https://openalex.org/I79619799",
-    "name": "University of Birmingham",
-    "lat": 52.48142,
-    "lng": -1.89983,
-    "country_code": "GB",
     "paper_count": 6
   },
   {
@@ -1124,14 +1132,6 @@
     "name": "Yale University",
     "lat": 41.30815,
     "lng": -72.92816,
-    "country_code": "US",
-    "paper_count": 5
-  },
-  {
-    "id": "https://openalex.org/I33213144",
-    "name": "University of Florida",
-    "lat": 29.65163,
-    "lng": -82.32483,
     "country_code": "US",
     "paper_count": 5
   },
@@ -1400,6 +1400,14 @@
     "paper_count": 4
   },
   {
+    "id": "https://openalex.org/I122140584",
+    "name": "Universidade Federal do Rio de Janeiro",
+    "lat": -22.90641975402832,
+    "lng": -43.18223190307617,
+    "country_code": "BR",
+    "paper_count": 4
+  },
+  {
     "id": "https://openalex.org/I123387679",
     "name": "Uppsala University",
     "lat": 59.85882,
@@ -1573,6 +1581,14 @@
     "lat": 43.32686,
     "lng": -2.98884,
     "country_code": "ES",
+    "paper_count": 4
+  },
+  {
+    "id": "https://openalex.org/I178232147",
+    "name": "Guizhou University",
+    "lat": 26.420438766479492,
+    "lng": 106.67110443115234,
+    "country_code": "CN",
     "paper_count": 4
   },
   {
@@ -1952,14 +1968,6 @@
     "paper_count": 3
   },
   {
-    "id": "https://openalex.org/I122140584",
-    "name": "Universidade Federal do Rio de Janeiro",
-    "lat": -22.90641975402832,
-    "lng": -43.18223190307617,
-    "country_code": "BR",
-    "paper_count": 3
-  },
-  {
     "id": "https://openalex.org/I122411786",
     "name": "California Institute of Technology",
     "lat": 34.14778,
@@ -2096,6 +2104,14 @@
     "paper_count": 3
   },
   {
+    "id": "https://openalex.org/I135598925",
+    "name": "Kyushu University",
+    "lat": 33.599998474121094,
+    "lng": 130.4166717529297,
+    "country_code": "JP",
+    "paper_count": 3
+  },
+  {
     "id": "https://openalex.org/I138006243",
     "name": "University of Arizona",
     "lat": 32.22174,
@@ -2229,14 +2245,6 @@
     "lat": -34.92866,
     "lng": 138.59863,
     "country_code": "AU",
-    "paper_count": 3
-  },
-  {
-    "id": "https://openalex.org/I178232147",
-    "name": "Guizhou University",
-    "lat": 26.420438766479492,
-    "lng": 106.67110443115234,
-    "country_code": "CN",
     "paper_count": 3
   },
   {
@@ -2381,6 +2389,14 @@
     "lat": 43.60426,
     "lng": 1.44367,
     "country_code": "FR",
+    "paper_count": 3
+  },
+  {
+    "id": "https://openalex.org/I4210097978",
+    "name": "Institute of Plant Protection",
+    "lat": 39.907501220703125,
+    "lng": 116.39723205566406,
+    "country_code": "CN",
     "paper_count": 3
   },
   {
@@ -2544,6 +2560,14 @@
     "paper_count": 3
   },
   {
+    "id": "https://openalex.org/I4210151987",
+    "name": "Ministry of Agriculture and Rural Affairs",
+    "lat": 39.9075,
+    "lng": 116.39723,
+    "country_code": "CN",
+    "paper_count": 3
+  },
+  {
     "id": "https://openalex.org/I4210152006",
     "name": "Jilin Agricultural University",
     "lat": 43.880001068115234,
@@ -2637,6 +2661,14 @@
     "lat": 40.714271545410156,
     "lng": -74.00596618652344,
     "country_code": "US",
+    "paper_count": 3
+  },
+  {
+    "id": "https://openalex.org/I59270414",
+    "name": "Indian Institute of Science Bangalore",
+    "lat": 13.02127456665039,
+    "lng": 77.56576538085938,
+    "country_code": "IN",
     "paper_count": 3
   },
   {
@@ -3136,14 +3168,6 @@
     "paper_count": 2
   },
   {
-    "id": "https://openalex.org/I135598925",
-    "name": "Kyushu University",
-    "lat": 33.599998474121094,
-    "lng": 130.4166717529297,
-    "country_code": "JP",
-    "paper_count": 2
-  },
-  {
     "id": "https://openalex.org/I136774965",
     "name": "Chatham House",
     "lat": 51.50852966308594,
@@ -3272,6 +3296,14 @@
     "paper_count": 2
   },
   {
+    "id": "https://openalex.org/I154099455",
+    "name": "Shandong University",
+    "lat": 36.66833,
+    "lng": 116.99722,
+    "country_code": "CN",
+    "paper_count": 2
+  },
+  {
     "id": "https://openalex.org/I154338468",
     "name": "University of Fribourg",
     "lat": 46.80237,
@@ -3292,6 +3324,14 @@
     "name": "University of Idaho",
     "lat": 46.732391357421875,
     "lng": -117.00016784667969,
+    "country_code": "US",
+    "paper_count": 2
+  },
+  {
+    "id": "https://openalex.org/I156087764",
+    "name": "University of California, Merced",
+    "lat": 37.30215835571289,
+    "lng": -120.48297119140625,
     "country_code": "US",
     "paper_count": 2
   },
@@ -3528,6 +3568,14 @@
     "paper_count": 2
   },
   {
+    "id": "https://openalex.org/I193181351",
+    "name": "Universidad de Guadalajara",
+    "lat": 20.66682,
+    "lng": -103.39182,
+    "country_code": "MX",
+    "paper_count": 2
+  },
+  {
     "id": "https://openalex.org/I193775966",
     "name": "Yonsei University",
     "lat": 37.566,
@@ -3581,6 +3629,14 @@
     "lat": 43.61093,
     "lng": 3.87635,
     "country_code": "FR",
+    "paper_count": 2
+  },
+  {
+    "id": "https://openalex.org/I199691007",
+    "name": "Brazilian Agricultural Research Corporation",
+    "lat": -15.71048641204834,
+    "lng": -47.90955352783203,
+    "country_code": "BR",
     "paper_count": 2
   },
   {
@@ -4120,14 +4176,6 @@
     "paper_count": 2
   },
   {
-    "id": "https://openalex.org/I4210097978",
-    "name": "Institute of Plant Protection",
-    "lat": 39.907501220703125,
-    "lng": 116.39723205566406,
-    "country_code": "CN",
-    "paper_count": 2
-  },
-  {
     "id": "https://openalex.org/I4210098112",
     "name": "Institute of Ecology and Biodiversity",
     "lat": -33.456939697265625,
@@ -4560,14 +4608,6 @@
     "paper_count": 2
   },
   {
-    "id": "https://openalex.org/I4210151987",
-    "name": "Ministry of Agriculture and Rural Affairs",
-    "lat": 39.9075,
-    "lng": 116.39723,
-    "country_code": "CN",
-    "paper_count": 2
-  },
-  {
     "id": "https://openalex.org/I4210152558",
     "name": "South Bohemia research center of aquaculture and biodiversity of hydrocenoses",
     "lat": 49.14778137207031,
@@ -4869,14 +4909,6 @@
     "lat": 30.293649673461914,
     "lng": 120.16142272949219,
     "country_code": "CN",
-    "paper_count": 2
-  },
-  {
-    "id": "https://openalex.org/I59270414",
-    "name": "Indian Institute of Science Bangalore",
-    "lat": 13.02127456665039,
-    "lng": 77.56576538085938,
-    "country_code": "IN",
     "paper_count": 2
   },
   {
@@ -6504,6 +6536,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I1333651918",
+    "name": "Indian Institute of Tropical Meteorology",
+    "lat": 18.519569396972656,
+    "lng": 73.8553466796875,
+    "country_code": "IN",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I133388076",
     "name": "Gulu University",
     "lat": 2.7745699882507324,
@@ -6992,14 +7032,6 @@
     "paper_count": 1
   },
   {
-    "id": "https://openalex.org/I154099455",
-    "name": "Shandong University",
-    "lat": 36.66833,
-    "lng": 116.99722,
-    "country_code": "CN",
-    "paper_count": 1
-  },
-  {
     "id": "https://openalex.org/I154202486",
     "name": "Ifremer",
     "lat": 48.39029,
@@ -7037,14 +7069,6 @@
     "lat": 35.782569885253906,
     "lng": 51.317237854003906,
     "country_code": "IR",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I156087764",
-    "name": "University of California, Merced",
-    "lat": 37.30215835571289,
-    "lng": -120.48297119140625,
-    "country_code": "US",
     "paper_count": 1
   },
   {
@@ -7157,6 +7181,14 @@
     "lat": 35.599998474121094,
     "lng": 140.11666870117188,
     "country_code": "JP",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I159389169",
+    "name": "Ningbo University of Technology",
+    "lat": 29.87819,
+    "lng": 121.54945,
+    "country_code": "CN",
     "paper_count": 1
   },
   {
@@ -7912,6 +7944,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I189442560",
+    "name": "Gyeongsang National University",
+    "lat": 35.20445,
+    "lng": 128.12408,
+    "country_code": "KR",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I189977406",
     "name": "Universidad de Los Andes, Chile",
     "lat": -33.456939697265625,
@@ -8005,14 +8045,6 @@
     "lat": -26.20227,
     "lng": 28.04363,
     "country_code": "ZA",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I193181351",
-    "name": "Universidad de Guadalajara",
-    "lat": 20.66682,
-    "lng": -103.39182,
-    "country_code": "MX",
     "paper_count": 1
   },
   {
@@ -8232,14 +8264,6 @@
     "paper_count": 1
   },
   {
-    "id": "https://openalex.org/I199691007",
-    "name": "Brazilian Agricultural Research Corporation",
-    "lat": -15.71048641204834,
-    "lng": -47.90955352783203,
-    "country_code": "BR",
-    "paper_count": 1
-  },
-  {
     "id": "https://openalex.org/I200166805",
     "name": "Guy's and St Thomas' NHS Foundation Trust",
     "lat": 51.5048828125,
@@ -8365,6 +8389,14 @@
     "lat": -31.95224,
     "lng": 115.8614,
     "country_code": "AU",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I205665586",
+    "name": "Dr. Rajendra Prasad Central Agriculture University",
+    "lat": 25.985654830932617,
+    "lng": 85.67424011230469,
+    "country_code": "IN",
     "paper_count": 1
   },
   {
@@ -9072,6 +9104,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I2801454379",
+    "name": "Xishuangbanna Tropical Botanical Garden",
+    "lat": 21.93402862548828,
+    "lng": 101.25299072265625,
+    "country_code": "CN",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I2801466140",
     "name": "Intergovernmental Panel on Climate Change",
     "lat": 46.20454788208008,
@@ -9568,6 +9608,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I31784960",
+    "name": "Fukuoka University",
+    "lat": 33.548343658447266,
+    "lng": 130.3662109375,
+    "country_code": "JP",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I32021983",
     "name": "Christian-Albrechts-Universit\u00e4t zu Kiel",
     "lat": 54.32133,
@@ -9629,6 +9677,14 @@
     "lat": 24.81515121459961,
     "lng": 67.07988739013672,
     "country_code": "PK",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I34750443",
+    "name": "Anand Agricultural University",
+    "lat": 22.55251,
+    "lng": 72.9552,
+    "country_code": "IN",
     "paper_count": 1
   },
   {
@@ -10144,6 +10200,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I4210091565",
+    "name": "Research Institute for Fisheries and Aquaculture",
+    "lat": 46.85952377319336,
+    "lng": 20.51927375793457,
+    "country_code": "HU",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I4210091688",
     "name": "Chongqing Academy of Environmental Science",
     "lat": 29.591806411743164,
@@ -10512,6 +10576,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I4210100914",
+    "name": "Ministry of Earth Sciences",
+    "lat": 28.62137,
+    "lng": 77.2148,
+    "country_code": "IN",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I4210100930",
     "name": "Futures Group (United States)",
     "lat": 38.89643859863281,
@@ -10524,6 +10596,14 @@
     "name": "Institute of Oceanology",
     "lat": 36.06488037109375,
     "lng": 120.38041687011719,
+    "country_code": "CN",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4210101301",
+    "name": "Northeast Institute of Geography and Agroecology",
+    "lat": 43.880001068115234,
+    "lng": 125.3227767944336,
     "country_code": "CN",
     "paper_count": 1
   },
@@ -10933,6 +11013,14 @@
     "lat": 10.48801,
     "lng": -66.87919,
     "country_code": "VE",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4210108914",
+    "name": "Institute of Agricultural Resources and Regional Planning",
+    "lat": 39.95816421508789,
+    "lng": 116.32752990722656,
+    "country_code": "CN",
     "paper_count": 1
   },
   {
@@ -11549,6 +11637,14 @@
     "lat": 69.6489,
     "lng": 18.95508,
     "country_code": "NO",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4210122185",
+    "name": "Entomological Society of Brazil",
+    "lat": -23.343351364135742,
+    "lng": -51.160865783691406,
+    "country_code": "BR",
     "paper_count": 1
   },
   {
@@ -12200,6 +12296,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I4210134612",
+    "name": "Forest Research",
+    "lat": 51.1890983581543,
+    "lng": -0.890375018119812,
+    "country_code": "GB",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I4210134769",
     "name": "University of Pittsburgh Medical Center",
     "lat": 40.44062042236328,
@@ -12656,6 +12760,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I4210143403",
+    "name": "Norwegian Institute of Bioeconomy Research",
+    "lat": 59.9127311706543,
+    "lng": 10.746089935302734,
+    "country_code": "NO",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I4210143417",
     "name": "Public Works Research Institute",
     "lat": 36.08333,
@@ -12685,6 +12797,14 @@
     "lat": 33.626220703125,
     "lng": 73.01127624511719,
     "country_code": "PK",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4210144177",
+    "name": "Cognition Behaviour Technology",
+    "lat": 43.70313,
+    "lng": 7.26608,
+    "country_code": "FR",
     "paper_count": 1
   },
   {
@@ -13293,6 +13413,14 @@
     "lat": 41.784358978271484,
     "lng": 12.380754470825195,
     "country_code": "IT",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4210157993",
+    "name": "China Ningbo International Cooperation (China)",
+    "lat": 29.86997413635254,
+    "lng": 121.53631591796875,
+    "country_code": "CN",
     "paper_count": 1
   },
   {
@@ -14808,6 +14936,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I76253773",
+    "name": "Central Agricultural University",
+    "lat": 24.80805015563965,
+    "lng": 93.94419860839844,
+    "country_code": "IN",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I76766440",
     "name": "University of San Francisco",
     "lat": 37.77492904663086,
@@ -15085,6 +15221,14 @@
     "lat": 37.19422149658203,
     "lng": 49.63624954223633,
     "country_code": "IR",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I878213199",
+    "name": "Savitribai Phule Pune University",
+    "lat": 18.51957,
+    "lng": 73.85535,
+    "country_code": "IN",
     "paper_count": 1
   },
   {
