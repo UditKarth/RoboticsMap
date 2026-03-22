@@ -1120,6 +1120,14 @@
     "paper_count": 5
   },
   {
+    "id": "https://openalex.org/I205984670",
+    "name": "Czech University of Life Sciences Prague",
+    "lat": 50.08804,
+    "lng": 14.42076,
+    "country_code": "CZ",
+    "paper_count": 5
+  },
+  {
     "id": "https://openalex.org/I207014233",
     "name": "Kyushu Institute of Technology",
     "lat": 33.851810455322266,
@@ -1685,14 +1693,6 @@
     "lat": 30.583330154418945,
     "lng": 114.26667022705078,
     "country_code": "CN",
-    "paper_count": 4
-  },
-  {
-    "id": "https://openalex.org/I205984670",
-    "name": "Czech University of Life Sciences Prague",
-    "lat": 50.08804,
-    "lng": 14.42076,
-    "country_code": "CZ",
     "paper_count": 4
   },
   {
@@ -5864,6 +5864,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I12079687",
+    "name": "Edith Cowan University",
+    "lat": -31.952239990234375,
+    "lng": 115.86139678955078,
+    "country_code": "AU",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I121345201",
     "name": "Instituto de Engenharia de Sistemas e Computadores Investiga\u00e7\u00e3o e Desenvolvimento",
     "lat": 38.73680877685547,
@@ -5900,6 +5908,14 @@
     "name": "The Graduate Center, CUNY",
     "lat": 40.71427,
     "lng": -74.00597,
+    "country_code": "US",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I121934306",
+    "name": "Tufts University",
+    "lat": 42.41843,
+    "lng": -71.10616,
     "country_code": "US",
     "paper_count": 1
   },
@@ -7797,6 +7813,14 @@
     "lat": 14.05919075012207,
     "lng": 99.4254379272461,
     "country_code": "TH",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I179097149",
+    "name": "University of Carthage",
+    "lat": 36.81897,
+    "lng": 10.16579,
+    "country_code": "TN",
     "paper_count": 1
   },
   {
