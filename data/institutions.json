@@ -688,6 +688,14 @@
     "paper_count": 7
   },
   {
+    "id": "https://openalex.org/I75951250",
+    "name": "Freie Universit\u00e4t Berlin",
+    "lat": 52.52437,
+    "lng": 13.41053,
+    "country_code": "DE",
+    "paper_count": 7
+  },
+  {
     "id": "https://openalex.org/I79619799",
     "name": "University of Birmingham",
     "lat": 52.48142,
@@ -928,11 +936,11 @@
     "paper_count": 6
   },
   {
-    "id": "https://openalex.org/I75951250",
-    "name": "Freie Universit\u00e4t Berlin",
-    "lat": 52.52437,
-    "lng": 13.41053,
-    "country_code": "DE",
+    "id": "https://openalex.org/I76130692",
+    "name": "Zhejiang University",
+    "lat": 30.29365,
+    "lng": 120.16142,
+    "country_code": "CN",
     "paper_count": 6
   },
   {
@@ -1301,14 +1309,6 @@
     "lat": 51.53443,
     "lng": 9.93228,
     "country_code": "DE",
-    "paper_count": 5
-  },
-  {
-    "id": "https://openalex.org/I76130692",
-    "name": "Zhejiang University",
-    "lat": 30.29365,
-    "lng": 120.16142,
-    "country_code": "CN",
     "paper_count": 5
   },
   {
@@ -4488,6 +4488,14 @@
     "paper_count": 2
   },
   {
+    "id": "https://openalex.org/I4210126939",
+    "name": "ZheJiang Academy of Agricultural Sciences",
+    "lat": 30.293649673461914,
+    "lng": 120.16142272949219,
+    "country_code": "CN",
+    "paper_count": 2
+  },
+  {
     "id": "https://openalex.org/I4210127387",
     "name": "Siberian Branch of the Russian Academy of Sciences",
     "lat": 55.041500091552734,
@@ -4541,6 +4549,14 @@
     "lat": -35.27627182006836,
     "lng": 149.1461181640625,
     "country_code": "AU",
+    "paper_count": 2
+  },
+  {
+    "id": "https://openalex.org/I4210138175",
+    "name": "Instituto de Recursos Naturales y Agrobiolog\u00eda de Sevilla",
+    "lat": 37.38283157348633,
+    "lng": -5.973169803619385,
+    "country_code": "ES",
     "paper_count": 2
   },
   {
@@ -6861,6 +6877,14 @@
     "lat": -33.456939697265625,
     "lng": -70.64826965332031,
     "country_code": "CL",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I140221134",
+    "name": "Anhui Agricultural University",
+    "lat": 31.860065460205078,
+    "lng": 117.25733184814453,
+    "country_code": "CN",
     "paper_count": 1
   },
   {
@@ -11968,6 +11992,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I4210123185",
+    "name": "Zhejiang Lab",
+    "lat": 30.271240234375,
+    "lng": 119.96514892578125,
+    "country_code": "CN",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I4210123215",
     "name": "Universitas Ibrahimy",
     "lat": -7.745973110198975,
@@ -12157,14 +12189,6 @@
     "lat": 25.12328338623047,
     "lng": 55.41938400268555,
     "country_code": "AE",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I4210126939",
-    "name": "ZheJiang Academy of Agricultural Sciences",
-    "lat": 30.293649673461914,
-    "lng": 120.16142272949219,
-    "country_code": "CN",
     "paper_count": 1
   },
   {
@@ -12720,6 +12744,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I4210137217",
+    "name": "Women's Hospital, School of Medicine, Zhejiang University",
+    "lat": 30.255863189697266,
+    "lng": 120.16851043701172,
+    "country_code": "CN",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I4210137227",
     "name": "Queen's Medical Centre",
     "lat": 52.943599700927734,
@@ -12765,14 +12797,6 @@
     "lat": 69.6489028930664,
     "lng": 18.955080032348633,
     "country_code": "NO",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I4210138175",
-    "name": "Instituto de Recursos Naturales y Agrobiolog\u00eda de Sevilla",
-    "lat": 37.38283157348633,
-    "lng": -5.973169803619385,
-    "country_code": "ES",
     "paper_count": 1
   },
   {
@@ -13029,6 +13053,14 @@
     "lat": 26.34372901916504,
     "lng": 50.12286376953125,
     "country_code": "SA",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4210143900",
+    "name": "Rural Development Institute",
+    "lat": 39.908023834228516,
+    "lng": 116.42842864990234,
+    "country_code": "CN",
     "paper_count": 1
   },
   {
@@ -14064,6 +14096,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I4210166194",
+    "name": "Zhejiang Academy of Forestry",
+    "lat": 30.217620849609375,
+    "lng": 120.02873992919922,
+    "country_code": "CN",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I4210166499",
     "name": "Henan Polytechnic University",
     "lat": 35.23971939086914,
@@ -14821,6 +14861,14 @@
     "lat": 42.88645,
     "lng": -78.87837,
     "country_code": "US",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I63634437",
+    "name": "Universidad Aut\u00f3noma de Madrid",
+    "lat": 40.4165,
+    "lng": -3.70256,
+    "country_code": "ES",
     "paper_count": 1
   },
   {
