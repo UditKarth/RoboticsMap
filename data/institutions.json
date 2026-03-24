@@ -7536,6 +7536,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I16465266",
+    "name": "Austral University of Chile",
+    "lat": -39.81422,
+    "lng": -73.24589,
+    "country_code": "CL",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I165441096",
     "name": "National Health Research Institutes",
     "lat": 24.80360984802246,
@@ -10000,6 +10008,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I38685851",
+    "name": "Universidad Cat\u00f3lica de la Sant\u00edsima Concepci\u00f3n",
+    "lat": -36.826988220214844,
+    "lng": -73.04976654052734,
+    "country_code": "CL",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I38877650",
     "name": "Zhengzhou University",
     "lat": 34.75777816772461,
@@ -10141,6 +10157,14 @@
     "lat": 55.712642669677734,
     "lng": 37.58952713012695,
     "country_code": "RU",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4210086410",
+    "name": "Universidad Bernardo O'Higgins",
+    "lat": -33.456939697265625,
+    "lng": -70.64826965332031,
+    "country_code": "CL",
     "paper_count": 1
   },
   {
@@ -10437,6 +10461,14 @@
     "lat": 43.610931396484375,
     "lng": 3.876349925994873,
     "country_code": "FR",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4210091755",
+    "name": "Center for Dynamic Research on High Latitude Marine Ecosystems",
+    "lat": -53.16460037231445,
+    "lng": -70.91914367675781,
+    "country_code": "CL",
     "paper_count": 1
   },
   {
