@@ -13,7 +13,7 @@
     "lat": 39.9075,
     "lng": 116.39723,
     "country_code": "CN",
-    "paper_count": 33
+    "paper_count": 34
   },
   {
     "id": "https://openalex.org/I913481162",
@@ -64,6 +64,14 @@
     "paper_count": 16
   },
   {
+    "id": "https://openalex.org/I25254941",
+    "name": "Beijing Normal University",
+    "lat": 39.9075,
+    "lng": 116.39723,
+    "country_code": "CN",
+    "paper_count": 16
+  },
+  {
     "id": "https://openalex.org/I4210166444",
     "name": "Institut de Recherche pour le D\u00e9veloppement",
     "lat": 43.29695,
@@ -88,8 +96,8 @@
     "paper_count": 15
   },
   {
-    "id": "https://openalex.org/I25254941",
-    "name": "Beijing Normal University",
+    "id": "https://openalex.org/I4210165038",
+    "name": "University of Chinese Academy of Sciences",
     "lat": 39.9075,
     "lng": 116.39723,
     "country_code": "CN",
@@ -101,14 +109,6 @@
     "lat": 51.75222,
     "lng": -1.25596,
     "country_code": "GB",
-    "paper_count": 14
-  },
-  {
-    "id": "https://openalex.org/I4210165038",
-    "name": "University of Chinese Academy of Sciences",
-    "lat": 39.9075,
-    "lng": 116.39723,
-    "country_code": "CN",
     "paper_count": 14
   },
   {
@@ -198,6 +198,14 @@
     "lng": -122.27275,
     "country_code": "US",
     "paper_count": 11
+  },
+  {
+    "id": "https://openalex.org/I135310074",
+    "name": "University of Wisconsin\u2013Madison",
+    "lat": 43.07305,
+    "lng": -89.40123,
+    "country_code": "US",
+    "paper_count": 10
   },
   {
     "id": "https://openalex.org/I165779595",
@@ -293,14 +301,6 @@
     "lat": -35.28346,
     "lng": 149.12807,
     "country_code": "AU",
-    "paper_count": 9
-  },
-  {
-    "id": "https://openalex.org/I135310074",
-    "name": "University of Wisconsin\u2013Madison",
-    "lat": 43.07305,
-    "lng": -89.40123,
-    "country_code": "US",
     "paper_count": 9
   },
   {
@@ -1096,6 +1096,14 @@
     "paper_count": 5
   },
   {
+    "id": "https://openalex.org/I178232147",
+    "name": "Guizhou University",
+    "lat": 26.420438766479492,
+    "lng": 106.67110443115234,
+    "country_code": "CN",
+    "paper_count": 5
+  },
+  {
     "id": "https://openalex.org/I197251160",
     "name": "Hebrew University of Jerusalem",
     "lat": 31.76904,
@@ -1645,14 +1653,6 @@
     "lat": 43.32686,
     "lng": -2.98884,
     "country_code": "ES",
-    "paper_count": 4
-  },
-  {
-    "id": "https://openalex.org/I178232147",
-    "name": "Guizhou University",
-    "lat": 26.420438766479492,
-    "lng": 106.67110443115234,
-    "country_code": "CN",
     "paper_count": 4
   },
   {
@@ -2512,6 +2512,14 @@
     "paper_count": 3
   },
   {
+    "id": "https://openalex.org/I4210119653",
+    "name": "Institute of Urban Environment",
+    "lat": 24.47978973388672,
+    "lng": 118.08187103271484,
+    "country_code": "CN",
+    "paper_count": 3
+  },
+  {
     "id": "https://openalex.org/I4210121800",
     "name": "Chan Zuckerberg Initiative (United States)",
     "lat": 37.48522,
@@ -2524,6 +2532,14 @@
     "name": "Wuhan Botanical Garden",
     "lat": 30.542654037475586,
     "lng": 114.4202651977539,
+    "country_code": "CN",
+    "paper_count": 3
+  },
+  {
+    "id": "https://openalex.org/I4210123196",
+    "name": "Zhejiang Environmental Monitoring Center",
+    "lat": 30.279094696044922,
+    "lng": 120.12830352783203,
     "country_code": "CN",
     "paper_count": 3
   },
@@ -2725,6 +2741,14 @@
     "lat": 39.96118,
     "lng": -82.99879,
     "country_code": "US",
+    "paper_count": 3
+  },
+  {
+    "id": "https://openalex.org/I53110688",
+    "name": "University of C\u00f3rdoba",
+    "lat": 37.89154815673828,
+    "lng": -4.772749900817871,
+    "country_code": "ES",
     "paper_count": 3
   },
   {
@@ -4432,14 +4456,6 @@
     "paper_count": 2
   },
   {
-    "id": "https://openalex.org/I4210119653",
-    "name": "Institute of Urban Environment",
-    "lat": 24.47978973388672,
-    "lng": 118.08187103271484,
-    "country_code": "CN",
-    "paper_count": 2
-  },
-  {
     "id": "https://openalex.org/I4210120109",
     "name": "Museo Nacional de Ciencias Naturales",
     "lat": 40.416500091552734,
@@ -4469,14 +4485,6 @@
     "lat": -3.9904561042785645,
     "lng": 39.73609924316406,
     "country_code": "KE",
-    "paper_count": 2
-  },
-  {
-    "id": "https://openalex.org/I4210123196",
-    "name": "Zhejiang Environmental Monitoring Center",
-    "lat": 30.279094696044922,
-    "lng": 120.12830352783203,
-    "country_code": "CN",
     "paper_count": 2
   },
   {
@@ -4533,6 +4541,14 @@
     "lat": 49.99961853027344,
     "lng": 14.550169944763184,
     "country_code": "CZ",
+    "paper_count": 2
+  },
+  {
+    "id": "https://openalex.org/I4210137199",
+    "name": "Aerospace Information Research Institute",
+    "lat": 40.070899963378906,
+    "lng": 116.28247833251953,
+    "country_code": "CN",
     "paper_count": 2
   },
   {
@@ -4968,14 +4984,6 @@
     "paper_count": 2
   },
   {
-    "id": "https://openalex.org/I53110688",
-    "name": "University of C\u00f3rdoba",
-    "lat": 37.89154815673828,
-    "lng": -4.772749900817871,
-    "country_code": "ES",
-    "paper_count": 2
-  },
-  {
     "id": "https://openalex.org/I53964585",
     "name": "Weizmann Institute of Science",
     "lat": 31.89421,
@@ -5013,6 +5021,14 @@
     "lat": -1.4558299779891968,
     "lng": -48.50444030761719,
     "country_code": "BR",
+    "paper_count": 2
+  },
+  {
+    "id": "https://openalex.org/I60053951",
+    "name": "Universitat Polit\u00e8cnica de Val\u00e8ncia",
+    "lat": 39.47391128540039,
+    "lng": -0.3796600103378296,
+    "country_code": "ES",
     "paper_count": 2
   },
   {
@@ -5477,6 +5493,14 @@
     "lat": 51.31667,
     "lng": 9.5,
     "country_code": "DE",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I10660446",
+    "name": "Kunming University of Science and Technology",
+    "lat": 25.061561584472656,
+    "lng": 102.69563293457031,
+    "country_code": "CN",
     "paper_count": 1
   },
   {
@@ -6352,6 +6376,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I1304256225",
+    "name": "University of Wisconsin System",
+    "lat": 43.07305,
+    "lng": -89.40123,
+    "country_code": "US",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I130438778",
     "name": "Memorial University of Newfoundland",
     "lat": 47.56494,
@@ -6805,6 +6837,14 @@
     "lat": 45.070491790771484,
     "lng": 7.686820030212402,
     "country_code": "IT",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I13511017",
+    "name": "Texas State University",
+    "lat": 29.883270263671875,
+    "lng": -97.94139099121094,
+    "country_code": "US",
     "paper_count": 1
   },
   {
@@ -7549,6 +7589,14 @@
     "lat": 24.80360984802246,
     "lng": 120.96861267089844,
     "country_code": "TW",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I165580012",
+    "name": "Geospatial Information Authority of Japan",
+    "lat": 36.14206314086914,
+    "lng": 140.04318237304688,
+    "country_code": "JP",
     "paper_count": 1
   },
   {
@@ -10440,6 +10488,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I4210091494",
+    "name": "Instituto Valenciano de Investigaciones Agrarias",
+    "lat": 39.58977508544922,
+    "lng": -0.39518898725509644,
+    "country_code": "ES",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I4210091565",
     "name": "Research Institute for Fisheries and Aquaculture",
     "lat": 46.85952377319336,
@@ -11277,6 +11333,14 @@
     "lat": 10.48801,
     "lng": -66.87919,
     "country_code": "VE",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4210108870",
+    "name": "Beijing General Research Institute of Mining and Metallurgy",
+    "lat": 39.907501220703125,
+    "lng": 116.39723205566406,
+    "country_code": "CN",
     "paper_count": 1
   },
   {
@@ -12256,6 +12320,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I4210128053",
+    "name": "Institute of Remote Sensing and Digital Earth",
+    "lat": 39.907501220703125,
+    "lng": 116.39723205566406,
+    "country_code": "CN",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I4210128270",
     "name": "Kirkelig Pedagogisk Senter",
     "lat": 59.92919158935547,
@@ -12293,6 +12365,14 @@
     "lat": 43.55097961425781,
     "lng": -96.72483825683594,
     "country_code": "US",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4210129002",
+    "name": "Andalusian Institute of Agricultural and Fisheries Research and Training",
+    "lat": 37.89154815673828,
+    "lng": -4.772749900817871,
+    "country_code": "ES",
     "paper_count": 1
   },
   {
@@ -12768,14 +12848,6 @@
     "paper_count": 1
   },
   {
-    "id": "https://openalex.org/I4210137199",
-    "name": "Aerospace Information Research Institute",
-    "lat": 40.070899963378906,
-    "lng": 116.28247833251953,
-    "country_code": "CN",
-    "paper_count": 1
-  },
-  {
     "id": "https://openalex.org/I4210137217",
     "name": "Women's Hospital, School of Medicine, Zhejiang University",
     "lat": 30.255863189697266,
@@ -12989,6 +13061,14 @@
     "lat": 47.52250289916992,
     "lng": 8.014097213745117,
     "country_code": "CH",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4210142251",
+    "name": "Instituto de Agricultura Sostenible",
+    "lat": 37.89154815673828,
+    "lng": -4.772749900817871,
+    "country_code": "ES",
     "paper_count": 1
   },
   {
@@ -14821,14 +14901,6 @@
     "lat": 40.92565155029297,
     "lng": -73.14093780517578,
     "country_code": "US",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I60053951",
-    "name": "Universitat Polit\u00e8cnica de Val\u00e8ncia",
-    "lat": 39.47391128540039,
-    "lng": -0.3796600103378296,
-    "country_code": "ES",
     "paper_count": 1
   },
   {
