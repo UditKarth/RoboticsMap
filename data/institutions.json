@@ -840,6 +840,14 @@
     "paper_count": 6
   },
   {
+    "id": "https://openalex.org/I205984670",
+    "name": "Czech University of Life Sciences Prague",
+    "lat": 50.08804,
+    "lng": 14.42076,
+    "country_code": "CZ",
+    "paper_count": 6
+  },
+  {
     "id": "https://openalex.org/I2746051580",
     "name": "Universit\u00e9 Paris Sciences et Lettres",
     "lat": 48.85341,
@@ -1133,14 +1141,6 @@
     "lat": 38.62727,
     "lng": -90.19789,
     "country_code": "US",
-    "paper_count": 5
-  },
-  {
-    "id": "https://openalex.org/I205984670",
-    "name": "Czech University of Life Sciences Prague",
-    "lat": 50.08804,
-    "lng": 14.42076,
-    "country_code": "CZ",
     "paper_count": 5
   },
   {
@@ -2376,6 +2376,14 @@
     "paper_count": 3
   },
   {
+    "id": "https://openalex.org/I199691007",
+    "name": "Brazilian Agricultural Research Corporation",
+    "lat": -15.71048641204834,
+    "lng": -47.90955352783203,
+    "country_code": "BR",
+    "paper_count": 3
+  },
+  {
     "id": "https://openalex.org/I200769079",
     "name": "Hong Kong University of Science and Technology",
     "lat": 22.27832,
@@ -2984,6 +2992,14 @@
     "paper_count": 2
   },
   {
+    "id": "https://openalex.org/I110166357",
+    "name": "University of Delhi",
+    "lat": 28.62137,
+    "lng": 77.2148,
+    "country_code": "IN",
+    "paper_count": 2
+  },
+  {
     "id": "https://openalex.org/I111979921",
     "name": "Northwestern University",
     "lat": 42.04114,
@@ -3568,6 +3584,14 @@
     "paper_count": 2
   },
   {
+    "id": "https://openalex.org/I170230895",
+    "name": "Warsaw University of Life Sciences",
+    "lat": 52.22977066040039,
+    "lng": 21.01177978515625,
+    "country_code": "PL",
+    "paper_count": 2
+  },
+  {
     "id": "https://openalex.org/I170897317",
     "name": "Duke University",
     "lat": 35.99403,
@@ -3765,14 +3789,6 @@
     "lat": 55.752220153808594,
     "lng": 37.61555862426758,
     "country_code": "RU",
-    "paper_count": 2
-  },
-  {
-    "id": "https://openalex.org/I199691007",
-    "name": "Brazilian Agricultural Research Corporation",
-    "lat": -15.71048641204834,
-    "lng": -47.90955352783203,
-    "country_code": "BR",
     "paper_count": 2
   },
   {
@@ -5080,6 +5096,14 @@
     "paper_count": 2
   },
   {
+    "id": "https://openalex.org/I63739035",
+    "name": "All India Institute of Medical Sciences",
+    "lat": 28.62137,
+    "lng": 77.2148,
+    "country_code": "IN",
+    "paper_count": 2
+  },
+  {
     "id": "https://openalex.org/I66809481",
     "name": "Southern Cross University",
     "lat": -28.813539505004883,
@@ -5629,14 +5653,6 @@
     "lat": 41.89193,
     "lng": 12.51133,
     "country_code": "IT",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I110166357",
-    "name": "University of Delhi",
-    "lat": 28.62137,
-    "lng": 77.2148,
-    "country_code": "IN",
     "paper_count": 1
   },
   {
@@ -7248,6 +7264,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I152429107",
+    "name": "Jawaharlal Nehru University",
+    "lat": 28.621370315551758,
+    "lng": 77.21479797363281,
+    "country_code": "IN",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I152754861",
     "name": "Bose Institute",
     "lat": 22.56262969970703,
@@ -7317,6 +7341,14 @@
     "lat": 26.325990676879883,
     "lng": 43.974971771240234,
     "country_code": "SA",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I15664174",
+    "name": "Madurai Medical College",
+    "lat": 9.919,
+    "lng": 78.11953,
+    "country_code": "IN",
     "paper_count": 1
   },
   {
@@ -7648,6 +7680,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I164861460",
+    "name": "Manipal Academy of Higher Education",
+    "lat": 13.35,
+    "lng": 74.78333,
+    "country_code": "IN",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I165441096",
     "name": "National Health Research Institutes",
     "lat": 24.80360984802246,
@@ -7765,14 +7805,6 @@
     "lat": 36.07263946533203,
     "lng": -79.79197692871094,
     "country_code": "US",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I170230895",
-    "name": "Warsaw University of Life Sciences",
-    "lat": 52.22977066040039,
-    "lng": 21.01177978515625,
-    "country_code": "PL",
     "paper_count": 1
   },
   {
@@ -10432,6 +10464,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I4210088002",
+    "name": "Flathead High School",
+    "lat": 48.19118118286133,
+    "lng": -114.31803131103516,
+    "country_code": "US",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I4210088032",
     "name": "Kyoto Bunkyo University",
     "lat": 34.91570281982422,
@@ -12912,6 +12952,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I4210135412",
+    "name": "Universidade Federal do Amap\u00e1",
+    "lat": 0.03889000043272972,
+    "lng": -51.06639099121094,
+    "country_code": "BR",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I4210135491",
     "name": "Imazon",
     "lat": -1.4558299779891968,
@@ -13568,6 +13616,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I4210148697",
+    "name": "Institute of Bioinformatics",
+    "lat": 12.971940040588379,
+    "lng": 77.59368896484375,
+    "country_code": "IN",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I4210148827",
     "name": "Birla Institute of Technology and Science, Pilani - Goa Campus",
     "lat": 15.389981269836426,
@@ -13861,6 +13917,14 @@
     "lat": 52.52436828613281,
     "lng": 13.410530090332031,
     "country_code": "DE",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4210154394",
+    "name": "Czech Society for Ornithology",
+    "lat": 50.08803939819336,
+    "lng": 14.420760154724121,
+    "country_code": "CZ",
     "paper_count": 1
   },
   {
@@ -14405,6 +14469,14 @@
     "lat": 21.49011993408203,
     "lng": 39.186241149902344,
     "country_code": "SA",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4210165735",
+    "name": "Dasman Diabetes Institute",
+    "lat": 29.389766693115234,
+    "lng": 47.99340057373047,
+    "country_code": "KW",
     "paper_count": 1
   },
   {
@@ -15032,6 +15104,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I56081889",
+    "name": "Mendel University in Brno",
+    "lat": 49.195220947265625,
+    "lng": 16.607959747314453,
+    "country_code": "CZ",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I56934997",
     "name": "Changsha University of Science and Technology",
     "lat": 28.095895767211914,
@@ -15197,14 +15277,6 @@
     "lat": 40.4165,
     "lng": -3.70256,
     "country_code": "ES",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I63739035",
-    "name": "All India Institute of Medical Sciences",
-    "lat": 28.62137,
-    "lng": 77.2148,
-    "country_code": "IN",
     "paper_count": 1
   },
   {
