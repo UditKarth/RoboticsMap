@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-03-27",
-  "total_papers": 866,
-  "total_institutions": 2034,
+  "last_updated": "2026-03-28",
+  "total_papers": 874,
+  "total_institutions": 2046,
   "date_range": {
     "from": "2018-01-01",
     "to": "2026-01-01"
@@ -9,42 +9,42 @@
   "papers_by_country": [
     {
       "country_code": "US",
-      "paper_count": 232
+      "paper_count": 234
     },
     {
       "country_code": "CN",
-      "paper_count": 196
+      "paper_count": 197
     },
     {
       "country_code": "GB",
-      "paper_count": 121
+      "paper_count": 123
     },
     {
       "country_code": "DE",
-      "paper_count": 101
+      "paper_count": 102
     },
     {
       "country_code": "AU",
-      "paper_count": 86
+      "paper_count": 87
     },
     {
       "country_code": "CA",
       "paper_count": 64
     },
     {
+      "country_code": "FR",
+      "paper_count": 63
+    },
+    {
       "country_code": "NL",
       "paper_count": 62
     },
     {
-      "country_code": "FR",
-      "paper_count": 62
+      "country_code": "CH",
+      "paper_count": 54
     },
     {
       "country_code": "IT",
-      "paper_count": 53
-    },
-    {
-      "country_code": "CH",
       "paper_count": 53
     },
     {
@@ -69,7 +69,7 @@
     },
     {
       "country_code": "BE",
-      "paper_count": 34
+      "paper_count": 35
     },
     {
       "country_code": "NO",
@@ -116,15 +116,15 @@
       "paper_count": 15
     },
     {
+      "country_code": "NZ",
+      "paper_count": 14
+    },
+    {
       "country_code": "IE",
       "paper_count": 14
     },
     {
       "country_code": "PL",
-      "paper_count": 13
-    },
-    {
-      "country_code": "NZ",
       "paper_count": 13
     },
     {
@@ -180,6 +180,10 @@
       "paper_count": 6
     },
     {
+      "country_code": "HU",
+      "paper_count": 6
+    },
+    {
       "country_code": "EE",
       "paper_count": 6
     },
@@ -200,6 +204,10 @@
       "paper_count": 5
     },
     {
+      "country_code": "NG",
+      "paper_count": 5
+    },
+    {
       "country_code": "IS",
       "paper_count": 5
     },
@@ -208,19 +216,11 @@
       "paper_count": 5
     },
     {
-      "country_code": "HU",
-      "paper_count": 5
-    },
-    {
       "country_code": "VN",
       "paper_count": 4
     },
     {
       "country_code": "SK",
-      "paper_count": 4
-    },
-    {
-      "country_code": "NG",
       "paper_count": 4
     },
     {
@@ -349,6 +349,10 @@
     },
     {
       "country_code": "TJ",
+      "paper_count": 1
+    },
+    {
+      "country_code": "TG",
       "paper_count": 1
     },
     {
