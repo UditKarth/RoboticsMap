@@ -5040,6 +5040,14 @@
     "paper_count": 2
   },
   {
+    "id": "https://openalex.org/I51783024",
+    "name": "Brandenburg University of Technology Cottbus-Senftenberg",
+    "lat": 51.52517,
+    "lng": 14.00164,
+    "country_code": "DE",
+    "paper_count": 2
+  },
+  {
     "id": "https://openalex.org/I52099693",
     "name": "University of York",
     "lat": 53.95763,
@@ -11840,6 +11848,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I4210113030",
+    "name": "Leibniz Centre for Agricultural Landscape Research",
+    "lat": 52.50703811645508,
+    "lng": 14.137160301208496,
+    "country_code": "DE",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I4210113136",
     "name": "National Zoological Park",
     "lat": 38.895111083984375,
@@ -15133,14 +15149,6 @@
     "lat": 53.226829528808594,
     "lng": -0.5379199981689453,
     "country_code": "GB",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I51783024",
-    "name": "Brandenburg University of Technology Cottbus-Senftenberg",
-    "lat": 51.52517,
-    "lng": 14.00164,
-    "country_code": "DE",
     "paper_count": 1
   },
   {
