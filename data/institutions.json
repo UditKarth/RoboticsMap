@@ -2360,6 +2360,14 @@
     "paper_count": 3
   },
   {
+    "id": "https://openalex.org/I192455969",
+    "name": "York University",
+    "lat": 43.70642852783203,
+    "lng": -79.39864349365234,
+    "country_code": "CA",
+    "paper_count": 3
+  },
+  {
     "id": "https://openalex.org/I193531525",
     "name": "George Washington University",
     "lat": 38.89511,
@@ -3528,6 +3536,14 @@
     "paper_count": 2
   },
   {
+    "id": "https://openalex.org/I154893126",
+    "name": "Guizhou Normal University",
+    "lat": 26.583330154418945,
+    "lng": 106.71666717529297,
+    "country_code": "CN",
+    "paper_count": 2
+  },
+  {
     "id": "https://openalex.org/I154986956",
     "name": "European Centre for Medium-Range Weather Forecasts",
     "lat": 51.45624923706055,
@@ -3781,14 +3797,6 @@
     "lat": 53.744598388671875,
     "lng": -0.33524999022483826,
     "country_code": "GB",
-    "paper_count": 2
-  },
-  {
-    "id": "https://openalex.org/I192455969",
-    "name": "York University",
-    "lat": 43.70642852783203,
-    "lng": -79.39864349365234,
-    "country_code": "CA",
     "paper_count": 2
   },
   {
@@ -7381,14 +7389,6 @@
     "lat": 48.85341,
     "lng": 2.3488,
     "country_code": "FR",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I154893126",
-    "name": "Guizhou Normal University",
-    "lat": 26.583330154418945,
-    "lng": 106.71666717529297,
-    "country_code": "CN",
     "paper_count": 1
   },
   {
@@ -11853,6 +11853,14 @@
     "lat": 52.50703811645508,
     "lng": 14.137160301208496,
     "country_code": "DE",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4210113048",
+    "name": "Tibet Academy of Agricultural and Animal Husbandry Sciences",
+    "lat": 29.64365577697754,
+    "lng": 91.0390625,
+    "country_code": "CN",
     "paper_count": 1
   },
   {
