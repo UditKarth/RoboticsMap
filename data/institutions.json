@@ -104,6 +104,14 @@
     "paper_count": 15
   },
   {
+    "id": "https://openalex.org/I118564535",
+    "name": "University of Bern",
+    "lat": 46.94809,
+    "lng": 7.44744,
+    "country_code": "CH",
+    "paper_count": 14
+  },
+  {
     "id": "https://openalex.org/I40120149",
     "name": "University of Oxford",
     "lat": 51.75222,
@@ -118,14 +126,6 @@
     "lng": 116.39723,
     "country_code": "CN",
     "paper_count": 14
-  },
-  {
-    "id": "https://openalex.org/I118564535",
-    "name": "University of Bern",
-    "lat": 46.94809,
-    "lng": 7.44744,
-    "country_code": "CH",
-    "paper_count": 13
   },
   {
     "id": "https://openalex.org/I47508984",
@@ -192,6 +192,14 @@
     "paper_count": 12
   },
   {
+    "id": "https://openalex.org/I188538660",
+    "name": "University of Colorado Boulder",
+    "lat": 40.014991760253906,
+    "lng": -105.27055358886719,
+    "country_code": "US",
+    "paper_count": 11
+  },
+  {
     "id": "https://openalex.org/I205783295",
     "name": "Cornell University",
     "lat": 42.44063,
@@ -245,14 +253,6 @@
     "lat": -23.5475,
     "lng": -46.63611,
     "country_code": "BR",
-    "paper_count": 10
-  },
-  {
-    "id": "https://openalex.org/I188538660",
-    "name": "University of Colorado Boulder",
-    "lat": 40.014991760253906,
-    "lng": -105.27055358886719,
-    "country_code": "US",
     "paper_count": 10
   },
   {
