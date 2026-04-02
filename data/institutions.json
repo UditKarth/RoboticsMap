@@ -4104,6 +4104,14 @@
     "paper_count": 2
   },
   {
+    "id": "https://openalex.org/I2801454379",
+    "name": "Xishuangbanna Tropical Botanical Garden",
+    "lat": 21.93402862548828,
+    "lng": 101.25299072265625,
+    "country_code": "CN",
+    "paper_count": 2
+  },
+  {
     "id": "https://openalex.org/I2801997990",
     "name": "Japan Meteorological Agency",
     "lat": 35.68949890136719,
@@ -5552,6 +5560,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I102808428",
+    "name": "Tbilisi State University",
+    "lat": 41.69411087036133,
+    "lng": 44.83367919921875,
+    "country_code": "GE",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I103163165",
     "name": "Florida State University",
     "lat": 30.43825912475586,
@@ -6840,6 +6856,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I133190216",
+    "name": "Shahjalal University of Science and Technology",
+    "lat": 24.921293258666992,
+    "lng": 91.83307647705078,
+    "country_code": "BD",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I1333353642",
     "name": "Norwegian Institute of Public Health",
     "lat": 59.9127311706543,
@@ -7389,6 +7413,14 @@
     "lat": 48.85341,
     "lng": 2.3488,
     "country_code": "FR",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I155028946",
+    "name": "Tribhuvan University",
+    "lat": 27.70169,
+    "lng": 85.3206,
+    "country_code": "NP",
     "paper_count": 1
   },
   {
@@ -9448,6 +9480,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I2800195862",
+    "name": "Bangladesh Centre for Advanced Studies",
+    "lat": 23.781145095825195,
+    "lng": 90.4136962890625,
+    "country_code": "BD",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I2800218126",
     "name": "Archbold Biological Station",
     "lat": 27.182952880859375,
@@ -9568,6 +9608,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I2801297833",
+    "name": "Tilganga Institute of Ophthalmology",
+    "lat": 27.705617904663086,
+    "lng": 85.3505630493164,
+    "country_code": "NP",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I2801299723",
     "name": "Sichuan Fine Arts Institute",
     "lat": 29.488000869750977,
@@ -9605,14 +9653,6 @@
     "lat": 42.73426055908203,
     "lng": -73.82943725585938,
     "country_code": "US",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I2801454379",
-    "name": "Xishuangbanna Tropical Botanical Garden",
-    "lat": 21.93402862548828,
-    "lng": 101.25299072265625,
-    "country_code": "CN",
     "paper_count": 1
   },
   {
@@ -14381,6 +14421,14 @@
     "lat": 29.560260772705078,
     "lng": 106.55770874023438,
     "country_code": "CN",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4210160307",
+    "name": "Ministry of Agriculture and Forests",
+    "lat": 27.486297607421875,
+    "lng": 89.63526153564453,
+    "country_code": "BT",
     "paper_count": 1
   },
   {
