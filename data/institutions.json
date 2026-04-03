@@ -808,6 +808,14 @@
     "paper_count": 6
   },
   {
+    "id": "https://openalex.org/I139660479",
+    "name": "Central South University",
+    "lat": 28.19874,
+    "lng": 112.97087,
+    "country_code": "CN",
+    "paper_count": 6
+  },
+  {
     "id": "https://openalex.org/I169381384",
     "name": "University of Groningen",
     "lat": 53.21917,
@@ -1069,14 +1077,6 @@
     "lat": 59.32938003540039,
     "lng": 18.068710327148438,
     "country_code": "SE",
-    "paper_count": 5
-  },
-  {
-    "id": "https://openalex.org/I139660479",
-    "name": "Central South University",
-    "lat": 28.19874,
-    "lng": 112.97087,
-    "country_code": "CN",
     "paper_count": 5
   },
   {
@@ -2324,6 +2324,14 @@
     "name": "University of California, San Francisco",
     "lat": 37.77493,
     "lng": -122.41942,
+    "country_code": "US",
+    "paper_count": 3
+  },
+  {
+    "id": "https://openalex.org/I181233156",
+    "name": "University of Oregon",
+    "lat": 44.05207,
+    "lng": -123.08675,
     "country_code": "US",
     "paper_count": 3
   },
@@ -3744,14 +3752,6 @@
     "paper_count": 2
   },
   {
-    "id": "https://openalex.org/I181233156",
-    "name": "University of Oregon",
-    "lat": 44.05207,
-    "lng": -123.08675,
-    "country_code": "US",
-    "paper_count": 2
-  },
-  {
     "id": "https://openalex.org/I181343428",
     "name": "University of Zagreb",
     "lat": 45.81444,
@@ -3797,6 +3797,14 @@
     "lat": 53.744598388671875,
     "lng": -0.33524999022483826,
     "country_code": "GB",
+    "paper_count": 2
+  },
+  {
+    "id": "https://openalex.org/I192398990",
+    "name": "Zagazig University",
+    "lat": 30.58768081665039,
+    "lng": 31.50200080871582,
+    "country_code": "EG",
     "paper_count": 2
   },
   {
@@ -5048,6 +5056,14 @@
     "paper_count": 2
   },
   {
+    "id": "https://openalex.org/I4626487",
+    "name": "King Faisal University",
+    "lat": 25.36467,
+    "lng": 49.58764,
+    "country_code": "SA",
+    "paper_count": 2
+  },
+  {
     "id": "https://openalex.org/I46529539",
     "name": "Chinese Academy of Fishery Sciences",
     "lat": 39.9075,
@@ -5653,6 +5669,14 @@
     "lat": 38.99066925048828,
     "lng": -77.02609252929688,
     "country_code": "US",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I106778892",
+    "name": "Princess Nourah bint Abdulrahman University",
+    "lat": 24.68773078918457,
+    "lng": 46.72185134887695,
+    "country_code": "SA",
     "paper_count": 1
   },
   {
@@ -7224,6 +7248,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I145487455",
+    "name": "Cairo University",
+    "lat": 30.027599334716797,
+    "lng": 31.210140228271484,
+    "country_code": "EG",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I145846420",
     "name": "University of Jammu",
     "lat": 32.71860122680664,
@@ -8477,14 +8509,6 @@
     "lat": 31.558000564575195,
     "lng": 74.3507080078125,
     "country_code": "PK",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I192398990",
-    "name": "Zagazig University",
-    "lat": 30.58768081665039,
-    "lng": 31.50200080871582,
-    "country_code": "EG",
     "paper_count": 1
   },
   {
@@ -15048,14 +15072,6 @@
     "paper_count": 1
   },
   {
-    "id": "https://openalex.org/I4626487",
-    "name": "King Faisal University",
-    "lat": 25.36467,
-    "lng": 49.58764,
-    "country_code": "SA",
-    "paper_count": 1
-  },
-  {
     "id": "https://openalex.org/I46305939",
     "name": "University of Zielona G\u00f3ra",
     "lat": 51.93547821044922,
@@ -15637,6 +15653,14 @@
     "lat": 36.057010650634766,
     "lng": 103.8398666381836,
     "country_code": "CN",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I69094615",
+    "name": "Universidad San Francisco de Quito",
+    "lat": -0.22984999418258667,
+    "lng": -78.52494812011719,
+    "country_code": "EC",
     "paper_count": 1
   },
   {
