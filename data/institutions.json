@@ -5104,6 +5104,14 @@
     "paper_count": 2
   },
   {
+    "id": "https://openalex.org/I47689461",
+    "name": "Northeast Forestry University",
+    "lat": 45.75,
+    "lng": 126.6500015258789,
+    "country_code": "CN",
+    "paper_count": 2
+  },
+  {
     "id": "https://openalex.org/I51783024",
     "name": "Brandenburg University of Technology Cottbus-Senftenberg",
     "lat": 51.52517,
@@ -6141,6 +6149,14 @@
     "lat": 38.73680877685547,
     "lng": -9.140382766723633,
     "country_code": "PT",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I121691239",
+    "name": "Beihua University",
+    "lat": 43.850830078125,
+    "lng": 126.5602798461914,
+    "country_code": "CN",
     "paper_count": 1
   },
   {
@@ -8896,6 +8912,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I202126657",
+    "name": "Qufu Normal University",
+    "lat": 35.5966682434082,
+    "lng": 116.9911117553711,
+    "country_code": "CN",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I202735123",
     "name": "Thi Qar University",
     "lat": 31.0579891204834,
@@ -10333,6 +10357,14 @@
     "lat": 61.22908,
     "lng": 7.09674,
     "country_code": "NO",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I34034455",
+    "name": "Ramakrishna Mission Vivekananda Educational and Research Institute",
+    "lat": 22.56262969970703,
+    "lng": 88.363037109375,
+    "country_code": "IN",
     "paper_count": 1
   },
   {
@@ -12133,6 +12165,14 @@
     "lat": 48.633888244628906,
     "lng": 2.4441699981689453,
     "country_code": "FR",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4210115326",
+    "name": "Swami Vivekanand College of Pharmacy",
+    "lat": 11.365910530090332,
+    "lng": 77.94679260253906,
+    "country_code": "IN",
     "paper_count": 1
   },
   {
@@ -15261,14 +15301,6 @@
     "lat": 40.5142,
     "lng": -88.99063,
     "country_code": "US",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I47689461",
-    "name": "Northeast Forestry University",
-    "lat": 45.75,
-    "lng": 126.6500015258789,
-    "country_code": "CN",
     "paper_count": 1
   },
   {
