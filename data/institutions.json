@@ -13,7 +13,7 @@
     "lat": 39.9075,
     "lng": 116.39723,
     "country_code": "CN",
-    "paper_count": 35
+    "paper_count": 36
   },
   {
     "id": "https://openalex.org/I913481162",
@@ -29,6 +29,14 @@
     "lat": 42.3751,
     "lng": -71.10561,
     "country_code": "US",
+    "paper_count": 17
+  },
+  {
+    "id": "https://openalex.org/I193662353",
+    "name": "Utrecht University",
+    "lat": 52.0908317565918,
+    "lng": 5.122220039367676,
+    "country_code": "NL",
     "paper_count": 17
   },
   {
@@ -56,16 +64,16 @@
     "paper_count": 17
   },
   {
-    "id": "https://openalex.org/I193662353",
-    "name": "Utrecht University",
-    "lat": 52.0908317565918,
-    "lng": 5.122220039367676,
-    "country_code": "NL",
+    "id": "https://openalex.org/I25254941",
+    "name": "Beijing Normal University",
+    "lat": 39.9075,
+    "lng": 116.39723,
+    "country_code": "CN",
     "paper_count": 16
   },
   {
-    "id": "https://openalex.org/I25254941",
-    "name": "Beijing Normal University",
+    "id": "https://openalex.org/I4210165038",
+    "name": "University of Chinese Academy of Sciences",
     "lat": 39.9075,
     "lng": 116.39723,
     "country_code": "CN",
@@ -93,14 +101,6 @@
     "lat": 50.72359848022461,
     "lng": -3.527509927749634,
     "country_code": "GB",
-    "paper_count": 15
-  },
-  {
-    "id": "https://openalex.org/I4210165038",
-    "name": "University of Chinese Academy of Sciences",
-    "lat": 39.9075,
-    "lng": 116.39723,
-    "country_code": "CN",
     "paper_count": 15
   },
   {
@@ -424,6 +424,14 @@
     "paper_count": 8
   },
   {
+    "id": "https://openalex.org/I157725225",
+    "name": "University of Illinois Urbana-Champaign",
+    "lat": 40.11059,
+    "lng": -88.20727,
+    "country_code": "US",
+    "paper_count": 8
+  },
+  {
     "id": "https://openalex.org/I177877127",
     "name": "The University of Western Australia",
     "lat": -31.95224,
@@ -588,14 +596,6 @@
     "name": "Scripps Institution of Oceanography",
     "lat": 32.84727,
     "lng": -117.2742,
-    "country_code": "US",
-    "paper_count": 7
-  },
-  {
-    "id": "https://openalex.org/I157725225",
-    "name": "University of Illinois Urbana-Champaign",
-    "lat": 40.11059,
-    "lng": -88.20727,
     "country_code": "US",
     "paper_count": 7
   },
@@ -1408,6 +1408,14 @@
     "paper_count": 5
   },
   {
+    "id": "https://openalex.org/I926574661",
+    "name": "Leipzig University",
+    "lat": 51.33962,
+    "lng": 12.37129,
+    "country_code": "DE",
+    "paper_count": 5
+  },
+  {
     "id": "https://openalex.org/I95674353",
     "name": "UCLouvain",
     "lat": 50.66828918457031,
@@ -1856,6 +1864,14 @@
     "paper_count": 4
   },
   {
+    "id": "https://openalex.org/I4210110024",
+    "name": "Institute of Applied Ecology",
+    "lat": 41.79222106933594,
+    "lng": 123.43277740478516,
+    "country_code": "CN",
+    "paper_count": 4
+  },
+  {
     "id": "https://openalex.org/I4210114102",
     "name": "Institut Pierre-Simon Laplace",
     "lat": 48.85341,
@@ -1989,14 +2005,6 @@
     "lat": 32.061668395996094,
     "lng": 118.77777862548828,
     "country_code": "CN",
-    "paper_count": 4
-  },
-  {
-    "id": "https://openalex.org/I926574661",
-    "name": "Leipzig University",
-    "lat": 51.33962,
-    "lng": 12.37129,
-    "country_code": "DE",
     "paper_count": 4
   },
   {
@@ -2272,6 +2280,14 @@
     "paper_count": 3
   },
   {
+    "id": "https://openalex.org/I159176309",
+    "name": "Universit\u00e4t Hamburg",
+    "lat": 53.55073,
+    "lng": 9.99302,
+    "country_code": "DE",
+    "paper_count": 3
+  },
+  {
     "id": "https://openalex.org/I159885104",
     "name": "\u00c9cole Pratique des Hautes \u00c9tudes",
     "lat": 48.85341,
@@ -2488,6 +2504,14 @@
     "paper_count": 3
   },
   {
+    "id": "https://openalex.org/I315704651",
+    "name": "Leibniz Association",
+    "lat": 52.52437,
+    "lng": 13.41053,
+    "country_code": "DE",
+    "paper_count": 3
+  },
+  {
     "id": "https://openalex.org/I32625721",
     "name": "University of Saskatchewan",
     "lat": 52.132381439208984,
@@ -2565,14 +2589,6 @@
     "lat": 59.91031265258789,
     "lng": 10.74164867401123,
     "country_code": "NO",
-    "paper_count": 3
-  },
-  {
-    "id": "https://openalex.org/I4210110024",
-    "name": "Institute of Applied Ecology",
-    "lat": 41.79222106933594,
-    "lng": 123.43277740478516,
-    "country_code": "CN",
     "paper_count": 3
   },
   {
@@ -2709,6 +2725,14 @@
     "lat": 33.86848449707031,
     "lng": -118.09716033935547,
     "country_code": "US",
+    "paper_count": 3
+  },
+  {
+    "id": "https://openalex.org/I4210140832",
+    "name": "Terrestrial Ecosystem Research Network",
+    "lat": -27.46794,
+    "lng": 153.02809,
+    "country_code": "AU",
     "paper_count": 3
   },
   {
@@ -3376,6 +3400,14 @@
     "paper_count": 2
   },
   {
+    "id": "https://openalex.org/I13511017",
+    "name": "Texas State University",
+    "lat": 29.883270263671875,
+    "lng": -97.94139099121094,
+    "country_code": "US",
+    "paper_count": 2
+  },
+  {
     "id": "https://openalex.org/I135237710",
     "name": "Zhejiang Normal University",
     "lat": 29.106779098510742,
@@ -3589,14 +3621,6 @@
     "lat": 23.11667,
     "lng": 113.25,
     "country_code": "CN",
-    "paper_count": 2
-  },
-  {
-    "id": "https://openalex.org/I159176309",
-    "name": "Universit\u00e4t Hamburg",
-    "lat": 53.55073,
-    "lng": 9.99302,
-    "country_code": "DE",
     "paper_count": 2
   },
   {
@@ -4216,14 +4240,6 @@
     "paper_count": 2
   },
   {
-    "id": "https://openalex.org/I315704651",
-    "name": "Leibniz Association",
-    "lat": 52.52437,
-    "lng": 13.41053,
-    "country_code": "DE",
-    "paper_count": 2
-  },
-  {
     "id": "https://openalex.org/I31683504",
     "name": "Beijing Forestry University",
     "lat": 39.907501220703125,
@@ -4720,14 +4736,6 @@
     "paper_count": 2
   },
   {
-    "id": "https://openalex.org/I4210140832",
-    "name": "Terrestrial Ecosystem Research Network",
-    "lat": -27.46794,
-    "lng": 153.02809,
-    "country_code": "AU",
-    "paper_count": 2
-  },
-  {
     "id": "https://openalex.org/I4210140884",
     "name": "National Cancer Institute",
     "lat": 38.98067092895508,
@@ -4893,6 +4901,14 @@
     "lat": 19.53124,
     "lng": -96.91589,
     "country_code": "MX",
+    "paper_count": 2
+  },
+  {
+    "id": "https://openalex.org/I4210156488",
+    "name": "Institute of Zoology of the Slovak Academy of Sciences",
+    "lat": 48.14815902709961,
+    "lng": 17.106740951538086,
+    "country_code": "SK",
     "paper_count": 2
   },
   {
@@ -7109,14 +7125,6 @@
     "lat": 45.070491790771484,
     "lng": 7.686820030212402,
     "country_code": "IT",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I13511017",
-    "name": "Texas State University",
-    "lat": 29.883270263671875,
-    "lng": -97.94139099121094,
-    "country_code": "US",
     "paper_count": 1
   },
   {
@@ -14413,14 +14421,6 @@
     "lat": 35.76796340942383,
     "lng": 139.5061798095703,
     "country_code": "JP",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I4210156488",
-    "name": "Institute of Zoology of the Slovak Academy of Sciences",
-    "lat": 48.14815902709961,
-    "lng": 17.106740951538086,
-    "country_code": "SK",
     "paper_count": 1
   },
   {
