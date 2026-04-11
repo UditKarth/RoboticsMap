@@ -1,18 +1,18 @@
 [
   {
-    "id": "https://openalex.org/I1294671590",
-    "name": "Centre National de la Recherche Scientifique",
-    "lat": 48.85341,
-    "lng": 2.3488,
-    "country_code": "FR",
-    "paper_count": 36
-  },
-  {
     "id": "https://openalex.org/I19820366",
     "name": "Chinese Academy of Sciences",
     "lat": 39.9075,
     "lng": 116.39723,
     "country_code": "CN",
+    "paper_count": 37
+  },
+  {
+    "id": "https://openalex.org/I1294671590",
+    "name": "Centre National de la Recherche Scientifique",
+    "lat": 48.85341,
+    "lng": 2.3488,
+    "country_code": "FR",
     "paper_count": 36
   },
   {
@@ -56,6 +56,14 @@
     "paper_count": 17
   },
   {
+    "id": "https://openalex.org/I4210165038",
+    "name": "University of Chinese Academy of Sciences",
+    "lat": 39.9075,
+    "lng": 116.39723,
+    "country_code": "CN",
+    "paper_count": 17
+  },
+  {
     "id": "https://openalex.org/I97018004",
     "name": "Stanford University",
     "lat": 37.42411,
@@ -66,14 +74,6 @@
   {
     "id": "https://openalex.org/I25254941",
     "name": "Beijing Normal University",
-    "lat": 39.9075,
-    "lng": 116.39723,
-    "country_code": "CN",
-    "paper_count": 16
-  },
-  {
-    "id": "https://openalex.org/I4210165038",
-    "name": "University of Chinese Academy of Sciences",
     "lat": 39.9075,
     "lng": 116.39723,
     "country_code": "CN",
@@ -640,6 +640,14 @@
     "paper_count": 7
   },
   {
+    "id": "https://openalex.org/I28407311",
+    "name": "University of Manchester",
+    "lat": 53.48095,
+    "lng": -2.23743,
+    "country_code": "GB",
+    "paper_count": 7
+  },
+  {
     "id": "https://openalex.org/I32597200",
     "name": "Ghent University",
     "lat": 51.05,
@@ -690,6 +698,14 @@
   {
     "id": "https://openalex.org/I4210144289",
     "name": "Research Center for Eco-Environmental Sciences",
+    "lat": 39.907501220703125,
+    "lng": 116.39723205566406,
+    "country_code": "CN",
+    "paper_count": 7
+  },
+  {
+    "id": "https://openalex.org/I4210160793",
+    "name": "Institute of Geographic Sciences and Natural Resources Research",
     "lat": 39.907501220703125,
     "lng": 116.39723205566406,
     "country_code": "CN",
@@ -872,14 +888,6 @@
     "paper_count": 6
   },
   {
-    "id": "https://openalex.org/I28407311",
-    "name": "University of Manchester",
-    "lat": 53.48095,
-    "lng": -2.23743,
-    "country_code": "GB",
-    "paper_count": 6
-  },
-  {
     "id": "https://openalex.org/I32971472",
     "name": "Yale University",
     "lat": 41.30815,
@@ -909,14 +917,6 @@
     "lat": 43.60426,
     "lng": 1.44367,
     "country_code": "FR",
-    "paper_count": 6
-  },
-  {
-    "id": "https://openalex.org/I4210160793",
-    "name": "Institute of Geographic Sciences and Natural Resources Research",
-    "lat": 39.907501220703125,
-    "lng": 116.39723205566406,
-    "country_code": "CN",
     "paper_count": 6
   },
   {
@@ -9560,6 +9560,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I2799725268",
+    "name": "Manchester Academic Health Science Centre",
+    "lat": 53.46327590942383,
+    "lng": -2.238434076309204,
+    "country_code": "GB",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I2799732068",
     "name": "Royal Prince Alfred Hospital",
     "lat": -33.86785,
@@ -10693,6 +10701,14 @@
     "lat": 38.89511,
     "lng": -77.03637,
     "country_code": "US",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4210086287",
+    "name": "Institute of Vertebrate Paleontology and Paleoanthropology",
+    "lat": 39.93597412109375,
+    "lng": 116.32583618164062,
+    "country_code": "CN",
     "paper_count": 1
   },
   {
@@ -13664,6 +13680,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I4210140019",
+    "name": "Istituto Nazionale per le Ricerche Cardiovascolari",
+    "lat": 44.49992370605469,
+    "lng": 11.349794387817383,
+    "country_code": "IT",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I4210140326",
     "name": "Centre for Economic Policy Research",
     "lat": 51.50853,
@@ -15336,6 +15360,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I45204951",
+    "name": "University of Calabria",
+    "lat": 39.331539154052734,
+    "lng": 16.180410385131836,
+    "country_code": "IT",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I45487847",
     "name": "Chattogram Veterinary and Animal Sciences University",
     "lat": 22.33839988708496,
@@ -16373,6 +16405,14 @@
     "lat": 14.654861450195312,
     "lng": 121.06446838378906,
     "country_code": "PH",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I87253917",
+    "name": "Manchester University",
+    "lat": 41.13059997558594,
+    "lng": -85.12886047363281,
+    "country_code": "US",
     "paper_count": 1
   },
   {
