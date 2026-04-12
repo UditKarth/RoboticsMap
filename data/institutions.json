@@ -29,7 +29,7 @@
     "lat": 42.3751,
     "lng": -71.10561,
     "country_code": "US",
-    "paper_count": 17
+    "paper_count": 18
   },
   {
     "id": "https://openalex.org/I193662353",
@@ -352,6 +352,14 @@
     "paper_count": 9
   },
   {
+    "id": "https://openalex.org/I5023651",
+    "name": "McGill University",
+    "lat": 45.50884,
+    "lng": -73.58781,
+    "country_code": "CA",
+    "paper_count": 9
+  },
+  {
     "id": "https://openalex.org/I5681781",
     "name": "The University of Adelaide",
     "lat": -34.92866,
@@ -493,14 +501,6 @@
     "lat": 54.32133,
     "lng": 10.13489,
     "country_code": "DE",
-    "paper_count": 8
-  },
-  {
-    "id": "https://openalex.org/I5023651",
-    "name": "McGill University",
-    "lat": 45.50884,
-    "lng": -73.58781,
-    "country_code": "CA",
     "paper_count": 8
   },
   {
@@ -1832,6 +1832,14 @@
     "paper_count": 4
   },
   {
+    "id": "https://openalex.org/I4210087915",
+    "name": "Massachusetts General Hospital",
+    "lat": 42.358428955078125,
+    "lng": -71.05976867675781,
+    "country_code": "US",
+    "paper_count": 4
+  },
+  {
     "id": "https://openalex.org/I4210103115",
     "name": "Xinjiang Institute of Ecology and Geography",
     "lat": 43.800960540771484,
@@ -2557,14 +2565,6 @@
     "lat": 52.48136520385742,
     "lng": 13.355925559997559,
     "country_code": "DE",
-    "paper_count": 3
-  },
-  {
-    "id": "https://openalex.org/I4210087915",
-    "name": "Massachusetts General Hospital",
-    "lat": 42.358428955078125,
-    "lng": -71.05976867675781,
-    "country_code": "US",
     "paper_count": 3
   },
   {
@@ -6013,6 +6013,14 @@
     "lat": 40.8,
     "lng": -96.66696,
     "country_code": "US",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I114531698",
+    "name": "Tokyo Institute of Technology",
+    "lat": 35.68949890136719,
+    "lng": 139.69171142578125,
+    "country_code": "JP",
     "paper_count": 1
   },
   {
@@ -10820,6 +10828,14 @@
     "name": "Kyoto Bunkyo University",
     "lat": 34.91570281982422,
     "lng": 135.78460693359375,
+    "country_code": "JP",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4210088202",
+    "name": "Tokyo Institute of Psychiatry",
+    "lat": 35.68949890136719,
+    "lng": 139.69171142578125,
     "country_code": "JP",
     "paper_count": 1
   },
