@@ -5,7 +5,7 @@
     "lat": 39.9075,
     "lng": 116.39723,
     "country_code": "CN",
-    "paper_count": 37
+    "paper_count": 38
   },
   {
     "id": "https://openalex.org/I1294671590",
@@ -13,7 +13,7 @@
     "lat": 48.85341,
     "lng": 2.3488,
     "country_code": "FR",
-    "paper_count": 36
+    "paper_count": 37
   },
   {
     "id": "https://openalex.org/I913481162",
@@ -1512,6 +1512,14 @@
     "paper_count": 4
   },
   {
+    "id": "https://openalex.org/I1283280774",
+    "name": "Brigham and Women's Hospital",
+    "lat": 42.358428955078125,
+    "lng": -71.05976867675781,
+    "country_code": "US",
+    "paper_count": 4
+  },
+  {
     "id": "https://openalex.org/I1293035123",
     "name": "Met Office",
     "lat": 50.7236,
@@ -2120,14 +2128,6 @@
     "paper_count": 3
   },
   {
-    "id": "https://openalex.org/I1283280774",
-    "name": "Brigham and Women's Hospital",
-    "lat": 42.358428955078125,
-    "lng": -71.05976867675781,
-    "country_code": "US",
-    "paper_count": 3
-  },
-  {
     "id": "https://openalex.org/I1293066303",
     "name": "Meise Botanic Garden",
     "lat": 50.93933868408203,
@@ -2656,6 +2656,14 @@
     "paper_count": 3
   },
   {
+    "id": "https://openalex.org/I4210120109",
+    "name": "Museo Nacional de Ciencias Naturales",
+    "lat": 40.416500091552734,
+    "lng": -3.7025599479675293,
+    "country_code": "ES",
+    "paper_count": 3
+  },
+  {
     "id": "https://openalex.org/I4210120696",
     "name": "South China Botanical Garden",
     "lat": 23.116670608520508,
@@ -3165,6 +3173,14 @@
     "lat": 34.05223,
     "lng": -118.24368,
     "country_code": "US",
+    "paper_count": 2
+  },
+  {
+    "id": "https://openalex.org/I121748325",
+    "name": "Universidad Complutense de Madrid",
+    "lat": 40.4165,
+    "lng": -3.70256,
+    "country_code": "ES",
     "paper_count": 2
   },
   {
@@ -3864,6 +3880,14 @@
     "paper_count": 2
   },
   {
+    "id": "https://openalex.org/I189268942",
+    "name": "Universidad de Alcal\u00e1",
+    "lat": 40.482051849365234,
+    "lng": -3.3599600791931152,
+    "country_code": "ES",
+    "paper_count": 2
+  },
+  {
     "id": "https://openalex.org/I191240316",
     "name": "University of Hull",
     "lat": 53.744598388671875,
@@ -4336,6 +4360,14 @@
     "paper_count": 2
   },
   {
+    "id": "https://openalex.org/I4210086287",
+    "name": "Institute of Vertebrate Paleontology and Paleoanthropology",
+    "lat": 39.93597412109375,
+    "lng": 116.32583618164062,
+    "country_code": "CN",
+    "paper_count": 2
+  },
+  {
     "id": "https://openalex.org/I4210086892",
     "name": "Education University of Hong Kong",
     "lat": 22.450069427490234,
@@ -4637,14 +4669,6 @@
     "lat": 42.358428955078125,
     "lng": -71.05976867675781,
     "country_code": "US",
-    "paper_count": 2
-  },
-  {
-    "id": "https://openalex.org/I4210120109",
-    "name": "Museo Nacional de Ciencias Naturales",
-    "lat": 40.416500091552734,
-    "lng": -3.7025599479675293,
-    "country_code": "ES",
     "paper_count": 2
   },
   {
@@ -5248,6 +5272,14 @@
     "paper_count": 2
   },
   {
+    "id": "https://openalex.org/I55952717",
+    "name": "Universitat Rovira i Virgili",
+    "lat": 41.11905,
+    "lng": 1.24544,
+    "country_code": "ES",
+    "paper_count": 2
+  },
+  {
     "id": "https://openalex.org/I57092466",
     "name": "Bahir Dar University",
     "lat": 11.574325561523438,
@@ -5517,6 +5549,14 @@
     "lat": -23.5475,
     "lng": -46.63611,
     "country_code": "BR",
+    "paper_count": 2
+  },
+  {
+    "id": "https://openalex.org/I8833935",
+    "name": "Universidad de Le\u00f3n",
+    "lat": 42.60002899169922,
+    "lng": -5.570320129394531,
+    "country_code": "ES",
     "paper_count": 2
   },
   {
@@ -6232,14 +6272,6 @@
     "paper_count": 1
   },
   {
-    "id": "https://openalex.org/I121748325",
-    "name": "Universidad Complutense de Madrid",
-    "lat": 40.4165,
-    "lng": -3.70256,
-    "country_code": "ES",
-    "paper_count": 1
-  },
-  {
     "id": "https://openalex.org/I121750182",
     "name": "National Institute of Technology Warangal",
     "lat": 18.0,
@@ -6565,6 +6597,14 @@
     "lat": 33.76172637939453,
     "lng": -84.39102935791016,
     "country_code": "US",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I1288451689",
+    "name": "Real Academia Espa\u00f1ola",
+    "lat": 40.414920806884766,
+    "lng": -3.6911730766296387,
+    "country_code": "ES",
     "paper_count": 1
   },
   {
@@ -7696,6 +7736,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I158438070",
+    "name": "Universidad de La Laguna",
+    "lat": 28.4853,
+    "lng": -16.32014,
+    "country_code": "ES",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I158842170",
     "name": "Chongqing University",
     "lat": 29.560260772705078,
@@ -7981,6 +8029,14 @@
     "lat": 13.35,
     "lng": 74.78333,
     "country_code": "IN",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I165339363",
+    "name": "Universidad de Oviedo",
+    "lat": 43.36029052734375,
+    "lng": -5.844759941101074,
+    "country_code": "ES",
     "paper_count": 1
   },
   {
@@ -8557,14 +8613,6 @@
     "lat": 32.94083023071289,
     "lng": 117.36083221435547,
     "country_code": "CN",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I189268942",
-    "name": "Universidad de Alcal\u00e1",
-    "lat": 40.482051849365234,
-    "lng": -3.3599600791931152,
-    "country_code": "ES",
     "paper_count": 1
   },
   {
@@ -10400,6 +10448,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I32881790",
+    "name": "Universit\u00e9 de Poitiers",
+    "lat": 46.58261,
+    "lng": 0.34348,
+    "country_code": "FR",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I33459947",
     "name": "Charotar University of Science and Technology",
     "lat": 22.552509307861328,
@@ -10709,14 +10765,6 @@
     "lat": 38.89511,
     "lng": -77.03637,
     "country_code": "US",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I4210086287",
-    "name": "Institute of Vertebrate Paleontology and Paleoanthropology",
-    "lat": 39.93597412109375,
-    "lng": 116.32583618164062,
-    "country_code": "CN",
     "paper_count": 1
   },
   {
@@ -11736,6 +11784,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I4210105802",
+    "name": "Instituto de Historia",
+    "lat": 40.416500091552734,
+    "lng": -3.7025599479675293,
+    "country_code": "ES",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I4210105893",
     "name": "Global Science & Technology (United States)",
     "lat": 38.99870300292969,
@@ -12000,6 +12056,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I4210110699",
+    "name": "Museo de San Isidro",
+    "lat": 40.412254333496094,
+    "lng": -3.711035966873169,
+    "country_code": "ES",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I4210110723",
     "name": "Hunan Academy of Agricultural Sciences",
     "lat": 28.198740005493164,
@@ -12165,6 +12229,14 @@
     "lat": 45.1787,
     "lng": 5.76281,
     "country_code": "FR",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4210113357",
+    "name": "Institut Catal\u00e0 de Paleoecologia Humana i Evoluci\u00f3 Social",
+    "lat": 41.119049072265625,
+    "lng": 1.2454400062561035,
+    "country_code": "ES",
     "paper_count": 1
   },
   {
@@ -13088,6 +13160,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I4210130277",
+    "name": "National Archaeological Museum of Spain",
+    "lat": 40.416500091552734,
+    "lng": -3.7025599479675293,
+    "country_code": "ES",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I4210130303",
     "name": "HM Prison and Probation Service",
     "lat": 51.50852966308594,
@@ -13413,6 +13493,14 @@
     "lat": 46.51599884033203,
     "lng": 6.632820129394531,
     "country_code": "CH",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4210135169",
+    "name": "Institut de Biologia Evolutiva",
+    "lat": 41.38879,
+    "lng": 2.15899,
+    "country_code": "ES",
     "paper_count": 1
   },
   {
@@ -15392,6 +15480,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I46176106",
+    "name": "Universidad de Burgos",
+    "lat": 42.341060638427734,
+    "lng": -3.7018399238586426,
+    "country_code": "ES",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I46305939",
     "name": "University of Zielona G\u00f3ra",
     "lat": 51.93547821044922,
@@ -15621,14 +15717,6 @@
     "lat": 30.319089889526367,
     "lng": 120.36405181884766,
     "country_code": "CN",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I55952717",
-    "name": "Universitat Rovira i Virgili",
-    "lat": 41.11905,
-    "lng": 1.24544,
-    "country_code": "ES",
     "paper_count": 1
   },
   {
@@ -16021,6 +16109,14 @@
     "lat": -34.90328,
     "lng": -56.18816,
     "country_code": "UY",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I71503853",
+    "name": "University of Algarve",
+    "lat": 37.01869,
+    "lng": -7.92716,
+    "country_code": "PT",
     "paper_count": 1
   },
   {
@@ -16501,14 +16597,6 @@
     "lat": -23.547500610351562,
     "lng": -46.6361083984375,
     "country_code": "BR",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I8833935",
-    "name": "Universidad de Le\u00f3n",
-    "lat": 42.60002899169922,
-    "lng": -5.570320129394531,
-    "country_code": "ES",
     "paper_count": 1
   },
   {
