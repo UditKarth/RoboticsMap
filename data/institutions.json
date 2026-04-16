@@ -1896,6 +1896,14 @@
     "paper_count": 4
   },
   {
+    "id": "https://openalex.org/I4210123196",
+    "name": "Zhejiang Environmental Monitoring Center",
+    "lat": 30.279094696044922,
+    "lng": 120.12830352783203,
+    "country_code": "CN",
+    "paper_count": 4
+  },
+  {
     "id": "https://openalex.org/I4210133469",
     "name": "NSF NCAR Climate and Global Dynamics Laboratory",
     "lat": 40.01499,
@@ -2688,19 +2696,19 @@
     "paper_count": 3
   },
   {
-    "id": "https://openalex.org/I4210123196",
-    "name": "Zhejiang Environmental Monitoring Center",
-    "lat": 30.279094696044922,
-    "lng": 120.12830352783203,
-    "country_code": "CN",
-    "paper_count": 3
-  },
-  {
     "id": "https://openalex.org/I4210124598",
     "name": "Palo Alto Institute",
     "lat": 37.44709777832031,
     "lng": -122.16151428222656,
     "country_code": "US",
+    "paper_count": 3
+  },
+  {
+    "id": "https://openalex.org/I4210126939",
+    "name": "ZheJiang Academy of Agricultural Sciences",
+    "lat": 30.293649673461914,
+    "lng": 120.16142272949219,
+    "country_code": "CN",
     "paper_count": 3
   },
   {
@@ -4448,6 +4456,14 @@
     "paper_count": 2
   },
   {
+    "id": "https://openalex.org/I4210091192",
+    "name": "Zhejiang Zanyu Technology (China)",
+    "lat": 30.24183464050293,
+    "lng": 120.17568969726562,
+    "country_code": "CN",
+    "paper_count": 2
+  },
+  {
     "id": "https://openalex.org/I4210091490",
     "name": "Ecologie, Soci\u00e9t\u00e9, Evolution",
     "lat": 48.69572,
@@ -4688,6 +4704,14 @@
     "paper_count": 2
   },
   {
+    "id": "https://openalex.org/I4210123185",
+    "name": "Zhejiang Lab",
+    "lat": 30.271240234375,
+    "lng": 119.96514892578125,
+    "country_code": "CN",
+    "paper_count": 2
+  },
+  {
     "id": "https://openalex.org/I4210123392",
     "name": "Beijing Municipal Ecological and Environmental Monitoring Center",
     "lat": 39.9320182800293,
@@ -4701,14 +4725,6 @@
     "lat": -19.26639,
     "lng": 146.80569,
     "country_code": "AU",
-    "paper_count": 2
-  },
-  {
-    "id": "https://openalex.org/I4210126939",
-    "name": "ZheJiang Academy of Agricultural Sciences",
-    "lat": 30.293649673461914,
-    "lng": 120.16142272949219,
-    "country_code": "CN",
     "paper_count": 2
   },
   {
@@ -7968,6 +7984,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I163151501",
+    "name": "Hangzhou Normal University",
+    "lat": 30.293649673461914,
+    "lng": 120.16142272949219,
+    "country_code": "CN",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I1632182",
     "name": "Konrad Lorenz Institute for Evolution and Cognition Research",
     "lat": 48.30521,
@@ -11032,14 +11056,6 @@
     "paper_count": 1
   },
   {
-    "id": "https://openalex.org/I4210091192",
-    "name": "Zhejiang Zanyu Technology (China)",
-    "lat": 30.24183464050293,
-    "lng": 120.17568969726562,
-    "country_code": "CN",
-    "paper_count": 1
-  },
-  {
     "id": "https://openalex.org/I4210091267",
     "name": "\u0130stanbul Geli\u015fim \u00dcniversitesi",
     "lat": 41.01384,
@@ -12796,14 +12812,6 @@
     "name": "Chongqing Institute of Green and Intelligent Technology",
     "lat": 29.560260772705078,
     "lng": 106.55770874023438,
-    "country_code": "CN",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I4210123185",
-    "name": "Zhejiang Lab",
-    "lat": 30.271240234375,
-    "lng": 119.96514892578125,
     "country_code": "CN",
     "paper_count": 1
   },
