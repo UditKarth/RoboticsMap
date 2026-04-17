@@ -5,7 +5,7 @@
     "lat": 39.9075,
     "lng": 116.39723,
     "country_code": "CN",
-    "paper_count": 38
+    "paper_count": 39
   },
   {
     "id": "https://openalex.org/I1294671590",
@@ -32,6 +32,14 @@
     "paper_count": 18
   },
   {
+    "id": "https://openalex.org/I4210165038",
+    "name": "University of Chinese Academy of Sciences",
+    "lat": 39.9075,
+    "lng": 116.39723,
+    "country_code": "CN",
+    "paper_count": 18
+  },
+  {
     "id": "https://openalex.org/I193662353",
     "name": "Utrecht University",
     "lat": 52.0908317565918,
@@ -53,14 +61,6 @@
     "lat": 48.85341,
     "lng": 2.3488,
     "country_code": "FR",
-    "paper_count": 17
-  },
-  {
-    "id": "https://openalex.org/I4210165038",
-    "name": "University of Chinese Academy of Sciences",
-    "lat": 39.9075,
-    "lng": 116.39723,
-    "country_code": "CN",
     "paper_count": 17
   },
   {
@@ -504,6 +504,14 @@
     "paper_count": 8
   },
   {
+    "id": "https://openalex.org/I4210160793",
+    "name": "Institute of Geographic Sciences and Natural Resources Research",
+    "lat": 39.907501220703125,
+    "lng": 116.39723205566406,
+    "country_code": "CN",
+    "paper_count": 8
+  },
+  {
     "id": "https://openalex.org/I63525965",
     "name": "Western Sydney University",
     "lat": -33.59955978393555,
@@ -698,14 +706,6 @@
   {
     "id": "https://openalex.org/I4210144289",
     "name": "Research Center for Eco-Environmental Sciences",
-    "lat": 39.907501220703125,
-    "lng": 116.39723205566406,
-    "country_code": "CN",
-    "paper_count": 7
-  },
-  {
-    "id": "https://openalex.org/I4210160793",
-    "name": "Institute of Geographic Sciences and Natural Resources Research",
     "lat": 39.907501220703125,
     "lng": 116.39723205566406,
     "country_code": "CN",
@@ -976,6 +976,14 @@
     "paper_count": 6
   },
   {
+    "id": "https://openalex.org/I74656192",
+    "name": "University of G\u00f6ttingen",
+    "lat": 51.53443,
+    "lng": 9.93228,
+    "country_code": "DE",
+    "paper_count": 6
+  },
+  {
     "id": "https://openalex.org/I76130692",
     "name": "Zhejiang University",
     "lat": 30.29365,
@@ -1184,6 +1192,14 @@
     "paper_count": 5
   },
   {
+    "id": "https://openalex.org/I204823248",
+    "name": "Huazhong Agricultural University",
+    "lat": 30.583330154418945,
+    "lng": 114.26667022705078,
+    "country_code": "CN",
+    "paper_count": 5
+  },
+  {
     "id": "https://openalex.org/I207014233",
     "name": "Kyushu Institute of Technology",
     "lat": 33.851810455322266,
@@ -1312,6 +1328,14 @@
     "paper_count": 5
   },
   {
+    "id": "https://openalex.org/I4210151987",
+    "name": "Ministry of Agriculture and Rural Affairs",
+    "lat": 39.9075,
+    "lng": 116.39723,
+    "country_code": "CN",
+    "paper_count": 5
+  },
+  {
     "id": "https://openalex.org/I4210158097",
     "name": "Institute of Botany",
     "lat": 39.907501220703125,
@@ -1365,14 +1389,6 @@
     "lat": -53.15483,
     "lng": -70.91129,
     "country_code": "CL",
-    "paper_count": 5
-  },
-  {
-    "id": "https://openalex.org/I74656192",
-    "name": "University of G\u00f6ttingen",
-    "lat": 51.53443,
-    "lng": 9.93228,
-    "country_code": "DE",
     "paper_count": 5
   },
   {
@@ -1768,14 +1784,6 @@
     "paper_count": 4
   },
   {
-    "id": "https://openalex.org/I204823248",
-    "name": "Huazhong Agricultural University",
-    "lat": 30.583330154418945,
-    "lng": 114.26667022705078,
-    "country_code": "CN",
-    "paper_count": 4
-  },
-  {
     "id": "https://openalex.org/I223822909",
     "name": "Heidelberg University",
     "lat": 49.40768,
@@ -1925,6 +1933,14 @@
     "lat": 35.734352111816406,
     "lng": 139.72683715820312,
     "country_code": "JP",
+    "paper_count": 4
+  },
+  {
+    "id": "https://openalex.org/I4210149102",
+    "name": "Sanya University",
+    "lat": 18.32860565185547,
+    "lng": 109.55880737304688,
+    "country_code": "CN",
     "paper_count": 4
   },
   {
@@ -2480,6 +2496,14 @@
     "paper_count": 3
   },
   {
+    "id": "https://openalex.org/I20942203",
+    "name": "Hainan University",
+    "lat": 20.034210205078125,
+    "lng": 110.34651184082031,
+    "country_code": "CN",
+    "paper_count": 3
+  },
+  {
     "id": "https://openalex.org/I21250087",
     "name": "Charles University",
     "lat": 50.08804,
@@ -2696,6 +2720,14 @@
     "paper_count": 3
   },
   {
+    "id": "https://openalex.org/I4210123392",
+    "name": "Beijing Municipal Ecological and Environmental Monitoring Center",
+    "lat": 39.9320182800293,
+    "lng": 116.32417297363281,
+    "country_code": "CN",
+    "paper_count": 3
+  },
+  {
     "id": "https://openalex.org/I4210124598",
     "name": "Palo Alto Institute",
     "lat": 37.44709777832031,
@@ -2792,27 +2824,11 @@
     "paper_count": 3
   },
   {
-    "id": "https://openalex.org/I4210149102",
-    "name": "Sanya University",
-    "lat": 18.32860565185547,
-    "lng": 109.55880737304688,
-    "country_code": "CN",
-    "paper_count": 3
-  },
-  {
     "id": "https://openalex.org/I4210150845",
     "name": "Department of Biodiversity, Conservation and Attractions",
     "lat": -31.996131896972656,
     "lng": 115.88388061523438,
     "country_code": "AU",
-    "paper_count": 3
-  },
-  {
-    "id": "https://openalex.org/I4210151987",
-    "name": "Ministry of Agriculture and Rural Affairs",
-    "lat": 39.9075,
-    "lng": 116.39723,
-    "country_code": "CN",
     "paper_count": 3
   },
   {
@@ -4064,14 +4080,6 @@
     "paper_count": 2
   },
   {
-    "id": "https://openalex.org/I20942203",
-    "name": "Hainan University",
-    "lat": 20.034210205078125,
-    "lng": 110.34651184082031,
-    "country_code": "CN",
-    "paper_count": 2
-  },
-  {
     "id": "https://openalex.org/I211433327",
     "name": "Ministry of Natural Resources",
     "lat": 39.9075,
@@ -4712,14 +4720,6 @@
     "paper_count": 2
   },
   {
-    "id": "https://openalex.org/I4210123392",
-    "name": "Beijing Municipal Ecological and Environmental Monitoring Center",
-    "lat": 39.9320182800293,
-    "lng": 116.32417297363281,
-    "country_code": "CN",
-    "paper_count": 2
-  },
-  {
     "id": "https://openalex.org/I4210126179",
     "name": "ARC Centre of Excellence for Coral Reef Studies",
     "lat": -19.26639,
@@ -4772,6 +4772,14 @@
     "name": "Nanjing Institute of Geography and Limnology",
     "lat": 32.061668395996094,
     "lng": 118.77777862548828,
+    "country_code": "CN",
+    "paper_count": 2
+  },
+  {
+    "id": "https://openalex.org/I4210134523",
+    "name": "State Forestry and Grassland Administration",
+    "lat": 39.9075,
+    "lng": 116.39723,
     "country_code": "CN",
     "paper_count": 2
   },
@@ -8944,6 +8952,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I198645480",
+    "name": "North China University of Water Resources and Electric Power",
+    "lat": 34.75778,
+    "lng": 113.64861,
+    "country_code": "CN",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I199140397",
     "name": "Sri Guru Granth Sahib World University",
     "lat": 30.647640228271484,
@@ -9045,6 +9061,14 @@
     "lat": 35.5966682434082,
     "lng": 116.9911117553711,
     "country_code": "CN",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I202262619",
+    "name": "United Nations Environment Programme",
+    "lat": -1.28333,
+    "lng": 36.81667,
+    "country_code": "KE",
     "paper_count": 1
   },
   {
@@ -12136,6 +12160,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I4210111524",
+    "name": "Department of Ecology and Environment of Hainan Province",
+    "lat": 20.020347595214844,
+    "lng": 110.37554168701172,
+    "country_code": "CN",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I4210111564",
     "name": "Melnikov Permafrost Institute of the Siberian Branch of the Russian Academy of Science",
     "lat": 62.011112213134766,
@@ -13428,14 +13460,6 @@
     "name": "Anhui Institute of Optics and Fine Mechanics",
     "lat": 31.908193588256836,
     "lng": 117.15845489501953,
-    "country_code": "CN",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I4210134523",
-    "name": "State Forestry and Grassland Administration",
-    "lat": 39.9075,
-    "lng": 116.39723,
     "country_code": "CN",
     "paper_count": 1
   },
