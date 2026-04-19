@@ -4704,6 +4704,14 @@
     "paper_count": 2
   },
   {
+    "id": "https://openalex.org/I4210119417",
+    "name": "Universit\u00e9 d'Abomey-Calavi",
+    "lat": 6.36536,
+    "lng": 2.41833,
+    "country_code": "BJ",
+    "paper_count": 2
+  },
+  {
     "id": "https://openalex.org/I4210122612",
     "name": "Chinese Academy for Environmental Planning",
     "lat": 40.019859313964844,
@@ -7064,6 +7072,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I1329536732",
+    "name": "School of Planning and Architecture Delhi",
+    "lat": 28.621370315551758,
+    "lng": 77.21479797363281,
+    "country_code": "IN",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I1330665745",
     "name": "Energy Institute",
     "lat": 51.50853,
@@ -8829,6 +8845,14 @@
     "lat": 7.96472,
     "lng": -11.73833,
     "country_code": "SL",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I195893879",
+    "name": "National Agricultural Research Institute",
+    "lat": -6.715497016906738,
+    "lng": 146.99874877929688,
+    "country_code": "PG",
     "paper_count": 1
   },
   {
@@ -10621,6 +10645,14 @@
     "lat": 52.22977066040039,
     "lng": 21.01177978515625,
     "country_code": "PL",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I36909309",
+    "name": "National Institute of Technology Hamirpur",
+    "lat": 31.71194,
+    "lng": 76.93273,
+    "country_code": "IN",
     "paper_count": 1
   },
   {
@@ -12589,14 +12621,6 @@
     "lat": 26.061389923095703,
     "lng": 119.30610656738281,
     "country_code": "CN",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I4210119417",
-    "name": "Universit\u00e9 d'Abomey-Calavi",
-    "lat": 6.36536,
-    "lng": 2.41833,
-    "country_code": "BJ",
     "paper_count": 1
   },
   {
@@ -14616,6 +14640,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I4210155436",
+    "name": "Progamme National Contre le Tuberculose",
+    "lat": 6.36915397644043,
+    "lng": 2.3915319442749023,
+    "country_code": "BJ",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I4210155611",
     "name": "Ministry of Water Resources of the People's Republic of China",
     "lat": 39.907501220703125,
@@ -15621,6 +15653,14 @@
     "lat": 56.01839065551758,
     "lng": 92.86717224121094,
     "country_code": "RU",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I48615539",
+    "name": "Universit\u00e9 F\u00e9lix Houphou\u00ebt-Boigny",
+    "lat": 5.346921920776367,
+    "lng": -3.9853780269622803,
+    "country_code": "CI",
     "paper_count": 1
   },
   {
@@ -16733,6 +16773,14 @@
     "lat": 30.91204071044922,
     "lng": 75.85379028320312,
     "country_code": "IN",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I90060838",
+    "name": "Africa Rice Center",
+    "lat": 5.33507,
+    "lng": -4.0039,
+    "country_code": "CI",
     "paper_count": 1
   },
   {
