@@ -184,6 +184,14 @@
     "paper_count": 12
   },
   {
+    "id": "https://openalex.org/I205783295",
+    "name": "Cornell University",
+    "lat": 42.44063,
+    "lng": -76.49661,
+    "country_code": "US",
+    "paper_count": 12
+  },
+  {
     "id": "https://openalex.org/I36258959",
     "name": "University of California San Diego",
     "lat": 32.71571,
@@ -220,14 +228,6 @@
     "name": "University of Colorado Boulder",
     "lat": 40.014991760253906,
     "lng": -105.27055358886719,
-    "country_code": "US",
-    "paper_count": 11
-  },
-  {
-    "id": "https://openalex.org/I205783295",
-    "name": "Cornell University",
-    "lat": 42.44063,
-    "lng": -76.49661,
     "country_code": "US",
     "paper_count": 11
   },
@@ -1384,6 +1384,14 @@
     "paper_count": 5
   },
   {
+    "id": "https://openalex.org/I61623833",
+    "name": "University of Agriculture Faisalabad",
+    "lat": 31.41554,
+    "lng": 73.08969,
+    "country_code": "PK",
+    "paper_count": 5
+  },
+  {
     "id": "https://openalex.org/I62916508",
     "name": "Technical University of Munich",
     "lat": 48.13743,
@@ -1997,14 +2005,6 @@
     "lat": 39.96118,
     "lng": -82.99879,
     "country_code": "US",
-    "paper_count": 4
-  },
-  {
-    "id": "https://openalex.org/I61623833",
-    "name": "University of Agriculture Faisalabad",
-    "lat": 31.41554,
-    "lng": 73.08969,
-    "country_code": "PK",
     "paper_count": 4
   },
   {
@@ -3872,6 +3872,14 @@
     "paper_count": 2
   },
   {
+    "id": "https://openalex.org/I181063083",
+    "name": "Abdul Wali Khan University Mardan",
+    "lat": 34.19080352783203,
+    "lng": 72.03687286376953,
+    "country_code": "PK",
+    "paper_count": 2
+  },
+  {
     "id": "https://openalex.org/I181343428",
     "name": "University of Zagreb",
     "lat": 45.81444,
@@ -3964,6 +3972,14 @@
     "name": "Jilin University",
     "lat": 43.88,
     "lng": 125.32278,
+    "country_code": "CN",
+    "paper_count": 2
+  },
+  {
+    "id": "https://openalex.org/I195019228",
+    "name": "Yunnan Agricultural University",
+    "lat": 25.038890838623047,
+    "lng": 102.71833038330078,
     "country_code": "CN",
     "paper_count": 2
   },
@@ -7824,6 +7840,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I15823474",
+    "name": "Linyi University",
+    "lat": 35.06306076049805,
+    "lng": 118.34278106689453,
+    "country_code": "CN",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I158438070",
     "name": "Universidad de La Laguna",
     "lat": 28.4853,
@@ -8376,6 +8400,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I174731842",
+    "name": "Islamia University of Bahawalpur",
+    "lat": 29.998350143432617,
+    "lng": 73.25272369384766,
+    "country_code": "PK",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I175124709",
     "name": "S\u00fcleyman Demirel University",
     "lat": 37.76443862915039,
@@ -8421,6 +8453,14 @@
     "lat": -31.952239990234375,
     "lng": 115.86139678955078,
     "country_code": "AU",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I177156846",
+    "name": "South Dakota State University",
+    "lat": 44.31135940551758,
+    "lng": -96.79839324951172,
+    "country_code": "US",
     "paper_count": 1
   },
   {
@@ -8472,6 +8512,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I179026463",
+    "name": "Beijing Technology and Business University",
+    "lat": 39.720340728759766,
+    "lng": 116.16999816894531,
+    "country_code": "CN",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I179097149",
     "name": "University of Carthage",
     "lat": 36.81897,
@@ -8517,14 +8565,6 @@
     "lat": 41.85002899169922,
     "lng": -87.6500473022461,
     "country_code": "US",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I181063083",
-    "name": "Abdul Wali Khan University Mardan",
-    "lat": 34.19080352783203,
-    "lng": 72.03687286376953,
-    "country_code": "PK",
     "paper_count": 1
   },
   {
@@ -8840,6 +8880,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I193670377",
+    "name": "University of Karachi",
+    "lat": 24.86079978942871,
+    "lng": 67.0103988647461,
+    "country_code": "PK",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I194028371",
     "name": "University of Regina",
     "lat": 50.45008087158203,
@@ -8869,14 +8917,6 @@
     "lat": 29.610309600830078,
     "lng": 52.531131744384766,
     "country_code": "IR",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I195019228",
-    "name": "Yunnan Agricultural University",
-    "lat": 25.038890838623047,
-    "lng": 102.71833038330078,
-    "country_code": "CN",
     "paper_count": 1
   },
   {
@@ -10368,6 +10408,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I2990669260",
+    "name": "Shaikh Zayed Medical College and Hospital",
+    "lat": 28.416715621948242,
+    "lng": 70.32157135009766,
+    "country_code": "PK",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I3017594750",
     "name": "Microbiologie de l\u2019alimentation au service de la sant\u00e9",
     "lat": 48.69572067260742,
@@ -11344,6 +11392,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I4210092791",
+    "name": "New York State College of Agriculture & Life Sciences",
+    "lat": 42.44063186645508,
+    "lng": -76.49661254882812,
+    "country_code": "US",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I4210092824",
     "name": "Instituto de la Grasa",
     "lat": 37.38283157348633,
@@ -11757,6 +11813,14 @@
     "lat": 40.7194938659668,
     "lng": -73.42781066894531,
     "country_code": "US",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4210102737",
+    "name": "Khwaja Fareed University of Engineering and Information Technology",
+    "lat": 28.419870376586914,
+    "lng": 70.30345153808594,
+    "country_code": "PK",
     "paper_count": 1
   },
   {
@@ -14072,6 +14136,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I4210142599",
+    "name": "University of Swabi",
+    "lat": 34.05910110473633,
+    "lng": 72.40904235839844,
+    "country_code": "PK",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I4210142708",
     "name": "Singapore Centre for Environmental Life Sciences Engineering",
     "lat": 1.3451199531555176,
@@ -15445,6 +15517,14 @@
     "lat": 48.85341,
     "lng": 2.3488,
     "country_code": "FR",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4387154749",
+    "name": "University of Poonch Rawalakot",
+    "lat": 33.857818603515625,
+    "lng": 73.76042938232422,
+    "country_code": "",
     "paper_count": 1
   },
   {
