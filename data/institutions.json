@@ -32,6 +32,14 @@
     "paper_count": 18
   },
   {
+    "id": "https://openalex.org/I35440088",
+    "name": "ETH Zurich",
+    "lat": 47.36667,
+    "lng": 8.55,
+    "country_code": "CH",
+    "paper_count": 18
+  },
+  {
     "id": "https://openalex.org/I4210165038",
     "name": "University of Chinese Academy of Sciences",
     "lat": 39.9075,
@@ -45,14 +53,6 @@
     "lat": 52.0908317565918,
     "lng": 5.122220039367676,
     "country_code": "NL",
-    "paper_count": 17
-  },
-  {
-    "id": "https://openalex.org/I35440088",
-    "name": "ETH Zurich",
-    "lat": 47.36667,
-    "lng": 8.55,
-    "country_code": "CH",
     "paper_count": 17
   },
   {
@@ -8608,6 +8608,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I182212641",
+    "name": "University of Salzburg",
+    "lat": 47.79941177368164,
+    "lng": 13.043990135192871,
+    "country_code": "AT",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I182451676",
     "name": "Universit\u00e9 du Qu\u00e9bec \u00e0 Rimouski",
     "lat": 48.44879,
@@ -13205,6 +13213,14 @@
     "lat": 48.52960968017578,
     "lng": 9.038100242614746,
     "country_code": "DE",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4210125817",
+    "name": "Instituto Pirenaico de Ecolog\u00eda",
+    "lat": 41.65605926513672,
+    "lng": -0.8773400187492371,
+    "country_code": "ES",
     "paper_count": 1
   },
   {
