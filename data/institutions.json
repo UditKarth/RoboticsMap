@@ -16,6 +16,14 @@
     "paper_count": 37
   },
   {
+    "id": "https://openalex.org/I4210165038",
+    "name": "University of Chinese Academy of Sciences",
+    "lat": 39.9075,
+    "lng": 116.39723,
+    "country_code": "CN",
+    "paper_count": 19
+  },
+  {
     "id": "https://openalex.org/I913481162",
     "name": "Wageningen University & Research",
     "lat": 51.97,
@@ -37,14 +45,6 @@
     "lat": 47.36667,
     "lng": 8.55,
     "country_code": "CH",
-    "paper_count": 18
-  },
-  {
-    "id": "https://openalex.org/I4210165038",
-    "name": "University of Chinese Academy of Sciences",
-    "lat": 39.9075,
-    "lng": 116.39723,
-    "country_code": "CN",
     "paper_count": 18
   },
   {
@@ -560,6 +560,14 @@
     "paper_count": 7
   },
   {
+    "id": "https://openalex.org/I129774422",
+    "name": "University of Vienna",
+    "lat": 48.20849,
+    "lng": 16.37208,
+    "country_code": "AT",
+    "paper_count": 7
+  },
+  {
     "id": "https://openalex.org/I130828816",
     "name": "University of Leeds",
     "lat": 53.79648,
@@ -816,11 +824,11 @@
     "paper_count": 6
   },
   {
-    "id": "https://openalex.org/I129774422",
-    "name": "University of Vienna",
-    "lat": 48.20849,
-    "lng": 16.37208,
-    "country_code": "AT",
+    "id": "https://openalex.org/I1292875679",
+    "name": "Commonwealth Scientific and Industrial Research Organisation",
+    "lat": -35.28346,
+    "lng": 149.12807,
+    "country_code": "AU",
     "paper_count": 6
   },
   {
@@ -869,6 +877,14 @@
     "lat": 36.050418853759766,
     "lng": 140.1185302734375,
     "country_code": "JP",
+    "paper_count": 6
+  },
+  {
+    "id": "https://openalex.org/I203172682",
+    "name": "Northern Arizona University",
+    "lat": 35.19807052612305,
+    "lng": -111.6512680053711,
+    "country_code": "US",
     "paper_count": 6
   },
   {
@@ -1080,14 +1096,6 @@
     "paper_count": 5
   },
   {
-    "id": "https://openalex.org/I1292875679",
-    "name": "Commonwealth Scientific and Industrial Research Organisation",
-    "lat": -35.28346,
-    "lng": 149.12807,
-    "country_code": "AU",
-    "paper_count": 5
-  },
-  {
     "id": "https://openalex.org/I132053463",
     "name": "Universit\u00e9 Libre de Bruxelles",
     "lat": 50.85044860839844,
@@ -1180,14 +1188,6 @@
     "name": "Princeton University",
     "lat": 40.34872,
     "lng": -74.65905,
-    "country_code": "US",
-    "paper_count": 5
-  },
-  {
-    "id": "https://openalex.org/I203172682",
-    "name": "Northern Arizona University",
-    "lat": 35.19807052612305,
-    "lng": -111.6512680053711,
     "country_code": "US",
     "paper_count": 5
   },
@@ -1976,6 +1976,14 @@
     "paper_count": 4
   },
   {
+    "id": "https://openalex.org/I4210155236",
+    "name": "National Research Council",
+    "lat": 41.89193,
+    "lng": 12.51133,
+    "country_code": "IT",
+    "paper_count": 4
+  },
+  {
     "id": "https://openalex.org/I43439940",
     "name": "University of Southampton",
     "lat": 50.90395,
@@ -2584,6 +2592,14 @@
     "paper_count": 3
   },
   {
+    "id": "https://openalex.org/I2802565870",
+    "name": "Senckenberg Research Institute and Natural History Museum Frankfurt/M",
+    "lat": 50.11552,
+    "lng": 8.68417,
+    "country_code": "DE",
+    "paper_count": 3
+  },
+  {
     "id": "https://openalex.org/I282179226",
     "name": "International Council for the Exploration of the Sea",
     "lat": 55.67594,
@@ -2877,14 +2893,6 @@
     "lat": 63.43048858642578,
     "lng": 10.395059585571289,
     "country_code": "NO",
-    "paper_count": 3
-  },
-  {
-    "id": "https://openalex.org/I4210155236",
-    "name": "National Research Council",
-    "lat": 41.89193,
-    "lng": 12.51133,
-    "country_code": "IT",
     "paper_count": 3
   },
   {
@@ -4280,11 +4288,11 @@
     "paper_count": 2
   },
   {
-    "id": "https://openalex.org/I2802565870",
-    "name": "Senckenberg Research Institute and Natural History Museum Frankfurt/M",
-    "lat": 50.11552,
-    "lng": 8.68417,
-    "country_code": "DE",
+    "id": "https://openalex.org/I2802779139",
+    "name": "Stazione Zoologica Anton Dohrn",
+    "lat": 40.8521614074707,
+    "lng": 14.268110275268555,
+    "country_code": "IT",
     "paper_count": 2
   },
   {
@@ -4357,6 +4365,14 @@
     "lat": 51.77058,
     "lng": 19.47395,
     "country_code": "PL",
+    "paper_count": 2
+  },
+  {
+    "id": "https://openalex.org/I34771391",
+    "name": "University of Cyprus",
+    "lat": 35.17531,
+    "lng": 33.3642,
+    "country_code": "CY",
     "paper_count": 2
   },
   {
@@ -4589,6 +4605,14 @@
     "lat": -33.441253662109375,
     "lng": -70.64347839355469,
     "country_code": "CL",
+    "paper_count": 2
+  },
+  {
+    "id": "https://openalex.org/I4210101167",
+    "name": "Institute of Oceanology",
+    "lat": 36.06488037109375,
+    "lng": 120.38041687011719,
+    "country_code": "CN",
     "paper_count": 2
   },
   {
@@ -5228,6 +5252,14 @@
     "name": "University of Florence",
     "lat": 43.77925,
     "lng": 11.24626,
+    "country_code": "IT",
+    "paper_count": 2
+  },
+  {
+    "id": "https://openalex.org/I45204951",
+    "name": "University of Calabria",
+    "lat": 39.331539154052734,
+    "lng": 16.180410385131836,
     "country_code": "IT",
     "paper_count": 2
   },
@@ -7189,6 +7221,14 @@
     "lat": 2.7745699882507324,
     "lng": 32.298988342285156,
     "country_code": "UG",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I1334950195",
+    "name": "Australian Nuclear Science and Technology Organisation",
+    "lat": -33.86785,
+    "lng": 151.20732,
+    "country_code": "AU",
     "paper_count": 1
   },
   {
@@ -10264,14 +10304,6 @@
     "paper_count": 1
   },
   {
-    "id": "https://openalex.org/I2802779139",
-    "name": "Stazione Zoologica Anton Dohrn",
-    "lat": 40.8521614074707,
-    "lng": 14.268110275268555,
-    "country_code": "IT",
-    "paper_count": 1
-  },
-  {
     "id": "https://openalex.org/I2802782613",
     "name": "Harefield Hospital",
     "lat": 51.607398986816406,
@@ -10717,14 +10749,6 @@
     "lat": 22.55251,
     "lng": 72.9552,
     "country_code": "IN",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I34771391",
-    "name": "University of Cyprus",
-    "lat": 35.17531,
-    "lng": 33.3642,
-    "country_code": "CY",
     "paper_count": 1
   },
   {
@@ -11752,14 +11776,6 @@
     "paper_count": 1
   },
   {
-    "id": "https://openalex.org/I4210101167",
-    "name": "Institute of Oceanology",
-    "lat": 36.06488037109375,
-    "lng": 120.38041687011719,
-    "country_code": "CN",
-    "paper_count": 1
-  },
-  {
     "id": "https://openalex.org/I4210101301",
     "name": "Northeast Institute of Geography and Agroecology",
     "lat": 43.880001068115234,
@@ -11892,6 +11908,14 @@
     "name": "Institute of Soil and Water Conservation",
     "lat": 34.271728515625,
     "lng": 108.07891082763672,
+    "country_code": "CN",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4210103685",
+    "name": "South China Sea Institute Of Oceanology",
+    "lat": 23.116670608520508,
+    "lng": 113.25,
     "country_code": "CN",
     "paper_count": 1
   },
@@ -15296,6 +15320,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I4210165134",
+    "name": "University of Kyrenia",
+    "lat": 35.336341857910156,
+    "lng": 33.317291259765625,
+    "country_code": "CY",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I4210165165",
     "name": "Anshan Hospital",
     "lat": 41.1219482421875,
@@ -15725,14 +15757,6 @@
     "lat": 31.352590560913086,
     "lng": 118.4294662475586,
     "country_code": "CN",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I45204951",
-    "name": "University of Calabria",
-    "lat": 39.331539154052734,
-    "lng": 16.180410385131836,
-    "country_code": "IT",
     "paper_count": 1
   },
   {
@@ -17077,6 +17101,14 @@
     "lat": -34.61315,
     "lng": -58.37723,
     "country_code": "AR",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I9360294",
+    "name": "University of Bologna",
+    "lat": 44.49381,
+    "lng": 11.33875,
+    "country_code": "IT",
     "paper_count": 1
   },
   {
