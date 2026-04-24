@@ -6488,6 +6488,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I124261462",
+    "name": "Oxford Brookes University",
+    "lat": 51.752220153808594,
+    "lng": -1.2559599876403809,
+    "country_code": "GB",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I124386471",
     "name": "Khulna University",
     "lat": 22.809789657592773,
@@ -13221,6 +13229,14 @@
     "lat": -34.61315155029297,
     "lng": -58.37723159790039,
     "country_code": "AR",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4210125269",
+    "name": "RED Consulting (Norway)",
+    "lat": 59.91859436035156,
+    "lng": 10.705035209655762,
+    "country_code": "NO",
     "paper_count": 1
   },
   {
