@@ -4200,6 +4200,14 @@
     "paper_count": 2
   },
   {
+    "id": "https://openalex.org/I268303160",
+    "name": "Medical University of Warsaw",
+    "lat": 52.22977066040039,
+    "lng": 21.01177978515625,
+    "country_code": "PL",
+    "paper_count": 2
+  },
+  {
     "id": "https://openalex.org/I27577105",
     "name": "University College Cork",
     "lat": 51.89796829223633,
@@ -5728,6 +5736,14 @@
     "paper_count": 2
   },
   {
+    "id": "https://openalex.org/I96576516",
+    "name": "Rivers State University",
+    "lat": 4.792220115661621,
+    "lng": 6.982450008392334,
+    "country_code": "NG",
+    "paper_count": 2
+  },
+  {
     "id": "https://openalex.org/I96908189",
     "name": "Xinjiang University",
     "lat": 43.800960540771484,
@@ -6941,6 +6957,14 @@
     "lat": 52.11,
     "lng": 5.18056,
     "country_code": "NL",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I1310625592",
+    "name": "PepsiCo (United Kingdom)",
+    "lat": 52.66917037963867,
+    "lng": -1.157539963722229,
+    "country_code": "GB",
     "paper_count": 1
   },
   {
@@ -9728,14 +9752,6 @@
     "paper_count": 1
   },
   {
-    "id": "https://openalex.org/I268303160",
-    "name": "Medical University of Warsaw",
-    "lat": 52.22977066040039,
-    "lng": 21.01177978515625,
-    "country_code": "PL",
-    "paper_count": 1
-  },
-  {
     "id": "https://openalex.org/I268923629",
     "name": "\u00c9cole du Louvre",
     "lat": 48.85340881347656,
@@ -10325,6 +10341,14 @@
     "lat": 47.49835,
     "lng": 19.04045,
     "country_code": "HU",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I2802889272",
+    "name": "Museum and Institute of Zoology",
+    "lat": 52.22414016723633,
+    "lng": 21.008926391601562,
+    "country_code": "PL",
     "paper_count": 1
   },
   {
@@ -11477,6 +11501,14 @@
     "lat": 52.2549934387207,
     "lng": 6.165782928466797,
     "country_code": "NL",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4210094371",
+    "name": "Scientific Center of Zoology and Hydroecology",
+    "lat": 40.20867919921875,
+    "lng": 44.536067962646484,
+    "country_code": "AM",
     "paper_count": 1
   },
   {
@@ -14120,6 +14152,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I4210141199",
+    "name": "I.I. Schmalhausen Institute of Zoology",
+    "lat": 50.44524383544922,
+    "lng": 30.51491355895996,
+    "country_code": "UA",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I4210141258",
     "name": "Center for Marine and Oceanographic Research",
     "lat": 5.354440212249756,
@@ -16128,6 +16168,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I58956616",
+    "name": "Case Western Reserve University",
+    "lat": 41.4995,
+    "lng": -81.69541,
+    "country_code": "US",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I59411706",
     "name": "Adam Mickiewicz University in Pozna\u0144",
     "lat": 52.40692,
@@ -16637,6 +16685,14 @@
     "lat": 36.067901611328125,
     "lng": -94.17365264892578,
     "country_code": "US",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I78768387",
+    "name": "University of Prishtina",
+    "lat": 42.67272186279297,
+    "lng": 21.166879653930664,
+    "country_code": "XK",
     "paper_count": 1
   },
   {
@@ -17157,14 +17213,6 @@
     "lat": 54.0,
     "lng": -6.416669845581055,
     "country_code": "IE",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I96576516",
-    "name": "Rivers State University",
-    "lat": 4.792220115661621,
-    "lng": 6.982450008392334,
-    "country_code": "NG",
     "paper_count": 1
   },
   {
