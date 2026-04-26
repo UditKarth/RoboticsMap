@@ -912,6 +912,14 @@
     "paper_count": 6
   },
   {
+    "id": "https://openalex.org/I27837315",
+    "name": "University of Michigan",
+    "lat": 42.27756,
+    "lng": -83.74088,
+    "country_code": "US",
+    "paper_count": 6
+  },
+  {
     "id": "https://openalex.org/I32971472",
     "name": "Yale University",
     "lat": 41.30815,
@@ -1229,14 +1237,6 @@
     "lat": -34.61315,
     "lng": -58.37723,
     "country_code": "AR",
-    "paper_count": 5
-  },
-  {
-    "id": "https://openalex.org/I27837315",
-    "name": "University of Michigan",
-    "lat": 42.27756,
-    "lng": -83.74088,
-    "country_code": "US",
     "paper_count": 5
   },
   {
@@ -4424,6 +4424,14 @@
     "paper_count": 2
   },
   {
+    "id": "https://openalex.org/I38476204",
+    "name": "Urmia University",
+    "lat": 37.52875518798828,
+    "lng": 45.046478271484375,
+    "country_code": "IR",
+    "paper_count": 2
+  },
+  {
     "id": "https://openalex.org/I4092182",
     "name": "Graz University of Technology",
     "lat": 47.06666946411133,
@@ -5709,6 +5717,14 @@
     "lat": 51.92250061035156,
     "lng": 4.479169845581055,
     "country_code": "NL",
+    "paper_count": 2
+  },
+  {
+    "id": "https://openalex.org/I91732220",
+    "name": "Universidad del Valle",
+    "lat": 3.4372200965881348,
+    "lng": -76.52249908447266,
+    "country_code": "CO",
     "paper_count": 2
   },
   {
@@ -7776,6 +7792,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I152650591",
+    "name": "University of Cauca",
+    "lat": 2.4412379264831543,
+    "lng": -76.60487365722656,
+    "country_code": "CO",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I152754861",
     "name": "Bose Institute",
     "lat": 22.56262969970703,
@@ -8077,6 +8101,14 @@
     "lat": 35.6895,
     "lng": 139.69171,
     "country_code": "JP",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I161346416",
+    "name": "Jimei University",
+    "lat": 24.47978973388672,
+    "lng": 118.08187103271484,
+    "country_code": "CN",
     "paper_count": 1
   },
   {
@@ -9000,6 +9032,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I194629146",
+    "name": "School of the Art Institute of Chicago",
+    "lat": 41.880279541015625,
+    "lng": -87.62493133544922,
+    "country_code": "US",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I195459967",
     "name": "Mizoram University",
     "lat": 23.728939056396484,
@@ -9768,6 +9808,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I274899335",
+    "name": "University of Atl\u00e1ntico",
+    "lat": 10.96854019165039,
+    "lng": -74.78131866455078,
+    "country_code": "CO",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I27504731",
     "name": "Colby College",
     "lat": 44.56393051147461,
@@ -9909,6 +9957,14 @@
     "lat": 47.49835,
     "lng": 19.04045,
     "country_code": "HU",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I2799870028",
+    "name": "Alexander von Humboldt Biological Resources Research Institute",
+    "lat": 4.609710216522217,
+    "lng": -74.08174896240234,
+    "country_code": "CO",
     "paper_count": 1
   },
   {
@@ -10648,6 +10704,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I3132500588",
+    "name": "University of Applied and Environmental Sciences",
+    "lat": 4.609710216522217,
+    "lng": -74.08174896240234,
+    "country_code": "CO",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I3132505570",
     "name": "Southern Leyte State University",
     "lat": 10.384699821472168,
@@ -10677,6 +10741,14 @@
     "lat": 22.794092178344727,
     "lng": 91.10015869140625,
     "country_code": "BD",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I31703152",
+    "name": "University of Tolima",
+    "lat": 4.438889980316162,
+    "lng": -75.23222351074219,
+    "country_code": "CO",
     "paper_count": 1
   },
   {
@@ -10725,6 +10797,22 @@
     "lat": 46.58261,
     "lng": 0.34348,
     "country_code": "FR",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I33103891",
+    "name": "Ardabil University of Medical Sciences",
+    "lat": 38.214599609375,
+    "lng": 48.29677963256836,
+    "country_code": "IR",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I332011152",
+    "name": "Universidad Distrital Francisco Jos\u00e9 de Caldas",
+    "lat": 4.60971,
+    "lng": -74.08175,
+    "country_code": "CO",
     "paper_count": 1
   },
   {
@@ -10800,6 +10888,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I36243813",
+    "name": "Universidad Nacional de Colombia",
+    "lat": 4.609710216522217,
+    "lng": -74.08174896240234,
+    "country_code": "CO",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I36373038",
     "name": "Cleveland Clinic Lerner College of Medicine",
     "lat": 41.4995,
@@ -10861,14 +10957,6 @@
     "lat": 21.246639251708984,
     "lng": 81.59899139404297,
     "country_code": "IN",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I38476204",
-    "name": "Urmia University",
-    "lat": 37.52875518798828,
-    "lng": 45.046478271484375,
-    "country_code": "IR",
     "paper_count": 1
   },
   {
@@ -11813,6 +11901,14 @@
     "lat": 38.89643859863281,
     "lng": -77.0313720703125,
     "country_code": "US",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4210101082",
+    "name": "Municipality of Medell\u00edn",
+    "lat": 6.252560138702393,
+    "lng": -75.56404876708984,
+    "country_code": "CO",
     "paper_count": 1
   },
   {
@@ -12885,6 +12981,14 @@
     "lat": 28.454065322875977,
     "lng": 77.07037353515625,
     "country_code": "IN",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4210120040",
+    "name": "Fundaci\u00f3n Neumol\u00f3gica Colombiana",
+    "lat": 4.7404279708862305,
+    "lng": -74.0344467163086,
+    "country_code": "CO",
     "paper_count": 1
   },
   {
@@ -14160,6 +14264,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I4210141221",
+    "name": "Real Jard\u00edn Bot\u00e1nico",
+    "lat": 40.416500091552734,
+    "lng": -3.7025599479675293,
+    "country_code": "ES",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I4210141258",
     "name": "Center for Marine and Oceanographic Research",
     "lat": 5.354440212249756,
@@ -15141,6 +15253,14 @@
     "lat": 34.258331298828125,
     "lng": 108.9286117553711,
     "country_code": "CN",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4210159873",
+    "name": "Colombian Association of Surgery",
+    "lat": 4.687963962554932,
+    "lng": -74.058349609375,
+    "country_code": "CO",
     "paper_count": 1
   },
   {
@@ -16672,6 +16792,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I76842071",
+    "name": "Icesi University",
+    "lat": 3.3418169021606445,
+    "lng": -76.53082275390625,
+    "country_code": "CO",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I77430839",
     "name": "S.N. Bose National Centre for Basic Sciences",
     "lat": 22.56262969970703,
@@ -17141,14 +17269,6 @@
     "lat": 13.08784008026123,
     "lng": 80.27847290039062,
     "country_code": "",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I91732220",
-    "name": "Universidad del Valle",
-    "lat": 3.4372200965881348,
-    "lng": -76.52249908447266,
-    "country_code": "CO",
     "paper_count": 1
   },
   {
