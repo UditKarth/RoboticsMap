@@ -176,6 +176,14 @@
     "paper_count": 12
   },
   {
+    "id": "https://openalex.org/I188538660",
+    "name": "University of Colorado Boulder",
+    "lat": 40.014991760253906,
+    "lng": -105.27055358886719,
+    "country_code": "US",
+    "paper_count": 12
+  },
+  {
     "id": "https://openalex.org/I20231570",
     "name": "Peking University",
     "lat": 39.907501220703125,
@@ -221,14 +229,6 @@
     "lat": -23.5475,
     "lng": -46.63611,
     "country_code": "BR",
-    "paper_count": 11
-  },
-  {
-    "id": "https://openalex.org/I188538660",
-    "name": "University of Colorado Boulder",
-    "lat": 40.014991760253906,
-    "lng": -105.27055358886719,
-    "country_code": "US",
     "paper_count": 11
   },
   {
@@ -864,6 +864,14 @@
     "paper_count": 6
   },
   {
+    "id": "https://openalex.org/I161675122",
+    "name": "Cooperative Institute for Research in Environmental Sciences",
+    "lat": 40.014991760253906,
+    "lng": -105.27055358886719,
+    "country_code": "US",
+    "paper_count": 6
+  },
+  {
     "id": "https://openalex.org/I169381384",
     "name": "University of Groningen",
     "lat": 53.21917,
@@ -1173,14 +1181,6 @@
     "lat": 39.47391128540039,
     "lng": -0.3796600103378296,
     "country_code": "ES",
-    "paper_count": 5
-  },
-  {
-    "id": "https://openalex.org/I161675122",
-    "name": "Cooperative Institute for Research in Environmental Sciences",
-    "lat": 40.014991760253906,
-    "lng": -105.27055358886719,
-    "country_code": "US",
     "paper_count": 5
   },
   {
