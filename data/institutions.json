@@ -3896,6 +3896,14 @@
     "paper_count": 2
   },
   {
+    "id": "https://openalex.org/I175691731",
+    "name": "Pondicherry University",
+    "lat": 11.93381,
+    "lng": 79.82979,
+    "country_code": "IN",
+    "paper_count": 2
+  },
+  {
     "id": "https://openalex.org/I17626003",
     "name": "University of Rhode Island",
     "lat": 41.48038,
@@ -8677,14 +8685,6 @@
     "lat": 62.89237976074219,
     "lng": 27.677030563354492,
     "country_code": "FI",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I175691731",
-    "name": "Pondicherry University",
-    "lat": 11.93381,
-    "lng": 79.82979,
-    "country_code": "IN",
     "paper_count": 1
   },
   {
