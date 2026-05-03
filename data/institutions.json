@@ -760,6 +760,14 @@
     "paper_count": 7
   },
   {
+    "id": "https://openalex.org/I76130692",
+    "name": "Zhejiang University",
+    "lat": 30.29365,
+    "lng": 120.16142,
+    "country_code": "CN",
+    "paper_count": 7
+  },
+  {
     "id": "https://openalex.org/I82497590",
     "name": "Auburn University",
     "lat": 32.60986,
@@ -1029,14 +1037,6 @@
     "lat": 51.53443,
     "lng": 9.93228,
     "country_code": "DE",
-    "paper_count": 6
-  },
-  {
-    "id": "https://openalex.org/I76130692",
-    "name": "Zhejiang University",
-    "lat": 30.29365,
-    "lng": 120.16142,
-    "country_code": "CN",
     "paper_count": 6
   },
   {
@@ -3672,6 +3672,14 @@
     "paper_count": 2
   },
   {
+    "id": "https://openalex.org/I140221134",
+    "name": "Anhui Agricultural University",
+    "lat": 31.860065460205078,
+    "lng": 117.25733184814453,
+    "country_code": "CN",
+    "paper_count": 2
+  },
+  {
     "id": "https://openalex.org/I141568987",
     "name": "Hong Kong Baptist University",
     "lat": 22.27832,
@@ -3693,6 +3701,14 @@
     "lat": 41.89193,
     "lng": 12.51133,
     "country_code": "IT",
+    "paper_count": 2
+  },
+  {
+    "id": "https://openalex.org/I146773158",
+    "name": "Qingdao Agricultural University",
+    "lat": 36.06488037109375,
+    "lng": 120.38041687011719,
+    "country_code": "CN",
     "paper_count": 2
   },
   {
@@ -7640,14 +7656,6 @@
     "paper_count": 1
   },
   {
-    "id": "https://openalex.org/I140221134",
-    "name": "Anhui Agricultural University",
-    "lat": 31.860065460205078,
-    "lng": 117.25733184814453,
-    "country_code": "CN",
-    "paper_count": 1
-  },
-  {
     "id": "https://openalex.org/I141445968",
     "name": "Ton Duc Thang University",
     "lat": 10.823019981384277,
@@ -7805,14 +7813,6 @@
     "lat": -20.75389,
     "lng": -42.88194,
     "country_code": "BR",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I146773158",
-    "name": "Qingdao Agricultural University",
-    "lat": 36.06488037109375,
-    "lng": 120.38041687011719,
-    "country_code": "CN",
     "paper_count": 1
   },
   {
