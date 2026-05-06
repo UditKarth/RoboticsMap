@@ -120,20 +120,20 @@
     "paper_count": 14
   },
   {
+    "id": "https://openalex.org/I129801699",
+    "name": "University of Tasmania",
+    "lat": -42.87936,
+    "lng": 147.32941,
+    "country_code": "AU",
+    "paper_count": 14
+  },
+  {
     "id": "https://openalex.org/I99065089",
     "name": "Tsinghua University",
     "lat": 39.9075,
     "lng": 116.39723,
     "country_code": "CN",
     "paper_count": 14
-  },
-  {
-    "id": "https://openalex.org/I129801699",
-    "name": "University of Tasmania",
-    "lat": -42.87936,
-    "lng": 147.32941,
-    "country_code": "AU",
-    "paper_count": 13
   },
   {
     "id": "https://openalex.org/I47508984",
@@ -256,6 +256,14 @@
     "paper_count": 11
   },
   {
+    "id": "https://openalex.org/I1281210470",
+    "name": "CSIRO Oceans and Atmosphere",
+    "lat": -35.28346,
+    "lng": 149.12807,
+    "country_code": "AU",
+    "paper_count": 10
+  },
+  {
     "id": "https://openalex.org/I135310074",
     "name": "University of Wisconsin\u2013Madison",
     "lat": 43.07305,
@@ -309,14 +317,6 @@
     "lat": 53.53615188598633,
     "lng": 8.59298038482666,
     "country_code": "DE",
-    "paper_count": 9
-  },
-  {
-    "id": "https://openalex.org/I1281210470",
-    "name": "CSIRO Oceans and Atmosphere",
-    "lat": -35.28346,
-    "lng": 149.12807,
-    "country_code": "AU",
     "paper_count": 9
   },
   {
@@ -565,6 +565,14 @@
     "lat": 38.96872,
     "lng": -77.3411,
     "country_code": "US",
+    "paper_count": 7
+  },
+  {
+    "id": "https://openalex.org/I1292875679",
+    "name": "Commonwealth Scientific and Industrial Research Organisation",
+    "lat": -35.28346,
+    "lng": 149.12807,
+    "country_code": "AU",
     "paper_count": 7
   },
   {
@@ -845,14 +853,6 @@
     "lat": 36.01036071777344,
     "lng": -84.26963806152344,
     "country_code": "US",
-    "paper_count": 6
-  },
-  {
-    "id": "https://openalex.org/I1292875679",
-    "name": "Commonwealth Scientific and Industrial Research Organisation",
-    "lat": -35.28346,
-    "lng": 149.12807,
-    "country_code": "AU",
     "paper_count": 6
   },
   {
@@ -1488,6 +1488,14 @@
     "paper_count": 5
   },
   {
+    "id": "https://openalex.org/I97565354",
+    "name": "University of Lausanne",
+    "lat": 46.516,
+    "lng": 6.63282,
+    "country_code": "CH",
+    "paper_count": 5
+  },
+  {
     "id": "https://openalex.org/I100681346",
     "name": "Forest Institute",
     "lat": 37.160377502441406,
@@ -2117,14 +2125,6 @@
     "lat": 55.77043914794922,
     "lng": 12.503780364990234,
     "country_code": "DK",
-    "paper_count": 4
-  },
-  {
-    "id": "https://openalex.org/I97565354",
-    "name": "University of Lausanne",
-    "lat": 46.516,
-    "lng": 6.63282,
-    "country_code": "CH",
     "paper_count": 4
   },
   {
@@ -7901,6 +7901,14 @@
     "lat": 38.4127311706543,
     "lng": 27.13838005065918,
     "country_code": "TR",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I151013683",
+    "name": "Binzhou University",
+    "lat": 37.366668701171875,
+    "lng": 118.01667022705078,
+    "country_code": "CN",
     "paper_count": 1
   },
   {
@@ -17477,6 +17485,14 @@
     "lat": 35.43333053588867,
     "lng": 139.64999389648438,
     "country_code": "JP",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I869660684",
+    "name": "University of the Western Cape",
+    "lat": -33.925838470458984,
+    "lng": 18.423219680786133,
+    "country_code": "ZA",
     "paper_count": 1
   },
   {
