@@ -616,6 +616,14 @@
     "paper_count": 7
   },
   {
+    "id": "https://openalex.org/I1326018075",
+    "name": "Netherlands Environmental Assessment Agency",
+    "lat": 52.07667,
+    "lng": 4.29861,
+    "country_code": "NL",
+    "paper_count": 7
+  },
+  {
     "id": "https://openalex.org/I139660479",
     "name": "Central South University",
     "lat": 28.19874,
@@ -872,14 +880,6 @@
     "paper_count": 6
   },
   {
-    "id": "https://openalex.org/I1326018075",
-    "name": "Netherlands Environmental Assessment Agency",
-    "lat": 52.07667,
-    "lng": 4.29861,
-    "country_code": "NL",
-    "paper_count": 6
-  },
-  {
     "id": "https://openalex.org/I161675122",
     "name": "Cooperative Institute for Research in Environmental Sciences",
     "lat": 40.014991760253906,
@@ -1093,6 +1093,14 @@
     "lat": 46.20222,
     "lng": 6.14569,
     "country_code": "CH",
+    "paper_count": 5
+  },
+  {
+    "id": "https://openalex.org/I121797337",
+    "name": "Leiden University",
+    "lat": 52.158329010009766,
+    "lng": 4.493060111999512,
+    "country_code": "NL",
     "paper_count": 5
   },
   {
@@ -1544,14 +1552,6 @@
     "paper_count": 4
   },
   {
-    "id": "https://openalex.org/I121797337",
-    "name": "Leiden University",
-    "lat": 52.158329010009766,
-    "lng": 4.493060111999512,
-    "country_code": "NL",
-    "paper_count": 4
-  },
-  {
     "id": "https://openalex.org/I121980950",
     "name": "Utah State University",
     "lat": 41.73548889160156,
@@ -1717,6 +1717,14 @@
     "lat": 25.72149,
     "lng": -80.26838,
     "country_code": "US",
+    "paper_count": 4
+  },
+  {
+    "id": "https://openalex.org/I145872427",
+    "name": "Radboud University Nijmegen",
+    "lat": 51.8425,
+    "lng": 5.85278,
+    "country_code": "NL",
     "paper_count": 4
   },
   {
@@ -2352,14 +2360,6 @@
     "paper_count": 3
   },
   {
-    "id": "https://openalex.org/I145872427",
-    "name": "Radboud University Nijmegen",
-    "lat": 51.8425,
-    "lng": 5.85278,
-    "country_code": "NL",
-    "paper_count": 3
-  },
-  {
     "id": "https://openalex.org/I146655781",
     "name": "University of Liverpool",
     "lat": 53.41058,
@@ -2965,6 +2965,14 @@
     "lat": 63.43048858642578,
     "lng": 10.395059585571289,
     "country_code": "NO",
+    "paper_count": 3
+  },
+  {
+    "id": "https://openalex.org/I4210154133",
+    "name": "Instituto de Ecolog\u00eda",
+    "lat": 19.53124,
+    "lng": -96.91589,
+    "country_code": "MX",
     "paper_count": 3
   },
   {
@@ -5245,14 +5253,6 @@
     "lat": 53.55073,
     "lng": 9.99302,
     "country_code": "DE",
-    "paper_count": 2
-  },
-  {
-    "id": "https://openalex.org/I4210154133",
-    "name": "Instituto de Ecolog\u00eda",
-    "lat": 19.53124,
-    "lng": -96.91589,
-    "country_code": "MX",
     "paper_count": 2
   },
   {
@@ -10536,6 +10536,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I2802295813",
+    "name": "Universidade Estadual de Mato Grosso do Sul",
+    "lat": -22.22110939025879,
+    "lng": -54.80556106567383,
+    "country_code": "BR",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I2802351097",
     "name": "Great Barrier Reef Marine Park Authority",
     "lat": -19.266389846801758,
@@ -10660,6 +10668,14 @@
     "name": "Amsterdam UMC Location University of Amsterdam",
     "lat": 52.37403,
     "lng": 4.88969,
+    "country_code": "NL",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I2802934949",
+    "name": "Radboud University Medical Center",
+    "lat": 51.842498779296875,
+    "lng": 5.852779865264893,
     "country_code": "NL",
     "paper_count": 1
   },
@@ -10813,6 +10829,14 @@
     "lat": 60.16952133178711,
     "lng": 24.935449600219727,
     "country_code": "FI",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I3018305852",
+    "name": "Instituto Federal de Educa\u00e7\u00e3o, Ci\u00eancia e Tecnologia de Mato Grosso",
+    "lat": -15.56152629852295,
+    "lng": -56.10004806518555,
+    "country_code": "BR",
     "paper_count": 1
   },
   {
@@ -12781,6 +12805,14 @@
     "lat": 42.68054962158203,
     "lng": 2.903212070465088,
     "country_code": "FR",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4210109357",
+    "name": "Radboud Institute for Molecular Life Sciences",
+    "lat": 51.842498779296875,
+    "lng": 5.852779865264893,
+    "country_code": "NL",
     "paper_count": 1
   },
   {
@@ -14800,6 +14832,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I4210142683",
+    "name": "Instituto Nacional de C\u00e2ncer - INCA",
+    "lat": -22.90642,
+    "lng": -43.18223,
+    "country_code": "BR",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I4210142708",
     "name": "Singapore Centre for Environmental Life Sciences Engineering",
     "lat": 1.3451199531555176,
@@ -16117,6 +16157,14 @@
     "lat": 30.217620849609375,
     "lng": 120.02873992919922,
     "country_code": "CN",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4210166452",
+    "name": "21c Consultancy (United Kingdom)",
+    "lat": 51.50853,
+    "lng": -0.12574,
+    "country_code": "GB",
     "paper_count": 1
   },
   {
