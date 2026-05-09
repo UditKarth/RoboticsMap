@@ -1016,6 +1016,14 @@
     "paper_count": 6
   },
   {
+    "id": "https://openalex.org/I61057504",
+    "name": "Fujian Agriculture and Forestry University",
+    "lat": 26.061389923095703,
+    "lng": 119.30610656738281,
+    "country_code": "CN",
+    "paper_count": 6
+  },
+  {
     "id": "https://openalex.org/I63966007",
     "name": "Massachusetts Institute of Technology",
     "lat": 42.3751,
@@ -1304,6 +1312,14 @@
     "paper_count": 5
   },
   {
+    "id": "https://openalex.org/I4210103115",
+    "name": "Xinjiang Institute of Ecology and Geography",
+    "lat": 43.800960540771484,
+    "lng": 87.60045623779297,
+    "country_code": "CN",
+    "paper_count": 5
+  },
+  {
     "id": "https://openalex.org/I4210116314",
     "name": "Leibniz Institute of Freshwater Ecology and Inland Fisheries",
     "lat": 52.52436828613281,
@@ -1405,14 +1421,6 @@
     "lat": -37.814,
     "lng": 144.96332,
     "country_code": "AU",
-    "paper_count": 5
-  },
-  {
-    "id": "https://openalex.org/I61057504",
-    "name": "Fujian Agriculture and Forestry University",
-    "lat": 26.061389923095703,
-    "lng": 119.30610656738281,
-    "country_code": "CN",
     "paper_count": 5
   },
   {
@@ -1941,14 +1949,6 @@
     "lat": 42.358428955078125,
     "lng": -71.05976867675781,
     "country_code": "US",
-    "paper_count": 4
-  },
-  {
-    "id": "https://openalex.org/I4210103115",
-    "name": "Xinjiang Institute of Ecology and Geography",
-    "lat": 43.800960540771484,
-    "lng": 87.60045623779297,
-    "country_code": "CN",
     "paper_count": 4
   },
   {
@@ -5653,6 +5653,14 @@
     "lat": 57.70716,
     "lng": 11.96679,
     "country_code": "SE",
+    "paper_count": 2
+  },
+  {
+    "id": "https://openalex.org/I66890659",
+    "name": "Saint Mary's University",
+    "lat": 44.6426887512207,
+    "lng": -63.576881408691406,
+    "country_code": "CA",
     "paper_count": 2
   },
   {
@@ -9552,6 +9560,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I204557473",
+    "name": "H\u00f3lar University College",
+    "lat": 65.73079,
+    "lng": -19.11164,
+    "country_code": "IS",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I204722609",
     "name": "Queen's University",
     "lat": 44.22976,
@@ -11820,6 +11836,14 @@
     "name": "China Institute of Water Resources and Hydropower Research",
     "lat": 39.907501220703125,
     "lng": 116.39723205566406,
+    "country_code": "CN",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4210092058",
+    "name": "Zhengzhou Normal University",
+    "lat": 34.75778,
+    "lng": 113.64861,
     "country_code": "CN",
     "paper_count": 1
   },
@@ -15256,6 +15280,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I4210150595",
+    "name": "Guangzhou Electronic Technology (China)",
+    "lat": 23.16754150390625,
+    "lng": 113.24137878417969,
+    "country_code": "CN",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I4210150597",
     "name": "National Centre for Infectious Diseases",
     "lat": 1.3221030235290527,
@@ -17061,14 +17093,6 @@
     "lat": 31.222219467163086,
     "lng": 121.45806121826172,
     "country_code": "CN",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I66890659",
-    "name": "Saint Mary's University",
-    "lat": 44.6426887512207,
-    "lng": -63.576881408691406,
-    "country_code": "CA",
     "paper_count": 1
   },
   {
