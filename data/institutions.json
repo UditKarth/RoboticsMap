@@ -5016,6 +5016,14 @@
     "paper_count": 2
   },
   {
+    "id": "https://openalex.org/I4210133736",
+    "name": "Nature Research Centre",
+    "lat": 54.68916,
+    "lng": 25.2798,
+    "country_code": "LT",
+    "paper_count": 2
+  },
+  {
     "id": "https://openalex.org/I4210134482",
     "name": "Nanjing Institute of Geography and Limnology",
     "lat": 32.061668395996094,
@@ -14245,14 +14253,6 @@
     "lat": 31.31833267211914,
     "lng": 121.38722229003906,
     "country_code": "CN",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I4210133736",
-    "name": "Nature Research Centre",
-    "lat": 54.68916,
-    "lng": 25.2798,
-    "country_code": "LT",
     "paper_count": 1
   },
   {
