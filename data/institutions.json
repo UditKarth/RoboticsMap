@@ -21,6 +21,14 @@
     "lat": 39.9075,
     "lng": 116.39723,
     "country_code": "CN",
+    "paper_count": 20
+  },
+  {
+    "id": "https://openalex.org/I35440088",
+    "name": "ETH Zurich",
+    "lat": 47.36667,
+    "lng": 8.55,
+    "country_code": "CH",
     "paper_count": 19
   },
   {
@@ -37,14 +45,6 @@
     "lat": 42.3751,
     "lng": -71.10561,
     "country_code": "US",
-    "paper_count": 18
-  },
-  {
-    "id": "https://openalex.org/I35440088",
-    "name": "ETH Zurich",
-    "lat": 47.36667,
-    "lng": 8.55,
-    "country_code": "CH",
     "paper_count": 18
   },
   {
@@ -2504,6 +2504,14 @@
     "paper_count": 3
   },
   {
+    "id": "https://openalex.org/I183935753",
+    "name": "King's College London",
+    "lat": 51.50853,
+    "lng": -0.12574,
+    "country_code": "GB",
+    "paper_count": 3
+  },
+  {
     "id": "https://openalex.org/I185492890",
     "name": "University of Canterbury",
     "lat": -43.53333,
@@ -2645,6 +2653,14 @@
     "lat": 50.11552,
     "lng": 8.68417,
     "country_code": "DE",
+    "paper_count": 3
+  },
+  {
+    "id": "https://openalex.org/I2802779139",
+    "name": "Stazione Zoologica Anton Dohrn",
+    "lat": 40.8521614074707,
+    "lng": 14.268110275268555,
+    "country_code": "IT",
     "paper_count": 3
   },
   {
@@ -2956,6 +2972,14 @@
     "name": "Jilin Agricultural University",
     "lat": 43.880001068115234,
     "lng": 125.3227767944336,
+    "country_code": "CN",
+    "paper_count": 3
+  },
+  {
+    "id": "https://openalex.org/I4210152908",
+    "name": "Chengdu Institute of Biology",
+    "lat": 30.666669845581055,
+    "lng": 104.0666732788086,
     "country_code": "CN",
     "paper_count": 3
   },
@@ -4032,14 +4056,6 @@
     "paper_count": 2
   },
   {
-    "id": "https://openalex.org/I183935753",
-    "name": "King's College London",
-    "lat": 51.50853,
-    "lng": -0.12574,
-    "country_code": "GB",
-    "paper_count": 2
-  },
-  {
     "id": "https://openalex.org/I184834183",
     "name": "Al-Azhar University",
     "lat": 30.06262969970703,
@@ -4456,14 +4472,6 @@
     "paper_count": 2
   },
   {
-    "id": "https://openalex.org/I2802779139",
-    "name": "Stazione Zoologica Anton Dohrn",
-    "lat": 40.8521614074707,
-    "lng": 14.268110275268555,
-    "country_code": "IT",
-    "paper_count": 2
-  },
-  {
     "id": "https://openalex.org/I2802992173",
     "name": "NOAA Oceanic and Atmospheric Research",
     "lat": 38.99067,
@@ -4517,6 +4525,14 @@
     "lat": 39.907501220703125,
     "lng": 116.39723205566406,
     "country_code": "CN",
+    "paper_count": 2
+  },
+  {
+    "id": "https://openalex.org/I34034455",
+    "name": "Ramakrishna Mission Vivekananda Educational and Research Institute",
+    "lat": 22.56262969970703,
+    "lng": 88.363037109375,
+    "country_code": "IN",
     "paper_count": 2
   },
   {
@@ -5136,6 +5152,14 @@
     "paper_count": 2
   },
   {
+    "id": "https://openalex.org/I4210143942",
+    "name": "National University of Technology",
+    "lat": 33.626220703125,
+    "lng": 73.01127624511719,
+    "country_code": "PK",
+    "paper_count": 2
+  },
+  {
     "id": "https://openalex.org/I4210144600",
     "name": "Instituto Evandro Chagas",
     "lat": -1.3746750354766846,
@@ -5244,14 +5268,6 @@
     "name": "Institute of Atmospheric Physics",
     "lat": 39.907501220703125,
     "lng": 116.39723205566406,
-    "country_code": "CN",
-    "paper_count": 2
-  },
-  {
-    "id": "https://openalex.org/I4210152908",
-    "name": "Chengdu Institute of Biology",
-    "lat": 30.666669845581055,
-    "lng": 104.0666732788086,
     "country_code": "CN",
     "paper_count": 2
   },
@@ -6360,6 +6376,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I112862951",
+    "name": "University of Messina",
+    "lat": 38.193939208984375,
+    "lng": 15.552559852600098,
+    "country_code": "IT",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I113254221",
     "name": "University of Veterinary Sciences Brno",
     "lat": 49.195220947265625,
@@ -7397,6 +7421,14 @@
     "lat": 44.04811096191406,
     "lng": -123.06818389892578,
     "country_code": "US",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I132359460",
+    "name": "University of Burdwan",
+    "lat": 23.25572,
+    "lng": 87.85691,
+    "country_code": "IN",
     "paper_count": 1
   },
   {
@@ -9128,6 +9160,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I189575948",
+    "name": "South Valley University",
+    "lat": 26.164180755615234,
+    "lng": 32.72671127319336,
+    "country_code": "EG",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I189977406",
     "name": "Universidad de Los Andes, Chile",
     "lat": -33.456939697265625,
@@ -9509,6 +9549,14 @@
     "lat": 36.16589,
     "lng": -86.78444,
     "country_code": "US",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I200749728",
+    "name": "Pir Mehr Ali Shah Arid Agriculture University",
+    "lat": 33.647247314453125,
+    "lng": 73.08059692382812,
+    "country_code": "PK",
     "paper_count": 1
   },
   {
@@ -11157,14 +11205,6 @@
     "lat": 61.22908,
     "lng": 7.09674,
     "country_code": "NO",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I34034455",
-    "name": "Ramakrishna Mission Vivekananda Educational and Research Institute",
-    "lat": 22.56262969970703,
-    "lng": 88.363037109375,
-    "country_code": "IN",
     "paper_count": 1
   },
   {
@@ -14952,14 +14992,6 @@
     "paper_count": 1
   },
   {
-    "id": "https://openalex.org/I4210143942",
-    "name": "National University of Technology",
-    "lat": 33.626220703125,
-    "lng": 73.01127624511719,
-    "country_code": "PK",
-    "paper_count": 1
-  },
-  {
     "id": "https://openalex.org/I4210144177",
     "name": "Cognition Behaviour Technology",
     "lat": 43.70313,
@@ -16197,6 +16229,14 @@
     "lat": 30.217620849609375,
     "lng": 120.02873992919922,
     "country_code": "CN",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4210166196",
+    "name": "Istituto Zooprofilattico Sperimentale del Piemonte Liguria e Valle d'Aosta",
+    "lat": 45.08545684814453,
+    "lng": 7.705831050872803,
+    "country_code": "IT",
     "paper_count": 1
   },
   {
