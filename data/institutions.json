@@ -9640,6 +9640,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I204743663",
+    "name": "University of Mysore",
+    "lat": 12.29791,
+    "lng": 76.63925,
+    "country_code": "IN",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I204866599",
     "name": "VA Palo Alto Health Care System",
     "lat": 37.404422760009766,
@@ -14205,6 +14213,14 @@
     "lat": 55.80137634277344,
     "lng": 37.47699737548828,
     "country_code": "RU",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4210131959",
+    "name": "National Research Centre",
+    "lat": 30.00944,
+    "lng": 31.20861,
+    "country_code": "EG",
     "paper_count": 1
   },
   {
