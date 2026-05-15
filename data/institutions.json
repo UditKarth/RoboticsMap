@@ -280,6 +280,14 @@
     "paper_count": 10
   },
   {
+    "id": "https://openalex.org/I177877127",
+    "name": "The University of Western Australia",
+    "lat": -31.95224,
+    "lng": 115.8614,
+    "country_code": "AU",
+    "paper_count": 10
+  },
+  {
     "id": "https://openalex.org/I201448701",
     "name": "University of Washington",
     "lat": 47.60621,
@@ -352,14 +360,6 @@
     "paper_count": 9
   },
   {
-    "id": "https://openalex.org/I177877127",
-    "name": "The University of Western Australia",
-    "lat": -31.95224,
-    "lng": 115.8614,
-    "country_code": "AU",
-    "paper_count": 9
-  },
-  {
     "id": "https://openalex.org/I4210138501",
     "name": "Chinese Academy of Agricultural Sciences",
     "lat": 39.907501220703125,
@@ -397,6 +397,14 @@
     "lat": 52.381282806396484,
     "lng": 13.064151763916016,
     "country_code": "DE",
+    "paper_count": 9
+  },
+  {
+    "id": "https://openalex.org/I63525965",
+    "name": "Western Sydney University",
+    "lat": -33.59955978393555,
+    "lng": 150.7514190673828,
+    "country_code": "AU",
     "paper_count": 9
   },
   {
@@ -520,14 +528,6 @@
     "paper_count": 8
   },
   {
-    "id": "https://openalex.org/I63525965",
-    "name": "Western Sydney University",
-    "lat": -33.59955978393555,
-    "lng": 150.7514190673828,
-    "country_code": "AU",
-    "paper_count": 8
-  },
-  {
     "id": "https://openalex.org/I76198965",
     "name": "Friedrich Schiller University Jena",
     "lat": 50.92878,
@@ -564,6 +564,14 @@
     "name": "NSF National Center for Atmospheric Research",
     "lat": 40.01499,
     "lng": -105.27055,
+    "country_code": "US",
+    "paper_count": 7
+  },
+  {
+    "id": "https://openalex.org/I114027177",
+    "name": "University of North Carolina at Chapel Hill",
+    "lat": 35.9132,
+    "lng": -79.05584,
     "country_code": "US",
     "paper_count": 7
   },
@@ -776,6 +784,14 @@
     "paper_count": 7
   },
   {
+    "id": "https://openalex.org/I74656192",
+    "name": "University of G\u00f6ttingen",
+    "lat": 51.53443,
+    "lng": 9.93228,
+    "country_code": "DE",
+    "paper_count": 7
+  },
+  {
     "id": "https://openalex.org/I74801974",
     "name": "The University of Tokyo",
     "lat": 35.68949890136719,
@@ -845,14 +861,6 @@
     "lat": 52.627830505371094,
     "lng": 1.2983399629592896,
     "country_code": "GB",
-    "paper_count": 6
-  },
-  {
-    "id": "https://openalex.org/I114027177",
-    "name": "University of North Carolina at Chapel Hill",
-    "lat": 35.9132,
-    "lng": -79.05584,
-    "country_code": "US",
     "paper_count": 6
   },
   {
@@ -1024,6 +1032,14 @@
     "paper_count": 6
   },
   {
+    "id": "https://openalex.org/I61623833",
+    "name": "University of Agriculture Faisalabad",
+    "lat": 31.41554,
+    "lng": 73.08969,
+    "country_code": "PK",
+    "paper_count": 6
+  },
+  {
     "id": "https://openalex.org/I63966007",
     "name": "Massachusetts Institute of Technology",
     "lat": 42.3751,
@@ -1037,14 +1053,6 @@
     "lat": 51.45624923706055,
     "lng": -0.9711300134658813,
     "country_code": "GB",
-    "paper_count": 6
-  },
-  {
-    "id": "https://openalex.org/I74656192",
-    "name": "University of G\u00f6ttingen",
-    "lat": 51.53443,
-    "lng": 9.93228,
-    "country_code": "DE",
     "paper_count": 6
   },
   {
@@ -1421,14 +1429,6 @@
     "lat": -37.814,
     "lng": 144.96332,
     "country_code": "AU",
-    "paper_count": 5
-  },
-  {
-    "id": "https://openalex.org/I61623833",
-    "name": "University of Agriculture Faisalabad",
-    "lat": 31.41554,
-    "lng": 73.08969,
-    "country_code": "PK",
     "paper_count": 5
   },
   {
@@ -3296,6 +3296,14 @@
     "paper_count": 2
   },
   {
+    "id": "https://openalex.org/I106157433",
+    "name": "University of Kassel",
+    "lat": 51.31667,
+    "lng": 9.5,
+    "country_code": "DE",
+    "paper_count": 2
+  },
+  {
     "id": "https://openalex.org/I106165777",
     "name": "University of Central Florida",
     "lat": 28.53834,
@@ -3349,6 +3357,14 @@
     "lat": 34.05223,
     "lng": -118.24368,
     "country_code": "US",
+    "paper_count": 2
+  },
+  {
+    "id": "https://openalex.org/I12079687",
+    "name": "Edith Cowan University",
+    "lat": -31.952239990234375,
+    "lng": 115.86139678955078,
+    "country_code": "AU",
     "paper_count": 2
   },
   {
@@ -3960,6 +3976,14 @@
     "paper_count": 2
   },
   {
+    "id": "https://openalex.org/I174731842",
+    "name": "Islamia University of Bahawalpur",
+    "lat": 29.998350143432617,
+    "lng": 73.25272369384766,
+    "country_code": "PK",
+    "paper_count": 2
+  },
+  {
     "id": "https://openalex.org/I175691731",
     "name": "Pondicherry University",
     "lat": 11.93381,
@@ -4109,6 +4133,14 @@
     "lat": 40.482051849365234,
     "lng": -3.3599600791931152,
     "country_code": "ES",
+    "paper_count": 2
+  },
+  {
+    "id": "https://openalex.org/I189575948",
+    "name": "South Valley University",
+    "lat": 26.164180755615234,
+    "lng": 32.72671127319336,
+    "country_code": "EG",
     "paper_count": 2
   },
   {
@@ -4277,6 +4309,14 @@
     "lat": 52.52436828613281,
     "lng": 13.410530090332031,
     "country_code": "DE",
+    "paper_count": 2
+  },
+  {
+    "id": "https://openalex.org/I205665586",
+    "name": "Dr. Rajendra Prasad Central Agriculture University",
+    "lat": 25.985654830932617,
+    "lng": 85.67424011230469,
+    "country_code": "IN",
     "paper_count": 2
   },
   {
@@ -6184,14 +6224,6 @@
     "paper_count": 1
   },
   {
-    "id": "https://openalex.org/I106157433",
-    "name": "University of Kassel",
-    "lat": 51.31667,
-    "lng": 9.5,
-    "country_code": "DE",
-    "paper_count": 1
-  },
-  {
     "id": "https://openalex.org/I10660446",
     "name": "Kunming University of Science and Technology",
     "lat": 25.061561584472656,
@@ -6293,6 +6325,14 @@
     "lat": 37.983760833740234,
     "lng": 23.727840423583984,
     "country_code": "GR",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I109963156",
+    "name": "Bidhan Chandra Krishi Viswavidyalaya",
+    "lat": 22.94826889038086,
+    "lng": 88.53093719482422,
+    "country_code": "IN",
     "paper_count": 1
   },
   {
@@ -6645,14 +6685,6 @@
     "lat": 24.45118,
     "lng": 54.39696,
     "country_code": "AE",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I12079687",
-    "name": "Edith Cowan University",
-    "lat": -31.952239990234375,
-    "lng": 115.86139678955078,
-    "country_code": "AU",
     "paper_count": 1
   },
   {
@@ -8800,14 +8832,6 @@
     "paper_count": 1
   },
   {
-    "id": "https://openalex.org/I174731842",
-    "name": "Islamia University of Bahawalpur",
-    "lat": 29.998350143432617,
-    "lng": 73.25272369384766,
-    "country_code": "PK",
-    "paper_count": 1
-  },
-  {
     "id": "https://openalex.org/I175124709",
     "name": "S\u00fcleyman Demirel University",
     "lat": 37.76443862915039,
@@ -8933,6 +8957,14 @@
     "lat": 21.270280838012695,
     "lng": 40.415828704833984,
     "country_code": "SA",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I180437899",
+    "name": "University of Bremen",
+    "lat": 53.07582,
+    "lng": 8.80717,
+    "country_code": "DE",
     "paper_count": 1
   },
   {
@@ -9157,14 +9189,6 @@
     "lat": 35.20445,
     "lng": 128.12408,
     "country_code": "KR",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I189575948",
-    "name": "South Valley University",
-    "lat": 26.164180755615234,
-    "lng": 32.72671127319336,
-    "country_code": "EG",
     "paper_count": 1
   },
   {
@@ -9688,14 +9712,6 @@
     "paper_count": 1
   },
   {
-    "id": "https://openalex.org/I205665586",
-    "name": "Dr. Rajendra Prasad Central Agriculture University",
-    "lat": 25.985654830932617,
-    "lng": 85.67424011230469,
-    "country_code": "IN",
-    "paper_count": 1
-  },
-  {
     "id": "https://openalex.org/I205746353",
     "name": "University of Dhaka",
     "lat": 23.7104,
@@ -9717,6 +9733,14 @@
     "lat": 7.073060035705566,
     "lng": 125.61277770996094,
     "country_code": "PH",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I206573129",
+    "name": "Islamia College University",
+    "lat": 34.00028610229492,
+    "lng": 71.47667694091797,
+    "country_code": "PK",
     "paper_count": 1
   },
   {
