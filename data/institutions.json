@@ -14336,6 +14336,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I4210133503",
+    "name": "Central University of Haryana",
+    "lat": 28.269350051879883,
+    "lng": 76.15252685546875,
+    "country_code": "IN",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I4210133524",
     "name": "Key Laboratory of Nuclear Radiation and Nuclear Energy Technology",
     "lat": 31.31833267211914,
@@ -18037,6 +18045,14 @@
     "lat": 51.48165,
     "lng": 7.21648,
     "country_code": "DE",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I905734797",
+    "name": "Maharshi Dayanand University",
+    "lat": 28.89447,
+    "lng": 76.58917,
+    "country_code": "IN",
     "paper_count": 1
   },
   {
