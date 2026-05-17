@@ -232,6 +232,14 @@
     "paper_count": 11
   },
   {
+    "id": "https://openalex.org/I201448701",
+    "name": "University of Washington",
+    "lat": 47.60621,
+    "lng": -122.33207,
+    "country_code": "US",
+    "paper_count": 11
+  },
+  {
     "id": "https://openalex.org/I2738703131",
     "name": "Commissariat \u00e0 l'\u00c9nergie Atomique et aux \u00c9nergies Alternatives",
     "lat": 48.85341,
@@ -285,14 +293,6 @@
     "lat": -31.95224,
     "lng": 115.8614,
     "country_code": "AU",
-    "paper_count": 10
-  },
-  {
-    "id": "https://openalex.org/I201448701",
-    "name": "University of Washington",
-    "lat": 47.60621,
-    "lng": -122.33207,
-    "country_code": "US",
     "paper_count": 10
   },
   {
@@ -2584,6 +2584,14 @@
     "paper_count": 3
   },
   {
+    "id": "https://openalex.org/I205237279",
+    "name": "Nankai University",
+    "lat": 39.14221954345703,
+    "lng": 117.17666625976562,
+    "country_code": "CN",
+    "paper_count": 3
+  },
+  {
     "id": "https://openalex.org/I205349734",
     "name": "Hokkaido University",
     "lat": 43.07817840576172,
@@ -3077,6 +3085,14 @@
     "lat": 37.89154815673828,
     "lng": -4.772749900817871,
     "country_code": "ES",
+    "paper_count": 3
+  },
+  {
+    "id": "https://openalex.org/I55712492",
+    "name": "Zhejiang University of Technology",
+    "lat": 30.293649673461914,
+    "lng": 120.16142272949219,
+    "country_code": "CN",
     "paper_count": 3
   },
   {
@@ -4293,14 +4309,6 @@
     "lat": 48.85341,
     "lng": 2.3488,
     "country_code": "FR",
-    "paper_count": 2
-  },
-  {
-    "id": "https://openalex.org/I205237279",
-    "name": "Nankai University",
-    "lat": 39.14221954345703,
-    "lng": 117.17666625976562,
-    "country_code": "CN",
     "paper_count": 2
   },
   {
@@ -5632,14 +5640,6 @@
     "paper_count": 2
   },
   {
-    "id": "https://openalex.org/I55712492",
-    "name": "Zhejiang University of Technology",
-    "lat": 30.293649673461914,
-    "lng": 120.16142272949219,
-    "country_code": "CN",
-    "paper_count": 2
-  },
-  {
     "id": "https://openalex.org/I55952717",
     "name": "Universitat Rovira i Virgili",
     "lat": 41.11905,
@@ -6293,6 +6293,14 @@
     "lat": 49.699989318847656,
     "lng": -112.81855773925781,
     "country_code": "CA",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I107982497",
+    "name": "Dalian Ocean University",
+    "lat": 38.9122200012207,
+    "lng": 121.60221862792969,
+    "country_code": "CN",
     "paper_count": 1
   },
   {
@@ -9240,6 +9248,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I191996457",
+    "name": "Dalian Medical University",
+    "lat": 38.9122200012207,
+    "lng": 121.60221862792969,
+    "country_code": "CN",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I192392021",
     "name": "University of Central Punjab",
     "lat": 31.558000564575195,
@@ -10141,6 +10157,14 @@
     "lat": -22.90642,
     "lng": -43.18223,
     "country_code": "BR",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I27357992",
+    "name": "Dalian University of Technology",
+    "lat": 38.9122200012207,
+    "lng": 121.60221862792969,
+    "country_code": "CN",
     "paper_count": 1
   },
   {
@@ -11808,6 +11832,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I4210091170",
+    "name": "Euskadiko Parke Teknologikoa",
+    "lat": 43.30543899536133,
+    "lng": -2.881160020828247,
+    "country_code": "ES",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I4210091240",
     "name": "Maldives National University",
     "lat": 4.170976161956787,
@@ -12020,6 +12052,14 @@
     "name": "China Animal Disease Control Center",
     "lat": 39.94585037231445,
     "lng": 116.46676635742188,
+    "country_code": "CN",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4210092944",
+    "name": "Dalian University",
+    "lat": 38.9122200012207,
+    "lng": 121.60221862792969,
     "country_code": "CN",
     "paper_count": 1
   },
@@ -16005,6 +16045,14 @@
     "lat": 13.455102920532227,
     "lng": -16.579669952392578,
     "country_code": "GM",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4210160698",
+    "name": "Kementerian Pendidikan Malaysia",
+    "lat": 2.93527,
+    "lng": 101.69112,
+    "country_code": "MY",
     "paper_count": 1
   },
   {
