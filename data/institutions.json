@@ -24,19 +24,19 @@
     "paper_count": 20
   },
   {
-    "id": "https://openalex.org/I35440088",
-    "name": "ETH Zurich",
-    "lat": 47.36667,
-    "lng": 8.55,
-    "country_code": "CH",
-    "paper_count": 19
-  },
-  {
     "id": "https://openalex.org/I913481162",
     "name": "Wageningen University & Research",
     "lat": 51.97,
     "lng": 5.66667,
     "country_code": "NL",
+    "paper_count": 20
+  },
+  {
+    "id": "https://openalex.org/I35440088",
+    "name": "ETH Zurich",
+    "lat": 47.36667,
+    "lng": 8.55,
+    "country_code": "CH",
     "paper_count": 19
   },
   {
@@ -136,6 +136,14 @@
     "paper_count": 14
   },
   {
+    "id": "https://openalex.org/I20231570",
+    "name": "Peking University",
+    "lat": 39.907501220703125,
+    "lng": 116.39723205566406,
+    "country_code": "CN",
+    "paper_count": 13
+  },
+  {
     "id": "https://openalex.org/I47508984",
     "name": "Imperial College London",
     "lat": 51.50853,
@@ -189,14 +197,6 @@
     "lat": 40.014991760253906,
     "lng": -105.27055358886719,
     "country_code": "US",
-    "paper_count": 12
-  },
-  {
-    "id": "https://openalex.org/I20231570",
-    "name": "Peking University",
-    "lat": 39.907501220703125,
-    "lng": 116.39723205566406,
-    "country_code": "CN",
     "paper_count": 12
   },
   {
@@ -320,6 +320,14 @@
     "paper_count": 10
   },
   {
+    "id": "https://openalex.org/I124055696",
+    "name": "University of Copenhagen",
+    "lat": 55.67594,
+    "lng": 12.56553,
+    "country_code": "DK",
+    "paper_count": 9
+  },
+  {
     "id": "https://openalex.org/I127251866",
     "name": "Alfred-Wegener-Institut Helmholtz-Zentrum f\u00fcr Polar- und Meeresforschung",
     "lat": 53.53615188598633,
@@ -429,14 +437,6 @@
     "lat": -35.2834587097168,
     "lng": 149.12806701660156,
     "country_code": "AU",
-    "paper_count": 8
-  },
-  {
-    "id": "https://openalex.org/I124055696",
-    "name": "University of Copenhagen",
-    "lat": 55.67594,
-    "lng": 12.56553,
-    "country_code": "DK",
     "paper_count": 8
   },
   {
@@ -680,6 +680,14 @@
     "paper_count": 7
   },
   {
+    "id": "https://openalex.org/I169381384",
+    "name": "University of Groningen",
+    "lat": 53.21917,
+    "lng": 6.56667,
+    "country_code": "NL",
+    "paper_count": 7
+  },
+  {
     "id": "https://openalex.org/I183067930",
     "name": "Shanghai Jiao Tong University",
     "lat": 31.222219467163086,
@@ -896,14 +904,6 @@
     "paper_count": 6
   },
   {
-    "id": "https://openalex.org/I169381384",
-    "name": "University of Groningen",
-    "lat": 53.21917,
-    "lng": 6.56667,
-    "country_code": "NL",
-    "paper_count": 6
-  },
-  {
     "id": "https://openalex.org/I176453806",
     "name": "University of Potsdam",
     "lat": 52.39886,
@@ -1102,6 +1102,14 @@
     "lng": 4.700930118560791,
     "country_code": "BE",
     "paper_count": 6
+  },
+  {
+    "id": "https://openalex.org/I114017466",
+    "name": "University of Technology Sydney",
+    "lat": -33.86785,
+    "lng": 151.20732,
+    "country_code": "AU",
+    "paper_count": 5
   },
   {
     "id": "https://openalex.org/I114457229",
@@ -1536,14 +1544,6 @@
     "paper_count": 4
   },
   {
-    "id": "https://openalex.org/I114017466",
-    "name": "University of Technology Sydney",
-    "lat": -33.86785,
-    "lng": 151.20732,
-    "country_code": "AU",
-    "paper_count": 4
-  },
-  {
     "id": "https://openalex.org/I11701301",
     "name": "Griffith University",
     "lat": -27.46794,
@@ -1933,6 +1933,14 @@
     "lat": 48.85341,
     "lng": 2.3488,
     "country_code": "FR",
+    "paper_count": 4
+  },
+  {
+    "id": "https://openalex.org/I298625061",
+    "name": "Swedish University of Agricultural Sciences",
+    "lat": 59.858821868896484,
+    "lng": 17.63888931274414,
+    "country_code": "SE",
     "paper_count": 4
   },
   {
@@ -2677,14 +2685,6 @@
     "lat": 55.67594,
     "lng": 12.56553,
     "country_code": "DK",
-    "paper_count": 3
-  },
-  {
-    "id": "https://openalex.org/I298625061",
-    "name": "Swedish University of Agricultural Sciences",
-    "lat": 59.858821868896484,
-    "lng": 17.63888931274414,
-    "country_code": "SE",
     "paper_count": 3
   },
   {
@@ -4912,6 +4912,14 @@
     "paper_count": 2
   },
   {
+    "id": "https://openalex.org/I4210107283",
+    "name": "Royal Netherlands Institute for Sea Research",
+    "lat": 53.054168701171875,
+    "lng": 4.797220230102539,
+    "country_code": "NL",
+    "paper_count": 2
+  },
+  {
     "id": "https://openalex.org/I4210108244",
     "name": "Yantai Institute of Coastal Zone Research",
     "lat": 37.47649002075195,
@@ -5005,6 +5013,14 @@
     "lat": 6.36536,
     "lng": 2.41833,
     "country_code": "BJ",
+    "paper_count": 2
+  },
+  {
+    "id": "https://openalex.org/I4210120379",
+    "name": "Marine Research Centre",
+    "lat": 4.17521,
+    "lng": 73.50916,
+    "country_code": "MV",
     "paper_count": 2
   },
   {
@@ -8192,6 +8208,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I156341307",
+    "name": "Universidad de San Carlos de Guatemala",
+    "lat": 14.64072,
+    "lng": -90.51327,
+    "country_code": "GT",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I15664174",
     "name": "Madurai Medical College",
     "lat": 9.919,
@@ -11200,6 +11224,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I32046576",
+    "name": "Universidad Rafael Land\u00edvar",
+    "lat": 14.64072,
+    "lng": -90.51327,
+    "country_code": "GT",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I32463749",
     "name": "Ishinomaki Senshu University",
     "lat": 38.45377731323242,
@@ -12856,14 +12888,6 @@
     "paper_count": 1
   },
   {
-    "id": "https://openalex.org/I4210107283",
-    "name": "Royal Netherlands Institute for Sea Research",
-    "lat": 53.054168701171875,
-    "lng": 4.797220230102539,
-    "country_code": "NL",
-    "paper_count": 1
-  },
-  {
     "id": "https://openalex.org/I4210107718",
     "name": "Northern Research Station",
     "lat": 43.07305145263672,
@@ -13613,14 +13637,6 @@
     "lat": 39.98666763305664,
     "lng": 116.33165740966797,
     "country_code": "CN",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I4210120379",
-    "name": "Marine Research Centre",
-    "lat": 4.17521,
-    "lng": 73.50916,
-    "country_code": "MV",
     "paper_count": 1
   },
   {
@@ -15109,6 +15125,14 @@
     "lat": 49.195220947265625,
     "lng": 16.607959747314453,
     "country_code": "CZ",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4210144557",
+    "name": "Scientific Centre of Monaco",
+    "lat": 43.73718,
+    "lng": 7.42145,
+    "country_code": "MC",
     "paper_count": 1
   },
   {
@@ -17229,6 +17253,14 @@
     "lat": 44.30012130737305,
     "lng": -78.31623077392578,
     "country_code": "CA",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I66752286",
+    "name": "University of Milano-Bicocca",
+    "lat": 45.464271545410156,
+    "lng": 9.189510345458984,
+    "country_code": "IT",
     "paper_count": 1
   },
   {
