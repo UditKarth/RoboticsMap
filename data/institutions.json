@@ -1184,6 +1184,14 @@
     "paper_count": 5
   },
   {
+    "id": "https://openalex.org/I145608581",
+    "name": "University of Miami",
+    "lat": 25.72149,
+    "lng": -80.26838,
+    "country_code": "US",
+    "paper_count": 5
+  },
+  {
     "id": "https://openalex.org/I153718931",
     "name": "University of Ottawa",
     "lat": 45.41117,
@@ -1716,14 +1724,6 @@
     "name": "Johns Hopkins University",
     "lat": 39.29038,
     "lng": -76.61219,
-    "country_code": "US",
-    "paper_count": 4
-  },
-  {
-    "id": "https://openalex.org/I145608581",
-    "name": "University of Miami",
-    "lat": 25.72149,
-    "lng": -80.26838,
     "country_code": "US",
     "paper_count": 4
   },
@@ -3861,6 +3861,14 @@
     "lat": 51.45624923706055,
     "lng": -0.9711300134658813,
     "country_code": "GB",
+    "paper_count": 2
+  },
+  {
+    "id": "https://openalex.org/I155028946",
+    "name": "Tribhuvan University",
+    "lat": 27.70169,
+    "lng": 85.3206,
+    "country_code": "NP",
     "paper_count": 2
   },
   {
@@ -6336,6 +6344,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I10874241",
+    "name": "Jawaharlal Nehru Technological University, Hyderabad",
+    "lat": 17.38405,
+    "lng": 78.45636,
+    "country_code": "IN",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I108839631",
     "name": "Royal Meteorological Institute of Belgium",
     "lat": 50.85044860839844,
@@ -8173,14 +8189,6 @@
     "lat": 48.85341,
     "lng": 2.3488,
     "country_code": "FR",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I155028946",
-    "name": "Tribhuvan University",
-    "lat": 27.70169,
-    "lng": 85.3206,
-    "country_code": "NP",
     "paper_count": 1
   },
   {
@@ -14320,6 +14328,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I4210132248",
+    "name": "Varsha Bioscience and Technology (India)",
+    "lat": 17.352821350097656,
+    "lng": 78.5111083984375,
+    "country_code": "IN",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I4210132491",
     "name": "International Institute of Tropical Forestry",
     "lat": 18.46632957458496,
@@ -14732,6 +14748,14 @@
     "name": "New York Consortium in Evolutionary Primatology",
     "lat": 40.76873016357422,
     "lng": -73.96489715576172,
+    "country_code": "US",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4210137565",
+    "name": "Eye Care Associates",
+    "lat": 40.9871711730957,
+    "lng": -80.6701431274414,
     "country_code": "US",
     "paper_count": 1
   },

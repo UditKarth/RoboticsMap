@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-20",
-  "total_papers": 982,
-  "total_institutions": 2294,
+  "last_updated": "2026-05-21",
+  "total_papers": 985,
+  "total_institutions": 2297,
   "date_range": {
     "from": "2018-01-01",
     "to": "2026-01-01"
@@ -9,7 +9,7 @@
   "papers_by_country": [
     {
       "country_code": "US",
-      "paper_count": 256
+      "paper_count": 258
     },
     {
       "country_code": "CN",
@@ -61,7 +61,7 @@
     },
     {
       "country_code": "IN",
-      "paper_count": 45
+      "paper_count": 46
     },
     {
       "country_code": "BR",
@@ -328,6 +328,10 @@
       "paper_count": 2
     },
     {
+      "country_code": "NP",
+      "paper_count": 2
+    },
+    {
       "country_code": "MG",
       "paper_count": 2
     },
@@ -437,10 +441,6 @@
     },
     {
       "country_code": "OM",
-      "paper_count": 1
-    },
-    {
-      "country_code": "NP",
       "paper_count": 1
     },
     {
