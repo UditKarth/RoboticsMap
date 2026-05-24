@@ -840,6 +840,14 @@
     "paper_count": 7
   },
   {
+    "id": "https://openalex.org/I859038795",
+    "name": "Virginia Tech",
+    "lat": 37.22957,
+    "lng": -80.41394,
+    "country_code": "US",
+    "paper_count": 7
+  },
+  {
     "id": "https://openalex.org/I881427289",
     "name": "University of Gothenburg",
     "lat": 57.70716,
@@ -1093,14 +1101,6 @@
     "lat": 48.13743,
     "lng": 11.57549,
     "country_code": "DE",
-    "paper_count": 6
-  },
-  {
-    "id": "https://openalex.org/I859038795",
-    "name": "Virginia Tech",
-    "lat": 37.22957,
-    "lng": -80.41394,
-    "country_code": "US",
     "paper_count": 6
   },
   {
@@ -2245,6 +2245,14 @@
     "lat": 21.30694007873535,
     "lng": -157.85833740234375,
     "country_code": "US",
+    "paper_count": 3
+  },
+  {
+    "id": "https://openalex.org/I119868032",
+    "name": "Shanxi Agricultural University",
+    "lat": 37.73639,
+    "lng": 112.55639,
+    "country_code": "CN",
     "paper_count": 3
   },
   {
@@ -3405,14 +3413,6 @@
     "lat": -33.456939697265625,
     "lng": -70.64826965332031,
     "country_code": "CL",
-    "paper_count": 2
-  },
-  {
-    "id": "https://openalex.org/I119868032",
-    "name": "Shanxi Agricultural University",
-    "lat": 37.73639,
-    "lng": 112.55639,
-    "country_code": "CN",
     "paper_count": 2
   },
   {
@@ -14280,6 +14280,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I4210129780",
+    "name": "National Bureau of Agricultural Insect Resources",
+    "lat": 13.027003288269043,
+    "lng": 77.5842514038086,
+    "country_code": "IN",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I4210129794",
     "name": "Division of Materials Science and Engineering",
     "lat": -35.28346,
@@ -15261,6 +15269,14 @@
     "lat": 50.85044860839844,
     "lng": 4.348780155181885,
     "country_code": "BE",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4210145249",
+    "name": "Yunnan Environmental Protection Bureau",
+    "lat": 25.038890838623047,
+    "lng": 102.71833038330078,
+    "country_code": "CN",
     "paper_count": 1
   },
   {
@@ -16365,6 +16381,14 @@
     "lat": 33.6711311340332,
     "lng": 73.14682006835938,
     "country_code": "PK",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4210165015",
+    "name": "Shanxi Science and Technology Department",
+    "lat": 37.87143,
+    "lng": 112.56054,
+    "country_code": "CN",
     "paper_count": 1
   },
   {
