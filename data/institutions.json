@@ -8688,6 +8688,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I165504564",
+    "name": "Marine Stewardship Council",
+    "lat": 51.51692581176758,
+    "lng": -0.10266199707984924,
+    "country_code": "GB",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I165580012",
     "name": "Geospatial Information Authority of Japan",
     "lat": 36.14206314086914,
