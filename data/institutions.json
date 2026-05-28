@@ -496,6 +496,14 @@
     "paper_count": 8
   },
   {
+    "id": "https://openalex.org/I212119943",
+    "name": "University of Victoria",
+    "lat": 48.4359,
+    "lng": -123.35155,
+    "country_code": "CA",
+    "paper_count": 8
+  },
+  {
     "id": "https://openalex.org/I241749",
     "name": "University of Cambridge",
     "lat": 52.2,
@@ -728,14 +736,6 @@
     "paper_count": 7
   },
   {
-    "id": "https://openalex.org/I212119943",
-    "name": "University of Victoria",
-    "lat": 48.4359,
-    "lng": -123.35155,
-    "country_code": "CA",
-    "paper_count": 7
-  },
-  {
     "id": "https://openalex.org/I28407311",
     "name": "University of Manchester",
     "lat": 53.48095,
@@ -765,6 +765,14 @@
     "lat": 52.52436828613281,
     "lng": 13.410530090332031,
     "country_code": "DE",
+    "paper_count": 7
+  },
+  {
+    "id": "https://openalex.org/I4210103115",
+    "name": "Xinjiang Institute of Ecology and Geography",
+    "lat": 43.800960540771484,
+    "lng": 87.60045623779297,
+    "country_code": "CN",
     "paper_count": 7
   },
   {
@@ -989,14 +997,6 @@
     "lat": 37.38283157348633,
     "lng": -5.973169803619385,
     "country_code": "ES",
-    "paper_count": 6
-  },
-  {
-    "id": "https://openalex.org/I4210103115",
-    "name": "Xinjiang Institute of Ecology and Geography",
-    "lat": 43.800960540771484,
-    "lng": 87.60045623779297,
-    "country_code": "CN",
     "paper_count": 6
   },
   {
@@ -1600,6 +1600,14 @@
     "paper_count": 4
   },
   {
+    "id": "https://openalex.org/I1281735042",
+    "name": "Natural Resources Canada",
+    "lat": 45.411170959472656,
+    "lng": -75.6981201171875,
+    "country_code": "CA",
+    "paper_count": 4
+  },
+  {
     "id": "https://openalex.org/I1283280774",
     "name": "Brigham and Women's Hospital",
     "lat": 42.358428955078125,
@@ -1829,6 +1837,14 @@
     "lat": 43.32686,
     "lng": -2.98884,
     "country_code": "ES",
+    "paper_count": 4
+  },
+  {
+    "id": "https://openalex.org/I181233156",
+    "name": "University of Oregon",
+    "lat": 44.05207,
+    "lng": -123.08675,
+    "country_code": "US",
     "paper_count": 4
   },
   {
@@ -2304,14 +2320,6 @@
     "paper_count": 3
   },
   {
-    "id": "https://openalex.org/I1281735042",
-    "name": "Natural Resources Canada",
-    "lat": 45.411170959472656,
-    "lng": -75.6981201171875,
-    "country_code": "CA",
-    "paper_count": 3
-  },
-  {
     "id": "https://openalex.org/I1282105669",
     "name": "Argonne National Laboratory",
     "lat": 41.673641204833984,
@@ -2576,18 +2584,18 @@
     "paper_count": 3
   },
   {
+    "id": "https://openalex.org/I18014758",
+    "name": "Simon Fraser University",
+    "lat": 49.26636,
+    "lng": -122.95263,
+    "country_code": "CA",
+    "paper_count": 3
+  },
+  {
     "id": "https://openalex.org/I180670191",
     "name": "University of California, San Francisco",
     "lat": 37.77493,
     "lng": -122.41942,
-    "country_code": "US",
-    "paper_count": 3
-  },
-  {
-    "id": "https://openalex.org/I181233156",
-    "name": "University of Oregon",
-    "lat": 44.05207,
-    "lng": -123.08675,
     "country_code": "US",
     "paper_count": 3
   },
@@ -3360,6 +3368,14 @@
     "paper_count": 2
   },
   {
+    "id": "https://openalex.org/I102208913",
+    "name": "Shihezi University",
+    "lat": 44.30229949951172,
+    "lng": 86.03694152832031,
+    "country_code": "CN",
+    "paper_count": 2
+  },
+  {
     "id": "https://openalex.org/I103531236",
     "name": "Boston College",
     "lat": 42.35843,
@@ -3792,6 +3808,14 @@
     "paper_count": 2
   },
   {
+    "id": "https://openalex.org/I142108993",
+    "name": "Southwest University",
+    "lat": 29.560260772705078,
+    "lng": 106.55770874023438,
+    "country_code": "CN",
+    "paper_count": 2
+  },
+  {
     "id": "https://openalex.org/I143302722",
     "name": "University of Kentucky",
     "lat": 37.98869,
@@ -3933,6 +3957,14 @@
     "lat": 23.116670608520508,
     "lng": 113.25,
     "country_code": "CN",
+    "paper_count": 2
+  },
+  {
+    "id": "https://openalex.org/I160262251",
+    "name": "Thompson Rivers University",
+    "lat": 50.666481018066406,
+    "lng": -120.31919860839844,
+    "country_code": "CA",
     "paper_count": 2
   },
   {
@@ -4085,14 +4117,6 @@
     "lat": 49.40768,
     "lng": 8.69079,
     "country_code": "DE",
-    "paper_count": 2
-  },
-  {
-    "id": "https://openalex.org/I18014758",
-    "name": "Simon Fraser University",
-    "lat": 49.26636,
-    "lng": -122.95263,
-    "country_code": "CA",
     "paper_count": 2
   },
   {
@@ -5832,6 +5856,14 @@
     "paper_count": 2
   },
   {
+    "id": "https://openalex.org/I69094615",
+    "name": "Universidad San Francisco de Quito",
+    "lat": -0.22984999418258667,
+    "lng": -78.52494812011719,
+    "country_code": "EC",
+    "paper_count": 2
+  },
+  {
     "id": "https://openalex.org/I70703428",
     "name": "Palack\u00fd University Olomouc",
     "lat": 49.59552,
@@ -6205,14 +6237,6 @@
     "lat": 58.41086,
     "lng": 15.62157,
     "country_code": "SE",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I102208913",
-    "name": "Shihezi University",
-    "lat": 44.30229949951172,
-    "lng": 86.03694152832031,
-    "country_code": "CN",
     "paper_count": 1
   },
   {
@@ -7021,6 +7045,14 @@
     "lat": 26.63333,
     "lng": 92.8,
     "country_code": "IN",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I126860399",
+    "name": "Charles Darwin Foundation",
+    "lat": -0.7401800155639648,
+    "lng": -90.31379699707031,
+    "country_code": "EC",
     "paper_count": 1
   },
   {
@@ -7960,14 +7992,6 @@
     "paper_count": 1
   },
   {
-    "id": "https://openalex.org/I142108993",
-    "name": "Southwest University",
-    "lat": 29.560260772705078,
-    "lng": 106.55770874023438,
-    "country_code": "CN",
-    "paper_count": 1
-  },
-  {
     "id": "https://openalex.org/I142263535",
     "name": "University of Nottingham",
     "lat": 52.9536,
@@ -8384,6 +8408,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I159129438",
+    "name": "Universit\u00e9 du Qu\u00e9bec \u00e0 Montr\u00e9al",
+    "lat": 45.50884,
+    "lng": -73.58781,
+    "country_code": "CA",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I159247623",
     "name": "Mansoura University",
     "lat": 31.03636932373047,
@@ -8413,14 +8445,6 @@
     "lat": 40.725860595703125,
     "lng": 8.555520057678223,
     "country_code": "IT",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I160262251",
-    "name": "Thompson Rivers University",
-    "lat": 50.666481018066406,
-    "lng": -120.31919860839844,
-    "country_code": "CA",
     "paper_count": 1
   },
   {
@@ -10320,6 +10344,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I2799291450",
+    "name": "Oregon Department of Education",
+    "lat": 44.93951416015625,
+    "lng": -123.02879333496094,
+    "country_code": "US",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I2799393461",
     "name": "Parks Victoria",
     "lat": -37.815914154052734,
@@ -11648,6 +11680,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I41549804",
+    "name": "Vidyasagar University",
+    "lat": 22.42114,
+    "lng": 87.32257,
+    "country_code": "IN",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I41641357",
     "name": "Ege University",
     "lat": 38.4127311706543,
@@ -12357,6 +12397,14 @@
     "lat": 30.19679069519043,
     "lng": 71.47824096679688,
     "country_code": "PK",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4210096565",
+    "name": "Institute of Ecology and Geography",
+    "lat": 47.012081146240234,
+    "lng": 28.86581039428711,
+    "country_code": "MD",
     "paper_count": 1
   },
   {
@@ -14221,6 +14269,14 @@
     "lat": 59.92919158935547,
     "lng": 10.741859436035156,
     "country_code": "NO",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4210128326",
+    "name": "Institute of Himalayan Bioresource Technology",
+    "lat": 32.09371566772461,
+    "lng": 76.54393768310547,
+    "country_code": "IN",
     "paper_count": 1
   },
   {
@@ -16384,6 +16440,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I4210164339",
+    "name": "Oldham Council",
+    "lat": 53.54231643676758,
+    "lng": -2.117724895477295,
+    "country_code": "GB",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I4210164354",
     "name": "Heartfile",
     "lat": 33.6711311340332,
@@ -16845,6 +16909,14 @@
     "lat": 47.24878,
     "lng": 6.01815,
     "country_code": "FR",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4405260628",
+    "name": "University of British Columbia, Okanagan Campus",
+    "lat": 49.88307,
+    "lng": -119.48568,
+    "country_code": "CA",
     "paper_count": 1
   },
   {
@@ -17485,14 +17557,6 @@
     "lat": -20.219039916992188,
     "lng": 57.51082992553711,
     "country_code": "MU",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I69094615",
-    "name": "Universidad San Francisco de Quito",
-    "lat": -0.22984999418258667,
-    "lng": -78.52494812011719,
-    "country_code": "EC",
     "paper_count": 1
   },
   {
