@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-28",
-  "total_papers": 1002,
-  "total_institutions": 2320,
+  "last_updated": "2026-05-29",
+  "total_papers": 1008,
+  "total_institutions": 2338,
   "date_range": {
     "from": "2018-01-01",
     "to": "2026-01-01"
@@ -9,11 +9,11 @@
   "papers_by_country": [
     {
       "country_code": "US",
-      "paper_count": 261
+      "paper_count": 262
     },
     {
       "country_code": "CN",
-      "paper_count": 230
+      "paper_count": 231
     },
     {
       "country_code": "GB",
@@ -21,15 +21,15 @@
     },
     {
       "country_code": "DE",
-      "paper_count": 111
+      "paper_count": 113
     },
     {
       "country_code": "AU",
-      "paper_count": 98
+      "paper_count": 100
     },
     {
       "country_code": "CA",
-      "paper_count": 73
+      "paper_count": 75
     },
     {
       "country_code": "NL",
@@ -53,14 +53,14 @@
     },
     {
       "country_code": "IN",
-      "paper_count": 49
-    },
-    {
-      "country_code": "SE",
-      "paper_count": 47
+      "paper_count": 50
     },
     {
       "country_code": "JP",
+      "paper_count": 48
+    },
+    {
+      "country_code": "SE",
       "paper_count": 47
     },
     {
@@ -76,11 +76,11 @@
       "paper_count": 32
     },
     {
-      "country_code": "DK",
-      "paper_count": 24
+      "country_code": "AT",
+      "paper_count": 25
     },
     {
-      "country_code": "AT",
+      "country_code": "DK",
       "paper_count": 24
     },
     {
@@ -88,16 +88,16 @@
       "paper_count": 20
     },
     {
+      "country_code": "HK",
+      "paper_count": 20
+    },
+    {
       "country_code": "PT",
       "paper_count": 19
     },
     {
-      "country_code": "HK",
-      "paper_count": 19
-    },
-    {
       "country_code": "KR",
-      "paper_count": 18
+      "paper_count": 19
     },
     {
       "country_code": "PK",
@@ -204,6 +204,10 @@
       "paper_count": 6
     },
     {
+      "country_code": "ID",
+      "paper_count": 6
+    },
+    {
       "country_code": "HU",
       "paper_count": 6
     },
@@ -221,10 +225,6 @@
     },
     {
       "country_code": "PA",
-      "paper_count": 5
-    },
-    {
-      "country_code": "ID",
       "paper_count": 5
     },
     {
