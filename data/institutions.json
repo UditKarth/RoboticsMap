@@ -6312,6 +6312,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I102322142",
+    "name": "Rutgers, The State University of New Jersey",
+    "lat": 40.48622,
+    "lng": -74.45182,
+    "country_code": "US",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I10232997",
     "name": "L. N. Gumilyov Eurasian National University",
     "lat": 51.18009948730469,
@@ -17949,6 +17957,14 @@
     "lat": 24.80805015563965,
     "lng": 93.94419860839844,
     "country_code": "IN",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I76587968",
+    "name": "Bose (United States)",
+    "lat": 42.30189895629883,
+    "lng": -71.47618103027344,
+    "country_code": "US",
     "paper_count": 1
   },
   {
