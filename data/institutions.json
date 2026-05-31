@@ -1992,6 +1992,14 @@
     "paper_count": 4
   },
   {
+    "id": "https://openalex.org/I2802779139",
+    "name": "Stazione Zoologica Anton Dohrn",
+    "lat": 40.8521614074707,
+    "lng": 14.268110275268555,
+    "country_code": "IT",
+    "paper_count": 4
+  },
+  {
     "id": "https://openalex.org/I29607241",
     "name": "\u00c9cole Normale Sup\u00e9rieure - PSL",
     "lat": 48.85341,
@@ -2757,14 +2765,6 @@
     "lat": 50.11552,
     "lng": 8.68417,
     "country_code": "DE",
-    "paper_count": 3
-  },
-  {
-    "id": "https://openalex.org/I2802779139",
-    "name": "Stazione Zoologica Anton Dohrn",
-    "lat": 40.8521614074707,
-    "lng": 14.268110275268555,
-    "country_code": "IT",
     "paper_count": 3
   },
   {
@@ -18157,6 +18157,14 @@
     "lat": 38.72509,
     "lng": -9.1498,
     "country_code": "PT",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I83816512",
+    "name": "University of Genoa",
+    "lat": 44.40478,
+    "lng": 8.94439,
+    "country_code": "IT",
     "paper_count": 1
   },
   {
