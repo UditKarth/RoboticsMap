@@ -32,20 +32,20 @@
     "paper_count": 21
   },
   {
+    "id": "https://openalex.org/I136199984",
+    "name": "Harvard University",
+    "lat": 42.3751,
+    "lng": -71.10561,
+    "country_code": "US",
+    "paper_count": 19
+  },
+  {
     "id": "https://openalex.org/I35440088",
     "name": "ETH Zurich",
     "lat": 47.36667,
     "lng": 8.55,
     "country_code": "CH",
     "paper_count": 19
-  },
-  {
-    "id": "https://openalex.org/I136199984",
-    "name": "Harvard University",
-    "lat": 42.3751,
-    "lng": -71.10561,
-    "country_code": "US",
-    "paper_count": 18
   },
   {
     "id": "https://openalex.org/I97018004",
@@ -2352,6 +2352,14 @@
     "paper_count": 3
   },
   {
+    "id": "https://openalex.org/I12912129",
+    "name": "Northeastern University",
+    "lat": 42.358428955078125,
+    "lng": -71.05976867675781,
+    "country_code": "US",
+    "paper_count": 3
+  },
+  {
     "id": "https://openalex.org/I1293066303",
     "name": "Meise Botanic Garden",
     "lat": 50.93933868408203,
@@ -3557,14 +3565,6 @@
     "lat": 45.41117,
     "lng": -75.69812,
     "country_code": "CA",
-    "paper_count": 2
-  },
-  {
-    "id": "https://openalex.org/I12912129",
-    "name": "Northeastern University",
-    "lat": 42.358428955078125,
-    "lng": -71.05976867675781,
-    "country_code": "US",
     "paper_count": 2
   },
   {
@@ -16397,6 +16397,14 @@
     "lat": 51.523826599121094,
     "lng": -0.1103150025010109,
     "country_code": "GB",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4210160418",
+    "name": "Baylor Scott & White Health",
+    "lat": 32.783058166503906,
+    "lng": -96.80667114257812,
+    "country_code": "US",
     "paper_count": 1
   },
   {
