@@ -1280,6 +1280,14 @@
     "paper_count": 5
   },
   {
+    "id": "https://openalex.org/I204337017",
+    "name": "Aarhus University",
+    "lat": 56.15674,
+    "lng": 10.21076,
+    "country_code": "DK",
+    "paper_count": 5
+  },
+  {
     "id": "https://openalex.org/I204465549",
     "name": "Washington University in St. Louis",
     "lat": 38.62727,
@@ -1912,14 +1920,6 @@
     "paper_count": 4
   },
   {
-    "id": "https://openalex.org/I204337017",
-    "name": "Aarhus University",
-    "lat": 56.15674,
-    "lng": 10.21076,
-    "country_code": "DK",
-    "paper_count": 4
-  },
-  {
     "id": "https://openalex.org/I204778367",
     "name": "Norwegian University of Science and Technology",
     "lat": 63.43049,
@@ -2301,6 +2301,14 @@
     "lat": 40.8105583190918,
     "lng": 111.6522216796875,
     "country_code": "CN",
+    "paper_count": 3
+  },
+  {
+    "id": "https://openalex.org/I121748325",
+    "name": "Universidad Complutense de Madrid",
+    "lat": 40.4165,
+    "lng": -3.70256,
+    "country_code": "ES",
     "paper_count": 3
   },
   {
@@ -3472,19 +3480,19 @@
     "paper_count": 2
   },
   {
+    "id": "https://openalex.org/I119635470",
+    "name": "Universidad de Las Palmas de Gran Canaria",
+    "lat": 28.099729537963867,
+    "lng": -15.413430213928223,
+    "country_code": "ES",
+    "paper_count": 2
+  },
+  {
     "id": "https://openalex.org/I12079687",
     "name": "Edith Cowan University",
     "lat": -31.952239990234375,
     "lng": 115.86139678955078,
     "country_code": "AU",
-    "paper_count": 2
-  },
-  {
-    "id": "https://openalex.org/I121748325",
-    "name": "Universidad Complutense de Madrid",
-    "lat": 40.4165,
-    "lng": -3.70256,
-    "country_code": "ES",
     "paper_count": 2
   },
   {
@@ -5168,6 +5176,14 @@
     "paper_count": 2
   },
   {
+    "id": "https://openalex.org/I4210122787",
+    "name": "Centro de Investigaci\u00f3n y Tecnolog\u00eda Agroalimentaria de Arag\u00f3n",
+    "lat": 41.65606,
+    "lng": -0.87734,
+    "country_code": "ES",
+    "paper_count": 2
+  },
+  {
     "id": "https://openalex.org/I4210122844",
     "name": "Coastal Oceans Research and Development in the Indian Ocean",
     "lat": -3.9904561042785645,
@@ -6488,6 +6504,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I108103353",
+    "name": "Universidad de Valladolid",
+    "lat": 41.65541,
+    "lng": -4.72353,
+    "country_code": "ES",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I108290504",
     "name": "University of Pisa",
     "lat": 43.70853,
@@ -6837,14 +6861,6 @@
     "lat": 47.12186813354492,
     "lng": -88.56900787353516,
     "country_code": "US",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I119635470",
-    "name": "Universidad de Las Palmas de Gran Canaria",
-    "lat": 28.099729537963867,
-    "lng": -15.413430213928223,
-    "country_code": "ES",
     "paper_count": 1
   },
   {
@@ -9349,6 +9365,14 @@
     "lat": -3.10194,
     "lng": -60.025,
     "country_code": "BR",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I187272911",
+    "name": "Wetlands International",
+    "lat": 52.02146911621094,
+    "lng": 5.67647123336792,
+    "country_code": "NL",
     "paper_count": 1
   },
   {
@@ -13848,6 +13872,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I4210119377",
+    "name": "Department of Animal Health",
+    "lat": 20.999221801757812,
+    "lng": 105.8397445678711,
+    "country_code": "VN",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I4210119559",
     "name": "Taiwan Semiconductor Manufacturing Company (China)",
     "lat": 31.1761474609375,
@@ -14085,14 +14117,6 @@
     "lat": 62.14786148071289,
     "lng": 6.084705829620361,
     "country_code": "NO",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I4210122787",
-    "name": "Centro de Investigaci\u00f3n y Tecnolog\u00eda Agroalimentaria de Arag\u00f3n",
-    "lat": 41.65606,
-    "lng": -0.87734,
-    "country_code": "ES",
     "paper_count": 1
   },
   {
