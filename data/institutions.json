@@ -5,7 +5,7 @@
     "lat": 39.9075,
     "lng": 116.39723,
     "country_code": "CN",
-    "paper_count": 41
+    "paper_count": 42
   },
   {
     "id": "https://openalex.org/I1294671590",
@@ -1912,6 +1912,14 @@
     "paper_count": 4
   },
   {
+    "id": "https://openalex.org/I199691007",
+    "name": "Brazilian Agricultural Research Corporation",
+    "lat": -15.71048641204834,
+    "lng": -47.90955352783203,
+    "country_code": "BR",
+    "paper_count": 4
+  },
+  {
     "id": "https://openalex.org/I200769079",
     "name": "Hong Kong University of Science and Technology",
     "lat": 22.27832,
@@ -2701,14 +2709,6 @@
     "lat": 37.566,
     "lng": 126.9784,
     "country_code": "KR",
-    "paper_count": 3
-  },
-  {
-    "id": "https://openalex.org/I199691007",
-    "name": "Brazilian Agricultural Research Corporation",
-    "lat": -15.71048641204834,
-    "lng": -47.90955352783203,
-    "country_code": "BR",
     "paper_count": 3
   },
   {
@@ -6056,6 +6056,14 @@
     "paper_count": 2
   },
   {
+    "id": "https://openalex.org/I80850581",
+    "name": "Universidade Federal de Uberl\u00e2ndia",
+    "lat": -18.91861,
+    "lng": -48.27722,
+    "country_code": "BR",
+    "paper_count": 2
+  },
+  {
     "id": "https://openalex.org/I82284825",
     "name": "Cranfield University",
     "lat": 52.06869,
@@ -6797,6 +6805,14 @@
     "lat": 6.85783,
     "lng": 7.39577,
     "country_code": "NG",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I118987531",
+    "name": "Anhui Jianzhu University",
+    "lat": 31.863889694213867,
+    "lng": 117.28083038330078,
+    "country_code": "CN",
     "paper_count": 1
   },
   {
@@ -8296,6 +8312,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I150729083",
+    "name": "Universidade de Bras\u00edlia",
+    "lat": -15.77972,
+    "lng": -47.92972,
+    "country_code": "BR",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I151013683",
     "name": "Binzhou University",
     "lat": 37.366668701171875,
@@ -9325,6 +9349,14 @@
     "lat": -43.650001525878906,
     "lng": 172.48333740234375,
     "country_code": "NZ",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I184779318",
+    "name": "Anhembi Morumbi University",
+    "lat": -23.547500610351562,
+    "lng": -46.6361083984375,
+    "country_code": "BR",
     "paper_count": 1
   },
   {
@@ -12640,6 +12672,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I4210099079",
+    "name": "Institute of Intelligent Machines",
+    "lat": 31.901731491088867,
+    "lng": 117.17012786865234,
+    "country_code": "CN",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I4210099107",
     "name": "New Zealand Brain Research Institute",
     "lat": -43.536128997802734,
@@ -13829,6 +13869,14 @@
     "lat": 0.31628,
     "lng": 32.58219,
     "country_code": "UG",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4210118451",
+    "name": "Instituto Federal Catarinense",
+    "lat": -26.9194393157959,
+    "lng": -49.06610870361328,
+    "country_code": "BR",
     "paper_count": 1
   },
   {
@@ -18109,14 +18157,6 @@
     "lat": 23.991851806640625,
     "lng": 90.41486358642578,
     "country_code": "BD",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I80850581",
-    "name": "Universidade Federal de Uberl\u00e2ndia",
-    "lat": -18.91861,
-    "lng": -48.27722,
-    "country_code": "BR",
     "paper_count": 1
   },
   {
