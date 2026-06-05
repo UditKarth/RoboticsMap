@@ -3168,6 +3168,14 @@
     "paper_count": 3
   },
   {
+    "id": "https://openalex.org/I44260953",
+    "name": "Heinrich Heine University D\u00fcsseldorf",
+    "lat": 51.22172164916992,
+    "lng": 6.776159763336182,
+    "country_code": "DE",
+    "paper_count": 3
+  },
+  {
     "id": "https://openalex.org/I4577782",
     "name": "Technische Universit\u00e4t Berlin",
     "lat": 52.52437,
@@ -4784,6 +4792,14 @@
     "paper_count": 2
   },
   {
+    "id": "https://openalex.org/I39063666",
+    "name": "University of Catania",
+    "lat": 37.49223,
+    "lng": 15.07041,
+    "country_code": "IT",
+    "paper_count": 2
+  },
+  {
     "id": "https://openalex.org/I4092182",
     "name": "Graz University of Technology",
     "lat": 47.06666946411133,
@@ -5256,6 +5272,14 @@
     "paper_count": 2
   },
   {
+    "id": "https://openalex.org/I4210134135",
+    "name": "HUN-REN Centre for Ecological Research",
+    "lat": 47.49835,
+    "lng": 19.04045,
+    "country_code": "HU",
+    "paper_count": 2
+  },
+  {
     "id": "https://openalex.org/I4210134482",
     "name": "Nanjing Institute of Geography and Limnology",
     "lat": 32.061668395996094,
@@ -5453,6 +5477,14 @@
     "lat": 55.693302154541016,
     "lng": 37.546424865722656,
     "country_code": "RU",
+    "paper_count": 2
+  },
+  {
+    "id": "https://openalex.org/I4210151547",
+    "name": "National Center for Epidemiology",
+    "lat": 47.476173400878906,
+    "lng": 19.09343719482422,
+    "country_code": "HU",
     "paper_count": 2
   },
   {
@@ -5661,14 +5693,6 @@
     "lat": 35.19807052612305,
     "lng": -111.6512680053711,
     "country_code": "",
-    "paper_count": 2
-  },
-  {
-    "id": "https://openalex.org/I44260953",
-    "name": "Heinrich Heine University D\u00fcsseldorf",
-    "lat": 51.22172164916992,
-    "lng": 6.776159763336182,
-    "country_code": "DE",
     "paper_count": 2
   },
   {
@@ -7749,6 +7773,14 @@
     "lat": 45.401893615722656,
     "lng": -75.70528411865234,
     "country_code": "CA",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I132735039",
+    "name": "University of Debrecen",
+    "lat": 47.53166961669922,
+    "lng": 21.624439239501953,
+    "country_code": "HU",
     "paper_count": 1
   },
   {
@@ -10672,6 +10704,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I2800262513",
+    "name": "Jahrom University",
+    "lat": 28.5,
+    "lng": 53.5605,
+    "country_code": "IR",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I2800285241",
     "name": "Institut Agro Rennes-Angers",
     "lat": 48.11109,
@@ -11693,14 +11733,6 @@
     "lat": 34.75777816772461,
     "lng": 113.64861297607422,
     "country_code": "CN",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I39063666",
-    "name": "University of Catania",
-    "lat": 37.49223,
-    "lng": 15.07041,
-    "country_code": "IT",
     "paper_count": 1
   },
   {
@@ -14840,14 +14872,6 @@
     "paper_count": 1
   },
   {
-    "id": "https://openalex.org/I4210134135",
-    "name": "HUN-REN Centre for Ecological Research",
-    "lat": 47.49835,
-    "lng": 19.04045,
-    "country_code": "HU",
-    "paper_count": 1
-  },
-  {
     "id": "https://openalex.org/I4210134214",
     "name": "Beijing Research Institute of Uranium Geology",
     "lat": 39.9330940246582,
@@ -15917,14 +15941,6 @@
     "lat": -25.771169662475586,
     "lng": 28.187850952148438,
     "country_code": "ZA",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I4210151547",
-    "name": "National Center for Epidemiology",
-    "lat": 47.476173400878906,
-    "lng": 19.09343719482422,
-    "country_code": "HU",
     "paper_count": 1
   },
   {
