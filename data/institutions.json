@@ -264,6 +264,14 @@
     "paper_count": 11
   },
   {
+    "id": "https://openalex.org/I124055696",
+    "name": "University of Copenhagen",
+    "lat": 55.67594,
+    "lng": 12.56553,
+    "country_code": "DK",
+    "paper_count": 10
+  },
+  {
     "id": "https://openalex.org/I1281210470",
     "name": "CSIRO Oceans and Atmosphere",
     "lat": -35.28346,
@@ -326,14 +334,6 @@
     "lng": -1.4659,
     "country_code": "GB",
     "paper_count": 10
-  },
-  {
-    "id": "https://openalex.org/I124055696",
-    "name": "University of Copenhagen",
-    "lat": 55.67594,
-    "lng": 12.56553,
-    "country_code": "DK",
-    "paper_count": 9
   },
   {
     "id": "https://openalex.org/I127251866",
@@ -1248,6 +1248,14 @@
     "paper_count": 5
   },
   {
+    "id": "https://openalex.org/I169108374",
+    "name": "University of the Basque Country",
+    "lat": 43.32686,
+    "lng": -2.98884,
+    "country_code": "ES",
+    "paper_count": 5
+  },
+  {
     "id": "https://openalex.org/I178232147",
     "name": "Guizhou University",
     "lat": 26.420438766479492,
@@ -1848,14 +1856,6 @@
     "paper_count": 4
   },
   {
-    "id": "https://openalex.org/I169108374",
-    "name": "University of the Basque Country",
-    "lat": 43.32686,
-    "lng": -2.98884,
-    "country_code": "ES",
-    "paper_count": 4
-  },
-  {
     "id": "https://openalex.org/I181233156",
     "name": "University of Oregon",
     "lat": 44.05207,
@@ -2389,6 +2389,14 @@
     "lat": 38.98067,
     "lng": -77.10026,
     "country_code": "US",
+    "paper_count": 3
+  },
+  {
+    "id": "https://openalex.org/I1303153112",
+    "name": "European Bioinformatics Institute",
+    "lat": 52.2,
+    "lng": 0.11667,
+    "country_code": "GB",
     "paper_count": 3
   },
   {
@@ -3605,14 +3613,6 @@
     "lat": 42.354976654052734,
     "lng": -71.0560302734375,
     "country_code": "US",
-    "paper_count": 2
-  },
-  {
-    "id": "https://openalex.org/I1303153112",
-    "name": "European Bioinformatics Institute",
-    "lat": 52.2,
-    "lng": 0.11667,
-    "country_code": "GB",
     "paper_count": 2
   },
   {
@@ -12824,6 +12824,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I4210100913",
+    "name": "Institute of Agrifood Research and Technology",
+    "lat": 41.63333,
+    "lng": 2.16667,
+    "country_code": "ES",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I4210100914",
     "name": "Ministry of Earth Sciences",
     "lat": 28.62137,
@@ -14904,6 +14912,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I4210134573",
+    "name": "Vitensenteret i Trondheim",
+    "lat": 63.43027877807617,
+    "lng": 10.400278091430664,
+    "country_code": "NO",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I4210134612",
     "name": "Forest Research",
     "lat": 51.1890983581543,
@@ -15149,6 +15165,14 @@
     "lat": 40.9871711730957,
     "lng": -80.6701431274414,
     "country_code": "US",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4210137637",
+    "name": "Bioinformatics Institute",
+    "lat": 59.98106384277344,
+    "lng": 30.323081970214844,
+    "country_code": "RU",
     "paper_count": 1
   },
   {
