@@ -144,6 +144,14 @@
     "paper_count": 14
   },
   {
+    "id": "https://openalex.org/I161593684",
+    "name": "Stockholm University",
+    "lat": 59.32938,
+    "lng": 18.06871,
+    "country_code": "SE",
+    "paper_count": 13
+  },
+  {
     "id": "https://openalex.org/I188538660",
     "name": "University of Colorado Boulder",
     "lat": 40.014991760253906,
@@ -189,14 +197,6 @@
     "lat": 49.24966,
     "lng": -123.11934,
     "country_code": "CA",
-    "paper_count": 12
-  },
-  {
-    "id": "https://openalex.org/I161593684",
-    "name": "Stockholm University",
-    "lat": 59.32938,
-    "lng": 18.06871,
-    "country_code": "SE",
     "paper_count": 12
   },
   {
@@ -3605,6 +3605,14 @@
     "lat": 45.41117,
     "lng": -75.69812,
     "country_code": "CA",
+    "paper_count": 2
+  },
+  {
+    "id": "https://openalex.org/I129877168",
+    "name": "Carl von Ossietzky Universit\u00e4t Oldenburg",
+    "lat": 53.14118,
+    "lng": 8.21467,
+    "country_code": "DE",
     "paper_count": 2
   },
   {
@@ -7424,14 +7432,6 @@
     "paper_count": 1
   },
   {
-    "id": "https://openalex.org/I129877168",
-    "name": "Carl von Ossietzky Universit\u00e4t Oldenburg",
-    "lat": 53.14118,
-    "lng": 8.21467,
-    "country_code": "DE",
-    "paper_count": 1
-  },
-  {
     "id": "https://openalex.org/I1302124595",
     "name": "Bureau of Land Management",
     "lat": 38.900272369384766,
@@ -10672,6 +10672,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I2800139495",
+    "name": "Science for Life Laboratory",
+    "lat": 59.32938003540039,
+    "lng": 18.068710327148438,
+    "country_code": "SE",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I2800164725",
     "name": "Royal Society of Tropical Medicine and Hygiene",
     "lat": 51.5186882019043,
@@ -12485,6 +12493,14 @@
     "lat": 34.623207092285156,
     "lng": 113.69159698486328,
     "country_code": "CN",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4210094775",
+    "name": "Helmholtz Institute for Functional Marine Biodiversity",
+    "lat": 53.141178131103516,
+    "lng": 8.214670181274414,
+    "country_code": "DE",
     "paper_count": 1
   },
   {
