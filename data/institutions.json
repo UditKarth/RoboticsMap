@@ -13,7 +13,7 @@
     "lat": 48.85341,
     "lng": 2.3488,
     "country_code": "FR",
-    "paper_count": 38
+    "paper_count": 39
   },
   {
     "id": "https://openalex.org/I4210165038",
@@ -208,6 +208,14 @@
     "paper_count": 12
   },
   {
+    "id": "https://openalex.org/I201448701",
+    "name": "University of Washington",
+    "lat": 47.60621,
+    "lng": -122.33207,
+    "country_code": "US",
+    "paper_count": 12
+  },
+  {
     "id": "https://openalex.org/I36258959",
     "name": "University of California San Diego",
     "lat": 32.71571,
@@ -229,14 +237,6 @@
     "lat": -23.5475,
     "lng": -46.63611,
     "country_code": "BR",
-    "paper_count": 11
-  },
-  {
-    "id": "https://openalex.org/I201448701",
-    "name": "University of Washington",
-    "lat": 47.60621,
-    "lng": -122.33207,
-    "country_code": "US",
     "paper_count": 11
   },
   {
@@ -3432,6 +3432,14 @@
     "paper_count": 2
   },
   {
+    "id": "https://openalex.org/I100532134",
+    "name": "Universit\u00e9 Claude Bernard Lyon 1",
+    "lat": 45.76601,
+    "lng": 4.8795,
+    "country_code": "FR",
+    "paper_count": 2
+  },
+  {
     "id": "https://openalex.org/I101479585",
     "name": "South China Agricultural University",
     "lat": 23.116670608520508,
@@ -5648,6 +5656,14 @@
     "paper_count": 2
   },
   {
+    "id": "https://openalex.org/I4210166728",
+    "name": "Structure et Instabilit\u00e9 des G\u00e9nomes",
+    "lat": 48.85341,
+    "lng": 2.3488,
+    "country_code": "FR",
+    "paper_count": 2
+  },
+  {
     "id": "https://openalex.org/I4210166801",
     "name": "CABI Switzerland",
     "lat": 47.36492919921875,
@@ -6316,14 +6332,6 @@
     "name": "\u00c9cole Centrale de Nantes",
     "lat": 47.21725,
     "lng": -1.55336,
-    "country_code": "FR",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I100532134",
-    "name": "Universit\u00e9 Claude Bernard Lyon 1",
-    "lat": 45.76601,
-    "lng": 4.8795,
     "country_code": "FR",
     "paper_count": 1
   },
@@ -13336,6 +13344,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I4210108707",
+    "name": "Burke Museum of Natural History and Culture",
+    "lat": 47.60620880126953,
+    "lng": -122.33206939697266,
+    "country_code": "US",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I4210108870",
     "name": "Beijing General Research Institute of Mining and Metallurgy",
     "lat": 39.907501220703125,
@@ -14472,6 +14488,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I4210126236",
+    "name": "Institute of Paleoprimatology Human Paleontology Evolution and Paleoenvironments",
+    "lat": 46.582611083984375,
+    "lng": 0.3434799909591675,
+    "country_code": "FR",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I4210126421",
     "name": "Forest Products Laboratory",
     "lat": 43.07305145263672,
@@ -15261,6 +15285,14 @@
     "lat": -23.561458587646484,
     "lng": -46.65605163574219,
     "country_code": "BR",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4210138953",
+    "name": "Association Clinique et Th\u00e9rapeutique Infantile du Val de Marne",
+    "lat": 48.79713821411133,
+    "lng": 2.4903628826141357,
+    "country_code": "FR",
     "paper_count": 1
   },
   {
@@ -16896,14 +16928,6 @@
     "paper_count": 1
   },
   {
-    "id": "https://openalex.org/I4210166728",
-    "name": "Structure et Instabilit\u00e9 des G\u00e9nomes",
-    "lat": 48.85341,
-    "lng": 2.3488,
-    "country_code": "FR",
-    "paper_count": 1
-  },
-  {
     "id": "https://openalex.org/I4210166781",
     "name": "NIHR Leicester Biomedical Research Centre",
     "lat": 52.63859939575195,
@@ -17053,6 +17077,14 @@
     "lat": 33.857818603515625,
     "lng": 73.76042938232422,
     "country_code": "",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4387155127",
+    "name": "Centre de recherche en pal\u00e9ontologie - Paris",
+    "lat": 48.85341,
+    "lng": 2.3488,
+    "country_code": "FR",
     "paper_count": 1
   },
   {
