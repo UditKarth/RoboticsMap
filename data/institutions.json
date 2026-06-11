@@ -13,7 +13,7 @@
     "lat": 48.85341,
     "lng": 2.3488,
     "country_code": "FR",
-    "paper_count": 39
+    "paper_count": 40
   },
   {
     "id": "https://openalex.org/I4210165038",
@@ -224,6 +224,14 @@
     "paper_count": 12
   },
   {
+    "id": "https://openalex.org/I39804081",
+    "name": "Sorbonne Universit\u00e9",
+    "lat": 48.85341,
+    "lng": 2.3488,
+    "country_code": "FR",
+    "paper_count": 12
+  },
+  {
     "id": "https://openalex.org/I865915315",
     "name": "Vrije Universiteit Amsterdam",
     "lat": 52.37403,
@@ -242,14 +250,6 @@
   {
     "id": "https://openalex.org/I2738703131",
     "name": "Commissariat \u00e0 l'\u00c9nergie Atomique et aux \u00c9nergies Alternatives",
-    "lat": 48.85341,
-    "lng": 2.3488,
-    "country_code": "FR",
-    "paper_count": 11
-  },
-  {
-    "id": "https://openalex.org/I39804081",
-    "name": "Sorbonne Universit\u00e9",
     "lat": 48.85341,
     "lng": 2.3488,
     "country_code": "FR",
@@ -352,6 +352,14 @@
     "paper_count": 9
   },
   {
+    "id": "https://openalex.org/I129774422",
+    "name": "University of Vienna",
+    "lat": 48.20849,
+    "lng": 16.37208,
+    "country_code": "AT",
+    "paper_count": 9
+  },
+  {
     "id": "https://openalex.org/I1299204452",
     "name": "Oeschger Centre for Climate Change Research",
     "lat": 46.95048904418945,
@@ -373,6 +381,14 @@
     "lat": 40.11059,
     "lng": -88.20727,
     "country_code": "US",
+    "paper_count": 9
+  },
+  {
+    "id": "https://openalex.org/I34403800",
+    "name": "GEOMAR Helmholtz Centre for Ocean Research Kiel",
+    "lat": 54.32133,
+    "lng": 10.13489,
+    "country_code": "DE",
     "paper_count": 9
   },
   {
@@ -437,14 +453,6 @@
     "lat": -35.2834587097168,
     "lng": 149.12806701660156,
     "country_code": "AU",
-    "paper_count": 8
-  },
-  {
-    "id": "https://openalex.org/I129774422",
-    "name": "University of Vienna",
-    "lat": 48.20849,
-    "lng": 16.37208,
-    "country_code": "AT",
     "paper_count": 8
   },
   {
@@ -541,14 +549,6 @@
     "lat": -33.86785,
     "lng": 151.20732,
     "country_code": "AU",
-    "paper_count": 8
-  },
-  {
-    "id": "https://openalex.org/I34403800",
-    "name": "GEOMAR Helmholtz Centre for Ocean Research Kiel",
-    "lat": 54.32133,
-    "lng": 10.13489,
-    "country_code": "DE",
     "paper_count": 8
   },
   {
@@ -2264,6 +2264,14 @@
     "paper_count": 4
   },
   {
+    "id": "https://openalex.org/I100532134",
+    "name": "Universit\u00e9 Claude Bernard Lyon 1",
+    "lat": 45.76601,
+    "lng": 4.8795,
+    "country_code": "FR",
+    "paper_count": 3
+  },
+  {
     "id": "https://openalex.org/I103635307",
     "name": "University of California, Riverside",
     "lat": 33.95335,
@@ -3429,14 +3437,6 @@
     "lat": 41.36210632324219,
     "lng": 19.76951026916504,
     "country_code": "AL",
-    "paper_count": 2
-  },
-  {
-    "id": "https://openalex.org/I100532134",
-    "name": "Universit\u00e9 Claude Bernard Lyon 1",
-    "lat": 45.76601,
-    "lng": 4.8795,
-    "country_code": "FR",
     "paper_count": 2
   },
   {
@@ -4941,6 +4941,14 @@
     "lat": 48.69572,
     "lng": 2.18727,
     "country_code": "FR",
+    "paper_count": 2
+  },
+  {
+    "id": "https://openalex.org/I4210091775",
+    "name": "Instituto Espa\u00f1ol de Oceanograf\u00eda",
+    "lat": 40.416500091552734,
+    "lng": -3.7025599479675293,
+    "country_code": "ES",
     "paper_count": 2
   },
   {
@@ -6696,6 +6704,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I111599522",
+    "name": "Jiangnan University",
+    "lat": 31.568870544433594,
+    "lng": 120.28856658935547,
+    "country_code": "CN",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I111796040",
     "name": "Global Biodiversity Information Facility",
     "lat": 55.67594,
@@ -6733,6 +6749,14 @@
     "lat": 34.400001525878906,
     "lng": 132.4499969482422,
     "country_code": "JP",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I113428412",
+    "name": "\u00c9cole Normale Sup\u00e9rieure de Lyon",
+    "lat": 45.74906,
+    "lng": 4.84789,
+    "country_code": "FR",
     "paper_count": 1
   },
   {
@@ -8029,6 +8053,14 @@
     "lat": 43.60426,
     "lng": 1.44367,
     "country_code": "FR",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I134687103",
+    "name": "Nanjing Tech University",
+    "lat": 32.061668395996094,
+    "lng": 118.77777862548828,
+    "country_code": "CN",
     "paper_count": 1
   },
   {
@@ -12160,6 +12192,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I4210090625",
+    "name": "Nanjing Children's Hospital",
+    "lat": 32.05109786987305,
+    "lng": 118.77978515625,
+    "country_code": "CN",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I4210090744",
     "name": "Guangzhou Marine Geological Survey",
     "lat": 23.096559524536133,
@@ -12277,14 +12317,6 @@
     "lat": -53.16460037231445,
     "lng": -70.91914367675781,
     "country_code": "CL",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I4210091775",
-    "name": "Instituto Espa\u00f1ol de Oceanograf\u00eda",
-    "lat": 40.416500091552734,
-    "lng": -3.7025599479675293,
-    "country_code": "ES",
     "paper_count": 1
   },
   {
@@ -12984,6 +13016,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I4210103052",
+    "name": "Universitas Islam Madura",
+    "lat": -7.1568,
+    "lng": 113.4746,
+    "country_code": "ID",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I4210103063",
     "name": "D\u00e9partement Environnement et Agronomie",
     "lat": 43.948341369628906,
@@ -13125,6 +13165,14 @@
     "lat": 43.5283,
     "lng": 5.44973,
     "country_code": "FR",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4210105059",
+    "name": "Universitas Muhammadiyah Malang",
+    "lat": -7.9256720542907715,
+    "lng": 112.59915924072266,
+    "country_code": "ID",
     "paper_count": 1
   },
   {
@@ -14517,6 +14565,14 @@
     "lat": 25.12328338623047,
     "lng": 55.41938400268555,
     "country_code": "AE",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4210126557",
+    "name": "Universitas Muhammadiyah Buton",
+    "lat": -5.461377143859863,
+    "lng": 122.59981536865234,
+    "country_code": "ID",
     "paper_count": 1
   },
   {
@@ -16064,6 +16120,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I4210152154",
+    "name": "State Key Laboratory of Food Science and Technology",
+    "lat": 31.568870544433594,
+    "lng": 120.28856658935547,
+    "country_code": "CN",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I4210152215",
     "name": "Vattenfall (Denmark)",
     "lat": 55.675941467285156,
@@ -16792,6 +16856,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I4210164672",
+    "name": "Laboratoire d'Oc\u00e9anographie Microbienne",
+    "lat": 48.85341,
+    "lng": 2.3488,
+    "country_code": "FR",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I4210165015",
     "name": "Shanxi Science and Technology Department",
     "lat": 37.87143,
@@ -16973,6 +17045,14 @@
     "lat": 45.74846,
     "lng": 4.84671,
     "country_code": "FR",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I42264441",
+    "name": "Lambung Mangkurat University",
+    "lat": -3.3198699951171875,
+    "lng": 114.59075164794922,
+    "country_code": "ID",
     "paper_count": 1
   },
   {
