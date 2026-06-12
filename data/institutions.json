@@ -240,6 +240,14 @@
     "paper_count": 12
   },
   {
+    "id": "https://openalex.org/I135310074",
+    "name": "University of Wisconsin\u2013Madison",
+    "lat": 43.07305,
+    "lng": -89.40123,
+    "country_code": "US",
+    "paper_count": 11
+  },
+  {
     "id": "https://openalex.org/I17974374",
     "name": "Universidade de S\u00e3o Paulo",
     "lat": -23.5475,
@@ -285,14 +293,6 @@
     "lat": -35.28346,
     "lng": 149.12807,
     "country_code": "AU",
-    "paper_count": 10
-  },
-  {
-    "id": "https://openalex.org/I135310074",
-    "name": "University of Wisconsin\u2013Madison",
-    "lat": 43.07305,
-    "lng": -89.40123,
-    "country_code": "US",
     "paper_count": 10
   },
   {
@@ -592,6 +592,14 @@
     "paper_count": 8
   },
   {
+    "id": "https://openalex.org/I859038795",
+    "name": "Virginia Tech",
+    "lat": 37.22957,
+    "lng": -80.41394,
+    "country_code": "US",
+    "paper_count": 8
+  },
+  {
     "id": "https://openalex.org/I889458895",
     "name": "University of Hong Kong",
     "lat": 22.26861,
@@ -852,14 +860,6 @@
     "name": "Auburn University",
     "lat": 32.60986,
     "lng": -85.48078,
-    "country_code": "US",
-    "paper_count": 7
-  },
-  {
-    "id": "https://openalex.org/I859038795",
-    "name": "Virginia Tech",
-    "lat": 37.22957,
-    "lng": -80.41394,
     "country_code": "US",
     "paper_count": 7
   },
@@ -3245,6 +3245,14 @@
     "lat": -37.783329010009766,
     "lng": 175.2833251953125,
     "country_code": "NZ",
+    "paper_count": 3
+  },
+  {
+    "id": "https://openalex.org/I52218309",
+    "name": "Smithsonian Environmental Research Center",
+    "lat": 38.9379997253418,
+    "lng": -76.55699920654297,
+    "country_code": "US",
     "paper_count": 3
   },
   {
@@ -5821,14 +5829,6 @@
     "lat": 53.95763,
     "lng": -1.08271,
     "country_code": "GB",
-    "paper_count": 2
-  },
-  {
-    "id": "https://openalex.org/I52218309",
-    "name": "Smithsonian Environmental Research Center",
-    "lat": 38.9379997253418,
-    "lng": -76.55699920654297,
-    "country_code": "US",
     "paper_count": 2
   },
   {
@@ -8832,6 +8832,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I16351329",
+    "name": "China West Normal University",
+    "lat": 30.79508,
+    "lng": 106.08473,
+    "country_code": "CN",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I16365422",
     "name": "Hefei University of Technology",
     "lat": 31.863889694213867,
@@ -11477,6 +11485,14 @@
     "lat": 41.785091400146484,
     "lng": -73.69402313232422,
     "country_code": "US",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I3132008074",
+    "name": "Huangshan University",
+    "lat": 29.711389541625977,
+    "lng": 118.3125,
+    "country_code": "CN",
     "paper_count": 1
   },
   {
@@ -16429,6 +16445,14 @@
     "lat": -4.739004135131836,
     "lng": 55.51511764526367,
     "country_code": "SC",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4210157424",
+    "name": "NOAA National Centers for Coastal Ocean Science",
+    "lat": 38.99066925048828,
+    "lng": -77.02609252929688,
+    "country_code": "US",
     "paper_count": 1
   },
   {
