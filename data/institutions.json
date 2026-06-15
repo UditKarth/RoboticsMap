@@ -848,6 +848,14 @@
     "paper_count": 7
   },
   {
+    "id": "https://openalex.org/I4210151987",
+    "name": "Ministry of Agriculture and Rural Affairs",
+    "lat": 39.9075,
+    "lng": 116.39723,
+    "country_code": "CN",
+    "paper_count": 7
+  },
+  {
     "id": "https://openalex.org/I74656192",
     "name": "University of G\u00f6ttingen",
     "lat": 51.53443,
@@ -1029,14 +1037,6 @@
     "lat": 43.60426,
     "lng": 1.44367,
     "country_code": "FR",
-    "paper_count": 6
-  },
-  {
-    "id": "https://openalex.org/I4210151987",
-    "name": "Ministry of Agriculture and Rural Affairs",
-    "lat": 39.9075,
-    "lng": 116.39723,
-    "country_code": "CN",
     "paper_count": 6
   },
   {
