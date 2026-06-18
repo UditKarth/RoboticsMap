@@ -112,6 +112,14 @@
     "paper_count": 15
   },
   {
+    "id": "https://openalex.org/I205783295",
+    "name": "Cornell University",
+    "lat": 42.44063,
+    "lng": -76.49661,
+    "country_code": "US",
+    "paper_count": 15
+  },
+  {
     "id": "https://openalex.org/I40120149",
     "name": "University of Oxford",
     "lat": 51.75222,
@@ -125,14 +133,6 @@
     "lat": 46.94809,
     "lng": 7.44744,
     "country_code": "CH",
-    "paper_count": 14
-  },
-  {
-    "id": "https://openalex.org/I205783295",
-    "name": "Cornell University",
-    "lat": 42.44063,
-    "lng": -76.49661,
-    "country_code": "US",
     "paper_count": 14
   },
   {
@@ -320,6 +320,14 @@
     "paper_count": 10
   },
   {
+    "id": "https://openalex.org/I185261750",
+    "name": "University of Toronto",
+    "lat": 43.70643,
+    "lng": -79.39864,
+    "country_code": "CA",
+    "paper_count": 10
+  },
+  {
     "id": "https://openalex.org/I2801030728",
     "name": "German Centre for Integrative Biodiversity Research",
     "lat": 51.33962,
@@ -397,14 +405,6 @@
     "lat": 40.11059,
     "lng": -88.20727,
     "country_code": "US",
-    "paper_count": 9
-  },
-  {
-    "id": "https://openalex.org/I185261750",
-    "name": "University of Toronto",
-    "lat": 43.70643,
-    "lng": -79.39864,
-    "country_code": "CA",
     "paper_count": 9
   },
   {
@@ -1648,6 +1648,14 @@
     "paper_count": 4
   },
   {
+    "id": "https://openalex.org/I121748325",
+    "name": "Universidad Complutense de Madrid",
+    "lat": 40.4165,
+    "lng": -3.70256,
+    "country_code": "ES",
+    "paper_count": 4
+  },
+  {
     "id": "https://openalex.org/I121980950",
     "name": "Utah State University",
     "lat": 41.73548889160156,
@@ -2024,6 +2032,14 @@
     "paper_count": 4
   },
   {
+    "id": "https://openalex.org/I2799614521",
+    "name": "Royal Botanic Gardens, Kew",
+    "lat": 51.50852966308594,
+    "lng": -0.12574000656604767,
+    "country_code": "GB",
+    "paper_count": 4
+  },
+  {
     "id": "https://openalex.org/I2799966484",
     "name": "Bjerknes Centre for Climate Research",
     "lat": 60.39299011230469,
@@ -2389,14 +2405,6 @@
     "lat": 40.8105583190918,
     "lng": 111.6522216796875,
     "country_code": "CN",
-    "paper_count": 3
-  },
-  {
-    "id": "https://openalex.org/I121748325",
-    "name": "Universidad Complutense de Madrid",
-    "lat": 40.4165,
-    "lng": -3.70256,
-    "country_code": "ES",
     "paper_count": 3
   },
   {
@@ -2885,14 +2893,6 @@
     "lat": 40.8105583190918,
     "lng": 111.6522216796875,
     "country_code": "CN",
-    "paper_count": 3
-  },
-  {
-    "id": "https://openalex.org/I2799614521",
-    "name": "Royal Botanic Gardens, Kew",
-    "lat": 51.50852966308594,
-    "lng": -0.12574000656604767,
-    "country_code": "GB",
     "paper_count": 3
   },
   {
@@ -4176,6 +4176,14 @@
     "paper_count": 2
   },
   {
+    "id": "https://openalex.org/I165339363",
+    "name": "Universidad de Oviedo",
+    "lat": 43.36029052734375,
+    "lng": -5.844759941101074,
+    "country_code": "ES",
+    "paper_count": 2
+  },
+  {
     "id": "https://openalex.org/I165507594",
     "name": "Kangwon National University",
     "lat": 37.87472152709961,
@@ -4661,6 +4669,14 @@
     "lat": 43.29695,
     "lng": 5.38107,
     "country_code": "FR",
+    "paper_count": 2
+  },
+  {
+    "id": "https://openalex.org/I21606457",
+    "name": "Universidade Estadual de Feira de Santana",
+    "lat": -12.266670227050781,
+    "lng": -38.966670989990234,
+    "country_code": "BR",
     "paper_count": 2
   },
   {
@@ -9088,14 +9104,6 @@
     "paper_count": 1
   },
   {
-    "id": "https://openalex.org/I165339363",
-    "name": "Universidad de Oviedo",
-    "lat": 43.36029052734375,
-    "lng": -5.844759941101074,
-    "country_code": "ES",
-    "paper_count": 1
-  },
-  {
     "id": "https://openalex.org/I165441096",
     "name": "National Health Research Institutes",
     "lat": 24.80360984802246,
@@ -10376,14 +10384,6 @@
     "paper_count": 1
   },
   {
-    "id": "https://openalex.org/I21606457",
-    "name": "Universidade Estadual de Feira de Santana",
-    "lat": -12.266670227050781,
-    "lng": -38.966670989990234,
-    "country_code": "BR",
-    "paper_count": 1
-  },
-  {
     "id": "https://openalex.org/I21642278",
     "name": "Ningxia University",
     "lat": 38.46805953979492,
@@ -11392,6 +11392,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I2802951768",
+    "name": "Universidade Federal do Oeste da Bahia",
+    "lat": -12.152779579162598,
+    "lng": -44.9900016784668,
+    "country_code": "BR",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I2803026322",
     "name": "Centre for Process Innovation",
     "lat": 54.571510314941406,
@@ -12109,6 +12117,14 @@
     "lat": 30.518009185791016,
     "lng": 114.3636245727539,
     "country_code": "CN",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4104125",
+    "name": "Universidade Federal de Santa Catarina",
+    "lat": -27.596670150756836,
+    "lng": -48.549171447753906,
+    "country_code": "BR",
     "paper_count": 1
   },
   {
@@ -13429,6 +13445,14 @@
     "lat": 50.316314697265625,
     "lng": 18.77135467529297,
     "country_code": "PL",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4210104851",
+    "name": "Instituto de Bot\u00e2nica",
+    "lat": -23.63353729248047,
+    "lng": -46.6248893737793,
+    "country_code": "BR",
     "paper_count": 1
   },
   {
@@ -14949,6 +14973,14 @@
     "lat": 40.44062042236328,
     "lng": -79.99588775634766,
     "country_code": "US",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4210128604",
+    "name": "Instituto de Pesquisas Jardim Bot\u00e2nico do Rio de Janeiro",
+    "lat": -22.967357635498047,
+    "lng": -43.22505569458008,
+    "country_code": "BR",
     "paper_count": 1
   },
   {
@@ -18400,6 +18432,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I71715416",
+    "name": "Universidade Federal do ABC",
+    "lat": -23.663890838623047,
+    "lng": -46.538330078125,
+    "country_code": "BR",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I71824836",
     "name": "Swiss Federal Laboratories for Materials Science and Technology",
     "lat": 47.397239685058594,
@@ -18629,6 +18669,14 @@
     "lat": 52.52437,
     "lng": 13.41053,
     "country_code": "DE",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I79189158",
+    "name": "University of Castilla-La Mancha",
+    "lat": 38.98625946044922,
+    "lng": -3.929069995880127,
+    "country_code": "ES",
     "paper_count": 1
   },
   {
