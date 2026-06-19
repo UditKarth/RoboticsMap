@@ -56,6 +56,14 @@
     "paper_count": 18
   },
   {
+    "id": "https://openalex.org/I4210088668",
+    "name": "Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement",
+    "lat": 48.85341,
+    "lng": 2.3488,
+    "country_code": "FR",
+    "paper_count": 18
+  },
+  {
     "id": "https://openalex.org/I97018004",
     "name": "Stanford University",
     "lat": 37.42411,
@@ -69,14 +77,6 @@
     "lat": 52.0908317565918,
     "lng": 5.122220039367676,
     "country_code": "NL",
-    "paper_count": 17
-  },
-  {
-    "id": "https://openalex.org/I4210088668",
-    "name": "Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement",
-    "lat": 48.85341,
-    "lng": 2.3488,
-    "country_code": "FR",
     "paper_count": 17
   },
   {
@@ -592,6 +592,14 @@
     "paper_count": 8
   },
   {
+    "id": "https://openalex.org/I4210118689",
+    "name": "Joint Research Centre",
+    "lat": 45.81480026245117,
+    "lng": 8.612939834594727,
+    "country_code": "IT",
+    "paper_count": 8
+  },
+  {
     "id": "https://openalex.org/I4210160793",
     "name": "Institute of Geographic Sciences and Natural Resources Research",
     "lat": 39.907501220703125,
@@ -832,14 +840,6 @@
     "paper_count": 7
   },
   {
-    "id": "https://openalex.org/I4210118689",
-    "name": "Joint Research Centre",
-    "lat": 45.81480026245117,
-    "lng": 8.612939834594727,
-    "country_code": "IT",
-    "paper_count": 7
-  },
-  {
     "id": "https://openalex.org/I4210143632",
     "name": "Tyndall Centre",
     "lat": 52.621822357177734,
@@ -1008,6 +1008,14 @@
     "paper_count": 6
   },
   {
+    "id": "https://openalex.org/I22248866",
+    "name": "AgroParisTech",
+    "lat": 48.71828,
+    "lng": 2.2498,
+    "country_code": "FR",
+    "paper_count": 6
+  },
+  {
     "id": "https://openalex.org/I2746051580",
     "name": "Universit\u00e9 Paris Sciences et Lettres",
     "lat": 48.85341,
@@ -1021,6 +1029,14 @@
     "lat": 42.27756,
     "lng": -83.74088,
     "country_code": "US",
+    "paper_count": 6
+  },
+  {
+    "id": "https://openalex.org/I298625061",
+    "name": "Swedish University of Agricultural Sciences",
+    "lat": 59.858821868896484,
+    "lng": 17.63888931274414,
+    "country_code": "SE",
     "paper_count": 6
   },
   {
@@ -1352,14 +1368,6 @@
     "paper_count": 5
   },
   {
-    "id": "https://openalex.org/I22248866",
-    "name": "AgroParisTech",
-    "lat": 48.71828,
-    "lng": 2.2498,
-    "country_code": "FR",
-    "paper_count": 5
-  },
-  {
     "id": "https://openalex.org/I24354313",
     "name": "Universidad de Buenos Aires",
     "lat": -34.61315,
@@ -1381,14 +1389,6 @@
     "lat": 47.35515,
     "lng": 8.44256,
     "country_code": "CH",
-    "paper_count": 5
-  },
-  {
-    "id": "https://openalex.org/I298625061",
-    "name": "Swedish University of Agricultural Sciences",
-    "lat": 59.858821868896484,
-    "lng": 17.63888931274414,
-    "country_code": "SE",
     "paper_count": 5
   },
   {
@@ -7456,6 +7456,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I128076159",
+    "name": "Forest Research Institute",
+    "lat": 30.34447479248047,
+    "lng": 77.99771881103516,
+    "country_code": "IN",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I1280822658",
     "name": "Federal Statistical Office",
     "lat": 46.99749755859375,
@@ -10872,6 +10880,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I2799877368",
+    "name": "Forestry Research Institute of Sweden",
+    "lat": 59.858821868896484,
+    "lng": 17.63888931274414,
+    "country_code": "SE",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I2799881413",
     "name": "Zen-Noh (Japan)",
     "lat": 35.62758255004883,
@@ -11933,6 +11949,14 @@
     "lat": 34.75777816772461,
     "lng": 113.64861297607422,
     "country_code": "CN",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I36162470",
+    "name": "University of Zakho",
+    "lat": 37.14870834350586,
+    "lng": 42.685909271240234,
+    "country_code": "IQ",
     "paper_count": 1
   },
   {
@@ -17176,6 +17200,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I4210163968",
+    "name": "G.B. Pant Institute of Himalayan Environment and Development",
+    "lat": 29.59713,
+    "lng": 79.65911,
+    "country_code": "IN",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I4210164020",
     "name": "Azienda Sanitaria Universitaria Integrata di Trieste",
     "lat": 45.64952850341797,
@@ -18104,6 +18136,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I5847235",
+    "name": "University of Petroleum and Energy Studies",
+    "lat": 30.32443,
+    "lng": 78.03392,
+    "country_code": "IN",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I58610484",
     "name": "Seattle University",
     "lat": 47.60620880126953,
@@ -18221,6 +18261,14 @@
     "lat": 3.4372200965881348,
     "lng": -76.52249908447266,
     "country_code": "CO",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I64952554",
+    "name": "University of Sulaimani",
+    "lat": 35.56496,
+    "lng": 45.4329,
+    "country_code": "IQ",
     "paper_count": 1
   },
   {
@@ -18509,6 +18557,14 @@
     "lat": -4.276128768920898,
     "lng": 15.24988842010498,
     "country_code": "CG",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I746986",
+    "name": "Halmstad University",
+    "lat": 56.674461364746094,
+    "lng": 12.856760025024414,
+    "country_code": "SE",
     "paper_count": 1
   },
   {
@@ -19173,6 +19229,14 @@
     "lat": 28.968870162963867,
     "lng": 50.836570739746094,
     "country_code": "IR",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I908820301",
+    "name": "Tishk International University",
+    "lat": 36.18333053588867,
+    "lng": 44.01192855834961,
+    "country_code": "IQ",
     "paper_count": 1
   },
   {
