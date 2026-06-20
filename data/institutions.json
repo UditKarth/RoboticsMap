@@ -11608,6 +11608,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I3045169105",
+    "name": "Southern University of Science and Technology",
+    "lat": 22.54554,
+    "lng": 114.0683,
+    "country_code": "CN",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I305407034",
     "name": "Patuakhali Science and Technology University",
     "lat": 22.333330154418945,
@@ -19301,6 +19309,14 @@
     "lat": 37.38283157348633,
     "lng": -5.973169803619385,
     "country_code": "ES",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I92008406",
+    "name": "University of Stavanger",
+    "lat": 58.97005081176758,
+    "lng": 5.733320236206055,
+    "country_code": "NO",
     "paper_count": 1
   },
   {
