@@ -368,6 +368,14 @@
     "paper_count": 9
   },
   {
+    "id": "https://openalex.org/I1286329397",
+    "name": "United States Geological Survey",
+    "lat": 38.96872,
+    "lng": -77.3411,
+    "country_code": "US",
+    "paper_count": 9
+  },
+  {
     "id": "https://openalex.org/I129604602",
     "name": "The University of Sydney",
     "lat": -33.86785,
@@ -469,14 +477,6 @@
     "lat": 49.009368896484375,
     "lng": 8.404439926147461,
     "country_code": "DE",
-    "paper_count": 8
-  },
-  {
-    "id": "https://openalex.org/I1286329397",
-    "name": "United States Geological Survey",
-    "lat": 38.96872,
-    "lng": -77.3411,
-    "country_code": "US",
     "paper_count": 8
   },
   {
@@ -800,6 +800,14 @@
     "paper_count": 7
   },
   {
+    "id": "https://openalex.org/I27837315",
+    "name": "University of Michigan",
+    "lat": 42.27756,
+    "lng": -83.74088,
+    "country_code": "US",
+    "paper_count": 7
+  },
+  {
     "id": "https://openalex.org/I28407311",
     "name": "University of Manchester",
     "lat": 53.48095,
@@ -1024,14 +1032,6 @@
     "paper_count": 6
   },
   {
-    "id": "https://openalex.org/I27837315",
-    "name": "University of Michigan",
-    "lat": 42.27756,
-    "lng": -83.74088,
-    "country_code": "US",
-    "paper_count": 6
-  },
-  {
     "id": "https://openalex.org/I298625061",
     "name": "Swedish University of Agricultural Sciences",
     "lat": 59.858821868896484,
@@ -1248,6 +1248,14 @@
     "paper_count": 5
   },
   {
+    "id": "https://openalex.org/I1334627681",
+    "name": "Jet Propulsion Laboratory",
+    "lat": 34.14778,
+    "lng": -118.14452,
+    "country_code": "US",
+    "paper_count": 5
+  },
+  {
     "id": "https://openalex.org/I1341284090",
     "name": "Royal Swedish Academy of Sciences",
     "lat": 59.32938003540039,
@@ -1293,6 +1301,14 @@
     "lat": 39.47391128540039,
     "lng": -0.3796600103378296,
     "country_code": "ES",
+    "paper_count": 5
+  },
+  {
+    "id": "https://openalex.org/I161318765",
+    "name": "University of California, Los Angeles",
+    "lat": 34.05223,
+    "lng": -118.24368,
+    "country_code": "US",
     "paper_count": 5
   },
   {
@@ -1389,6 +1405,14 @@
     "lat": 47.35515,
     "lng": 8.44256,
     "country_code": "CH",
+    "paper_count": 5
+  },
+  {
+    "id": "https://openalex.org/I2802779139",
+    "name": "Stazione Zoologica Anton Dohrn",
+    "lat": 40.8521614074707,
+    "lng": 14.268110275268555,
+    "country_code": "IT",
     "paper_count": 5
   },
   {
@@ -1573,6 +1597,14 @@
     "lat": 45.1787,
     "lng": 5.76281,
     "country_code": "FR",
+    "paper_count": 5
+  },
+  {
+    "id": "https://openalex.org/I900890020",
+    "name": "University of Palermo",
+    "lat": 38.116600036621094,
+    "lng": 13.36359977722168,
+    "country_code": "IT",
     "paper_count": 5
   },
   {
@@ -1768,14 +1800,6 @@
     "paper_count": 4
   },
   {
-    "id": "https://openalex.org/I1334627681",
-    "name": "Jet Propulsion Laboratory",
-    "lat": 34.14778,
-    "lng": -118.14452,
-    "country_code": "US",
-    "paper_count": 4
-  },
-  {
     "id": "https://openalex.org/I1337719021",
     "name": "Australian Research Council",
     "lat": -35.28346,
@@ -1869,14 +1893,6 @@
     "lat": 53.55073,
     "lng": 9.99302,
     "country_code": "DE",
-    "paper_count": 4
-  },
-  {
-    "id": "https://openalex.org/I161318765",
-    "name": "University of California, Los Angeles",
-    "lat": 34.05223,
-    "lng": -118.24368,
-    "country_code": "US",
     "paper_count": 4
   },
   {
@@ -2061,14 +2077,6 @@
     "lat": 25.774269104003906,
     "lng": -80.19365692138672,
     "country_code": "US",
-    "paper_count": 4
-  },
-  {
-    "id": "https://openalex.org/I2802779139",
-    "name": "Stazione Zoologica Anton Dohrn",
-    "lat": 40.8521614074707,
-    "lng": 14.268110275268555,
-    "country_code": "IT",
     "paper_count": 4
   },
   {
@@ -2301,14 +2309,6 @@
     "lat": 30.26715,
     "lng": -97.74306,
     "country_code": "US",
-    "paper_count": 4
-  },
-  {
-    "id": "https://openalex.org/I900890020",
-    "name": "University of Palermo",
-    "lat": 38.116600036621094,
-    "lng": 13.36359977722168,
-    "country_code": "IT",
     "paper_count": 4
   },
   {
@@ -2557,6 +2557,14 @@
     "lat": 60.16952,
     "lng": 24.93545,
     "country_code": "FI",
+    "paper_count": 3
+  },
+  {
+    "id": "https://openalex.org/I13469542",
+    "name": "Vrije Universiteit Brussel",
+    "lat": 50.85044860839844,
+    "lng": 4.348780155181885,
+    "country_code": "BE",
     "paper_count": 3
   },
   {
@@ -3312,6 +3320,14 @@
     "paper_count": 3
   },
   {
+    "id": "https://openalex.org/I45084792",
+    "name": "University of Florence",
+    "lat": 43.77925,
+    "lng": 11.24626,
+    "country_code": "IT",
+    "paper_count": 3
+  },
+  {
     "id": "https://openalex.org/I4577782",
     "name": "Technische Universit\u00e4t Berlin",
     "lat": 52.52437,
@@ -3877,14 +3893,6 @@
     "lat": 39.00287,
     "lng": -77.07115,
     "country_code": "US",
-    "paper_count": 2
-  },
-  {
-    "id": "https://openalex.org/I13469542",
-    "name": "Vrije Universiteit Brussel",
-    "lat": 50.85044860839844,
-    "lng": 4.348780155181885,
-    "country_code": "BE",
     "paper_count": 2
   },
   {
@@ -5912,14 +5920,6 @@
     "paper_count": 2
   },
   {
-    "id": "https://openalex.org/I45084792",
-    "name": "University of Florence",
-    "lat": 43.77925,
-    "lng": 11.24626,
-    "country_code": "IT",
-    "paper_count": 2
-  },
-  {
     "id": "https://openalex.org/I45204951",
     "name": "University of Calabria",
     "lat": 39.331539154052734,
@@ -6437,6 +6437,14 @@
     "lat": 37.38283157348633,
     "lng": -5.973169803619385,
     "country_code": "ES",
+    "paper_count": 2
+  },
+  {
+    "id": "https://openalex.org/I95850191",
+    "name": "Moss Landing Marine Laboratories",
+    "lat": 36.8044,
+    "lng": -121.7869,
+    "country_code": "US",
     "paper_count": 2
   },
   {
@@ -15128,6 +15136,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I4210131270",
+    "name": "Institute of Sciences of Food Production",
+    "lat": 41.11223602294922,
+    "lng": 16.882198333740234,
+    "country_code": "IT",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I4210131336",
     "name": "Fraunhofer Institute for Systems and Innovation Research",
     "lat": 49.00937,
@@ -16685,6 +16701,14 @@
     "lat": 6.36915397644043,
     "lng": 2.3915319442749023,
     "country_code": "BJ",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4210155464",
+    "name": "Museo Galileo",
+    "lat": 43.767757415771484,
+    "lng": 11.255955696105957,
+    "country_code": "IT",
     "paper_count": 1
   },
   {
@@ -19397,14 +19421,6 @@
     "lat": -29.8579,
     "lng": 31.0292,
     "country_code": "ZA",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I95850191",
-    "name": "Moss Landing Marine Laboratories",
-    "lat": 36.8044,
-    "lng": -121.7869,
-    "country_code": "US",
     "paper_count": 1
   },
   {
