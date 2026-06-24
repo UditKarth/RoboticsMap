@@ -416,6 +416,14 @@
     "paper_count": 9
   },
   {
+    "id": "https://openalex.org/I241749",
+    "name": "University of Cambridge",
+    "lat": 52.2,
+    "lng": 0.11667,
+    "country_code": "GB",
+    "paper_count": 9
+  },
+  {
     "id": "https://openalex.org/I34403800",
     "name": "GEOMAR Helmholtz Centre for Ocean Research Kiel",
     "lat": 54.32133,
@@ -557,14 +565,6 @@
     "lat": 48.4359,
     "lng": -123.35155,
     "country_code": "CA",
-    "paper_count": 8
-  },
-  {
-    "id": "https://openalex.org/I241749",
-    "name": "University of Cambridge",
-    "lat": 52.2,
-    "lng": 0.11667,
-    "country_code": "GB",
     "paper_count": 8
   },
   {
@@ -2152,6 +2152,14 @@
     "paper_count": 4
   },
   {
+    "id": "https://openalex.org/I4210119653",
+    "name": "Institute of Urban Environment",
+    "lat": 24.47978973388672,
+    "lng": 118.08187103271484,
+    "country_code": "CN",
+    "paper_count": 4
+  },
+  {
     "id": "https://openalex.org/I4210123196",
     "name": "Zhejiang Environmental Monitoring Center",
     "lat": 30.279094696044922,
@@ -3077,14 +3085,6 @@
     "lat": 39.16533,
     "lng": -86.52639,
     "country_code": "US",
-    "paper_count": 3
-  },
-  {
-    "id": "https://openalex.org/I4210119653",
-    "name": "Institute of Urban Environment",
-    "lat": 24.47978973388672,
-    "lng": 118.08187103271484,
-    "country_code": "CN",
     "paper_count": 3
   },
   {
@@ -5800,6 +5800,14 @@
     "paper_count": 2
   },
   {
+    "id": "https://openalex.org/I4210165339",
+    "name": "Ningbo Institute of Industrial Technology",
+    "lat": 29.878189086914062,
+    "lng": 121.54945373535156,
+    "country_code": "CN",
+    "paper_count": 2
+  },
+  {
     "id": "https://openalex.org/I4210165559",
     "name": "Institute of Soil Science",
     "lat": 32.061668395996094,
@@ -6533,6 +6541,14 @@
     "lat": 47.21725,
     "lng": -1.55336,
     "country_code": "FR",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I10052268",
+    "name": "New Mexico State University",
+    "lat": 32.31232,
+    "lng": -106.77834,
+    "country_code": "US",
     "paper_count": 1
   },
   {
@@ -9093,6 +9109,14 @@
     "lat": 32.08088,
     "lng": 34.78057,
     "country_code": "IL",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I164218144",
+    "name": "Royal Scientific Society",
+    "lat": 31.95522,
+    "lng": 35.94503,
+    "country_code": "JO",
     "paper_count": 1
   },
   {
@@ -17324,14 +17348,6 @@
     "name": "Guangxi Academy of Sciences",
     "lat": 22.816669464111328,
     "lng": 108.3166732788086,
-    "country_code": "CN",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I4210165339",
-    "name": "Ningbo Institute of Industrial Technology",
-    "lat": 29.878189086914062,
-    "lng": 121.54945373535156,
     "country_code": "CN",
     "paper_count": 1
   },
