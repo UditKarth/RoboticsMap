@@ -9776,6 +9776,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I189590672",
+    "name": "Kansas State University",
+    "lat": 39.18361,
+    "lng": -96.57167,
+    "country_code": "US",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I189977406",
     "name": "Universidad de Los Andes, Chile",
     "lat": -33.456939697265625,
