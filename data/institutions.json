@@ -13,7 +13,7 @@
     "lat": 48.85341,
     "lng": 2.3488,
     "country_code": "FR",
-    "paper_count": 40
+    "paper_count": 41
   },
   {
     "id": "https://openalex.org/I4210165038",
@@ -48,19 +48,19 @@
     "paper_count": 19
   },
   {
-    "id": "https://openalex.org/I25254941",
-    "name": "Beijing Normal University",
-    "lat": 39.9075,
-    "lng": 116.39723,
-    "country_code": "CN",
-    "paper_count": 18
-  },
-  {
     "id": "https://openalex.org/I4210088668",
     "name": "Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement",
     "lat": 48.85341,
     "lng": 2.3488,
     "country_code": "FR",
+    "paper_count": 19
+  },
+  {
+    "id": "https://openalex.org/I25254941",
+    "name": "Beijing Normal University",
+    "lat": 39.9075,
+    "lng": 116.39723,
+    "country_code": "CN",
     "paper_count": 18
   },
   {
@@ -1064,6 +1064,14 @@
     "paper_count": 6
   },
   {
+    "id": "https://openalex.org/I4210092773",
+    "name": "UK Centre for Ecology & Hydrology",
+    "lat": 51.59982,
+    "lng": -1.1248,
+    "country_code": "GB",
+    "paper_count": 6
+  },
+  {
     "id": "https://openalex.org/I4210113730",
     "name": "M\u00e9t\u00e9o-France",
     "lat": 43.60426,
@@ -1181,6 +1189,14 @@
     "lat": -19.26639,
     "lng": 146.80569,
     "country_code": "AU",
+    "paper_count": 6
+  },
+  {
+    "id": "https://openalex.org/I899635006",
+    "name": "Universit\u00e9 Grenoble Alpes",
+    "lat": 45.1787,
+    "lng": 5.76281,
+    "country_code": "FR",
     "paper_count": 6
   },
   {
@@ -1432,14 +1448,6 @@
     "paper_count": 5
   },
   {
-    "id": "https://openalex.org/I4210092773",
-    "name": "UK Centre for Ecology & Hydrology",
-    "lat": 51.59982,
-    "lng": -1.1248,
-    "country_code": "GB",
-    "paper_count": 5
-  },
-  {
     "id": "https://openalex.org/I4210097978",
     "name": "Institute of Plant Protection",
     "lat": 39.907501220703125,
@@ -1476,6 +1484,14 @@
     "name": "CEA Paris-Saclay",
     "lat": 48.68333,
     "lng": 2.13333,
+    "country_code": "FR",
+    "paper_count": 5
+  },
+  {
+    "id": "https://openalex.org/I4210137965",
+    "name": "Laboratoire d'\u00c9cologie Alpine",
+    "lat": 45.17869,
+    "lng": 5.71479,
     "country_code": "FR",
     "paper_count": 5
   },
@@ -1589,14 +1605,6 @@
     "lat": 32.061668395996094,
     "lng": 118.77777862548828,
     "country_code": "CN",
-    "paper_count": 5
-  },
-  {
-    "id": "https://openalex.org/I899635006",
-    "name": "Universit\u00e9 Grenoble Alpes",
-    "lat": 45.1787,
-    "lng": 5.76281,
-    "country_code": "FR",
     "paper_count": 5
   },
   {
@@ -1896,6 +1904,14 @@
     "paper_count": 4
   },
   {
+    "id": "https://openalex.org/I161548249",
+    "name": "Bangor University",
+    "lat": 53.22751998901367,
+    "lng": -4.129360198974609,
+    "country_code": "GB",
+    "paper_count": 4
+  },
+  {
     "id": "https://openalex.org/I162148367",
     "name": "Pontificia Universidad Cat\u00f3lica de Chile",
     "lat": -33.45694,
@@ -2173,14 +2189,6 @@
     "lat": 40.01499,
     "lng": -105.27055,
     "country_code": "US",
-    "paper_count": 4
-  },
-  {
-    "id": "https://openalex.org/I4210137965",
-    "name": "Laboratoire d'\u00c9cologie Alpine",
-    "lat": 45.17869,
-    "lng": 5.71479,
-    "country_code": "FR",
     "paper_count": 4
   },
   {
@@ -2709,14 +2717,6 @@
     "lat": -27.46794,
     "lng": 153.02809,
     "country_code": "AU",
-    "paper_count": 3
-  },
-  {
-    "id": "https://openalex.org/I161548249",
-    "name": "Bangor University",
-    "lat": 53.22751998901367,
-    "lng": -4.129360198974609,
-    "country_code": "GB",
     "paper_count": 3
   },
   {
@@ -3416,6 +3416,14 @@
     "paper_count": 3
   },
   {
+    "id": "https://openalex.org/I70900168",
+    "name": "Universit\u00e9 Savoie Mont Blanc",
+    "lat": 45.56628,
+    "lng": 5.92079,
+    "country_code": "FR",
+    "paper_count": 3
+  },
+  {
     "id": "https://openalex.org/I71920554",
     "name": "King Abdullah University of Science and Technology",
     "lat": 21.49012,
@@ -3645,6 +3653,14 @@
     "lat": -23.42527961730957,
     "lng": -51.9386100769043,
     "country_code": "BR",
+    "paper_count": 2
+  },
+  {
+    "id": "https://openalex.org/I126924076",
+    "name": "Chongqing Normal University",
+    "lat": 29.560260772705078,
+    "lng": 106.55770874023438,
+    "country_code": "CN",
     "paper_count": 2
   },
   {
@@ -6184,14 +6200,6 @@
     "paper_count": 2
   },
   {
-    "id": "https://openalex.org/I70900168",
-    "name": "Universit\u00e9 Savoie Mont Blanc",
-    "lat": 45.56628,
-    "lng": 5.92079,
-    "country_code": "FR",
-    "paper_count": 2
-  },
-  {
     "id": "https://openalex.org/I74413500",
     "name": "University of Windsor",
     "lat": 42.300079345703125,
@@ -7445,14 +7453,6 @@
     "lat": -0.7401800155639648,
     "lng": -90.31379699707031,
     "country_code": "EC",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I126924076",
-    "name": "Chongqing Normal University",
-    "lat": 29.560260772705078,
-    "lng": 106.55770874023438,
-    "country_code": "CN",
     "paper_count": 1
   },
   {
@@ -11869,6 +11869,14 @@
     "lat": 14.64072,
     "lng": -90.51327,
     "country_code": "GT",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I32377083",
+    "name": "Yangtze Normal University",
+    "lat": 29.7509822845459,
+    "lng": 107.2627944946289,
+    "country_code": "CN",
     "paper_count": 1
   },
   {
