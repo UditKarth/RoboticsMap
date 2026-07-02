@@ -1384,6 +1384,14 @@
     "paper_count": 5
   },
   {
+    "id": "https://openalex.org/I205349734",
+    "name": "Hokkaido University",
+    "lat": 43.07817840576172,
+    "lng": 141.3399658203125,
+    "country_code": "JP",
+    "paper_count": 5
+  },
+  {
     "id": "https://openalex.org/I207014233",
     "name": "Kyushu Institute of Technology",
     "lat": 33.851810455322266,
@@ -2021,14 +2029,6 @@
     "lat": 63.43049,
     "lng": 10.39506,
     "country_code": "NO",
-    "paper_count": 4
-  },
-  {
-    "id": "https://openalex.org/I205349734",
-    "name": "Hokkaido University",
-    "lat": 43.07817840576172,
-    "lng": 141.3399658203125,
-    "country_code": "JP",
     "paper_count": 4
   },
   {
@@ -6672,6 +6672,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I104234503",
+    "name": "Hokkaido University of Science",
+    "lat": 43.1353645324707,
+    "lng": 141.24899291992188,
+    "country_code": "JP",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I10457146",
     "name": "Universidad de Santiago de Chile",
     "lat": -33.45694,
@@ -8773,6 +8781,14 @@
     "lat": 9.919,
     "lng": 78.11953,
     "country_code": "IN",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I156971308",
+    "name": "Hokkaido University of Education",
+    "lat": 43.06666946411133,
+    "lng": 141.35000610351562,
+    "country_code": "JP",
     "paper_count": 1
   },
   {

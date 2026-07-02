@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-01",
-  "total_papers": 1054,
-  "total_institutions": 2441,
+  "last_updated": "2026-07-02",
+  "total_papers": 1055,
+  "total_institutions": 2443,
   "date_range": {
     "from": "2018-01-01",
     "to": "2026-01-01"
@@ -61,7 +61,7 @@
     },
     {
       "country_code": "JP",
-      "paper_count": 48
+      "paper_count": 49
     },
     {
       "country_code": "BR",
