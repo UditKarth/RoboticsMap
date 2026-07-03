@@ -13,7 +13,7 @@
     "lat": 48.85341,
     "lng": 2.3488,
     "country_code": "FR",
-    "paper_count": 41
+    "paper_count": 42
   },
   {
     "id": "https://openalex.org/I4210165038",
@@ -64,6 +64,14 @@
     "paper_count": 18
   },
   {
+    "id": "https://openalex.org/I4210166444",
+    "name": "Institut de Recherche pour le D\u00e9veloppement",
+    "lat": 43.29695,
+    "lng": 5.38107,
+    "country_code": "FR",
+    "paper_count": 18
+  },
+  {
     "id": "https://openalex.org/I97018004",
     "name": "Stanford University",
     "lat": 37.42411,
@@ -77,14 +85,6 @@
     "lat": 52.0908317565918,
     "lng": 5.122220039367676,
     "country_code": "NL",
-    "paper_count": 17
-  },
-  {
-    "id": "https://openalex.org/I4210166444",
-    "name": "Institut de Recherche pour le D\u00e9veloppement",
-    "lat": 43.29695,
-    "lng": 5.38107,
-    "country_code": "FR",
     "paper_count": 17
   },
   {
@@ -176,6 +176,14 @@
     "paper_count": 13
   },
   {
+    "id": "https://openalex.org/I39804081",
+    "name": "Sorbonne Universit\u00e9",
+    "lat": 48.85341,
+    "lng": 2.3488,
+    "country_code": "FR",
+    "paper_count": 13
+  },
+  {
     "id": "https://openalex.org/I47508984",
     "name": "Imperial College London",
     "lat": 51.50853,
@@ -232,14 +240,6 @@
     "paper_count": 12
   },
   {
-    "id": "https://openalex.org/I39804081",
-    "name": "Sorbonne Universit\u00e9",
-    "lat": 48.85341,
-    "lng": 2.3488,
-    "country_code": "FR",
-    "paper_count": 12
-  },
-  {
     "id": "https://openalex.org/I865915315",
     "name": "Vrije Universiteit Amsterdam",
     "lat": 52.37403,
@@ -261,6 +261,14 @@
     "lat": 43.07305,
     "lng": -89.40123,
     "country_code": "US",
+    "paper_count": 11
+  },
+  {
+    "id": "https://openalex.org/I165779595",
+    "name": "The University of Melbourne",
+    "lat": -37.814,
+    "lng": 144.96332,
+    "country_code": "AU",
     "paper_count": 11
   },
   {
@@ -309,14 +317,6 @@
     "lat": 45.41117,
     "lng": -75.69812,
     "country_code": "CA",
-    "paper_count": 10
-  },
-  {
-    "id": "https://openalex.org/I165779595",
-    "name": "The University of Melbourne",
-    "lat": -37.814,
-    "lng": 144.96332,
-    "country_code": "AU",
     "paper_count": 10
   },
   {
@@ -1264,6 +1264,14 @@
     "paper_count": 5
   },
   {
+    "id": "https://openalex.org/I1328540965",
+    "name": "Australian Institute of Marine Science",
+    "lat": -19.26639,
+    "lng": 146.80569,
+    "country_code": "AU",
+    "paper_count": 5
+  },
+  {
     "id": "https://openalex.org/I1334627681",
     "name": "Jet Propulsion Laboratory",
     "lat": 34.14778,
@@ -1805,14 +1813,6 @@
     "lat": 42.65258,
     "lng": -73.75623,
     "country_code": "US",
-    "paper_count": 4
-  },
-  {
-    "id": "https://openalex.org/I1328540965",
-    "name": "Australian Institute of Marine Science",
-    "lat": -19.26639,
-    "lng": 146.80569,
-    "country_code": "AU",
     "paper_count": 4
   },
   {
@@ -2672,6 +2672,14 @@
     "paper_count": 3
   },
   {
+    "id": "https://openalex.org/I154202486",
+    "name": "Ifremer",
+    "lat": 48.39029,
+    "lng": -4.48628,
+    "country_code": "FR",
+    "paper_count": 3
+  },
+  {
     "id": "https://openalex.org/I155093810",
     "name": "University of Idaho",
     "lat": 46.732391357421875,
@@ -3408,6 +3416,14 @@
     "paper_count": 3
   },
   {
+    "id": "https://openalex.org/I66809481",
+    "name": "Southern Cross University",
+    "lat": -28.813539505004883,
+    "lng": 153.2772979736328,
+    "country_code": "AU",
+    "paper_count": 3
+  },
+  {
     "id": "https://openalex.org/I69552723",
     "name": "University of Pretoria",
     "lat": -25.74485969543457,
@@ -4069,14 +4085,6 @@
     "lat": 36.66833,
     "lng": 116.99722,
     "country_code": "CN",
-    "paper_count": 2
-  },
-  {
-    "id": "https://openalex.org/I154202486",
-    "name": "Ifremer",
-    "lat": 48.39029,
-    "lng": -4.48628,
-    "country_code": "FR",
     "paper_count": 2
   },
   {
@@ -6136,14 +6144,6 @@
     "paper_count": 2
   },
   {
-    "id": "https://openalex.org/I66809481",
-    "name": "Southern Cross University",
-    "lat": -28.813539505004883,
-    "lng": 153.2772979736328,
-    "country_code": "AU",
-    "paper_count": 2
-  },
-  {
     "id": "https://openalex.org/I66862912",
     "name": "Chalmers University of Technology",
     "lat": 57.70716,
@@ -7693,6 +7693,14 @@
     "lat": 39.75553894042969,
     "lng": -105.22109985351562,
     "country_code": "US",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I1297991670",
+    "name": "Southwest University of Science and Technology",
+    "lat": 31.46784019470215,
+    "lng": 104.68167877197266,
+    "country_code": "CN",
     "paper_count": 1
   },
   {
@@ -12816,6 +12824,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I4210093317",
+    "name": "Laboratoire Excell",
+    "lat": 44.84009552001953,
+    "lng": -0.6792359948158264,
+    "country_code": "FR",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I4210093370",
     "name": "Past Global Changes",
     "lat": 46.95112228393555,
@@ -13936,6 +13952,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I4210111314",
+    "name": "Fujian Academy of Building Research (China)",
+    "lat": 26.060649871826172,
+    "lng": 119.25160217285156,
+    "country_code": "CN",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I4210111460",
     "name": "National Center for Tumor Diseases",
     "lat": 49.40768051147461,
@@ -14413,6 +14437,14 @@
     "lat": 47.24878,
     "lng": 6.01815,
     "country_code": "FR",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4210118567",
+    "name": "Fujian Academy of Agricultural Sciences",
+    "lat": 26.061389923095703,
+    "lng": 119.30610656738281,
+    "country_code": "CN",
     "paper_count": 1
   },
   {
@@ -18944,6 +18976,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I83791580",
+    "name": "Fujian University of Technology",
+    "lat": 26.061389923095703,
+    "lng": 119.30610656738281,
+    "country_code": "CN",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I83816512",
     "name": "University of Genoa",
     "lat": 44.40478,
@@ -19381,6 +19421,14 @@
     "lat": 37.38283157348633,
     "lng": -5.973169803619385,
     "country_code": "ES",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I91935597",
+    "name": "University of South China",
+    "lat": 26.88945960998535,
+    "lng": 112.61888122558594,
+    "country_code": "CN",
     "paper_count": 1
   },
   {
