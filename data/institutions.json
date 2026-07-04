@@ -37,7 +37,7 @@
     "lat": 42.3751,
     "lng": -71.10561,
     "country_code": "US",
-    "paper_count": 19
+    "paper_count": 20
   },
   {
     "id": "https://openalex.org/I35440088",
@@ -4189,6 +4189,14 @@
     "lat": 50.666481018066406,
     "lng": -120.31919860839844,
     "country_code": "CA",
+    "paper_count": 2
+  },
+  {
+    "id": "https://openalex.org/I161057412",
+    "name": "University of New Hampshire",
+    "lat": 43.133968353271484,
+    "lng": -70.92645263671875,
+    "country_code": "US",
     "paper_count": 2
   },
   {
@@ -8952,14 +8960,6 @@
     "paper_count": 1
   },
   {
-    "id": "https://openalex.org/I161057412",
-    "name": "University of New Hampshire",
-    "lat": 43.133968353271484,
-    "lng": -70.92645263671875,
-    "country_code": "US",
-    "paper_count": 1
-  },
-  {
     "id": "https://openalex.org/I161103922",
     "name": "Philipps University of Marburg",
     "lat": 50.80904006958008,
@@ -10589,6 +10589,14 @@
     "lat": -3.7172200679779053,
     "lng": -38.543060302734375,
     "country_code": "BR",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I24603500",
+    "name": "University of Massachusetts Amherst",
+    "lat": 42.37537,
+    "lng": -72.51925,
+    "country_code": "US",
     "paper_count": 1
   },
   {
