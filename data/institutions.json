@@ -2880,6 +2880,14 @@
     "paper_count": 3
   },
   {
+    "id": "https://openalex.org/I223532165",
+    "name": "University of Utah",
+    "lat": 40.76078,
+    "lng": -111.89105,
+    "country_code": "US",
+    "paper_count": 3
+  },
+  {
     "id": "https://openalex.org/I24057909",
     "name": "Bangladesh Agricultural University",
     "lat": 24.756359100341797,
@@ -4736,14 +4744,6 @@
     "paper_count": 2
   },
   {
-    "id": "https://openalex.org/I223532165",
-    "name": "University of Utah",
-    "lat": 40.76078,
-    "lng": -111.89105,
-    "country_code": "US",
-    "paper_count": 2
-  },
-  {
     "id": "https://openalex.org/I23732399",
     "name": "Montana State University",
     "lat": 45.67965,
@@ -5277,6 +5277,14 @@
     "lat": 40.416500091552734,
     "lng": -3.7025599479675293,
     "country_code": "ES",
+    "paper_count": 2
+  },
+  {
+    "id": "https://openalex.org/I4210107718",
+    "name": "Northern Research Station",
+    "lat": 43.07305145263672,
+    "lng": -89.40122985839844,
+    "country_code": "US",
     "paper_count": 2
   },
   {
@@ -11272,6 +11280,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I2801652441",
+    "name": "North Idaho College",
+    "lat": 47.67768096923828,
+    "lng": -116.78047180175781,
+    "country_code": "US",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I2801711128",
     "name": "Swedish Museum of Natural History",
     "lat": 59.32938003540039,
@@ -13749,14 +13765,6 @@
     "lat": 11.59364,
     "lng": 37.39077,
     "country_code": "ET",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I4210107718",
-    "name": "Northern Research Station",
-    "lat": 43.07305145263672,
-    "lng": -89.40122985839844,
-    "country_code": "US",
     "paper_count": 1
   },
   {
