@@ -5,7 +5,7 @@
     "lat": 39.9075,
     "lng": 116.39723,
     "country_code": "CN",
-    "paper_count": 45
+    "paper_count": 46
   },
   {
     "id": "https://openalex.org/I1294671590",
@@ -192,6 +192,14 @@
     "paper_count": 13
   },
   {
+    "id": "https://openalex.org/I124055696",
+    "name": "University of Copenhagen",
+    "lat": 55.67594,
+    "lng": 12.56553,
+    "country_code": "DK",
+    "paper_count": 12
+  },
+  {
     "id": "https://openalex.org/I1306266525",
     "name": "Goddard Space Flight Center",
     "lat": 39.00455093383789,
@@ -246,14 +254,6 @@
     "lng": 4.88969,
     "country_code": "NL",
     "paper_count": 12
-  },
-  {
-    "id": "https://openalex.org/I124055696",
-    "name": "University of Copenhagen",
-    "lat": 55.67594,
-    "lng": 12.56553,
-    "country_code": "DK",
-    "paper_count": 11
   },
   {
     "id": "https://openalex.org/I135310074",
@@ -440,6 +440,14 @@
     "paper_count": 9
   },
   {
+    "id": "https://openalex.org/I4210160793",
+    "name": "Institute of Geographic Sciences and Natural Resources Research",
+    "lat": 39.907501220703125,
+    "lng": 116.39723205566406,
+    "country_code": "CN",
+    "paper_count": 9
+  },
+  {
     "id": "https://openalex.org/I5023651",
     "name": "McGill University",
     "lat": 45.50884,
@@ -469,6 +477,14 @@
     "lat": -33.59955978393555,
     "lng": 150.7514190673828,
     "country_code": "AU",
+    "paper_count": 9
+  },
+  {
+    "id": "https://openalex.org/I79619799",
+    "name": "University of Birmingham",
+    "lat": 52.48142,
+    "lng": -1.89983,
+    "country_code": "GB",
     "paper_count": 9
   },
   {
@@ -600,14 +616,6 @@
     "paper_count": 8
   },
   {
-    "id": "https://openalex.org/I4210160793",
-    "name": "Institute of Geographic Sciences and Natural Resources Research",
-    "lat": 39.907501220703125,
-    "lng": 116.39723205566406,
-    "country_code": "CN",
-    "paper_count": 8
-  },
-  {
     "id": "https://openalex.org/I74801974",
     "name": "The University of Tokyo",
     "lat": 35.68949890136719,
@@ -621,14 +629,6 @@
     "lat": 50.92878,
     "lng": 11.5899,
     "country_code": "DE",
-    "paper_count": 8
-  },
-  {
-    "id": "https://openalex.org/I79619799",
-    "name": "University of Birmingham",
-    "lat": 52.48142,
-    "lng": -1.89983,
-    "country_code": "GB",
     "paper_count": 8
   },
   {
@@ -3661,6 +3661,14 @@
     "lat": 28.099729537963867,
     "lng": -15.413430213928223,
     "country_code": "ES",
+    "paper_count": 2
+  },
+  {
+    "id": "https://openalex.org/I11983389",
+    "name": "Manchester Metropolitan University",
+    "lat": 53.48094940185547,
+    "lng": -2.2374300956726074,
+    "country_code": "GB",
     "paper_count": 2
   },
   {
@@ -6720,6 +6728,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I106079672",
+    "name": "Hebei University of Engineering",
+    "lat": 36.609989166259766,
+    "lng": 114.48764038085938,
+    "country_code": "CN",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I10660446",
     "name": "Kunming University of Science and Technology",
     "lat": 25.061561584472656,
@@ -7181,14 +7197,6 @@
     "lat": 47.12186813354492,
     "lng": -88.56900787353516,
     "country_code": "US",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I11983389",
-    "name": "Manchester Metropolitan University",
-    "lat": 53.48094940185547,
-    "lng": -2.2374300956726074,
-    "country_code": "GB",
     "paper_count": 1
   },
   {
@@ -9245,6 +9253,14 @@
     "lat": 40.3756217956543,
     "lng": -82.39710235595703,
     "country_code": "US",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I167261309",
+    "name": "Royal Botanic Garden Edinburgh",
+    "lat": 55.95206069946289,
+    "lng": -3.1964800357818604,
+    "country_code": "GB",
     "paper_count": 1
   },
   {
@@ -11328,6 +11344,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I2802000487",
+    "name": "Imperial Valley College",
+    "lat": 32.82929992675781,
+    "lng": -115.50543975830078,
+    "country_code": "US",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I2802050225",
     "name": "Bellvitge University Hospital",
     "lat": 41.388790130615234,
@@ -11381,6 +11405,14 @@
     "lat": -25.74486,
     "lng": 28.18783,
     "country_code": "ZA",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I2802431724",
+    "name": "Missouri Botanical Garden",
+    "lat": 38.61410140991211,
+    "lng": -90.25890350341797,
+    "country_code": "US",
     "paper_count": 1
   },
   {
@@ -15296,6 +15328,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I4210131919",
+    "name": "Xi'an University of Technology",
+    "lat": 34.258331298828125,
+    "lng": 108.9286117553711,
+    "country_code": "CN",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I4210131959",
     "name": "National Research Centre",
     "lat": 30.00944,
@@ -17672,6 +17712,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I4387154144",
+    "name": "National Research and Innovation Agency",
+    "lat": -6.21462,
+    "lng": 106.84513,
+    "country_code": "ID",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I4387154308",
     "name": "Centre de Recherche \u00c9pid\u00e9miologie et Statistique",
     "lat": 48.85341,
@@ -18669,6 +18717,14 @@
     "lat": 27.53800392150879,
     "lng": -80.3620376586914,
     "country_code": "US",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I73683852",
+    "name": "Rajamangala University of Technology Lanna",
+    "lat": 18.809720993041992,
+    "lng": 98.95281982421875,
+    "country_code": "TH",
     "paper_count": 1
   },
   {
