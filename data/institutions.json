@@ -2656,6 +2656,14 @@
     "paper_count": 3
   },
   {
+    "id": "https://openalex.org/I150807315",
+    "name": "Guangxi University",
+    "lat": 22.816669464111328,
+    "lng": 108.3166732788086,
+    "country_code": "CN",
+    "paper_count": 3
+  },
+  {
     "id": "https://openalex.org/I151201029",
     "name": "Consejo Nacional de Investigaciones Cient\u00edficas y T\u00e9cnicas",
     "lat": -34.61315,
@@ -4080,14 +4088,6 @@
     "paper_count": 2
   },
   {
-    "id": "https://openalex.org/I150807315",
-    "name": "Guangxi University",
-    "lat": 22.816669464111328,
-    "lng": 108.3166732788086,
-    "country_code": "CN",
-    "paper_count": 2
-  },
-  {
     "id": "https://openalex.org/I152304114",
     "name": "Lamont-Doherty Earth Observatory",
     "lat": 41.03121,
@@ -5248,6 +5248,14 @@
     "paper_count": 2
   },
   {
+    "id": "https://openalex.org/I4210103887",
+    "name": "Estacion Experimental de Zonas Aridas",
+    "lat": 36.838138580322266,
+    "lng": -2.459739923477173,
+    "country_code": "ES",
+    "paper_count": 2
+  },
+  {
     "id": "https://openalex.org/I4210104448",
     "name": "Institut Catal\u00e0 de Ci\u00e8ncies del Clima",
     "lat": 41.388790130615234,
@@ -6317,6 +6325,14 @@
     "lat": 36.06488037109375,
     "lng": 120.38041687011719,
     "country_code": "CN",
+    "paper_count": 2
+  },
+  {
+    "id": "https://openalex.org/I80606768",
+    "name": "Universidad de Extremadura",
+    "lat": 38.877891540527344,
+    "lng": -6.97061014175415,
+    "country_code": "ES",
     "paper_count": 2
   },
   {
@@ -11328,6 +11344,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I2801884048",
+    "name": "Government of Extremadura",
+    "lat": 38.877891540527344,
+    "lng": -6.97061014175415,
+    "country_code": "ES",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I2801919071",
     "name": "University of Illinois System",
     "lat": 40.110591888427734,
@@ -13556,14 +13580,6 @@
     "name": "Centro de Edafolog\u00eda y Biolog\u00eda Aplicada del Segura",
     "lat": 37.98704147338867,
     "lng": -1.1300400495529175,
-    "country_code": "ES",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I4210103887",
-    "name": "Estacion Experimental de Zonas Aridas",
-    "lat": 36.838138580322266,
-    "lng": -2.459739923477173,
     "country_code": "ES",
     "paper_count": 1
   },
@@ -18965,14 +18981,6 @@
     "lat": -45.87416,
     "lng": 170.50361,
     "country_code": "NZ",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I80606768",
-    "name": "Universidad de Extremadura",
-    "lat": 38.877891540527344,
-    "lng": -6.97061014175415,
-    "country_code": "ES",
     "paper_count": 1
   },
   {
