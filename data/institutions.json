@@ -256,6 +256,14 @@
     "paper_count": 12
   },
   {
+    "id": "https://openalex.org/I95457486",
+    "name": "University of California, Berkeley",
+    "lat": 37.87159,
+    "lng": -122.27275,
+    "country_code": "US",
+    "paper_count": 12
+  },
+  {
     "id": "https://openalex.org/I135310074",
     "name": "University of Wisconsin\u2013Madison",
     "lat": 43.07305,
@@ -293,14 +301,6 @@
     "lat": 39.907501220703125,
     "lng": 116.39723205566406,
     "country_code": "CN",
-    "paper_count": 11
-  },
-  {
-    "id": "https://openalex.org/I95457486",
-    "name": "University of California, Berkeley",
-    "lat": 37.87159,
-    "lng": -122.27275,
-    "country_code": "US",
     "paper_count": 11
   },
   {
@@ -1136,6 +1136,14 @@
     "paper_count": 6
   },
   {
+    "id": "https://openalex.org/I56085075",
+    "name": "University of Tartu",
+    "lat": 58.380619049072266,
+    "lng": 26.72509002685547,
+    "country_code": "EE",
+    "paper_count": 6
+  },
+  {
     "id": "https://openalex.org/I61057504",
     "name": "Fujian Agriculture and Forestry University",
     "lat": 26.061389923095703,
@@ -1544,14 +1552,6 @@
     "paper_count": 5
   },
   {
-    "id": "https://openalex.org/I56085075",
-    "name": "University of Tartu",
-    "lat": 58.380619049072266,
-    "lng": 26.72509002685547,
-    "country_code": "EE",
-    "paper_count": 5
-  },
-  {
     "id": "https://openalex.org/I56590836",
     "name": "Monash University",
     "lat": -37.814,
@@ -1717,6 +1717,14 @@
     "lat": 41.73548889160156,
     "lng": -111.83438873291016,
     "country_code": "US",
+    "paper_count": 4
+  },
+  {
+    "id": "https://openalex.org/I123044942",
+    "name": "Universitat Aut\u00f2noma de Barcelona",
+    "lat": 41.4910888671875,
+    "lng": 2.1407899856567383,
+    "country_code": "ES",
     "paper_count": 4
   },
   {
@@ -2437,14 +2445,6 @@
     "lat": 43.594200134277344,
     "lng": 13.50337028503418,
     "country_code": "IT",
-    "paper_count": 3
-  },
-  {
-    "id": "https://openalex.org/I123044942",
-    "name": "Universitat Aut\u00f2noma de Barcelona",
-    "lat": 41.4910888671875,
-    "lng": 2.1407899856567383,
-    "country_code": "ES",
     "paper_count": 3
   },
   {
@@ -3797,6 +3797,14 @@
     "lat": 32.38167190551758,
     "lng": -64.67806243896484,
     "country_code": "BM",
+    "paper_count": 2
+  },
+  {
+    "id": "https://openalex.org/I130692619",
+    "name": "Bern University of Applied Sciences",
+    "lat": 46.948089599609375,
+    "lng": 7.447440147399902,
+    "country_code": "CH",
     "paper_count": 2
   },
   {
@@ -7829,14 +7837,6 @@
     "lat": 34.14964294433594,
     "lng": 74.78843688964844,
     "country_code": "IN",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I130692619",
-    "name": "Bern University of Applied Sciences",
-    "lat": 46.948089599609375,
-    "lng": 7.447440147399902,
-    "country_code": "CH",
     "paper_count": 1
   },
   {
