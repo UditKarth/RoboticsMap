@@ -13,7 +13,7 @@
     "lat": 48.85341,
     "lng": 2.3488,
     "country_code": "FR",
-    "paper_count": 42
+    "paper_count": 43
   },
   {
     "id": "https://openalex.org/I4210165038",
@@ -40,6 +40,14 @@
     "paper_count": 20
   },
   {
+    "id": "https://openalex.org/I4210088668",
+    "name": "Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement",
+    "lat": 48.85341,
+    "lng": 2.3488,
+    "country_code": "FR",
+    "paper_count": 20
+  },
+  {
     "id": "https://openalex.org/I35440088",
     "name": "ETH Zurich",
     "lat": 47.36667,
@@ -48,10 +56,10 @@
     "paper_count": 19
   },
   {
-    "id": "https://openalex.org/I4210088668",
-    "name": "Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement",
-    "lat": 48.85341,
-    "lng": 2.3488,
+    "id": "https://openalex.org/I4210166444",
+    "name": "Institut de Recherche pour le D\u00e9veloppement",
+    "lat": 43.29695,
+    "lng": 5.38107,
     "country_code": "FR",
     "paper_count": 19
   },
@@ -61,14 +69,6 @@
     "lat": 39.9075,
     "lng": 116.39723,
     "country_code": "CN",
-    "paper_count": 18
-  },
-  {
-    "id": "https://openalex.org/I4210166444",
-    "name": "Institut de Recherche pour le D\u00e9veloppement",
-    "lat": 43.29695,
-    "lng": 5.38107,
-    "country_code": "FR",
     "paper_count": 18
   },
   {
@@ -304,6 +304,14 @@
     "paper_count": 11
   },
   {
+    "id": "https://openalex.org/I91136226",
+    "name": "University of Sheffield",
+    "lat": 53.38297,
+    "lng": -1.4659,
+    "country_code": "GB",
+    "paper_count": 11
+  },
+  {
     "id": "https://openalex.org/I1281210470",
     "name": "CSIRO Oceans and Atmosphere",
     "lat": -35.28346,
@@ -341,14 +349,6 @@
     "lat": 48.68333,
     "lng": 2.13333,
     "country_code": "FR",
-    "paper_count": 10
-  },
-  {
-    "id": "https://openalex.org/I91136226",
-    "name": "University of Sheffield",
-    "lat": 53.38297,
-    "lng": -1.4659,
-    "country_code": "GB",
     "paper_count": 10
   },
   {
@@ -496,11 +496,27 @@
     "paper_count": 9
   },
   {
+    "id": "https://openalex.org/I98677209",
+    "name": "University of Edinburgh",
+    "lat": 55.95206,
+    "lng": -3.19648,
+    "country_code": "GB",
+    "paper_count": 9
+  },
+  {
     "id": "https://openalex.org/I102335020",
     "name": "Karlsruhe Institute of Technology",
     "lat": 49.009368896484375,
     "lng": 8.404439926147461,
     "country_code": "DE",
+    "paper_count": 8
+  },
+  {
+    "id": "https://openalex.org/I130828816",
+    "name": "University of Leeds",
+    "lat": 53.79648,
+    "lng": -1.54785,
+    "country_code": "GB",
     "paper_count": 8
   },
   {
@@ -672,14 +688,6 @@
     "paper_count": 8
   },
   {
-    "id": "https://openalex.org/I98677209",
-    "name": "University of Edinburgh",
-    "lat": 55.95206,
-    "lng": -3.19648,
-    "country_code": "GB",
-    "paper_count": 8
-  },
-  {
     "id": "https://openalex.org/I107766831",
     "name": "NSF National Center for Atmospheric Research",
     "lat": 40.01499,
@@ -701,14 +709,6 @@
     "lat": -35.28346,
     "lng": 149.12807,
     "country_code": "AU",
-    "paper_count": 7
-  },
-  {
-    "id": "https://openalex.org/I130828816",
-    "name": "University of Leeds",
-    "lat": 53.79648,
-    "lng": -1.54785,
-    "country_code": "GB",
     "paper_count": 7
   },
   {
@@ -909,6 +909,14 @@
     "lat": 57.70716,
     "lng": 11.96679,
     "country_code": "SE",
+    "paper_count": 7
+  },
+  {
+    "id": "https://openalex.org/I899635006",
+    "name": "Universit\u00e9 Grenoble Alpes",
+    "lat": 45.1787,
+    "lng": 5.76281,
+    "country_code": "FR",
     "paper_count": 7
   },
   {
@@ -1184,6 +1192,14 @@
     "paper_count": 6
   },
   {
+    "id": "https://openalex.org/I79510175",
+    "name": "Cardiff University",
+    "lat": 51.48,
+    "lng": -3.18,
+    "country_code": "GB",
+    "paper_count": 6
+  },
+  {
     "id": "https://openalex.org/I8204097",
     "name": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen",
     "lat": 48.13743,
@@ -1192,19 +1208,19 @@
     "paper_count": 6
   },
   {
+    "id": "https://openalex.org/I84884186",
+    "name": "Newcastle University",
+    "lat": 54.97328,
+    "lng": -1.61396,
+    "country_code": "GB",
+    "paper_count": 6
+  },
+  {
     "id": "https://openalex.org/I86467917",
     "name": "James Cook University",
     "lat": -19.26639,
     "lng": 146.80569,
     "country_code": "AU",
-    "paper_count": 6
-  },
-  {
-    "id": "https://openalex.org/I899635006",
-    "name": "Universit\u00e9 Grenoble Alpes",
-    "lat": 45.1787,
-    "lng": 5.76281,
-    "country_code": "FR",
     "paper_count": 6
   },
   {
@@ -1584,27 +1600,11 @@
     "paper_count": 5
   },
   {
-    "id": "https://openalex.org/I79510175",
-    "name": "Cardiff University",
-    "lat": 51.48,
-    "lng": -3.18,
-    "country_code": "GB",
-    "paper_count": 5
-  },
-  {
     "id": "https://openalex.org/I79576946",
     "name": "University of Pennsylvania",
     "lat": 39.95238,
     "lng": -75.16362,
     "country_code": "US",
-    "paper_count": 5
-  },
-  {
-    "id": "https://openalex.org/I84884186",
-    "name": "Newcastle University",
-    "lat": 54.97328,
-    "lng": -1.61396,
-    "country_code": "GB",
     "paper_count": 5
   },
   {
@@ -3000,6 +3000,14 @@
     "paper_count": 3
   },
   {
+    "id": "https://openalex.org/I36234482",
+    "name": "University of Bristol",
+    "lat": 51.45523,
+    "lng": -2.59665,
+    "country_code": "GB",
+    "paper_count": 3
+  },
+  {
     "id": "https://openalex.org/I37461747",
     "name": "Wuhan University",
     "lat": 30.583330154418945,
@@ -4216,6 +4224,14 @@
     "paper_count": 2
   },
   {
+    "id": "https://openalex.org/I16038530",
+    "name": "Aberystwyth University",
+    "lat": 52.41548156738281,
+    "lng": -4.082920074462891,
+    "country_code": "GB",
+    "paper_count": 2
+  },
+  {
     "id": "https://openalex.org/I161057412",
     "name": "University of New Hampshire",
     "lat": 43.133968353271484,
@@ -4269,6 +4285,14 @@
     "lat": 32.061668395996094,
     "lng": 118.77777862548828,
     "country_code": "CN",
+    "paper_count": 2
+  },
+  {
+    "id": "https://openalex.org/I16835326",
+    "name": "University of St Andrews",
+    "lat": 56.33871,
+    "lng": -2.79902,
+    "country_code": "GB",
     "paper_count": 2
   },
   {
@@ -4509,6 +4533,14 @@
     "lat": 26.164180755615234,
     "lng": 32.72671127319336,
     "country_code": "EG",
+    "paper_count": 2
+  },
+  {
+    "id": "https://openalex.org/I190082696",
+    "name": "Durham University",
+    "lat": 54.77676,
+    "lng": -1.57566,
+    "country_code": "GB",
     "paper_count": 2
   },
   {
@@ -4973,14 +5005,6 @@
     "lat": 19.699600219726562,
     "lng": -155.08160400390625,
     "country_code": "US",
-    "paper_count": 2
-  },
-  {
-    "id": "https://openalex.org/I36234482",
-    "name": "University of Bristol",
-    "lat": 51.45523,
-    "lng": -2.59665,
-    "country_code": "GB",
     "paper_count": 2
   },
   {
@@ -6152,6 +6176,14 @@
     "paper_count": 2
   },
   {
+    "id": "https://openalex.org/I63098007",
+    "name": "Liverpool John Moores University",
+    "lat": 53.410579681396484,
+    "lng": -2.977940082550049,
+    "country_code": "GB",
+    "paper_count": 2
+  },
+  {
     "id": "https://openalex.org/I63739035",
     "name": "All India Institute of Medical Sciences",
     "lat": 28.62137,
@@ -6781,6 +6813,14 @@
     "lat": 24.68773078918457,
     "lng": 46.72185134887695,
     "country_code": "SA",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I106785703",
+    "name": "Institut polytechnique de Grenoble",
+    "lat": 45.17869,
+    "lng": 5.71479,
+    "country_code": "FR",
     "paper_count": 1
   },
   {
@@ -8352,6 +8392,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I135191193",
+    "name": "University of Indianapolis",
+    "lat": 39.76837921142578,
+    "lng": -86.15804290771484,
+    "country_code": "US",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I135366938",
     "name": "Sylhet Agricultural University",
     "lat": 24.89904022216797,
@@ -8960,14 +9008,6 @@
     "paper_count": 1
   },
   {
-    "id": "https://openalex.org/I16038530",
-    "name": "Aberystwyth University",
-    "lat": 52.41548156738281,
-    "lng": -4.082920074462891,
-    "country_code": "GB",
-    "paper_count": 1
-  },
-  {
     "id": "https://openalex.org/I160534799",
     "name": "Hakkari University",
     "lat": 37.574440002441406,
@@ -9317,14 +9357,6 @@
     "lat": 29.560260772705078,
     "lng": 106.55770874023438,
     "country_code": "CN",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I16835326",
-    "name": "University of St Andrews",
-    "lat": 56.33871,
-    "lng": -2.79902,
-    "country_code": "GB",
     "paper_count": 1
   },
   {
@@ -9853,14 +9885,6 @@
     "lat": -33.456939697265625,
     "lng": -70.64826965332031,
     "country_code": "CL",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I190082696",
-    "name": "Durham University",
-    "lat": 54.77676,
-    "lng": -1.57566,
-    "country_code": "GB",
     "paper_count": 1
   },
   {
@@ -11104,6 +11128,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I2800403580",
+    "name": "University of Minnesota System",
+    "lat": 44.97997,
+    "lng": -93.26384,
+    "country_code": "US",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I2800423888",
     "name": "Instituto Butantan",
     "lat": -23.547500610351562,
@@ -11984,6 +12016,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I32394136",
+    "name": "Northumbria University",
+    "lat": 54.97328186035156,
+    "lng": -1.6139600276947021,
+    "country_code": "GB",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I324100",
     "name": "Bowie State University",
     "lat": 39.01948165893555,
@@ -12253,6 +12293,14 @@
     "lat": 35.154720306396484,
     "lng": 126.91555786132812,
     "country_code": "KR",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I39586589",
+    "name": "Swansea University",
+    "lat": 51.62079,
+    "lng": -3.94323,
+    "country_code": "GB",
     "paper_count": 1
   },
   {
@@ -14680,6 +14728,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I4210121220",
+    "name": "Institut des G\u00e9osciences de l'Environnement",
+    "lat": 45.1787,
+    "lng": 5.76281,
+    "country_code": "FR",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I4210121317",
     "name": "Centre for Sustainable Energy",
     "lat": 51.45523,
@@ -16776,6 +16832,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I4210154540",
+    "name": "Asiaq Greenland Survey",
+    "lat": 64.16999053955078,
+    "lng": -51.73365020751953,
+    "country_code": "GL",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I4210154569",
     "name": "Wildlife Conservation Society India",
     "lat": 12.920080184936523,
@@ -18248,6 +18312,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I55769427",
+    "name": "Indiana University \u2013 Purdue University Indianapolis",
+    "lat": 39.76838,
+    "lng": -86.15804,
+    "country_code": "US",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I56067802",
     "name": "Universit\u00e9 de Rennes",
     "lat": 48.11198,
@@ -18413,14 +18485,6 @@
     "lat": 10.48801040649414,
     "lng": -66.87918853759766,
     "country_code": "VE",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I63098007",
-    "name": "Liverpool John Moores University",
-    "lat": 53.410579681396484,
-    "lng": -2.977940082550049,
-    "country_code": "GB",
     "paper_count": 1
   },
   {
@@ -18645,6 +18709,14 @@
     "lat": -34.90328,
     "lng": -56.18816,
     "country_code": "UY",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I71422933",
+    "name": "Sheffield Hallam University",
+    "lat": 53.38297,
+    "lng": -1.4659,
+    "country_code": "GB",
     "paper_count": 1
   },
   {
