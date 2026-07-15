@@ -1512,6 +1512,14 @@
     "paper_count": 5
   },
   {
+    "id": "https://openalex.org/I4210123196",
+    "name": "Zhejiang Environmental Monitoring Center",
+    "lat": 30.279094696044922,
+    "lng": 120.12830352783203,
+    "country_code": "CN",
+    "paper_count": 5
+  },
+  {
     "id": "https://openalex.org/I4210128104",
     "name": "National Centre for Earth Observation",
     "lat": 52.63859939575195,
@@ -2180,14 +2188,6 @@
     "name": "Institute of Urban Environment",
     "lat": 24.47978973388672,
     "lng": 118.08187103271484,
-    "country_code": "CN",
-    "paper_count": 4
-  },
-  {
-    "id": "https://openalex.org/I4210123196",
-    "name": "Zhejiang Environmental Monitoring Center",
-    "lat": 30.279094696044922,
-    "lng": 120.12830352783203,
     "country_code": "CN",
     "paper_count": 4
   },
@@ -8152,6 +8152,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I1328775524",
+    "name": "Zhejiang Sci-Tech University",
+    "lat": 30.29365,
+    "lng": 120.16142,
+    "country_code": "CN",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I1329267311",
     "name": "National Parks Board",
     "lat": 1.3157459497451782,
@@ -11805,6 +11813,14 @@
     "lat": 48.3076286315918,
     "lng": 18.084529876708984,
     "country_code": "SK",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I308837",
+    "name": "Suzhou University of Science and Technology",
+    "lat": 31.304079055786133,
+    "lng": 120.59538269042969,
+    "country_code": "CN",
     "paper_count": 1
   },
   {
