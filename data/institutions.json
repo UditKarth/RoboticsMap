@@ -4808,6 +4808,14 @@
     "paper_count": 2
   },
   {
+    "id": "https://openalex.org/I25399270",
+    "name": "Southwest Forestry University",
+    "lat": 25.038890838623047,
+    "lng": 102.71833038330078,
+    "country_code": "CN",
+    "paper_count": 2
+  },
+  {
     "id": "https://openalex.org/I268303160",
     "name": "Medical University of Warsaw",
     "lat": 52.22977066040039,
@@ -10768,14 +10776,6 @@
     "paper_count": 1
   },
   {
-    "id": "https://openalex.org/I25399270",
-    "name": "Southwest Forestry University",
-    "lat": 25.038890838623047,
-    "lng": 102.71833038330078,
-    "country_code": "CN",
-    "paper_count": 1
-  },
-  {
     "id": "https://openalex.org/I25974101",
     "name": "University of W\u00fcrzburg",
     "lat": 49.79391,
@@ -12509,6 +12509,14 @@
     "lat": 30.66667,
     "lng": 104.06667,
     "country_code": "CN",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4210087640",
+    "name": "London Rebuilding Society",
+    "lat": 51.5189208984375,
+    "lng": -0.0892150029540062,
+    "country_code": "GB",
     "paper_count": 1
   },
   {
@@ -15036,6 +15044,14 @@
     "name": "Climate Analytics",
     "lat": 52.50090408325195,
     "lng": 13.412924766540527,
+    "country_code": "DE",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4210124929",
+    "name": "Helmholtz Centre for Infection Research",
+    "lat": 52.26594,
+    "lng": 10.52673,
     "country_code": "DE",
     "paper_count": 1
   },
