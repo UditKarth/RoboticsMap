@@ -320,6 +320,14 @@
     "paper_count": 10
   },
   {
+    "id": "https://openalex.org/I1286329397",
+    "name": "United States Geological Survey",
+    "lat": 38.96872,
+    "lng": -77.3411,
+    "country_code": "US",
+    "paper_count": 10
+  },
+  {
     "id": "https://openalex.org/I1342547582",
     "name": "Environment and Climate Change Canada",
     "lat": 45.41117,
@@ -352,6 +360,14 @@
     "paper_count": 10
   },
   {
+    "id": "https://openalex.org/I63525965",
+    "name": "Western Sydney University",
+    "lat": -33.59955978393555,
+    "lng": 150.7514190673828,
+    "country_code": "AU",
+    "paper_count": 10
+  },
+  {
     "id": "https://openalex.org/I118347636",
     "name": "Australian National University",
     "lat": -35.2834587097168,
@@ -365,14 +381,6 @@
     "lat": 53.53615188598633,
     "lng": 8.59298038482666,
     "country_code": "DE",
-    "paper_count": 9
-  },
-  {
-    "id": "https://openalex.org/I1286329397",
-    "name": "United States Geological Survey",
-    "lat": 38.96872,
-    "lng": -77.3411,
-    "country_code": "US",
     "paper_count": 9
   },
   {
@@ -469,14 +477,6 @@
     "lat": 52.381282806396484,
     "lng": 13.064151763916016,
     "country_code": "DE",
-    "paper_count": 9
-  },
-  {
-    "id": "https://openalex.org/I63525965",
-    "name": "Western Sydney University",
-    "lat": -33.59955978393555,
-    "lng": 150.7514190673828,
-    "country_code": "AU",
     "paper_count": 9
   },
   {
@@ -629,6 +629,14 @@
     "lat": 45.81480026245117,
     "lng": 8.612939834594727,
     "country_code": "IT",
+    "paper_count": 8
+  },
+  {
+    "id": "https://openalex.org/I4210151987",
+    "name": "Ministry of Agriculture and Rural Affairs",
+    "lat": 39.9075,
+    "lng": 116.39723,
+    "country_code": "CN",
     "paper_count": 8
   },
   {
@@ -864,10 +872,10 @@
     "paper_count": 7
   },
   {
-    "id": "https://openalex.org/I4210151987",
-    "name": "Ministry of Agriculture and Rural Affairs",
-    "lat": 39.9075,
-    "lng": 116.39723,
+    "id": "https://openalex.org/I52158045",
+    "name": "China Agricultural University",
+    "lat": 39.907501220703125,
+    "lng": 116.39723205566406,
     "country_code": "CN",
     "paper_count": 7
   },
@@ -1125,14 +1133,6 @@
     "lat": 1.465499997138977,
     "lng": 103.75779724121094,
     "country_code": "MY",
-    "paper_count": 6
-  },
-  {
-    "id": "https://openalex.org/I52158045",
-    "name": "China Agricultural University",
-    "lat": 39.907501220703125,
-    "lng": 116.39723205566406,
-    "country_code": "CN",
     "paper_count": 6
   },
   {
@@ -2576,6 +2576,14 @@
     "paper_count": 3
   },
   {
+    "id": "https://openalex.org/I1343028186",
+    "name": "United States Fish and Wildlife Service",
+    "lat": 38.89511,
+    "lng": -77.03637,
+    "country_code": "US",
+    "paper_count": 3
+  },
+  {
     "id": "https://openalex.org/I13469542",
     "name": "Vrije Universiteit Brussel",
     "lat": 50.85044860839844,
@@ -3936,14 +3944,6 @@
     "paper_count": 2
   },
   {
-    "id": "https://openalex.org/I1343028186",
-    "name": "United States Fish and Wildlife Service",
-    "lat": 38.89511,
-    "lng": -77.03637,
-    "country_code": "US",
-    "paper_count": 2
-  },
-  {
     "id": "https://openalex.org/I134386540",
     "name": "Louisiana State University Agricultural Center",
     "lat": 30.44331932067871,
@@ -5040,6 +5040,14 @@
     "paper_count": 2
   },
   {
+    "id": "https://openalex.org/I39147953",
+    "name": "Universidad de C\u00e1diz",
+    "lat": 36.52672,
+    "lng": -6.2891,
+    "country_code": "ES",
+    "paper_count": 2
+  },
+  {
     "id": "https://openalex.org/I4092182",
     "name": "Graz University of Technology",
     "lat": 47.06666946411133,
@@ -5165,6 +5173,14 @@
     "lat": 40.416500091552734,
     "lng": -3.7025599479675293,
     "country_code": "ES",
+    "paper_count": 2
+  },
+  {
+    "id": "https://openalex.org/I4210092032",
+    "name": "China Institute of Water Resources and Hydropower Research",
+    "lat": 39.907501220703125,
+    "lng": 116.39723205566406,
+    "country_code": "CN",
     "paper_count": 2
   },
   {
@@ -12272,14 +12288,6 @@
     "paper_count": 1
   },
   {
-    "id": "https://openalex.org/I39147953",
-    "name": "Universidad de C\u00e1diz",
-    "lat": 36.52672,
-    "lng": -6.2891,
-    "country_code": "ES",
-    "paper_count": 1
-  },
-  {
     "id": "https://openalex.org/I3923682",
     "name": "Soochow University",
     "lat": 31.30408,
@@ -12845,14 +12853,6 @@
     "lat": -6.82349,
     "lng": 39.26951,
     "country_code": "TZ",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I4210092032",
-    "name": "China Institute of Water Resources and Hydropower Research",
-    "lat": 39.907501220703125,
-    "lng": 116.39723205566406,
-    "country_code": "CN",
     "paper_count": 1
   },
   {
@@ -18037,6 +18037,14 @@
     "lat": 49.88307,
     "lng": -119.48568,
     "country_code": "CA",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4405261447",
+    "name": "Indian Ocean Tuna Commission",
+    "lat": -4.62001,
+    "lng": 55.45501,
+    "country_code": "SC",
     "paper_count": 1
   },
   {
