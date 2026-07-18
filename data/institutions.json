@@ -7344,6 +7344,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I121596126",
+    "name": "Aksaray University",
+    "lat": 38.37255096435547,
+    "lng": 34.02537155151367,
+    "country_code": "TR",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I121691239",
     "name": "Beihua University",
     "lat": 43.850830078125,
