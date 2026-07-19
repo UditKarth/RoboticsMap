@@ -360,6 +360,14 @@
     "paper_count": 10
   },
   {
+    "id": "https://openalex.org/I4210160793",
+    "name": "Institute of Geographic Sciences and Natural Resources Research",
+    "lat": 39.907501220703125,
+    "lng": 116.39723205566406,
+    "country_code": "CN",
+    "paper_count": 10
+  },
+  {
     "id": "https://openalex.org/I63525965",
     "name": "Western Sydney University",
     "lat": -33.59955978393555,
@@ -445,14 +453,6 @@
     "lat": 50.92877960205078,
     "lng": 11.589900016784668,
     "country_code": "DE",
-    "paper_count": 9
-  },
-  {
-    "id": "https://openalex.org/I4210160793",
-    "name": "Institute of Geographic Sciences and Natural Resources Research",
-    "lat": 39.907501220703125,
-    "lng": 116.39723205566406,
-    "country_code": "CN",
     "paper_count": 9
   },
   {
@@ -8861,6 +8861,14 @@
     "lat": -33.430023193359375,
     "lng": 149.56556701660156,
     "country_code": "AU",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I153374732",
+    "name": "Liaoning Normal University",
+    "lat": 38.91222,
+    "lng": 121.60222,
+    "country_code": "CN",
     "paper_count": 1
   },
   {
