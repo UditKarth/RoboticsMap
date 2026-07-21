@@ -10104,6 +10104,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I196038209",
+    "name": "Hunan University of Arts and Science",
+    "lat": 29.044517517089844,
+    "lng": 111.6718978881836,
+    "country_code": "CN",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I196349391",
     "name": "Universit\u00e4t Ulm",
     "lat": 48.39841,
@@ -10805,6 +10813,14 @@
     "lat": 13.75398,
     "lng": 100.50144,
     "country_code": "TH",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I257545875",
+    "name": "Hunan University of Humanities, Science and Technology",
+    "lat": 27.713525772094727,
+    "lng": 112.00624084472656,
+    "country_code": "CN",
     "paper_count": 1
   },
   {
@@ -18245,6 +18261,14 @@
     "lat": 39.56938934326172,
     "lng": 2.650239944458008,
     "country_code": "ES",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I505182",
+    "name": "National Textile University",
+    "lat": 31.463119506835938,
+    "lng": 73.14826965332031,
+    "country_code": "PK",
     "paper_count": 1
   },
   {
