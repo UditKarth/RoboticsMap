@@ -2320,6 +2320,14 @@
     "paper_count": 4
   },
   {
+    "id": "https://openalex.org/I76214153",
+    "name": "Lanzhou University",
+    "lat": 36.057010650634766,
+    "lng": 103.8398666381836,
+    "country_code": "CN",
+    "paper_count": 4
+  },
+  {
     "id": "https://openalex.org/I79238269",
     "name": "Universidad de Sevilla",
     "lat": 37.38283157348633,
@@ -2509,6 +2517,14 @@
     "lat": 41.673641204833984,
     "lng": -88.0017318725586,
     "country_code": "US",
+    "paper_count": 3
+  },
+  {
+    "id": "https://openalex.org/I1284762954",
+    "name": "Zhejiang A & F University",
+    "lat": 30.23333,
+    "lng": 119.71667,
+    "country_code": "CN",
     "paper_count": 3
   },
   {
@@ -3488,6 +3504,14 @@
     "paper_count": 3
   },
   {
+    "id": "https://openalex.org/I66958751",
+    "name": "Woods Hole Oceanographic Institution",
+    "lat": 41.55149841308594,
+    "lng": -70.61475372314453,
+    "country_code": "US",
+    "paper_count": 3
+  },
+  {
     "id": "https://openalex.org/I69552723",
     "name": "University of Pretoria",
     "lat": -25.74485969543457,
@@ -3517,14 +3541,6 @@
     "lat": 41.38879,
     "lng": 2.15899,
     "country_code": "ES",
-    "paper_count": 3
-  },
-  {
-    "id": "https://openalex.org/I76214153",
-    "name": "Lanzhou University",
-    "lat": 36.057010650634766,
-    "lng": 103.8398666381836,
-    "country_code": "CN",
     "paper_count": 3
   },
   {
@@ -3765,14 +3781,6 @@
     "lat": 41.31137,
     "lng": -105.5911,
     "country_code": "US",
-    "paper_count": 2
-  },
-  {
-    "id": "https://openalex.org/I1284762954",
-    "name": "Zhejiang A & F University",
-    "lat": 30.23333,
-    "lng": 119.71667,
-    "country_code": "CN",
     "paper_count": 2
   },
   {
@@ -6280,14 +6288,6 @@
     "paper_count": 2
   },
   {
-    "id": "https://openalex.org/I66958751",
-    "name": "Woods Hole Oceanographic Institution",
-    "lat": 41.55149841308594,
-    "lng": -70.61475372314453,
-    "country_code": "US",
-    "paper_count": 2
-  },
-  {
     "id": "https://openalex.org/I67061984",
     "name": "NILU",
     "lat": 59.95597,
@@ -6317,6 +6317,14 @@
     "lat": 49.59552,
     "lng": 17.25175,
     "country_code": "CZ",
+    "paper_count": 2
+  },
+  {
+    "id": "https://openalex.org/I71267560",
+    "name": "University of Naples Federico II",
+    "lat": 40.85216,
+    "lng": 14.26811,
+    "country_code": "IT",
     "paper_count": 2
   },
   {
@@ -7669,6 +7677,14 @@
     "lat": 34.05223083496094,
     "lng": -118.24368286132812,
     "country_code": "US",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I1283489935",
+    "name": "University of Medicine Tirana",
+    "lat": 41.32749938964844,
+    "lng": 19.818889617919922,
+    "country_code": "AL",
     "paper_count": 1
   },
   {
@@ -12432,6 +12448,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I4068193",
+    "name": "University of Belgrade",
+    "lat": 44.80401,
+    "lng": 20.46513,
+    "country_code": "RS",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I40734275",
     "name": "Hakim Sabzevari University",
     "lat": 36.298336029052734,
@@ -12797,6 +12821,14 @@
     "lat": 32.05109786987305,
     "lng": 118.77978515625,
     "country_code": "CN",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4210090643",
+    "name": "Institute of Field and Vegetable Crops",
+    "lat": 45.251670837402344,
+    "lng": 19.83694076538086,
+    "country_code": "RS",
     "paper_count": 1
   },
   {
@@ -14872,6 +14904,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I4210121297",
+    "name": "NOAA National Marine Fisheries Service Northeast Fisheries Science Center",
+    "lat": 41.55149841308594,
+    "lng": -70.61475372314453,
+    "country_code": "US",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I4210121317",
     "name": "Centre for Sustainable Energy",
     "lat": 51.45523,
@@ -16045,6 +16085,14 @@
     "lat": 69.6489028930664,
     "lng": 18.955080032348633,
     "country_code": "NO",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4210138259",
+    "name": "Federation of Greek Mariculture",
+    "lat": 37.935813903808594,
+    "lng": 23.752656936645508,
+    "country_code": "GR",
     "paper_count": 1
   },
   {
@@ -18168,6 +18216,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I4401200307",
+    "name": "Centre de Recherche sur la Biodiversit\u00e9 et l'Environnement",
+    "lat": 43.60426,
+    "lng": 1.44367,
+    "country_code": "FR",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I4403386471",
     "name": "Injibara University",
     "lat": 11.0,
@@ -18848,6 +18904,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I68784830",
+    "name": "University of Tirana",
+    "lat": 41.32749938964844,
+    "lng": 19.818889617919922,
+    "country_code": "AL",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I68891433",
     "name": "Indian Institute of Technology Delhi",
     "lat": 28.621370315551758,
@@ -18908,14 +18972,6 @@
     "name": "Bocconi University",
     "lat": 45.464271545410156,
     "lng": 9.189510345458984,
-    "country_code": "IT",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I71267560",
-    "name": "University of Naples Federico II",
-    "lat": 40.85216,
-    "lng": 14.26811,
     "country_code": "IT",
     "paper_count": 1
   },
