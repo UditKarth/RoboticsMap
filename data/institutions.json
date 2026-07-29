@@ -2584,6 +2584,14 @@
     "paper_count": 3
   },
   {
+    "id": "https://openalex.org/I1319689352",
+    "name": "Fisheries and Oceans Canada",
+    "lat": 45.41117,
+    "lng": -75.69812,
+    "country_code": "CA",
+    "paper_count": 3
+  },
+  {
     "id": "https://openalex.org/I1321067030",
     "name": "Zoological Society of London",
     "lat": 51.535701751708984,
@@ -3893,14 +3901,6 @@
     "lat": 38.88101,
     "lng": -77.10428,
     "country_code": "US",
-    "paper_count": 2
-  },
-  {
-    "id": "https://openalex.org/I1319689352",
-    "name": "Fisheries and Oceans Canada",
-    "lat": 45.41117,
-    "lng": -75.69812,
-    "country_code": "CA",
     "paper_count": 2
   },
   {
@@ -11157,6 +11157,14 @@
     "lat": 52.627830505371094,
     "lng": 1.2983399629592896,
     "country_code": "GB",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I2800026062",
+    "name": "Bedford Institute of Oceanography",
+    "lat": 44.683902740478516,
+    "lng": -63.611751556396484,
+    "country_code": "CA",
     "paper_count": 1
   },
   {
@@ -19293,6 +19301,14 @@
     "lat": 52.21142578125,
     "lng": 10.531188011169434,
     "country_code": "DE",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I7947594",
+    "name": "University of Maine",
+    "lat": 44.883121490478516,
+    "lng": -68.67198181152344,
+    "country_code": "US",
     "paper_count": 1
   },
   {
