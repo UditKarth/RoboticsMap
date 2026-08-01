@@ -21,7 +21,7 @@
     "lat": 39.9075,
     "lng": 116.39723,
     "country_code": "CN",
-    "paper_count": 25
+    "paper_count": 26
   },
   {
     "id": "https://openalex.org/I913481162",
@@ -1184,6 +1184,14 @@
     "paper_count": 6
   },
   {
+    "id": "https://openalex.org/I62916508",
+    "name": "Technical University of Munich",
+    "lat": 48.13743,
+    "lng": 11.57549,
+    "country_code": "DE",
+    "paper_count": 6
+  },
+  {
     "id": "https://openalex.org/I63966007",
     "name": "Massachusetts Institute of Technology",
     "lat": 42.3751,
@@ -1512,6 +1520,14 @@
     "paper_count": 5
   },
   {
+    "id": "https://openalex.org/I4210110024",
+    "name": "Institute of Applied Ecology",
+    "lat": 41.79222106933594,
+    "lng": 123.43277740478516,
+    "country_code": "CN",
+    "paper_count": 5
+  },
+  {
     "id": "https://openalex.org/I4210117686",
     "name": "Japan Fisheries Research and Education Agency",
     "lat": 35.43333053588867,
@@ -1605,14 +1621,6 @@
     "lat": -37.814,
     "lng": 144.96332,
     "country_code": "AU",
-    "paper_count": 5
-  },
-  {
-    "id": "https://openalex.org/I62916508",
-    "name": "Technical University of Munich",
-    "lat": 48.13743,
-    "lng": 11.57549,
-    "country_code": "DE",
     "paper_count": 5
   },
   {
@@ -2197,14 +2205,6 @@
     "lat": 48.84859848022461,
     "lng": 2.437690019607544,
     "country_code": "FR",
-    "paper_count": 4
-  },
-  {
-    "id": "https://openalex.org/I4210110024",
-    "name": "Institute of Applied Ecology",
-    "lat": 41.79222106933594,
-    "lng": 123.43277740478516,
-    "country_code": "CN",
     "paper_count": 4
   },
   {
@@ -2880,6 +2880,14 @@
     "paper_count": 3
   },
   {
+    "id": "https://openalex.org/I184983240",
+    "name": "Northeast Normal University",
+    "lat": 43.880001068115234,
+    "lng": 125.3227767944336,
+    "country_code": "CN",
+    "paper_count": 3
+  },
+  {
     "id": "https://openalex.org/I189712700",
     "name": "University of Konstanz",
     "lat": 47.66033172607422,
@@ -2988,6 +2996,14 @@
     "name": "Fudan University",
     "lat": 31.222219467163086,
     "lng": 121.45806121826172,
+    "country_code": "CN",
+    "paper_count": 3
+  },
+  {
+    "id": "https://openalex.org/I25399270",
+    "name": "Southwest Forestry University",
+    "lat": 25.038890838623047,
+    "lng": 102.71833038330078,
     "country_code": "CN",
     "paper_count": 3
   },
@@ -4344,6 +4360,14 @@
     "paper_count": 2
   },
   {
+    "id": "https://openalex.org/I167360494",
+    "name": "University of Wuppertal",
+    "lat": 51.25627136230469,
+    "lng": 7.148159980773926,
+    "country_code": "DE",
+    "paper_count": 2
+  },
+  {
     "id": "https://openalex.org/I16835326",
     "name": "University of St Andrews",
     "lat": 56.33871,
@@ -4533,14 +4557,6 @@
     "lat": 30.06262969970703,
     "lng": 31.249670028686523,
     "country_code": "EG",
-    "paper_count": 2
-  },
-  {
-    "id": "https://openalex.org/I184983240",
-    "name": "Northeast Normal University",
-    "lat": 43.880001068115234,
-    "lng": 125.3227767944336,
-    "country_code": "CN",
     "paper_count": 2
   },
   {
@@ -4853,14 +4869,6 @@
     "lat": 45.67965,
     "lng": -111.03856,
     "country_code": "US",
-    "paper_count": 2
-  },
-  {
-    "id": "https://openalex.org/I25399270",
-    "name": "Southwest Forestry University",
-    "lat": 25.038890838623047,
-    "lng": 102.71833038330078,
-    "country_code": "CN",
     "paper_count": 2
   },
   {
@@ -6213,6 +6221,14 @@
     "lat": 41.11905,
     "lng": 1.24544,
     "country_code": "ES",
+    "paper_count": 2
+  },
+  {
+    "id": "https://openalex.org/I56934997",
+    "name": "Changsha University of Science and Technology",
+    "lat": 28.095895767211914,
+    "lng": 112.98870849609375,
+    "country_code": "CN",
     "paper_count": 2
   },
   {
@@ -9440,14 +9456,6 @@
     "paper_count": 1
   },
   {
-    "id": "https://openalex.org/I167360494",
-    "name": "University of Wuppertal",
-    "lat": 51.25627136230469,
-    "lng": 7.148159980773926,
-    "country_code": "DE",
-    "paper_count": 1
-  },
-  {
     "id": "https://openalex.org/I167724894",
     "name": "Universidad Aut\u00f3noma de la Ciudad de M\u00e9xico",
     "lat": 19.428470611572266,
@@ -10469,6 +10477,14 @@
     "lat": 65.73079,
     "lng": -19.11164,
     "country_code": "IS",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I204710742",
+    "name": "Ministry of Ecology and Environment",
+    "lat": 39.9075,
+    "lng": 116.39723,
+    "country_code": "CN",
     "paper_count": 1
   },
   {
@@ -12589,6 +12605,14 @@
     "lat": -8.058090209960938,
     "lng": -34.949527740478516,
     "country_code": "BR",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4210086659",
+    "name": "Jilin Jianzhu University",
+    "lat": 43.795291900634766,
+    "lng": 125.40684509277344,
+    "country_code": "CN",
     "paper_count": 1
   },
   {
@@ -18621,14 +18645,6 @@
     "lat": 49.195220947265625,
     "lng": 16.607959747314453,
     "country_code": "CZ",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I56934997",
-    "name": "Changsha University of Science and Technology",
-    "lat": 28.095895767211914,
-    "lng": 112.98870849609375,
-    "country_code": "CN",
     "paper_count": 1
   },
   {
