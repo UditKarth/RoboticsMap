@@ -13,7 +13,7 @@
     "lat": 48.85341,
     "lng": 2.3488,
     "country_code": "FR",
-    "paper_count": 44
+    "paper_count": 45
   },
   {
     "id": "https://openalex.org/I4210165038",
@@ -80,6 +80,14 @@
     "paper_count": 18
   },
   {
+    "id": "https://openalex.org/I129801699",
+    "name": "University of Tasmania",
+    "lat": -42.87936,
+    "lng": 147.32941,
+    "country_code": "AU",
+    "paper_count": 17
+  },
+  {
     "id": "https://openalex.org/I193662353",
     "name": "Utrecht University",
     "lat": 52.0908317565918,
@@ -94,14 +102,6 @@
     "lng": -3.527509927749634,
     "country_code": "GB",
     "paper_count": 17
-  },
-  {
-    "id": "https://openalex.org/I129801699",
-    "name": "University of Tasmania",
-    "lat": -42.87936,
-    "lng": 147.32941,
-    "country_code": "AU",
-    "paper_count": 16
   },
   {
     "id": "https://openalex.org/I66946132",
@@ -1864,6 +1864,14 @@
     "paper_count": 4
   },
   {
+    "id": "https://openalex.org/I133731052",
+    "name": "University of Helsinki",
+    "lat": 60.16952,
+    "lng": 24.93545,
+    "country_code": "FI",
+    "paper_count": 4
+  },
+  {
     "id": "https://openalex.org/I1337719021",
     "name": "Australian Research Council",
     "lat": -35.28346,
@@ -2629,14 +2637,6 @@
     "lat": 51.50852966308594,
     "lng": -0.12574000656604767,
     "country_code": "GB",
-    "paper_count": 3
-  },
-  {
-    "id": "https://openalex.org/I133731052",
-    "name": "University of Helsinki",
-    "lat": 60.16952,
-    "lng": 24.93545,
-    "country_code": "FI",
     "paper_count": 3
   },
   {
@@ -4229,6 +4229,14 @@
     "lat": 27.70169,
     "lng": 85.3206,
     "country_code": "NP",
+    "paper_count": 2
+  },
+  {
+    "id": "https://openalex.org/I155660961",
+    "name": "University of Turku",
+    "lat": 60.45148,
+    "lng": 22.26869,
+    "country_code": "FI",
     "paper_count": 2
   },
   {
@@ -6624,6 +6632,14 @@
     "paper_count": 2
   },
   {
+    "id": "https://openalex.org/I94722563",
+    "name": "University of Jyv\u00e4skyl\u00e4",
+    "lat": 62.24147033691406,
+    "lng": 25.72088050842285,
+    "country_code": "FI",
+    "paper_count": 2
+  },
+  {
     "id": "https://openalex.org/I95013407",
     "name": "Universidad Pablo de Olavide",
     "lat": 37.38283157348633,
@@ -8976,14 +8992,6 @@
     "paper_count": 1
   },
   {
-    "id": "https://openalex.org/I155660961",
-    "name": "University of Turku",
-    "lat": 60.45148,
-    "lng": 22.26869,
-    "country_code": "FI",
-    "paper_count": 1
-  },
-  {
     "id": "https://openalex.org/I156171363",
     "name": "Nelson Marlborough Institute of Technology",
     "lat": -41.27077865600586,
@@ -9485,6 +9493,14 @@
     "lat": 29.560260772705078,
     "lng": 106.55770874023438,
     "country_code": "CN",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I169090423",
+    "name": "Tunghai University",
+    "lat": 24.177961349487305,
+    "lng": 120.6036605834961,
+    "country_code": "TW",
     "paper_count": 1
   },
   {
@@ -11253,6 +11269,14 @@
     "lat": 27.182952880859375,
     "lng": -81.35208892822266,
     "country_code": "US",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I2800229700",
+    "name": "Helsinki Institute of Physics",
+    "lat": 60.16952,
+    "lng": 24.93545,
+    "country_code": "FI",
     "paper_count": 1
   },
   {
@@ -18952,6 +18976,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I68947357",
+    "name": "Universit\u00e9 de Strasbourg",
+    "lat": 48.58392,
+    "lng": 7.74553,
+    "country_code": "FR",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I68986083",
     "name": "Northwest Normal University",
     "lat": 36.057010650634766,
@@ -19973,14 +20005,6 @@
     "lat": 6.458836078643799,
     "lng": 100.5025634765625,
     "country_code": "MY",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I94722563",
-    "name": "University of Jyv\u00e4skyl\u00e4",
-    "lat": 62.24147033691406,
-    "lng": 25.72088050842285,
-    "country_code": "FI",
     "paper_count": 1
   },
   {
