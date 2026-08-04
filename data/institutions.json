@@ -64,6 +64,14 @@
     "paper_count": 19
   },
   {
+    "id": "https://openalex.org/I129801699",
+    "name": "University of Tasmania",
+    "lat": -42.87936,
+    "lng": 147.32941,
+    "country_code": "AU",
+    "paper_count": 18
+  },
+  {
     "id": "https://openalex.org/I25254941",
     "name": "Beijing Normal University",
     "lat": 39.9075,
@@ -78,14 +86,6 @@
     "lng": -122.16608,
     "country_code": "US",
     "paper_count": 18
-  },
-  {
-    "id": "https://openalex.org/I129801699",
-    "name": "University of Tasmania",
-    "lat": -42.87936,
-    "lng": 147.32941,
-    "country_code": "AU",
-    "paper_count": 17
   },
   {
     "id": "https://openalex.org/I193662353",
@@ -168,6 +168,14 @@
     "paper_count": 13
   },
   {
+    "id": "https://openalex.org/I177877127",
+    "name": "The University of Western Australia",
+    "lat": -31.95224,
+    "lng": 115.8614,
+    "country_code": "AU",
+    "paper_count": 13
+  },
+  {
     "id": "https://openalex.org/I188538660",
     "name": "University of Colorado Boulder",
     "lat": 40.014991760253906,
@@ -213,14 +221,6 @@
     "lat": 39.00455093383789,
     "lng": -76.87552642822266,
     "country_code": "US",
-    "paper_count": 12
-  },
-  {
-    "id": "https://openalex.org/I177877127",
-    "name": "The University of Western Australia",
-    "lat": -31.95224,
-    "lng": 115.8614,
-    "country_code": "AU",
     "paper_count": 12
   },
   {
@@ -1336,6 +1336,14 @@
     "paper_count": 5
   },
   {
+    "id": "https://openalex.org/I1337719021",
+    "name": "Australian Research Council",
+    "lat": -35.28346,
+    "lng": 149.12807,
+    "country_code": "AU",
+    "paper_count": 5
+  },
+  {
     "id": "https://openalex.org/I1341284090",
     "name": "Royal Swedish Academy of Sciences",
     "lat": 59.32938003540039,
@@ -1869,14 +1877,6 @@
     "lat": 60.16952,
     "lng": 24.93545,
     "country_code": "FI",
-    "paper_count": 4
-  },
-  {
-    "id": "https://openalex.org/I1337719021",
-    "name": "Australian Research Council",
-    "lat": -35.28346,
-    "lng": 149.12807,
-    "country_code": "AU",
     "paper_count": 4
   },
   {
@@ -2933,6 +2933,14 @@
     "lat": 37.566,
     "lng": 126.9784,
     "country_code": "KR",
+    "paper_count": 3
+  },
+  {
+    "id": "https://openalex.org/I197940685",
+    "name": "National Oceanography Centre",
+    "lat": 50.90394973754883,
+    "lng": -1.4042799472808838,
+    "country_code": "GB",
     "paper_count": 3
   },
   {
@@ -4685,14 +4693,6 @@
     "lat": -12.04318,
     "lng": -77.02824,
     "country_code": "PE",
-    "paper_count": 2
-  },
-  {
-    "id": "https://openalex.org/I197940685",
-    "name": "National Oceanography Centre",
-    "lat": 50.90394973754883,
-    "lng": -1.4042799472808838,
-    "country_code": "GB",
     "paper_count": 2
   },
   {
@@ -11597,6 +11597,14 @@
     "lat": 41.388790130615234,
     "lng": 2.158989906311035,
     "country_code": "ES",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I2802153510",
+    "name": "Norwegian Institute of Marine Research",
+    "lat": 60.39299011230469,
+    "lng": 5.324150085449219,
+    "country_code": "NO",
     "paper_count": 1
   },
   {
