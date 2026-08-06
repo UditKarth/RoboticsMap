@@ -40,20 +40,20 @@
     "paper_count": 20
   },
   {
+    "id": "https://openalex.org/I35440088",
+    "name": "ETH Zurich",
+    "lat": 47.36667,
+    "lng": 8.55,
+    "country_code": "CH",
+    "paper_count": 20
+  },
+  {
     "id": "https://openalex.org/I4210088668",
     "name": "Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement",
     "lat": 48.85341,
     "lng": 2.3488,
     "country_code": "FR",
     "paper_count": 20
-  },
-  {
-    "id": "https://openalex.org/I35440088",
-    "name": "ETH Zurich",
-    "lat": 47.36667,
-    "lng": 8.55,
-    "country_code": "CH",
-    "paper_count": 19
   },
   {
     "id": "https://openalex.org/I4210166444",
@@ -768,6 +768,14 @@
     "paper_count": 7
   },
   {
+    "id": "https://openalex.org/I145608581",
+    "name": "University of Miami",
+    "lat": 25.72149,
+    "lng": -80.26838,
+    "country_code": "US",
+    "paper_count": 7
+  },
+  {
     "id": "https://openalex.org/I146399215",
     "name": "University of Tsukuba",
     "lat": 36.20000076293945,
@@ -992,14 +1000,6 @@
     "paper_count": 6
   },
   {
-    "id": "https://openalex.org/I145608581",
-    "name": "University of Miami",
-    "lat": 25.72149,
-    "lng": -80.26838,
-    "country_code": "US",
-    "paper_count": 6
-  },
-  {
     "id": "https://openalex.org/I145872427",
     "name": "Radboud University Nijmegen",
     "lat": 51.8425,
@@ -1077,6 +1077,14 @@
     "lat": 48.85341,
     "lng": 2.3488,
     "country_code": "FR",
+    "paper_count": 6
+  },
+  {
+    "id": "https://openalex.org/I2800262456",
+    "name": "Swiss Federal Institute for Forest, Snow and Landscape Research",
+    "lat": 47.35515,
+    "lng": 8.44256,
+    "country_code": "CH",
     "paper_count": 6
   },
   {
@@ -1488,14 +1496,6 @@
     "paper_count": 5
   },
   {
-    "id": "https://openalex.org/I2800262456",
-    "name": "Swiss Federal Institute for Forest, Snow and Landscape Research",
-    "lat": 47.35515,
-    "lng": 8.44256,
-    "country_code": "CH",
-    "paper_count": 5
-  },
-  {
     "id": "https://openalex.org/I2802779139",
     "name": "Stazione Zoologica Anton Dohrn",
     "lat": 40.8521614074707,
@@ -1896,6 +1896,14 @@
     "paper_count": 4
   },
   {
+    "id": "https://openalex.org/I140221134",
+    "name": "Anhui Agricultural University",
+    "lat": 31.860065460205078,
+    "lng": 117.25733184814453,
+    "country_code": "CN",
+    "paper_count": 4
+  },
+  {
     "id": "https://openalex.org/I14243506",
     "name": "Hong Kong Polytechnic University",
     "lat": 22.27832,
@@ -1949,6 +1957,14 @@
     "lat": -36.84853,
     "lng": 174.76349,
     "country_code": "NZ",
+    "paper_count": 4
+  },
+  {
+    "id": "https://openalex.org/I154202486",
+    "name": "Ifremer",
+    "lat": 48.39029,
+    "lng": -4.48628,
+    "country_code": "FR",
     "paper_count": 4
   },
   {
@@ -2680,14 +2696,6 @@
     "paper_count": 3
   },
   {
-    "id": "https://openalex.org/I140221134",
-    "name": "Anhui Agricultural University",
-    "lat": 31.860065460205078,
-    "lng": 117.25733184814453,
-    "country_code": "CN",
-    "paper_count": 3
-  },
-  {
     "id": "https://openalex.org/I141301092",
     "name": "China Meteorological Administration",
     "lat": 39.907501220703125,
@@ -2749,14 +2757,6 @@
     "lat": 52.63859939575195,
     "lng": -1.1316900253295898,
     "country_code": "GB",
-    "paper_count": 3
-  },
-  {
-    "id": "https://openalex.org/I154202486",
-    "name": "Ifremer",
-    "lat": 48.39029,
-    "lng": -4.48628,
-    "country_code": "FR",
     "paper_count": 3
   },
   {
@@ -2885,6 +2885,14 @@
     "lat": 43.880001068115234,
     "lng": 125.3227767944336,
     "country_code": "CN",
+    "paper_count": 3
+  },
+  {
+    "id": "https://openalex.org/I189575948",
+    "name": "South Valley University",
+    "lat": 26.164180755615234,
+    "lng": 32.72671127319336,
+    "country_code": "EG",
     "paper_count": 3
   },
   {
@@ -4616,14 +4624,6 @@
     "paper_count": 2
   },
   {
-    "id": "https://openalex.org/I189575948",
-    "name": "South Valley University",
-    "lat": 26.164180755615234,
-    "lng": 32.72671127319336,
-    "country_code": "EG",
-    "paper_count": 2
-  },
-  {
     "id": "https://openalex.org/I190082696",
     "name": "Durham University",
     "lat": 54.77676,
@@ -4813,6 +4813,14 @@
     "lat": 52.48548126220703,
     "lng": 13.337736129760742,
     "country_code": "DE",
+    "paper_count": 2
+  },
+  {
+    "id": "https://openalex.org/I206573129",
+    "name": "Islamia College University",
+    "lat": 34.00028610229492,
+    "lng": 71.47667694091797,
+    "country_code": "PK",
     "paper_count": 2
   },
   {
@@ -5776,6 +5784,14 @@
     "paper_count": 2
   },
   {
+    "id": "https://openalex.org/I4210142683",
+    "name": "Instituto Nacional de C\u00e2ncer - INCA",
+    "lat": -22.90642,
+    "lng": -43.18223,
+    "country_code": "BR",
+    "paper_count": 2
+  },
+  {
     "id": "https://openalex.org/I4210143603",
     "name": "Institute of Hydrobiology, Biology Centre, Academy of Sciences of the Czech Republic",
     "lat": 48.97446823120117,
@@ -6349,6 +6365,14 @@
     "lat": 46.87215042114258,
     "lng": -113.99400329589844,
     "country_code": "US",
+    "paper_count": 2
+  },
+  {
+    "id": "https://openalex.org/I68649149",
+    "name": "University of Malakand",
+    "lat": 34.565608978271484,
+    "lng": 71.93042755126953,
+    "country_code": "PK",
     "paper_count": 2
   },
   {
@@ -7149,6 +7173,14 @@
     "lat": 55.67594,
     "lng": 12.56553,
     "country_code": "DK",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I111971639",
+    "name": "Qiqihar University",
+    "lat": 47.33921813964844,
+    "lng": 123.96154022216797,
+    "country_code": "CN",
     "paper_count": 1
   },
   {
@@ -8728,6 +8760,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I1443707",
+    "name": "Jimma University",
+    "lat": 7.67344,
+    "lng": 36.83441,
+    "country_code": "ET",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I14500998",
     "name": "International University of Monaco",
     "lat": 43.73718,
@@ -9164,6 +9204,14 @@
     "name": "COMSATS University Islamabad",
     "lat": 33.6528434753418,
     "lng": 73.15654754638672,
+    "country_code": "PK",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I160968435",
+    "name": "University of Sargodha",
+    "lat": 32.074371337890625,
+    "lng": 72.68379974365234,
     "country_code": "PK",
     "paper_count": 1
   },
@@ -10568,14 +10616,6 @@
     "paper_count": 1
   },
   {
-    "id": "https://openalex.org/I206573129",
-    "name": "Islamia College University",
-    "lat": 34.00028610229492,
-    "lng": 71.47667694091797,
-    "country_code": "PK",
-    "paper_count": 1
-  },
-  {
     "id": "https://openalex.org/I20696738",
     "name": "Wuppertal Institute for Climate, Environment and Energy",
     "lat": 51.25627136230469,
@@ -11760,6 +11800,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I2802902501",
+    "name": "Namal University",
+    "lat": 32.57756,
+    "lng": 71.52847,
+    "country_code": "PK",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I2802928900",
     "name": "Amsterdam UMC Location University of Amsterdam",
     "lat": 52.37403,
@@ -12088,6 +12136,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I3130965127",
+    "name": "Qarshi University",
+    "lat": 31.423152923583984,
+    "lng": 74.17705535888672,
+    "country_code": "PK",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I3131038610",
     "name": "Cary Institute of Ecosystem Studies",
     "lat": 41.785091400146484,
@@ -12240,6 +12296,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I32481161",
+    "name": "Batman University",
+    "lat": 37.88737869262695,
+    "lng": 41.13220977783203,
+    "country_code": "TR",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I32574673",
     "name": "Shantou University",
     "lat": 23.354890823364258,
@@ -12341,6 +12405,14 @@
     "lat": -5.795000076293945,
     "lng": -35.20943832397461,
     "country_code": "BR",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I36001604",
+    "name": "University of Peshawar",
+    "lat": 34.007999420166016,
+    "lng": 71.5784912109375,
+    "country_code": "PK",
     "paper_count": 1
   },
   {
@@ -16360,6 +16432,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I4210141689",
+    "name": "Yancheng Teachers University",
+    "lat": 33.37752151489258,
+    "lng": 120.20592498779297,
+    "country_code": "CN",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I4210141715",
     "name": "Keio University Shonan Fujisawa",
     "lat": 35.38851547241211,
@@ -16445,14 +16525,6 @@
     "lat": 34.05910110473633,
     "lng": 72.40904235839844,
     "country_code": "PK",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I4210142683",
-    "name": "Instituto Nacional de C\u00e2ncer - INCA",
-    "lat": -22.90642,
-    "lng": -43.18223,
-    "country_code": "BR",
     "paper_count": 1
   },
   {
@@ -18152,6 +18224,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I4387155661",
+    "name": "University of Mianwali",
+    "lat": 32.57756042480469,
+    "lng": 71.52847290039062,
+    "country_code": "",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I4387156168",
     "name": "Institute for Agricultural and Forest Systems in the Mediterranean",
     "lat": 40.81563186645508,
@@ -18356,6 +18436,14 @@
     "name": "Qingdao University of Technology",
     "lat": 36.06488037109375,
     "lng": 120.38041687011719,
+    "country_code": "CN",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I44675526",
+    "name": "Shanghai Ocean University",
+    "lat": 31.222219467163086,
+    "lng": 121.45806121826172,
     "country_code": "CN",
     "paper_count": 1
   },
@@ -18949,14 +19037,6 @@
     "lat": -16.67860984802246,
     "lng": -49.25389099121094,
     "country_code": "BR",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I68649149",
-    "name": "University of Malakand",
-    "lat": 34.565608978271484,
-    "lng": 71.93042755126953,
-    "country_code": "PK",
     "paper_count": 1
   },
   {
