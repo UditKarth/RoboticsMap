@@ -656,6 +656,14 @@
     "paper_count": 8
   },
   {
+    "id": "https://openalex.org/I52158045",
+    "name": "China Agricultural University",
+    "lat": 39.907501220703125,
+    "lng": 116.39723205566406,
+    "country_code": "CN",
+    "paper_count": 8
+  },
+  {
     "id": "https://openalex.org/I74801974",
     "name": "The University of Tokyo",
     "lat": 35.68949890136719,
@@ -909,14 +917,6 @@
     "lat": 51.50853,
     "lng": -0.12574,
     "country_code": "GB",
-    "paper_count": 7
-  },
-  {
-    "id": "https://openalex.org/I52158045",
-    "name": "China Agricultural University",
-    "lat": 39.907501220703125,
-    "lng": 116.39723205566406,
-    "country_code": "CN",
     "paper_count": 7
   },
   {
