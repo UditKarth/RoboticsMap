@@ -1368,6 +1368,14 @@
     "paper_count": 5
   },
   {
+    "id": "https://openalex.org/I151746483",
+    "name": "University of Waterloo",
+    "lat": 43.4668,
+    "lng": -80.51639,
+    "country_code": "CA",
+    "paper_count": 5
+  },
+  {
     "id": "https://openalex.org/I157349981",
     "name": "SUNY College of Environmental Science and Forestry",
     "lat": 43.04812,
@@ -1944,14 +1952,6 @@
     "paper_count": 4
   },
   {
-    "id": "https://openalex.org/I151746483",
-    "name": "University of Waterloo",
-    "lat": 43.4668,
-    "lng": -80.51639,
-    "country_code": "CA",
-    "paper_count": 4
-  },
-  {
     "id": "https://openalex.org/I154130895",
     "name": "University of Auckland",
     "lat": -36.84853,
@@ -2029,6 +2029,14 @@
     "lat": -34.92866,
     "lng": 138.59863,
     "country_code": "AU",
+    "paper_count": 4
+  },
+  {
+    "id": "https://openalex.org/I18014758",
+    "name": "Simon Fraser University",
+    "lat": 49.26636,
+    "lng": -122.95263,
+    "country_code": "CA",
     "paper_count": 4
   },
   {
@@ -2373,6 +2381,14 @@
     "lat": 37.38283157348633,
     "lng": -5.973169803619385,
     "country_code": "ES",
+    "paper_count": 4
+  },
+  {
+    "id": "https://openalex.org/I79817857",
+    "name": "University of Guelph",
+    "lat": 43.54594039916992,
+    "lng": -80.25598907470703,
+    "country_code": "CA",
     "paper_count": 4
   },
   {
@@ -2845,14 +2861,6 @@
     "lat": 41.48038,
     "lng": -71.52256,
     "country_code": "US",
-    "paper_count": 3
-  },
-  {
-    "id": "https://openalex.org/I18014758",
-    "name": "Simon Fraser University",
-    "lat": 49.26636,
-    "lng": -122.95263,
-    "country_code": "CA",
     "paper_count": 3
   },
   {
@@ -3621,14 +3629,6 @@
     "lat": -32.92953,
     "lng": 151.7801,
     "country_code": "AU",
-    "paper_count": 3
-  },
-  {
-    "id": "https://openalex.org/I79817857",
-    "name": "University of Guelph",
-    "lat": 43.54594039916992,
-    "lng": -80.25598907470703,
-    "country_code": "CA",
     "paper_count": 3
   },
   {
@@ -6600,6 +6600,14 @@
     "paper_count": 2
   },
   {
+    "id": "https://openalex.org/I891191580",
+    "name": "Aalborg University",
+    "lat": 57.048,
+    "lng": 9.9187,
+    "country_code": "DK",
+    "paper_count": 2
+  },
+  {
     "id": "https://openalex.org/I897542642",
     "name": "University of Plymouth",
     "lat": 50.37152862548828,
@@ -8500,6 +8508,14 @@
     "name": "Tennessee Wildlife Resources Agency",
     "lat": 36.065345764160156,
     "lng": -86.74272918701172,
+    "country_code": "US",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I1343180700",
+    "name": "Intel (United States)",
+    "lat": 37.35411071777344,
+    "lng": -121.95523834228516,
     "country_code": "US",
     "paper_count": 1
   },
@@ -12200,6 +12216,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I3133134087",
+    "name": "Lanzhou Jiaotong University",
+    "lat": 36.05701,
+    "lng": 103.83987,
+    "country_code": "CN",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I3133171086",
     "name": "Band\u0131rma Onyedi Eyl\u00fcl University",
     "lat": 40.35221862792969,
@@ -15496,6 +15520,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I4210126697",
+    "name": "Institute of Health Economics",
+    "lat": 53.550140380859375,
+    "lng": -113.46871185302734,
+    "country_code": "CA",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I4210127118",
     "name": "Princess M\u00e1xima Center",
     "lat": 52.0908317565918,
@@ -15517,6 +15549,14 @@
     "lat": 0.3439359962940216,
     "lng": 32.6104621887207,
     "country_code": "UG",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4210127509",
+    "name": "Vector Institute",
+    "lat": 43.70643,
+    "lng": -79.39864,
+    "country_code": "CA",
     "paper_count": 1
   },
   {
@@ -19829,14 +19869,6 @@
     "lat": 37.32787,
     "lng": 127.10648,
     "country_code": "KR",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I891191580",
-    "name": "Aalborg University",
-    "lat": 57.048,
-    "lng": 9.9187,
-    "country_code": "DK",
     "paper_count": 1
   },
   {
