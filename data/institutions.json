@@ -5,7 +5,7 @@
     "lat": 39.9075,
     "lng": 116.39723,
     "country_code": "CN",
-    "paper_count": 46
+    "paper_count": 47
   },
   {
     "id": "https://openalex.org/I1294671590",
@@ -21,7 +21,7 @@
     "lat": 39.9075,
     "lng": 116.39723,
     "country_code": "CN",
-    "paper_count": 26
+    "paper_count": 27
   },
   {
     "id": "https://openalex.org/I913481162",
@@ -648,6 +648,14 @@
     "paper_count": 8
   },
   {
+    "id": "https://openalex.org/I4210144289",
+    "name": "Research Center for Eco-Environmental Sciences",
+    "lat": 39.907501220703125,
+    "lng": 116.39723205566406,
+    "country_code": "CN",
+    "paper_count": 8
+  },
+  {
     "id": "https://openalex.org/I4210151987",
     "name": "Ministry of Agriculture and Rural Affairs",
     "lat": 39.9075,
@@ -904,14 +912,6 @@
     "paper_count": 7
   },
   {
-    "id": "https://openalex.org/I4210144289",
-    "name": "Research Center for Eco-Environmental Sciences",
-    "lat": 39.907501220703125,
-    "lng": 116.39723205566406,
-    "country_code": "CN",
-    "paper_count": 7
-  },
-  {
     "id": "https://openalex.org/I45129253",
     "name": "University College London",
     "lat": 51.50853,
@@ -1117,6 +1117,14 @@
     "lat": 51.59982,
     "lng": -1.1248,
     "country_code": "GB",
+    "paper_count": 6
+  },
+  {
+    "id": "https://openalex.org/I4210110024",
+    "name": "Institute of Applied Ecology",
+    "lat": 41.79222106933594,
+    "lng": 123.43277740478516,
+    "country_code": "CN",
     "paper_count": 6
   },
   {
@@ -1512,6 +1520,14 @@
     "paper_count": 5
   },
   {
+    "id": "https://openalex.org/I31683504",
+    "name": "Beijing Forestry University",
+    "lat": 39.907501220703125,
+    "lng": 116.39723205566406,
+    "country_code": "CN",
+    "paper_count": 5
+  },
+  {
     "id": "https://openalex.org/I4210087306",
     "name": "Laboratoire de M\u00e9t\u00e9orologie Dynamique",
     "lat": 48.71828,
@@ -1532,14 +1548,6 @@
     "name": "Institute of Plant Protection",
     "lat": 39.907501220703125,
     "lng": 116.39723205566406,
-    "country_code": "CN",
-    "paper_count": 5
-  },
-  {
-    "id": "https://openalex.org/I4210110024",
-    "name": "Institute of Applied Ecology",
-    "lat": 41.79222106933594,
-    "lng": 123.43277740478516,
     "country_code": "CN",
     "paper_count": 5
   },
@@ -2189,14 +2197,6 @@
     "lat": 48.97447,
     "lng": 14.47434,
     "country_code": "CZ",
-    "paper_count": 4
-  },
-  {
-    "id": "https://openalex.org/I31683504",
-    "name": "Beijing Forestry University",
-    "lat": 39.907501220703125,
-    "lng": 116.39723205566406,
-    "country_code": "CN",
     "paper_count": 4
   },
   {
@@ -3445,6 +3445,14 @@
     "lat": 36.21679,
     "lng": -81.67455,
     "country_code": "US",
+    "paper_count": 3
+  },
+  {
+    "id": "https://openalex.org/I43337087",
+    "name": "Hebei University",
+    "lat": 38.87287902832031,
+    "lng": 115.46246337890625,
+    "country_code": "CN",
     "paper_count": 3
   },
   {
@@ -5456,6 +5464,14 @@
     "paper_count": 2
   },
   {
+    "id": "https://openalex.org/I4210108914",
+    "name": "Institute of Agricultural Resources and Regional Planning",
+    "lat": 39.95816421508789,
+    "lng": 116.32752990722656,
+    "country_code": "CN",
+    "paper_count": 2
+  },
+  {
     "id": "https://openalex.org/I4210109357",
     "name": "Radboud Institute for Molecular Life Sciences",
     "lat": 51.842498779296875,
@@ -6053,14 +6069,6 @@
     "lat": 47.36492919921875,
     "lng": 7.34453010559082,
     "country_code": "CH",
-    "paper_count": 2
-  },
-  {
-    "id": "https://openalex.org/I43337087",
-    "name": "Hebei University",
-    "lat": 38.87287902832031,
-    "lng": 115.46246337890625,
-    "country_code": "CN",
     "paper_count": 2
   },
   {
@@ -14268,14 +14276,6 @@
     "name": "Beijing General Research Institute of Mining and Metallurgy",
     "lat": 39.907501220703125,
     "lng": 116.39723205566406,
-    "country_code": "CN",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I4210108914",
-    "name": "Institute of Agricultural Resources and Regional Planning",
-    "lat": 39.95816421508789,
-    "lng": 116.32752990722656,
     "country_code": "CN",
     "paper_count": 1
   },
