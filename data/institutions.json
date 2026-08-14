@@ -2144,6 +2144,14 @@
     "paper_count": 4
   },
   {
+    "id": "https://openalex.org/I24057909",
+    "name": "Bangladesh Agricultural University",
+    "lat": 24.756359100341797,
+    "lng": 90.40646362304688,
+    "country_code": "BD",
+    "paper_count": 4
+  },
+  {
     "id": "https://openalex.org/I27577105",
     "name": "University College Cork",
     "lat": 51.89796829223633,
@@ -3013,14 +3021,6 @@
     "lat": 40.76078,
     "lng": -111.89105,
     "country_code": "US",
-    "paper_count": 3
-  },
-  {
-    "id": "https://openalex.org/I24057909",
-    "name": "Bangladesh Agricultural University",
-    "lat": 24.756359100341797,
-    "lng": 90.40646362304688,
-    "country_code": "BD",
     "paper_count": 3
   },
   {
@@ -6101,6 +6101,14 @@
     "lat": 47.36492919921875,
     "lng": 7.34453010559082,
     "country_code": "CH",
+    "paper_count": 2
+  },
+  {
+    "id": "https://openalex.org/I4210167387",
+    "name": "Institute for Biotechnology and Bioengineering",
+    "lat": 38.735496520996094,
+    "lng": -9.13790225982666,
+    "country_code": "PT",
     "paper_count": 2
   },
   {
@@ -18109,14 +18117,6 @@
     "lat": 37.77492904663086,
     "lng": -122.41941833496094,
     "country_code": "US",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I4210167387",
-    "name": "Institute for Biotechnology and Bioengineering",
-    "lat": 38.735496520996094,
-    "lng": -9.13790225982666,
-    "country_code": "PT",
     "paper_count": 1
   },
   {
