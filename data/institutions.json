@@ -13,7 +13,7 @@
     "lat": 48.85341,
     "lng": 2.3488,
     "country_code": "FR",
-    "paper_count": 45
+    "paper_count": 46
   },
   {
     "id": "https://openalex.org/I4210165038",
@@ -61,7 +61,7 @@
     "lat": 43.29695,
     "lng": 5.38107,
     "country_code": "FR",
-    "paper_count": 19
+    "paper_count": 20
   },
   {
     "id": "https://openalex.org/I129801699",
@@ -144,6 +144,14 @@
     "paper_count": 14
   },
   {
+    "id": "https://openalex.org/I39804081",
+    "name": "Sorbonne Universit\u00e9",
+    "lat": 48.85341,
+    "lng": 2.3488,
+    "country_code": "FR",
+    "paper_count": 14
+  },
+  {
     "id": "https://openalex.org/I99065089",
     "name": "Tsinghua University",
     "lat": 39.9075,
@@ -189,14 +197,6 @@
     "lat": 39.907501220703125,
     "lng": 116.39723205566406,
     "country_code": "CN",
-    "paper_count": 13
-  },
-  {
-    "id": "https://openalex.org/I39804081",
-    "name": "Sorbonne Universit\u00e9",
-    "lat": 48.85341,
-    "lng": 2.3488,
-    "country_code": "FR",
     "paper_count": 13
   },
   {
@@ -312,6 +312,14 @@
     "paper_count": 11
   },
   {
+    "id": "https://openalex.org/I185261750",
+    "name": "University of Toronto",
+    "lat": 43.70643,
+    "lng": -79.39864,
+    "country_code": "CA",
+    "paper_count": 11
+  },
+  {
     "id": "https://openalex.org/I2738703131",
     "name": "Commissariat \u00e0 l'\u00c9nergie Atomique et aux \u00c9nergies Alternatives",
     "lat": 48.85341,
@@ -356,14 +364,6 @@
     "name": "Environment and Climate Change Canada",
     "lat": 45.41117,
     "lng": -75.69812,
-    "country_code": "CA",
-    "paper_count": 10
-  },
-  {
-    "id": "https://openalex.org/I185261750",
-    "name": "University of Toronto",
-    "lat": 43.70643,
-    "lng": -79.39864,
     "country_code": "CA",
     "paper_count": 10
   },
@@ -800,6 +800,14 @@
     "paper_count": 7
   },
   {
+    "id": "https://openalex.org/I138006243",
+    "name": "University of Arizona",
+    "lat": 32.22174,
+    "lng": -110.92648,
+    "country_code": "US",
+    "paper_count": 7
+  },
+  {
     "id": "https://openalex.org/I142606810",
     "name": "Pacific Northwest National Laboratory",
     "lat": 46.28569030761719,
@@ -996,14 +1004,6 @@
     "name": "National Oceanic and Atmospheric Administration",
     "lat": 38.89511,
     "lng": -77.03637,
-    "country_code": "US",
-    "paper_count": 6
-  },
-  {
-    "id": "https://openalex.org/I138006243",
-    "name": "University of Arizona",
-    "lat": 32.22174,
-    "lng": -110.92648,
     "country_code": "US",
     "paper_count": 6
   },
@@ -1392,6 +1392,14 @@
     "paper_count": 5
   },
   {
+    "id": "https://openalex.org/I154202486",
+    "name": "Ifremer",
+    "lat": 48.39029,
+    "lng": -4.48628,
+    "country_code": "FR",
+    "paper_count": 5
+  },
+  {
     "id": "https://openalex.org/I157349981",
     "name": "SUNY College of Environmental Science and Forestry",
     "lat": 43.04812,
@@ -1445,6 +1453,14 @@
     "lat": 31.76904,
     "lng": 35.21633,
     "country_code": "IL",
+    "paper_count": 5
+  },
+  {
+    "id": "https://openalex.org/I19894307",
+    "name": "Universit\u00e9 de Montpellier",
+    "lat": 43.61093,
+    "lng": 3.87635,
+    "country_code": "FR",
     "paper_count": 5
   },
   {
@@ -1976,14 +1992,6 @@
     "paper_count": 4
   },
   {
-    "id": "https://openalex.org/I154202486",
-    "name": "Ifremer",
-    "lat": 48.39029,
-    "lng": -4.48628,
-    "country_code": "FR",
-    "paper_count": 4
-  },
-  {
     "id": "https://openalex.org/I154570441",
     "name": "University of California, Santa Barbara",
     "lat": 34.42083,
@@ -2101,14 +2109,6 @@
     "lat": 30.583330154418945,
     "lng": 114.26667022705078,
     "country_code": "CN",
-    "paper_count": 4
-  },
-  {
-    "id": "https://openalex.org/I19894307",
-    "name": "Universit\u00e9 de Montpellier",
-    "lat": 43.61093,
-    "lng": 3.87635,
-    "country_code": "FR",
     "paper_count": 4
   },
   {
@@ -2301,6 +2301,14 @@
     "lat": 18.32860565185547,
     "lng": 109.55880737304688,
     "country_code": "CN",
+    "paper_count": 4
+  },
+  {
+    "id": "https://openalex.org/I4210151560",
+    "name": "Institut de Ci\u00e8ncies del Mar",
+    "lat": 41.388790130615234,
+    "lng": 2.158989906311035,
+    "country_code": "ES",
     "paper_count": 4
   },
   {
@@ -2821,6 +2829,14 @@
     "lat": 23.11667,
     "lng": 113.25,
     "country_code": "CN",
+    "paper_count": 3
+  },
+  {
+    "id": "https://openalex.org/I159129438",
+    "name": "Universit\u00e9 du Qu\u00e9bec \u00e0 Montr\u00e9al",
+    "lat": 45.50884,
+    "lng": -73.58781,
+    "country_code": "CA",
     "paper_count": 3
   },
   {
@@ -3408,14 +3424,6 @@
     "paper_count": 3
   },
   {
-    "id": "https://openalex.org/I4210151560",
-    "name": "Institut de Ci\u00e8ncies del Mar",
-    "lat": 41.388790130615234,
-    "lng": 2.158989906311035,
-    "country_code": "ES",
-    "paper_count": 3
-  },
-  {
     "id": "https://openalex.org/I4210152006",
     "name": "Jilin Agricultural University",
     "lat": 43.880001068115234,
@@ -3709,6 +3717,14 @@
     "lat": 41.36210632324219,
     "lng": 19.76951026916504,
     "country_code": "AL",
+    "paper_count": 2
+  },
+  {
+    "id": "https://openalex.org/I100445878",
+    "name": "\u00c9cole Centrale de Nantes",
+    "lat": 47.21725,
+    "lng": -1.55336,
+    "country_code": "FR",
     "paper_count": 2
   },
   {
@@ -4024,6 +4040,14 @@
     "paper_count": 2
   },
   {
+    "id": "https://openalex.org/I133190216",
+    "name": "Shahjalal University of Science and Technology",
+    "lat": 24.921293258666992,
+    "lng": 91.83307647705078,
+    "country_code": "BD",
+    "paper_count": 2
+  },
+  {
     "id": "https://openalex.org/I1334329717",
     "name": "World Bank",
     "lat": 38.895111083984375,
@@ -4328,14 +4352,6 @@
     "paper_count": 2
   },
   {
-    "id": "https://openalex.org/I159129438",
-    "name": "Universit\u00e9 du Qu\u00e9bec \u00e0 Montr\u00e9al",
-    "lat": 45.50884,
-    "lng": -73.58781,
-    "country_code": "CA",
-    "paper_count": 2
-  },
-  {
     "id": "https://openalex.org/I159385669",
     "name": "Chiba University",
     "lat": 35.599998474121094,
@@ -4372,6 +4388,14 @@
     "name": "University of New Hampshire",
     "lat": 43.133968353271484,
     "lng": -70.92645263671875,
+    "country_code": "US",
+    "paper_count": 2
+  },
+  {
+    "id": "https://openalex.org/I162714631",
+    "name": "George Mason University",
+    "lat": 38.84621810913086,
+    "lng": -77.3063735961914,
     "country_code": "US",
     "paper_count": 2
   },
@@ -4512,6 +4536,14 @@
     "paper_count": 2
   },
   {
+    "id": "https://openalex.org/I174025329",
+    "name": "University of the Sunshine Coast",
+    "lat": -26.65682,
+    "lng": 153.07955,
+    "country_code": "AU",
+    "paper_count": 2
+  },
+  {
     "id": "https://openalex.org/I174731842",
     "name": "Islamia University of Bahawalpur",
     "lat": 29.998350143432617,
@@ -4613,6 +4645,14 @@
     "lat": 41.1485,
     "lng": -8.61097,
     "country_code": "PT",
+    "paper_count": 2
+  },
+  {
+    "id": "https://openalex.org/I184558857",
+    "name": "Royal Holloway University of London",
+    "lat": 51.43157958984375,
+    "lng": -0.5523899793624878,
+    "country_code": "GB",
     "paper_count": 2
   },
   {
@@ -4733,6 +4773,14 @@
     "lat": -37.7217903137207,
     "lng": 145.04791259765625,
     "country_code": "AU",
+    "paper_count": 2
+  },
+  {
+    "id": "https://openalex.org/I19700959",
+    "name": "Florida International University",
+    "lat": 25.774269104003906,
+    "lng": -80.19365692138672,
+    "country_code": "US",
     "paper_count": 2
   },
   {
@@ -5176,6 +5224,14 @@
     "paper_count": 2
   },
   {
+    "id": "https://openalex.org/I39586589",
+    "name": "Swansea University",
+    "lat": 51.62079,
+    "lng": -3.94323,
+    "country_code": "GB",
+    "paper_count": 2
+  },
+  {
     "id": "https://openalex.org/I4092182",
     "name": "Graz University of Technology",
     "lat": 47.06666946411133,
@@ -5189,6 +5245,14 @@
     "lat": -43.65,
     "lng": 172.48333,
     "country_code": "NZ",
+    "paper_count": 2
+  },
+  {
+    "id": "https://openalex.org/I4210086164",
+    "name": "The Ocean Foundation",
+    "lat": 38.89511,
+    "lng": -77.03637,
+    "country_code": "US",
     "paper_count": 2
   },
   {
@@ -5920,6 +5984,14 @@
     "paper_count": 2
   },
   {
+    "id": "https://openalex.org/I4210149887",
+    "name": "Marine Biodiversity Exploitation and Conservation",
+    "lat": 43.4028,
+    "lng": 3.69278,
+    "country_code": "FR",
+    "paper_count": 2
+  },
+  {
     "id": "https://openalex.org/I4210150103",
     "name": "Geophysical Laboratory",
     "lat": 38.895111083984375,
@@ -5992,6 +6064,14 @@
     "paper_count": 2
   },
   {
+    "id": "https://openalex.org/I4210158675",
+    "name": "Laboratoire d'Ecog\u00e9ochimie des Environnements Benthiques",
+    "lat": 42.48375,
+    "lng": 3.12897,
+    "country_code": "FR",
+    "paper_count": 2
+  },
+  {
     "id": "https://openalex.org/I4210161504",
     "name": "International Union for Conservation of Nature",
     "lat": 46.42082,
@@ -6037,6 +6117,14 @@
     "lat": 47.49209,
     "lng": 11.09576,
     "country_code": "DE",
+    "paper_count": 2
+  },
+  {
+    "id": "https://openalex.org/I4210164672",
+    "name": "Laboratoire d'Oc\u00e9anographie Microbienne",
+    "lat": 48.85341,
+    "lng": 2.3488,
+    "country_code": "FR",
     "paper_count": 2
   },
   {
@@ -6389,6 +6477,14 @@
     "lat": 57.70716,
     "lng": 11.96679,
     "country_code": "SE",
+    "paper_count": 2
+  },
+  {
+    "id": "https://openalex.org/I66867065",
+    "name": "East China Normal University",
+    "lat": 31.222219467163086,
+    "lng": 121.45806121826172,
+    "country_code": "CN",
     "paper_count": 2
   },
   {
@@ -6805,14 +6901,6 @@
     "lat": 22.54553985595703,
     "lng": 114.06829833984375,
     "country_code": "CN",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I100445878",
-    "name": "\u00c9cole Centrale de Nantes",
-    "lat": 47.21725,
-    "lng": -1.55336,
-    "country_code": "FR",
     "paper_count": 1
   },
   {
@@ -8408,14 +8496,6 @@
     "paper_count": 1
   },
   {
-    "id": "https://openalex.org/I133190216",
-    "name": "Shahjalal University of Science and Technology",
-    "lat": 24.921293258666992,
-    "lng": 91.83307647705078,
-    "country_code": "BD",
-    "paper_count": 1
-  },
-  {
     "id": "https://openalex.org/I1332460256",
     "name": "Wildlife Conservation Society",
     "lat": 40.714271545410156,
@@ -9352,14 +9432,6 @@
     "paper_count": 1
   },
   {
-    "id": "https://openalex.org/I162714631",
-    "name": "George Mason University",
-    "lat": 38.84621810913086,
-    "lng": -77.3063735961914,
-    "country_code": "US",
-    "paper_count": 1
-  },
-  {
     "id": "https://openalex.org/I162720556",
     "name": "Karadeniz Technical University",
     "lat": 41.005001068115234,
@@ -9696,14 +9768,6 @@
     "paper_count": 1
   },
   {
-    "id": "https://openalex.org/I174025329",
-    "name": "University of the Sunshine Coast",
-    "lat": -26.65682,
-    "lng": 153.07955,
-    "country_code": "AU",
-    "paper_count": 1
-  },
-  {
     "id": "https://openalex.org/I174216632",
     "name": "City University of New York",
     "lat": 40.71427,
@@ -9789,6 +9853,14 @@
     "lat": 56.46913,
     "lng": -2.97489,
     "country_code": "GB",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I177753169",
+    "name": "Ursinus College",
+    "lat": 40.19429016113281,
+    "lng": -75.4581527709961,
+    "country_code": "US",
     "paper_count": 1
   },
   {
@@ -9965,14 +10037,6 @@
     "lat": 54.95000076293945,
     "lng": -7.733329772949219,
     "country_code": "IE",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I184558857",
-    "name": "Royal Holloway University of London",
-    "lat": 51.43157958984375,
-    "lng": -0.5523899793624878,
-    "country_code": "GB",
     "paper_count": 1
   },
   {
@@ -10324,14 +10388,6 @@
     "name": "Joint Genome Institute",
     "lat": 37.87158966064453,
     "lng": -122.27275085449219,
-    "country_code": "US",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I19700959",
-    "name": "Florida International University",
-    "lat": 25.774269104003906,
-    "lng": -80.19365692138672,
     "country_code": "US",
     "paper_count": 1
   },
@@ -11397,6 +11453,14 @@
     "lat": -23.547500610351562,
     "lng": -46.6361083984375,
     "country_code": "BR",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I2800520080",
+    "name": "New England Aquarium",
+    "lat": 42.35843,
+    "lng": -71.05977,
+    "country_code": "US",
     "paper_count": 1
   },
   {
@@ -12616,14 +12680,6 @@
     "paper_count": 1
   },
   {
-    "id": "https://openalex.org/I39586589",
-    "name": "Swansea University",
-    "lat": 51.62079,
-    "lng": -3.94323,
-    "country_code": "GB",
-    "paper_count": 1
-  },
-  {
     "id": "https://openalex.org/I39661318",
     "name": "Bard College",
     "lat": 42.01287,
@@ -12725,14 +12781,6 @@
     "lat": 55.712642669677734,
     "lng": 37.58952713012695,
     "country_code": "RU",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I4210086164",
-    "name": "The Ocean Foundation",
-    "lat": 38.89511,
-    "lng": -77.03637,
-    "country_code": "US",
     "paper_count": 1
   },
   {
@@ -13053,6 +13101,14 @@
     "lat": 23.096559524536133,
     "lng": 113.53338623046875,
     "country_code": "CN",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4210090771",
+    "name": "Institute for Marine Mammal Studies",
+    "lat": 30.42038917541504,
+    "lng": -89.01856231689453,
+    "country_code": "US",
     "paper_count": 1
   },
   {
@@ -14509,6 +14565,14 @@
     "lat": 57.7067985534668,
     "lng": 11.94103717803955,
     "country_code": "SE",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4210112311",
+    "name": "North Slope Borough",
+    "lat": 71.29241943359375,
+    "lng": -156.78280639648438,
+    "country_code": "US",
     "paper_count": 1
   },
   {
@@ -16712,6 +16776,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I4210144707",
+    "name": "Observatoire Oc\u00e9anologique de Banyuls-sur-Mer",
+    "lat": 42.4818000793457,
+    "lng": 3.1282999515533447,
+    "country_code": "FR",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I4210144925",
     "name": "Technological University Dublin",
     "lat": 53.33306121826172,
@@ -16965,14 +17037,6 @@
     "lat": 13.86075,
     "lng": 100.51477,
     "country_code": "TH",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I4210149887",
-    "name": "Marine Biodiversity Exploitation and Conservation",
-    "lat": 43.4028,
-    "lng": 3.69278,
-    "country_code": "FR",
     "paper_count": 1
   },
   {
@@ -17552,14 +17616,6 @@
     "paper_count": 1
   },
   {
-    "id": "https://openalex.org/I4210158675",
-    "name": "Laboratoire d'Ecog\u00e9ochimie des Environnements Benthiques",
-    "lat": 42.48375,
-    "lng": 3.12897,
-    "country_code": "FR",
-    "paper_count": 1
-  },
-  {
     "id": "https://openalex.org/I4210158732",
     "name": "i3S - Instituto de Investiga\u00e7\u00e3o e Inova\u00e7\u00e3o em Sa\u00fade, Universidade do Porto",
     "lat": 41.14960861206055,
@@ -17941,14 +17997,6 @@
     "lat": 54.6738166809082,
     "lng": 25.265430450439453,
     "country_code": "LT",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I4210164672",
-    "name": "Laboratoire d'Oc\u00e9anographie Microbienne",
-    "lat": 48.85341,
-    "lng": 2.3488,
-    "country_code": "FR",
     "paper_count": 1
   },
   {
@@ -18984,6 +19032,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I63169043",
+    "name": "United International University",
+    "lat": 23.710399627685547,
+    "lng": 90.40744018554688,
+    "country_code": "BD",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I63190737",
     "name": "University at Buffalo, State University of New York",
     "lat": 42.88645,
@@ -19061,14 +19117,6 @@
     "lat": 45.464271545410156,
     "lng": 9.189510345458984,
     "country_code": "IT",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I66867065",
-    "name": "East China Normal University",
-    "lat": 31.222219467163086,
-    "lng": 121.45806121826172,
-    "country_code": "CN",
     "paper_count": 1
   },
   {
