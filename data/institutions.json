@@ -5,7 +5,7 @@
     "lat": 39.9075,
     "lng": 116.39723,
     "country_code": "CN",
-    "paper_count": 47
+    "paper_count": 48
   },
   {
     "id": "https://openalex.org/I1294671590",
@@ -21,7 +21,7 @@
     "lat": 39.9075,
     "lng": 116.39723,
     "country_code": "CN",
-    "paper_count": 27
+    "paper_count": 28
   },
   {
     "id": "https://openalex.org/I913481162",
@@ -952,6 +952,14 @@
     "paper_count": 7
   },
   {
+    "id": "https://openalex.org/I4210110024",
+    "name": "Institute of Applied Ecology",
+    "lat": 41.79222106933594,
+    "lng": 123.43277740478516,
+    "country_code": "CN",
+    "paper_count": 7
+  },
+  {
     "id": "https://openalex.org/I4210116314",
     "name": "Leibniz Institute of Freshwater Ecology and Inland Fisheries",
     "lat": 52.52436828613281,
@@ -1149,14 +1157,6 @@
     "lat": 51.59982,
     "lng": -1.1248,
     "country_code": "GB",
-    "paper_count": 6
-  },
-  {
-    "id": "https://openalex.org/I4210110024",
-    "name": "Institute of Applied Ecology",
-    "lat": 41.79222106933594,
-    "lng": 123.43277740478516,
-    "country_code": "CN",
     "paper_count": 6
   },
   {
