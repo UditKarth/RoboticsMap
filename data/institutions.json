@@ -400,6 +400,14 @@
     "paper_count": 10
   },
   {
+    "id": "https://openalex.org/I5681781",
+    "name": "The University of Adelaide",
+    "lat": -34.92866,
+    "lng": 138.59863,
+    "country_code": "AU",
+    "paper_count": 10
+  },
+  {
     "id": "https://openalex.org/I63525965",
     "name": "Western Sydney University",
     "lat": -33.59955978393555,
@@ -488,14 +496,6 @@
     "paper_count": 9
   },
   {
-    "id": "https://openalex.org/I5681781",
-    "name": "The University of Adelaide",
-    "lat": -34.92866,
-    "lng": 138.59863,
-    "country_code": "AU",
-    "paper_count": 9
-  },
-  {
     "id": "https://openalex.org/I60200437",
     "name": "Potsdam Institute for Climate Impact Research",
     "lat": 52.381282806396484,
@@ -517,6 +517,14 @@
     "lat": 52.48142,
     "lng": -1.89983,
     "country_code": "GB",
+    "paper_count": 9
+  },
+  {
+    "id": "https://openalex.org/I84218800",
+    "name": "University of California, Davis",
+    "lat": 38.54491,
+    "lng": -121.74052,
+    "country_code": "US",
     "paper_count": 9
   },
   {
@@ -717,14 +725,6 @@
     "lat": 50.92878,
     "lng": 11.5899,
     "country_code": "DE",
-    "paper_count": 8
-  },
-  {
-    "id": "https://openalex.org/I84218800",
-    "name": "University of California, Davis",
-    "lat": 38.54491,
-    "lng": -121.74052,
-    "country_code": "US",
     "paper_count": 8
   },
   {
@@ -1912,6 +1912,14 @@
     "paper_count": 4
   },
   {
+    "id": "https://openalex.org/I130929987",
+    "name": "University of Mons",
+    "lat": 50.45412826538086,
+    "lng": 3.9522900581359863,
+    "country_code": "BE",
+    "paper_count": 4
+  },
+  {
     "id": "https://openalex.org/I131077856",
     "name": "Centre de Coop\u00e9ration Internationale en Recherche Agronomique pour le D\u00e9veloppement",
     "lat": 48.85341,
@@ -2661,14 +2669,6 @@
     "lat": 33.749,
     "lng": -84.38798,
     "country_code": "US",
-    "paper_count": 3
-  },
-  {
-    "id": "https://openalex.org/I130929987",
-    "name": "University of Mons",
-    "lat": 50.45412826538086,
-    "lng": 3.9522900581359863,
-    "country_code": "BE",
     "paper_count": 3
   },
   {
@@ -3693,6 +3693,14 @@
     "lat": 41.38879,
     "lng": 2.15899,
     "country_code": "ES",
+    "paper_count": 3
+  },
+  {
+    "id": "https://openalex.org/I75092371",
+    "name": "University of Hradec Kr\u00e1lov\u00e9",
+    "lat": 50.209228515625,
+    "lng": 15.832770347595215,
+    "country_code": "CZ",
     "paper_count": 3
   },
   {
@@ -6592,6 +6600,14 @@
     "paper_count": 2
   },
   {
+    "id": "https://openalex.org/I66752286",
+    "name": "University of Milano-Bicocca",
+    "lat": 45.464271545410156,
+    "lng": 9.189510345458984,
+    "country_code": "IT",
+    "paper_count": 2
+  },
+  {
     "id": "https://openalex.org/I66862912",
     "name": "Chalmers University of Technology",
     "lat": 57.70716,
@@ -6677,14 +6693,6 @@
     "lat": 40.44062,
     "lng": -79.99589,
     "country_code": "US",
-    "paper_count": 2
-  },
-  {
-    "id": "https://openalex.org/I75092371",
-    "name": "University of Hradec Kr\u00e1lov\u00e9",
-    "lat": 50.209228515625,
-    "lng": 15.832770347595215,
-    "country_code": "CZ",
     "paper_count": 2
   },
   {
@@ -9832,6 +9840,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I170239107",
+    "name": "University of South Australia",
+    "lat": -34.92866,
+    "lng": 138.59863,
+    "country_code": "AU",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I170726198",
     "name": "University of Novi Sad",
     "lat": 45.251670837402344,
@@ -10133,6 +10149,14 @@
     "lat": 31.222219467163086,
     "lng": 121.45806121826172,
     "country_code": "CN",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I181998121",
+    "name": "Bechtel (United States)",
+    "lat": 37.79137420654297,
+    "lng": -122.39643859863281,
+    "country_code": "US",
     "paper_count": 1
   },
   {
@@ -16496,6 +16520,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I4210136560",
+    "name": "Species360",
+    "lat": 44.8601188659668,
+    "lng": -93.22633361816406,
+    "country_code": "US",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I4210136636",
     "name": "Institute of Forest Productivity",
     "lat": 23.358001708984375,
@@ -16581,6 +16613,14 @@
     "lat": 59.98106384277344,
     "lng": 30.323081970214844,
     "country_code": "RU",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4210137740",
+    "name": "South Australian Health and Medical Research Institute",
+    "lat": -34.921268463134766,
+    "lng": 138.5897216796875,
+    "country_code": "AU",
     "paper_count": 1
   },
   {
@@ -19381,14 +19421,6 @@
     "lat": 25.584739685058594,
     "lng": 100.21228790283203,
     "country_code": "CN",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I66752286",
-    "name": "University of Milano-Bicocca",
-    "lat": 45.464271545410156,
-    "lng": 9.189510345458984,
-    "country_code": "IT",
     "paper_count": 1
   },
   {
