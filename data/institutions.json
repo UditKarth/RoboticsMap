@@ -5,7 +5,7 @@
     "lat": 39.9075,
     "lng": 116.39723,
     "country_code": "CN",
-    "paper_count": 48
+    "paper_count": 49
   },
   {
     "id": "https://openalex.org/I1294671590",
@@ -45,7 +45,7 @@
     "lat": 42.3751,
     "lng": -71.10561,
     "country_code": "US",
-    "paper_count": 20
+    "paper_count": 21
   },
   {
     "id": "https://openalex.org/I35440088",
@@ -464,6 +464,14 @@
     "paper_count": 9
   },
   {
+    "id": "https://openalex.org/I32597200",
+    "name": "Ghent University",
+    "lat": 51.05,
+    "lng": 3.71667,
+    "country_code": "BE",
+    "paper_count": 9
+  },
+  {
     "id": "https://openalex.org/I34403800",
     "name": "GEOMAR Helmholtz Centre for Ocean Research Kiel",
     "lat": 54.32133,
@@ -624,6 +632,14 @@
     "paper_count": 8
   },
   {
+    "id": "https://openalex.org/I148283060",
+    "name": "Lawrence Berkeley National Laboratory",
+    "lat": 37.87158966064453,
+    "lng": -122.27275085449219,
+    "country_code": "US",
+    "paper_count": 8
+  },
+  {
     "id": "https://openalex.org/I161675122",
     "name": "Cooperative Institute for Research in Environmental Sciences",
     "lat": 40.014991760253906,
@@ -669,14 +685,6 @@
     "lat": 48.4359,
     "lng": -123.35155,
     "country_code": "CA",
-    "paper_count": 8
-  },
-  {
-    "id": "https://openalex.org/I32597200",
-    "name": "Ghent University",
-    "lat": 51.05,
-    "lng": 3.71667,
-    "country_code": "BE",
     "paper_count": 8
   },
   {
@@ -840,14 +848,6 @@
     "paper_count": 7
   },
   {
-    "id": "https://openalex.org/I148283060",
-    "name": "Lawrence Berkeley National Laboratory",
-    "lat": 37.87158966064453,
-    "lng": -122.27275085449219,
-    "country_code": "US",
-    "paper_count": 7
-  },
-  {
     "id": "https://openalex.org/I150209017",
     "name": "Scripps Institution of Oceanography",
     "lat": 32.84727,
@@ -992,6 +992,14 @@
     "paper_count": 7
   },
   {
+    "id": "https://openalex.org/I63966007",
+    "name": "Massachusetts Institute of Technology",
+    "lat": 42.3751,
+    "lng": -71.10561,
+    "country_code": "US",
+    "paper_count": 7
+  },
+  {
     "id": "https://openalex.org/I74656192",
     "name": "University of G\u00f6ttingen",
     "lat": 51.53443,
@@ -1024,11 +1032,27 @@
     "paper_count": 7
   },
   {
+    "id": "https://openalex.org/I881766915",
+    "name": "Nanjing University",
+    "lat": 32.061668395996094,
+    "lng": 118.77777862548828,
+    "country_code": "CN",
+    "paper_count": 7
+  },
+  {
     "id": "https://openalex.org/I899635006",
     "name": "Universit\u00e9 Grenoble Alpes",
     "lat": 45.1787,
     "lng": 5.76281,
     "country_code": "FR",
+    "paper_count": 7
+  },
+  {
+    "id": "https://openalex.org/I99464096",
+    "name": "KU Leuven",
+    "lat": 50.87958908081055,
+    "lng": 4.700930118560791,
+    "country_code": "BE",
     "paper_count": 7
   },
   {
@@ -1052,6 +1076,14 @@
     "name": "National Oceanic and Atmospheric Administration",
     "lat": 38.89511,
     "lng": -77.03637,
+    "country_code": "US",
+    "paper_count": 6
+  },
+  {
+    "id": "https://openalex.org/I1334627681",
+    "name": "Jet Propulsion Laboratory",
+    "lat": 34.14778,
+    "lng": -118.14452,
     "country_code": "US",
     "paper_count": 6
   },
@@ -1085,6 +1117,14 @@
     "lat": 53.55014,
     "lng": -113.46871,
     "country_code": "CA",
+    "paper_count": 6
+  },
+  {
+    "id": "https://openalex.org/I161318765",
+    "name": "University of California, Los Angeles",
+    "lat": 34.05223,
+    "lng": -118.24368,
+    "country_code": "US",
     "paper_count": 6
   },
   {
@@ -1224,14 +1264,6 @@
     "paper_count": 6
   },
   {
-    "id": "https://openalex.org/I63966007",
-    "name": "Massachusetts Institute of Technology",
-    "lat": 42.3751,
-    "lng": -71.10561,
-    "country_code": "US",
-    "paper_count": 6
-  },
-  {
     "id": "https://openalex.org/I71052956",
     "name": "University of Reading",
     "lat": 51.45624923706055,
@@ -1277,22 +1309,6 @@
     "lat": -19.26639,
     "lng": 146.80569,
     "country_code": "AU",
-    "paper_count": 6
-  },
-  {
-    "id": "https://openalex.org/I881766915",
-    "name": "Nanjing University",
-    "lat": 32.061668395996094,
-    "lng": 118.77777862548828,
-    "country_code": "CN",
-    "paper_count": 6
-  },
-  {
-    "id": "https://openalex.org/I99464096",
-    "name": "KU Leuven",
-    "lat": 50.87958908081055,
-    "lng": 4.700930118560791,
-    "country_code": "BE",
     "paper_count": 6
   },
   {
@@ -1376,14 +1392,6 @@
     "paper_count": 5
   },
   {
-    "id": "https://openalex.org/I1334627681",
-    "name": "Jet Propulsion Laboratory",
-    "lat": 34.14778,
-    "lng": -118.14452,
-    "country_code": "US",
-    "paper_count": 5
-  },
-  {
     "id": "https://openalex.org/I1337719021",
     "name": "Australian Research Council",
     "lat": -35.28346,
@@ -1429,14 +1437,6 @@
     "lat": 39.47391128540039,
     "lng": -0.3796600103378296,
     "country_code": "ES",
-    "paper_count": 5
-  },
-  {
-    "id": "https://openalex.org/I161318765",
-    "name": "University of California, Los Angeles",
-    "lat": 34.05223,
-    "lng": -118.24368,
-    "country_code": "US",
     "paper_count": 5
   },
   {
@@ -2256,6 +2256,14 @@
     "paper_count": 4
   },
   {
+    "id": "https://openalex.org/I4210090489",
+    "name": "State Key Laboratory of Pollution Control and Resource Reuse",
+    "lat": 32.061668395996094,
+    "lng": 118.77777862548828,
+    "country_code": "CN",
+    "paper_count": 4
+  },
+  {
     "id": "https://openalex.org/I4210104433",
     "name": "National Institute for Public Health and the Environment",
     "lat": 52.11000061035156,
@@ -2632,6 +2640,14 @@
     "paper_count": 3
   },
   {
+    "id": "https://openalex.org/I1288652306",
+    "name": "Royal Museum for Central Africa",
+    "lat": 50.8237190246582,
+    "lng": 4.5141801834106445,
+    "country_code": "BE",
+    "paper_count": 3
+  },
+  {
     "id": "https://openalex.org/I12912129",
     "name": "Northeastern University",
     "lat": 42.358428955078125,
@@ -2893,6 +2909,14 @@
     "lat": 1.28967,
     "lng": 103.85007,
     "country_code": "SG",
+    "paper_count": 3
+  },
+  {
+    "id": "https://openalex.org/I167027274",
+    "name": "Nanjing Forestry University",
+    "lat": 32.061668395996094,
+    "lng": 118.77777862548828,
+    "country_code": "CN",
     "paper_count": 3
   },
   {
@@ -3200,14 +3224,6 @@
     "paper_count": 3
   },
   {
-    "id": "https://openalex.org/I4210090489",
-    "name": "State Key Laboratory of Pollution Control and Resource Reuse",
-    "lat": 32.061668395996094,
-    "lng": 118.77777862548828,
-    "country_code": "CN",
-    "paper_count": 3
-  },
-  {
     "id": "https://openalex.org/I4210095073",
     "name": "Sustainability Institute",
     "lat": -33.93462,
@@ -3501,6 +3517,14 @@
     "lat": 48.97447,
     "lng": 14.47434,
     "country_code": "CZ",
+    "paper_count": 3
+  },
+  {
+    "id": "https://openalex.org/I4210165559",
+    "name": "Institute of Soil Science",
+    "lat": 32.061668395996094,
+    "lng": 118.77777862548828,
+    "country_code": "CN",
     "paper_count": 3
   },
   {
@@ -3992,14 +4016,6 @@
     "paper_count": 2
   },
   {
-    "id": "https://openalex.org/I1288652306",
-    "name": "Royal Museum for Central Africa",
-    "lat": 50.8237190246582,
-    "lng": 4.5141801834106445,
-    "country_code": "BE",
-    "paper_count": 2
-  },
-  {
     "id": "https://openalex.org/I1288894424",
     "name": "Health Canada",
     "lat": 45.41117,
@@ -4133,6 +4149,14 @@
     "lat": 52.44320297241211,
     "lng": 13.287660598754883,
     "country_code": "DE",
+    "paper_count": 2
+  },
+  {
+    "id": "https://openalex.org/I1331321872",
+    "name": "World Resources Institute",
+    "lat": 38.895111083984375,
+    "lng": -77.03636932373047,
+    "country_code": "US",
     "paper_count": 2
   },
   {
@@ -4549,14 +4573,6 @@
     "lat": 31.622339248657227,
     "lng": 74.8753433227539,
     "country_code": "IN",
-    "paper_count": 2
-  },
-  {
-    "id": "https://openalex.org/I167027274",
-    "name": "Nanjing Forestry University",
-    "lat": 32.061668395996094,
-    "lng": 118.77777862548828,
-    "country_code": "CN",
     "paper_count": 2
   },
   {
@@ -6268,14 +6284,6 @@
     "name": "Ningbo Institute of Industrial Technology",
     "lat": 29.878189086914062,
     "lng": 121.54945373535156,
-    "country_code": "CN",
-    "paper_count": 2
-  },
-  {
-    "id": "https://openalex.org/I4210165559",
-    "name": "Institute of Soil Science",
-    "lat": 32.061668395996094,
-    "lng": 118.77777862548828,
     "country_code": "CN",
     "paper_count": 2
   },
@@ -8605,14 +8613,6 @@
     "lat": -21.201637268066406,
     "lng": -47.77821731567383,
     "country_code": "BR",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I1331321872",
-    "name": "World Resources Institute",
-    "lat": 38.895111083984375,
-    "lng": -77.03636932373047,
-    "country_code": "US",
     "paper_count": 1
   },
   {
@@ -11557,6 +11557,14 @@
     "lat": 51.50852966308594,
     "lng": -0.12574000656604767,
     "country_code": "GB",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I2800102325",
+    "name": "Libreville Hospital",
+    "lat": 0.39236000180244446,
+    "lng": 9.448527336120605,
+    "country_code": "GA",
     "paper_count": 1
   },
   {
@@ -15296,6 +15304,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I4210119855",
+    "name": "Latvian Institute of Aquatic Ecology",
+    "lat": 56.946,
+    "lng": 24.10589,
+    "country_code": "LV",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I4210119978",
     "name": "Royal GD (Netherlands)",
     "lat": 52.255,
@@ -15565,6 +15581,14 @@
     "lat": -34.92126,
     "lng": -57.95442,
     "country_code": "AR",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4210122974",
+    "name": "Aquatic Systems (United States)",
+    "lat": 26.270124435424805,
+    "lng": -80.15265655517578,
+    "country_code": "US",
     "paper_count": 1
   },
   {
@@ -18429,6 +18453,14 @@
     "lat": 52.63859939575195,
     "lng": -1.1316900253295898,
     "country_code": "GB",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4210166886",
+    "name": "Universit\u00e9 Professionnelle d'Afrique",
+    "lat": -4.776090145111084,
+    "lng": 11.863519668579102,
+    "country_code": "CG",
     "paper_count": 1
   },
   {
