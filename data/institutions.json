@@ -808,6 +808,14 @@
     "paper_count": 7
   },
   {
+    "id": "https://openalex.org/I1308126019",
+    "name": "National Oceanic and Atmospheric Administration",
+    "lat": 38.89511,
+    "lng": -77.03637,
+    "country_code": "US",
+    "paper_count": 7
+  },
+  {
     "id": "https://openalex.org/I1313003366",
     "name": "Woodwell Climate Research Center",
     "lat": 41.5515,
@@ -1069,14 +1077,6 @@
     "lat": 32.061668395996094,
     "lng": 118.77777862548828,
     "country_code": "CN",
-    "paper_count": 6
-  },
-  {
-    "id": "https://openalex.org/I1308126019",
-    "name": "National Oceanic and Atmospheric Administration",
-    "lat": 38.89511,
-    "lng": -77.03637,
-    "country_code": "US",
     "paper_count": 6
   },
   {
@@ -3776,6 +3776,14 @@
     "paper_count": 3
   },
   {
+    "id": "https://openalex.org/I86501945",
+    "name": "University of Delaware",
+    "lat": 39.68372,
+    "lng": -75.74966,
+    "country_code": "US",
+    "paper_count": 3
+  },
+  {
     "id": "https://openalex.org/I887968799",
     "name": "RWTH Aachen University",
     "lat": 50.776641845703125,
@@ -3876,6 +3884,14 @@
     "name": "University of Central Florida",
     "lat": 28.53834,
     "lng": -81.37924,
+    "country_code": "US",
+    "paper_count": 2
+  },
+  {
+    "id": "https://openalex.org/I106745318",
+    "name": "NOAA National Marine Fisheries Service",
+    "lat": 38.99066925048828,
+    "lng": -77.02609252929688,
     "country_code": "US",
     "paper_count": 2
   },
@@ -6800,14 +6816,6 @@
     "paper_count": 2
   },
   {
-    "id": "https://openalex.org/I86501945",
-    "name": "University of Delaware",
-    "lat": 39.68372,
-    "lng": -75.74966,
-    "country_code": "US",
-    "paper_count": 2
-  },
-  {
     "id": "https://openalex.org/I8692664",
     "name": "University of Oklahoma",
     "lat": 35.22257,
@@ -7189,14 +7197,6 @@
     "lat": 25.061561584472656,
     "lng": 102.69563293457031,
     "country_code": "CN",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I106745318",
-    "name": "NOAA National Marine Fisheries Service",
-    "lat": 38.99066925048828,
-    "lng": -77.02609252929688,
-    "country_code": "US",
     "paper_count": 1
   },
   {
