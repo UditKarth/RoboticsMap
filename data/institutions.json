@@ -13,7 +13,7 @@
     "lat": 48.85341,
     "lng": 2.3488,
     "country_code": "FR",
-    "paper_count": 46
+    "paper_count": 47
   },
   {
     "id": "https://openalex.org/I4210165038",
@@ -120,6 +120,14 @@
     "paper_count": 16
   },
   {
+    "id": "https://openalex.org/I39804081",
+    "name": "Sorbonne Universit\u00e9",
+    "lat": 48.85341,
+    "lng": 2.3488,
+    "country_code": "FR",
+    "paper_count": 15
+  },
+  {
     "id": "https://openalex.org/I40120149",
     "name": "University of Oxford",
     "lat": 51.75222,
@@ -141,14 +149,6 @@
     "lat": 40.014991760253906,
     "lng": -105.27055358886719,
     "country_code": "US",
-    "paper_count": 14
-  },
-  {
-    "id": "https://openalex.org/I39804081",
-    "name": "Sorbonne Universit\u00e9",
-    "lat": 48.85341,
-    "lng": 2.3488,
-    "country_code": "FR",
     "paper_count": 14
   },
   {
@@ -680,6 +680,14 @@
     "paper_count": 8
   },
   {
+    "id": "https://openalex.org/I205984670",
+    "name": "Czech University of Life Sciences Prague",
+    "lat": 50.08804,
+    "lng": 14.42076,
+    "country_code": "CZ",
+    "paper_count": 8
+  },
+  {
     "id": "https://openalex.org/I212119943",
     "name": "University of Victoria",
     "lat": 48.4359,
@@ -725,6 +733,14 @@
     "lat": 39.907501220703125,
     "lng": 116.39723205566406,
     "country_code": "CN",
+    "paper_count": 8
+  },
+  {
+    "id": "https://openalex.org/I56085075",
+    "name": "University of Tartu",
+    "lat": 58.380619049072266,
+    "lng": 26.72509002685547,
+    "country_code": "EE",
     "paper_count": 8
   },
   {
@@ -896,14 +912,6 @@
     "paper_count": 7
   },
   {
-    "id": "https://openalex.org/I205984670",
-    "name": "Czech University of Life Sciences Prague",
-    "lat": 50.08804,
-    "lng": 14.42076,
-    "country_code": "CZ",
-    "paper_count": 7
-  },
-  {
     "id": "https://openalex.org/I27837315",
     "name": "University of Michigan",
     "lat": 42.27756,
@@ -989,14 +997,6 @@
     "lat": 51.50853,
     "lng": -0.12574,
     "country_code": "GB",
-    "paper_count": 7
-  },
-  {
-    "id": "https://openalex.org/I56085075",
-    "name": "University of Tartu",
-    "lat": 58.380619049072266,
-    "lng": 26.72509002685547,
-    "country_code": "EE",
     "paper_count": 7
   },
   {
@@ -3776,6 +3776,14 @@
     "paper_count": 3
   },
   {
+    "id": "https://openalex.org/I861853513",
+    "name": "Sapienza University of Rome",
+    "lat": 41.89193,
+    "lng": 12.51133,
+    "country_code": "IT",
+    "paper_count": 3
+  },
+  {
     "id": "https://openalex.org/I86501945",
     "name": "University of Delaware",
     "lat": 39.68372,
@@ -4349,6 +4357,14 @@
     "lat": 29.560260772705078,
     "lng": 106.55770874023438,
     "country_code": "CN",
+    "paper_count": 2
+  },
+  {
+    "id": "https://openalex.org/I142444530",
+    "name": "University of Trieste",
+    "lat": 45.64953,
+    "lng": 13.77678,
+    "country_code": "IT",
     "paper_count": 2
   },
   {
@@ -5816,6 +5832,14 @@
     "paper_count": 2
   },
   {
+    "id": "https://openalex.org/I4210117005",
+    "name": "Laboratoire des Sciences du Num\u00e9rique de Nantes",
+    "lat": 47.21725,
+    "lng": -1.55336,
+    "country_code": "FR",
+    "paper_count": 2
+  },
+  {
     "id": "https://openalex.org/I4210117453",
     "name": "Dana-Farber Cancer Institute",
     "lat": 42.358428955078125,
@@ -6808,14 +6832,6 @@
     "paper_count": 2
   },
   {
-    "id": "https://openalex.org/I861853513",
-    "name": "Sapienza University of Rome",
-    "lat": 41.89193,
-    "lng": 12.51133,
-    "country_code": "IT",
-    "paper_count": 2
-  },
-  {
     "id": "https://openalex.org/I8692664",
     "name": "University of Oklahoma",
     "lat": 35.22257,
@@ -6928,6 +6944,14 @@
     "paper_count": 2
   },
   {
+    "id": "https://openalex.org/I9360294",
+    "name": "University of Bologna",
+    "lat": 44.49381,
+    "lng": 11.33875,
+    "country_code": "IT",
+    "paper_count": 2
+  },
+  {
     "id": "https://openalex.org/I94722563",
     "name": "University of Jyv\u00e4skyl\u00e4",
     "lat": 62.24147033691406,
@@ -6941,6 +6965,14 @@
     "lat": 37.38283157348633,
     "lng": -5.973169803619385,
     "country_code": "ES",
+    "paper_count": 2
+  },
+  {
+    "id": "https://openalex.org/I95023434",
+    "name": "University of KwaZulu-Natal",
+    "lat": -29.8579,
+    "lng": 31.0292,
+    "country_code": "ZA",
     "paper_count": 2
   },
   {
@@ -8957,14 +8989,6 @@
     "lat": 52.9536,
     "lng": -1.15047,
     "country_code": "GB",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I142444530",
-    "name": "University of Trieste",
-    "lat": 45.64953,
-    "lng": 13.77678,
-    "country_code": "IT",
     "paper_count": 1
   },
   {
@@ -11352,6 +11376,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I2752562790",
+    "name": "Kampala International University",
+    "lat": 0.3162800073623657,
+    "lng": 32.582191467285156,
+    "country_code": "UG",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I275799156",
     "name": "University of New England",
     "lat": 43.45853042602539,
@@ -13152,6 +13184,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I4210087849",
+    "name": "University of Rwanda",
+    "lat": -2.59667,
+    "lng": 29.73944,
+    "country_code": "RW",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I4210087880",
     "name": "Centre Hospitalier Universitaire de La R\u00e9union",
     "lat": -20.872413635253906,
@@ -13765,6 +13805,14 @@
     "lat": 22.582523345947266,
     "lng": 114.16996765136719,
     "country_code": "CN",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4210096121",
+    "name": "Centre d'\u00c9cologie et des Sciences de la Conservation",
+    "lat": 48.85341,
+    "lng": 2.3488,
+    "country_code": "FR",
     "paper_count": 1
   },
   {
@@ -15116,14 +15164,6 @@
     "name": "Centre de Recherches Politiques de Sciences Po",
     "lat": 48.85341,
     "lng": 2.3488,
-    "country_code": "FR",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I4210117005",
-    "name": "Laboratoire des Sciences du Num\u00e9rique de Nantes",
-    "lat": 47.21725,
-    "lng": -1.55336,
     "country_code": "FR",
     "paper_count": 1
   },
@@ -20512,14 +20552,6 @@
     "paper_count": 1
   },
   {
-    "id": "https://openalex.org/I9360294",
-    "name": "University of Bologna",
-    "lat": 44.49381,
-    "lng": 11.33875,
-    "country_code": "IT",
-    "paper_count": 1
-  },
-  {
     "id": "https://openalex.org/I94234084",
     "name": "Indian Institute of Technology Kanpur",
     "lat": 26.51264762878418,
@@ -20549,14 +20581,6 @@
     "lat": 54.0,
     "lng": -6.416669845581055,
     "country_code": "IE",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I95023434",
-    "name": "University of KwaZulu-Natal",
-    "lat": -29.8579,
-    "lng": 31.0292,
-    "country_code": "ZA",
     "paper_count": 1
   },
   {
