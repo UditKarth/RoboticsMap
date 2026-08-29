@@ -2616,6 +2616,14 @@
     "paper_count": 3
   },
   {
+    "id": "https://openalex.org/I1279955124",
+    "name": "Natural History Museum Vienna",
+    "lat": 48.20849,
+    "lng": 16.37208,
+    "country_code": "AT",
+    "paper_count": 3
+  },
+  {
     "id": "https://openalex.org/I1280536761",
     "name": "Ames Research Center",
     "lat": 37.386051177978516,
@@ -4005,14 +4013,6 @@
     "lat": 46.516,
     "lng": 6.63282,
     "country_code": "CH",
-    "paper_count": 2
-  },
-  {
-    "id": "https://openalex.org/I1279955124",
-    "name": "Natural History Museum Vienna",
-    "lat": 48.20849,
-    "lng": 16.37208,
-    "country_code": "AT",
     "paper_count": 2
   },
   {

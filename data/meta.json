@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-28",
-  "total_papers": 1124,
+  "last_updated": "2026-08-29",
+  "total_papers": 1125,
   "total_institutions": 2581,
   "date_range": {
     "from": "2018-01-01",
@@ -81,7 +81,7 @@
     },
     {
       "country_code": "AT",
-      "paper_count": 27
+      "paper_count": 28
     },
     {
       "country_code": "ZA",
