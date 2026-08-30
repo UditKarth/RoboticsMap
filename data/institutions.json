@@ -6496,6 +6496,14 @@
     "paper_count": 2
   },
   {
+    "id": "https://openalex.org/I49232843",
+    "name": "Changchun University",
+    "lat": 43.880001068115234,
+    "lng": 125.3227767944336,
+    "country_code": "CN",
+    "paper_count": 2
+  },
+  {
     "id": "https://openalex.org/I51783024",
     "name": "Brandenburg University of Technology Cottbus-Senftenberg",
     "lat": 51.52517,
@@ -16920,6 +16928,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I4210141933",
+    "name": "Jilin Agricultural Science and Technology University",
+    "lat": 43.850830078125,
+    "lng": 126.5602798461914,
+    "country_code": "CN",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I4210142051",
     "name": "WWF-UK",
     "lat": 51.31903076171875,
@@ -19077,14 +19093,6 @@
     "lat": 36.69929122924805,
     "lng": 52.650108337402344,
     "country_code": "IR",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I49232843",
-    "name": "Changchun University",
-    "lat": 43.880001068115234,
-    "lng": 125.3227767944336,
-    "country_code": "CN",
     "paper_count": 1
   },
   {
