@@ -5,7 +5,7 @@
     "lat": 39.9075,
     "lng": 116.39723,
     "country_code": "CN",
-    "paper_count": 49
+    "paper_count": 50
   },
   {
     "id": "https://openalex.org/I1294671590",
@@ -2392,6 +2392,14 @@
     "paper_count": 4
   },
   {
+    "id": "https://openalex.org/I4210165559",
+    "name": "Institute of Soil Science",
+    "lat": 32.061668395996094,
+    "lng": 118.77777862548828,
+    "country_code": "CN",
+    "paper_count": 4
+  },
+  {
     "id": "https://openalex.org/I43439940",
     "name": "University of Southampton",
     "lat": 50.90395,
@@ -3528,14 +3536,6 @@
     "paper_count": 3
   },
   {
-    "id": "https://openalex.org/I4210165559",
-    "name": "Institute of Soil Science",
-    "lat": 32.061668395996094,
-    "lng": 118.77777862548828,
-    "country_code": "CN",
-    "paper_count": 3
-  },
-  {
     "id": "https://openalex.org/I430192",
     "name": "Appalachian State University",
     "lat": 36.21679,
@@ -3941,6 +3941,14 @@
     "lat": 35.68949890136719,
     "lng": 139.69171142578125,
     "country_code": "JP",
+    "paper_count": 2
+  },
+  {
+    "id": "https://openalex.org/I115592961",
+    "name": "Jiangsu University",
+    "lat": 32.21086120605469,
+    "lng": 119.455078125,
+    "country_code": "CN",
     "paper_count": 2
   },
   {
@@ -5324,6 +5332,14 @@
     "name": "Southern University of Science and Technology",
     "lat": 22.54554,
     "lng": 114.0683,
+    "country_code": "CN",
+    "paper_count": 2
+  },
+  {
+    "id": "https://openalex.org/I308837",
+    "name": "Suzhou University of Science and Technology",
+    "lat": 31.304079055786133,
+    "lng": 120.59538269042969,
     "country_code": "CN",
     "paper_count": 2
   },
@@ -7573,14 +7589,6 @@
     "lat": 41.930118560791016,
     "lng": 2.2548599243164062,
     "country_code": "ES",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I115592961",
-    "name": "Jiangsu University",
-    "lat": 32.21086120605469,
-    "lng": 119.455078125,
-    "country_code": "CN",
     "paper_count": 1
   },
   {
@@ -11464,6 +11472,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I2799486974",
+    "name": "China Geological Survey",
+    "lat": 39.92372512817383,
+    "lng": 116.33644104003906,
+    "country_code": "CN",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I2799500531",
     "name": "Lagos State University of Science and Technology",
     "lat": 6.61526,
@@ -12421,14 +12437,6 @@
     "lat": 48.3076286315918,
     "lng": 18.084529876708984,
     "country_code": "SK",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I308837",
-    "name": "Suzhou University of Science and Technology",
-    "lat": 31.304079055786133,
-    "lng": 120.59538269042969,
-    "country_code": "CN",
     "paper_count": 1
   },
   {
