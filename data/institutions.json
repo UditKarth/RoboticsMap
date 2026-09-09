@@ -352,6 +352,14 @@
     "paper_count": 11
   },
   {
+    "id": "https://openalex.org/I92446798",
+    "name": "Colorado State University",
+    "lat": 40.58526,
+    "lng": -105.08442,
+    "country_code": "US",
+    "paper_count": 11
+  },
+  {
     "id": "https://openalex.org/I1281210470",
     "name": "CSIRO Oceans and Atmosphere",
     "lat": -35.28346,
@@ -552,14 +560,6 @@
     "paper_count": 9
   },
   {
-    "id": "https://openalex.org/I92446798",
-    "name": "Colorado State University",
-    "lat": 40.58526,
-    "lng": -105.08442,
-    "country_code": "US",
-    "paper_count": 9
-  },
-  {
     "id": "https://openalex.org/I98677209",
     "name": "University of Edinburgh",
     "lat": 55.95206,
@@ -573,6 +573,14 @@
     "lat": 49.009368896484375,
     "lng": 8.404439926147461,
     "country_code": "DE",
+    "paper_count": 8
+  },
+  {
+    "id": "https://openalex.org/I111088046",
+    "name": "Boston University",
+    "lat": 42.35843,
+    "lng": -71.05977,
+    "country_code": "US",
     "paper_count": 8
   },
   {
@@ -805,6 +813,14 @@
     "lat": 52.158329010009766,
     "lng": 4.493060111999512,
     "country_code": "NL",
+    "paper_count": 7
+  },
+  {
+    "id": "https://openalex.org/I128212801",
+    "name": "Smithsonian Tropical Research Institute",
+    "lat": 8.993599891662598,
+    "lng": -79.51972961425781,
+    "country_code": "PA",
     "paper_count": 7
   },
   {
@@ -1064,14 +1080,6 @@
     "paper_count": 7
   },
   {
-    "id": "https://openalex.org/I111088046",
-    "name": "Boston University",
-    "lat": 42.35843,
-    "lng": -71.05977,
-    "country_code": "US",
-    "paper_count": 6
-  },
-  {
     "id": "https://openalex.org/I119454577",
     "name": "Nanjing Agricultural University",
     "lat": 32.061668395996094,
@@ -1149,6 +1157,14 @@
     "lat": 36.050418853759766,
     "lng": 140.1185302734375,
     "country_code": "JP",
+    "paper_count": 6
+  },
+  {
+    "id": "https://openalex.org/I20089843",
+    "name": "Princeton University",
+    "lat": 40.34872,
+    "lng": -74.65905,
+    "country_code": "US",
     "paper_count": 6
   },
   {
@@ -1352,14 +1368,6 @@
     "paper_count": 5
   },
   {
-    "id": "https://openalex.org/I128212801",
-    "name": "Smithsonian Tropical Research Institute",
-    "lat": 8.993599891662598,
-    "lng": -79.51972961425781,
-    "country_code": "PA",
-    "paper_count": 5
-  },
-  {
     "id": "https://openalex.org/I131249849",
     "name": "Oregon State University",
     "lat": 44.56457,
@@ -1485,14 +1493,6 @@
     "lat": 22.27832,
     "lng": 114.17469,
     "country_code": "HK",
-    "paper_count": 5
-  },
-  {
-    "id": "https://openalex.org/I20089843",
-    "name": "Princeton University",
-    "lat": 40.34872,
-    "lng": -74.65905,
-    "country_code": "US",
     "paper_count": 5
   },
   {
