@@ -704,6 +704,14 @@
     "paper_count": 8
   },
   {
+    "id": "https://openalex.org/I298625061",
+    "name": "Swedish University of Agricultural Sciences",
+    "lat": 59.858821868896484,
+    "lng": 17.63888931274414,
+    "country_code": "SE",
+    "paper_count": 8
+  },
+  {
     "id": "https://openalex.org/I4210103115",
     "name": "Xinjiang Institute of Ecology and Geography",
     "lat": 43.800960540771484,
@@ -941,14 +949,6 @@
     "lat": 53.48095,
     "lng": -2.23743,
     "country_code": "GB",
-    "paper_count": 7
-  },
-  {
-    "id": "https://openalex.org/I298625061",
-    "name": "Swedish University of Agricultural Sciences",
-    "lat": 59.858821868896484,
-    "lng": 17.63888931274414,
-    "country_code": "SE",
     "paper_count": 7
   },
   {
@@ -15600,6 +15600,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I4210122440",
+    "name": "International Institute of Tropical Agriculture",
+    "lat": 12.00012,
+    "lng": 8.51672,
+    "country_code": "NG",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I4210122460",
     "name": "The Dian Fossey Gorilla Fund International",
     "lat": 33.73387145996094,
@@ -19837,6 +19845,14 @@
     "lat": 27.763193130493164,
     "lng": -82.63544464111328,
     "country_code": "US",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I75881417",
+    "name": "WorldFish",
+    "lat": 5.288567066192627,
+    "lng": 100.28418731689453,
+    "country_code": "MY",
     "paper_count": 1
   },
   {
