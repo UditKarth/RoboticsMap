@@ -12320,6 +12320,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I2899451211",
+    "name": "Institut Pluridisciplinaire Hubert Curien",
+    "lat": 48.58392,
+    "lng": 7.74553,
+    "country_code": "FR",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I291386647",
     "name": "Belarusian State University",
     "lat": 53.900001525878906,
@@ -19005,6 +19013,14 @@
     "lat": 49.88307,
     "lng": -119.48568,
     "country_code": "CA",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4405260884",
+    "name": "Soban Singh Jeena University",
+    "lat": 29.59713,
+    "lng": 79.65911,
+    "country_code": "IN",
     "paper_count": 1
   },
   {
