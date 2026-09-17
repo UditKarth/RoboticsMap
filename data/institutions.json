@@ -760,6 +760,14 @@
     "paper_count": 8
   },
   {
+    "id": "https://openalex.org/I74656192",
+    "name": "University of G\u00f6ttingen",
+    "lat": 51.53443,
+    "lng": 9.93228,
+    "country_code": "DE",
+    "paper_count": 8
+  },
+  {
     "id": "https://openalex.org/I76198965",
     "name": "Friedrich Schiller University Jena",
     "lat": 50.92878,
@@ -1021,14 +1029,6 @@
     "lat": 42.3751,
     "lng": -71.10561,
     "country_code": "US",
-    "paper_count": 7
-  },
-  {
-    "id": "https://openalex.org/I74656192",
-    "name": "University of G\u00f6ttingen",
-    "lat": 51.53443,
-    "lng": 9.93228,
-    "country_code": "DE",
     "paper_count": 7
   },
   {
@@ -2560,6 +2560,14 @@
     "paper_count": 3
   },
   {
+    "id": "https://openalex.org/I106157433",
+    "name": "University of Kassel",
+    "lat": 51.31667,
+    "lng": 9.5,
+    "country_code": "DE",
+    "paper_count": 3
+  },
+  {
     "id": "https://openalex.org/I107077323",
     "name": "Worcester Polytechnic Institute",
     "lat": 42.26259,
@@ -3909,14 +3917,6 @@
     "lat": 42.35843,
     "lng": -71.05977,
     "country_code": "US",
-    "paper_count": 2
-  },
-  {
-    "id": "https://openalex.org/I106157433",
-    "name": "University of Kassel",
-    "lat": 51.31667,
-    "lng": 9.5,
-    "country_code": "DE",
     "paper_count": 2
   },
   {
@@ -5621,6 +5621,14 @@
     "lat": 4.835000038146973,
     "lng": 31.600000381469727,
     "country_code": "SS",
+    "paper_count": 2
+  },
+  {
+    "id": "https://openalex.org/I4210096473",
+    "name": "Muhammad Nawaz Shareef University of Agriculture",
+    "lat": 30.19679069519043,
+    "lng": 71.47824096679688,
+    "country_code": "PK",
     "paper_count": 2
   },
   {
@@ -11152,6 +11160,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I236232284",
+    "name": "Karakoram International University",
+    "lat": 35.91869,
+    "lng": 74.31245,
+    "country_code": "PK",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I23946033",
     "name": "University of Tehran",
     "lat": 35.703468322753906,
@@ -13909,14 +13925,6 @@
     "lat": 36.024776458740234,
     "lng": 140.1228790283203,
     "country_code": "JP",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I4210096473",
-    "name": "Muhammad Nawaz Shareef University of Agriculture",
-    "lat": 30.19679069519043,
-    "lng": 71.47824096679688,
-    "country_code": "PK",
     "paper_count": 1
   },
   {
@@ -17240,6 +17248,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I4210144967",
+    "name": "Deutsches Institut f\u00fcr Tropische und Subtropische Landwirtschaft",
+    "lat": 51.3440055847168,
+    "lng": 9.858990669250488,
+    "country_code": "DE",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I4210145009",
     "name": "Sciensano (Belgium)",
     "lat": 50.85044860839844,
@@ -17509,6 +17525,14 @@
     "lat": 55.710792541503906,
     "lng": 37.57781219482422,
     "country_code": "RU",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4210150117",
+    "name": "Landesuntersuchungsamt Rheinland-Pfalz",
+    "lat": 50.35356903076172,
+    "lng": 7.578829765319824,
+    "country_code": "DE",
     "paper_count": 1
   },
   {
