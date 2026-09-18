@@ -1128,6 +1128,14 @@
     "paper_count": 6
   },
   {
+    "id": "https://openalex.org/I16097986",
+    "name": "Universitat de Val\u00e8ncia",
+    "lat": 39.47391128540039,
+    "lng": -0.3796600103378296,
+    "country_code": "ES",
+    "paper_count": 6
+  },
+  {
     "id": "https://openalex.org/I161318765",
     "name": "University of California, Los Angeles",
     "lat": 34.05223,
@@ -1141,6 +1149,14 @@
     "lat": 52.39886,
     "lng": 13.06566,
     "country_code": "DE",
+    "paper_count": 6
+  },
+  {
+    "id": "https://openalex.org/I184942183",
+    "name": "University of Oslo",
+    "lat": 59.91273,
+    "lng": 10.74609,
+    "country_code": "NO",
     "paper_count": 6
   },
   {
@@ -1400,6 +1416,14 @@
     "paper_count": 5
   },
   {
+    "id": "https://openalex.org/I133731052",
+    "name": "University of Helsinki",
+    "lat": 60.16952,
+    "lng": 24.93545,
+    "country_code": "FI",
+    "paper_count": 5
+  },
+  {
     "id": "https://openalex.org/I1337719021",
     "name": "Australian Research Council",
     "lat": -35.28346,
@@ -1424,6 +1448,14 @@
     "paper_count": 5
   },
   {
+    "id": "https://openalex.org/I145311948",
+    "name": "Johns Hopkins University",
+    "lat": 39.29038,
+    "lng": -76.61219,
+    "country_code": "US",
+    "paper_count": 5
+  },
+  {
     "id": "https://openalex.org/I151746483",
     "name": "University of Waterloo",
     "lat": 43.4668,
@@ -1437,14 +1469,6 @@
     "lat": 43.04812,
     "lng": -76.14742,
     "country_code": "US",
-    "paper_count": 5
-  },
-  {
-    "id": "https://openalex.org/I16097986",
-    "name": "Universitat de Val\u00e8ncia",
-    "lat": 39.47391128540039,
-    "lng": -0.3796600103378296,
-    "country_code": "ES",
     "paper_count": 5
   },
   {
@@ -1469,14 +1493,6 @@
     "lat": -22.90556,
     "lng": -47.06083,
     "country_code": "BR",
-    "paper_count": 5
-  },
-  {
-    "id": "https://openalex.org/I184942183",
-    "name": "University of Oslo",
-    "lat": 59.91273,
-    "lng": 10.74609,
-    "country_code": "NO",
     "paper_count": 5
   },
   {
@@ -1693,6 +1709,14 @@
     "lat": 39.907501220703125,
     "lng": 116.39723205566406,
     "country_code": "CN",
+    "paper_count": 5
+  },
+  {
+    "id": "https://openalex.org/I4432739",
+    "name": "University of Bergen",
+    "lat": 60.39299,
+    "lng": 5.32415,
+    "country_code": "NO",
     "paper_count": 5
   },
   {
@@ -1984,14 +2008,6 @@
     "paper_count": 4
   },
   {
-    "id": "https://openalex.org/I133731052",
-    "name": "University of Helsinki",
-    "lat": 60.16952,
-    "lng": 24.93545,
-    "country_code": "FI",
-    "paper_count": 4
-  },
-  {
     "id": "https://openalex.org/I134113660",
     "name": "University of Nevada, Reno",
     "lat": 39.52962875366211,
@@ -2021,14 +2037,6 @@
     "lat": 48.71828,
     "lng": 2.2498,
     "country_code": "FR",
-    "paper_count": 4
-  },
-  {
-    "id": "https://openalex.org/I145311948",
-    "name": "Johns Hopkins University",
-    "lat": 39.29038,
-    "lng": -76.61219,
-    "country_code": "US",
     "paper_count": 4
   },
   {
@@ -2432,14 +2440,6 @@
     "paper_count": 4
   },
   {
-    "id": "https://openalex.org/I4432739",
-    "name": "University of Bergen",
-    "lat": 60.39299,
-    "lng": 5.32415,
-    "country_code": "NO",
-    "paper_count": 4
-  },
-  {
     "id": "https://openalex.org/I5124864",
     "name": "\u00c9cole Polytechnique F\u00e9d\u00e9rale de Lausanne",
     "lat": 46.51599884033203,
@@ -2477,6 +2477,14 @@
     "lat": -25.74485969543457,
     "lng": 28.187829971313477,
     "country_code": "ZA",
+    "paper_count": 4
+  },
+  {
+    "id": "https://openalex.org/I78037679",
+    "name": "UiT The Arctic University of Norway",
+    "lat": 69.6489,
+    "lng": 18.95508,
+    "country_code": "NO",
     "paper_count": 4
   },
   {
@@ -2829,6 +2837,14 @@
     "lat": 53.41058,
     "lng": -2.97794,
     "country_code": "GB",
+    "paper_count": 3
+  },
+  {
+    "id": "https://openalex.org/I149213910",
+    "name": "University of Antwerp",
+    "lat": 51.22272872924805,
+    "lng": 4.408430099487305,
+    "country_code": "BE",
     "paper_count": 3
   },
   {
@@ -3776,14 +3792,6 @@
     "paper_count": 3
   },
   {
-    "id": "https://openalex.org/I78037679",
-    "name": "UiT The Arctic University of Norway",
-    "lat": 69.6489,
-    "lng": 18.95508,
-    "country_code": "NO",
-    "paper_count": 3
-  },
-  {
     "id": "https://openalex.org/I78757542",
     "name": "University of Newcastle Australia",
     "lat": -32.92953,
@@ -4429,14 +4437,6 @@
     "lat": 36.06488037109375,
     "lng": 120.38041687011719,
     "country_code": "CN",
-    "paper_count": 2
-  },
-  {
-    "id": "https://openalex.org/I149213910",
-    "name": "University of Antwerp",
-    "lat": 51.22272872924805,
-    "lng": 4.408430099487305,
-    "country_code": "BE",
     "paper_count": 2
   },
   {
@@ -5312,6 +5312,14 @@
     "paper_count": 2
   },
   {
+    "id": "https://openalex.org/I28166907",
+    "name": "Karolinska Institutet",
+    "lat": 59.32938003540039,
+    "lng": 18.068710327148438,
+    "country_code": "SE",
+    "paper_count": 2
+  },
+  {
     "id": "https://openalex.org/I28290843",
     "name": "University of Surrey",
     "lat": 51.23536,
@@ -5333,6 +5341,14 @@
     "lat": 48.137428283691406,
     "lng": 11.57548999786377,
     "country_code": "DE",
+    "paper_count": 2
+  },
+  {
+    "id": "https://openalex.org/I3018370718",
+    "name": "Quadram Institute",
+    "lat": 52.62783,
+    "lng": 1.29834,
+    "country_code": "GB",
     "paper_count": 2
   },
   {
@@ -8272,6 +8288,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I1298853749",
+    "name": "University Hospital of North Norway",
+    "lat": 69.6489,
+    "lng": 18.95508,
+    "country_code": "NO",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I1302124595",
     "name": "Bureau of Land Management",
     "lat": 38.900272369384766,
@@ -8720,6 +8744,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I1334415907",
+    "name": "University Medical Center Groningen",
+    "lat": 53.21917,
+    "lng": 6.56667,
+    "country_code": "NL",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I1334950195",
     "name": "Australian Nuclear Science and Technology Organisation",
     "lat": -33.86785,
@@ -8965,6 +8997,14 @@
     "lat": -33.456939697265625,
     "lng": -70.64826965332031,
     "country_code": "CL",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I13955877",
+    "name": "Bar-Ilan University",
+    "lat": 32.08227,
+    "lng": 34.81065,
+    "country_code": "IL",
     "paper_count": 1
   },
   {
@@ -9912,6 +9952,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I170486558",
+    "name": "Universitat Pompeu Fabra",
+    "lat": 41.38879,
+    "lng": 2.15899,
+    "country_code": "ES",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I170726198",
     "name": "University of Novi Sad",
     "lat": 45.251670837402344,
@@ -10557,6 +10605,14 @@
     "lat": 41.880279541015625,
     "lng": -87.62493133544922,
     "country_code": "US",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I194839184",
+    "name": "Liverpool School of Tropical Medicine",
+    "lat": 53.410579681396484,
+    "lng": -2.977940082550049,
+    "country_code": "GB",
     "paper_count": 1
   },
   {
@@ -11768,6 +11824,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I2800600247",
+    "name": "Haydom Lutheran Hospital",
+    "lat": -4.193649768829346,
+    "lng": 35.02568054199219,
+    "country_code": "TZ",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I2800600548",
     "name": "Aberdeen Royal Infirmary",
     "lat": 57.154598236083984,
@@ -12296,14 +12360,6 @@
     "paper_count": 1
   },
   {
-    "id": "https://openalex.org/I28166907",
-    "name": "Karolinska Institutet",
-    "lat": 59.32938003540039,
-    "lng": 18.068710327148438,
-    "country_code": "SE",
-    "paper_count": 1
-  },
-  {
     "id": "https://openalex.org/I28490864",
     "name": "DSO National Laboratories",
     "lat": 1.2892600297927856,
@@ -12437,14 +12493,6 @@
     "lat": -15.56152629852295,
     "lng": -56.10004806518555,
     "country_code": "BR",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I3018370718",
-    "name": "Quadram Institute",
-    "lat": 52.62783,
-    "lng": 1.29834,
-    "country_code": "GB",
     "paper_count": 1
   },
   {
@@ -14589,6 +14637,14 @@
     "lat": 44.30830383300781,
     "lng": 86.00631713867188,
     "country_code": "CN",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4210106702",
+    "name": "Instituto de Agroqu\u00edmica y Tecnolog\u00eda de Alimentos",
+    "lat": 39.502628326416016,
+    "lng": -0.44078999757766724,
+    "country_code": "ES",
     "paper_count": 1
   },
   {
