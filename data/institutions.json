@@ -64,19 +64,19 @@
     "paper_count": 20
   },
   {
-    "id": "https://openalex.org/I129801699",
-    "name": "University of Tasmania",
-    "lat": -42.87936,
-    "lng": 147.32941,
-    "country_code": "AU",
-    "paper_count": 18
-  },
-  {
     "id": "https://openalex.org/I25254941",
     "name": "Beijing Normal University",
     "lat": 39.9075,
     "lng": 116.39723,
     "country_code": "CN",
+    "paper_count": 19
+  },
+  {
+    "id": "https://openalex.org/I129801699",
+    "name": "University of Tasmania",
+    "lat": -42.87936,
+    "lng": 147.32941,
+    "country_code": "AU",
     "paper_count": 18
   },
   {
@@ -2104,6 +2104,14 @@
     "paper_count": 4
   },
   {
+    "id": "https://openalex.org/I163340411",
+    "name": "Hohai University",
+    "lat": 32.061668395996094,
+    "lng": 118.77777862548828,
+    "country_code": "CN",
+    "paper_count": 4
+  },
+  {
     "id": "https://openalex.org/I16733864",
     "name": "National Taiwan University",
     "lat": 25.05306,
@@ -2453,6 +2461,14 @@
     "lat": 39.96118,
     "lng": -82.99879,
     "country_code": "US",
+    "paper_count": 4
+  },
+  {
+    "id": "https://openalex.org/I55712492",
+    "name": "Zhejiang University of Technology",
+    "lat": 30.293649673461914,
+    "lng": 120.16142272949219,
+    "country_code": "CN",
     "paper_count": 4
   },
   {
@@ -2944,11 +2960,11 @@
     "paper_count": 3
   },
   {
-    "id": "https://openalex.org/I163340411",
-    "name": "Hohai University",
-    "lat": 32.061668395996094,
-    "lng": 118.77777862548828,
-    "country_code": "CN",
+    "id": "https://openalex.org/I161057412",
+    "name": "University of New Hampshire",
+    "lat": 43.133968353271484,
+    "lng": -70.92645263671875,
+    "country_code": "US",
     "paper_count": 3
   },
   {
@@ -3576,6 +3592,14 @@
     "paper_count": 3
   },
   {
+    "id": "https://openalex.org/I4210166112",
+    "name": "State Key Laboratory of Remote Sensing Science",
+    "lat": 39.907501220703125,
+    "lng": 116.39723205566406,
+    "country_code": "CN",
+    "paper_count": 3
+  },
+  {
     "id": "https://openalex.org/I430192",
     "name": "Appalachian State University",
     "lat": 36.21679,
@@ -3613,6 +3637,14 @@
     "lat": 51.22172164916992,
     "lng": 6.776159763336182,
     "country_code": "DE",
+    "paper_count": 3
+  },
+  {
+    "id": "https://openalex.org/I4472751",
+    "name": "Anhui Normal University",
+    "lat": 31.352590560913086,
+    "lng": 118.4294662475586,
+    "country_code": "CN",
     "paper_count": 3
   },
   {
@@ -3677,14 +3709,6 @@
     "lat": 37.89154815673828,
     "lng": -4.772749900817871,
     "country_code": "ES",
-    "paper_count": 3
-  },
-  {
-    "id": "https://openalex.org/I55712492",
-    "name": "Zhejiang University of Technology",
-    "lat": 30.293649673461914,
-    "lng": 120.16142272949219,
-    "country_code": "CN",
     "paper_count": 3
   },
   {
@@ -4581,14 +4605,6 @@
     "lat": 52.41548156738281,
     "lng": -4.082920074462891,
     "country_code": "GB",
-    "paper_count": 2
-  },
-  {
-    "id": "https://openalex.org/I161057412",
-    "name": "University of New Hampshire",
-    "lat": 43.133968353271484,
-    "lng": -70.92645263671875,
-    "country_code": "US",
     "paper_count": 2
   },
   {
@@ -5680,6 +5696,14 @@
     "paper_count": 2
   },
   {
+    "id": "https://openalex.org/I4210099662",
+    "name": "State Key Laboratory of Hydrology-Water Resources and Hydraulic Engineering",
+    "lat": 32.061668395996094,
+    "lng": 118.77777862548828,
+    "country_code": "CN",
+    "paper_count": 2
+  },
+  {
     "id": "https://openalex.org/I4210100639",
     "name": "European Centre for Space Applications and Telecommunications",
     "lat": 51.60927963256836,
@@ -6400,14 +6424,6 @@
     "paper_count": 2
   },
   {
-    "id": "https://openalex.org/I4210166112",
-    "name": "State Key Laboratory of Remote Sensing Science",
-    "lat": 39.907501220703125,
-    "lng": 116.39723205566406,
-    "country_code": "CN",
-    "paper_count": 2
-  },
-  {
     "id": "https://openalex.org/I4210166460",
     "name": "Institute of Systematics and Evolution of Animals",
     "lat": 50.0644416809082,
@@ -6485,14 +6501,6 @@
     "lat": 35.19807052612305,
     "lng": -111.6512680053711,
     "country_code": "",
-    "paper_count": 2
-  },
-  {
-    "id": "https://openalex.org/I4472751",
-    "name": "Anhui Normal University",
-    "lat": 31.352590560913086,
-    "lng": 118.4294662475586,
-    "country_code": "CN",
     "paper_count": 2
   },
   {
@@ -7269,6 +7277,14 @@
     "lat": 48.416751861572266,
     "lng": -71.06572723388672,
     "country_code": "CA",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I105126617",
+    "name": "Zhejiang International Studies University",
+    "lat": 30.29365,
+    "lng": 120.16142,
+    "country_code": "CN",
     "paper_count": 1
   },
   {
@@ -14181,14 +14197,6 @@
     "lat": 55.76911926269531,
     "lng": 37.63937759399414,
     "country_code": "RU",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I4210099662",
-    "name": "State Key Laboratory of Hydrology-Water Resources and Hydraulic Engineering",
-    "lat": 32.061668395996094,
-    "lng": 118.77777862548828,
-    "country_code": "CN",
     "paper_count": 1
   },
   {
