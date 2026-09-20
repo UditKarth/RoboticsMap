@@ -3752,6 +3752,14 @@
     "paper_count": 3
   },
   {
+    "id": "https://openalex.org/I66867065",
+    "name": "East China Normal University",
+    "lat": 31.222219467163086,
+    "lng": 121.45806121826172,
+    "country_code": "CN",
+    "paper_count": 3
+  },
+  {
     "id": "https://openalex.org/I66958751",
     "name": "Woods Hole Oceanographic Institution",
     "lat": 41.55149841308594,
@@ -4624,6 +4632,14 @@
     "paper_count": 2
   },
   {
+    "id": "https://openalex.org/I16295237",
+    "name": "Gansu Agricultural University",
+    "lat": 36.090755462646484,
+    "lng": 103.7008056640625,
+    "country_code": "CN",
+    "paper_count": 2
+  },
+  {
     "id": "https://openalex.org/I163770644",
     "name": "Okayama University",
     "lat": 34.650001525878906,
@@ -5205,6 +5221,14 @@
     "lat": 41.98311,
     "lng": 2.82493,
     "country_code": "ES",
+    "paper_count": 2
+  },
+  {
+    "id": "https://openalex.org/I25355098",
+    "name": "Chang'an University",
+    "lat": 34.258331298828125,
+    "lng": 108.9286117553711,
+    "country_code": "CN",
     "paper_count": 2
   },
   {
@@ -6736,14 +6760,6 @@
     "paper_count": 2
   },
   {
-    "id": "https://openalex.org/I66867065",
-    "name": "East China Normal University",
-    "lat": 31.222219467163086,
-    "lng": 121.45806121826172,
-    "country_code": "CN",
-    "paper_count": 2
-  },
-  {
     "id": "https://openalex.org/I66890659",
     "name": "Saint Mary's University",
     "lat": 44.6426887512207,
@@ -6773,6 +6789,14 @@
     "lat": 34.565608978271484,
     "lng": 71.93042755126953,
     "country_code": "PK",
+    "paper_count": 2
+  },
+  {
+    "id": "https://openalex.org/I68986083",
+    "name": "Northwest Normal University",
+    "lat": 36.057010650634766,
+    "lng": 103.8398666381836,
+    "country_code": "CN",
     "paper_count": 2
   },
   {
@@ -7229,6 +7253,14 @@
     "lat": 46.18967056274414,
     "lng": 11.132120132446289,
     "country_code": "IT",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I103250015",
+    "name": "Human Sciences Research Council",
+    "lat": -25.74485969543457,
+    "lng": 28.187829971313477,
+    "country_code": "ZA",
     "paper_count": 1
   },
   {
@@ -8792,6 +8824,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I1338006420",
+    "name": "Zoological Survey of India",
+    "lat": 22.56263,
+    "lng": 88.36304,
+    "country_code": "IN",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I1338063350",
     "name": "Institut Catal\u00e0 d'Ornitologia",
     "lat": 41.38879,
@@ -9149,6 +9189,14 @@
     "lat": 52.76667022705078,
     "lng": -1.2000000476837158,
     "country_code": "GB",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I143868143",
+    "name": "Anhui University",
+    "lat": 31.863889694213867,
+    "lng": 117.28083038330078,
+    "country_code": "CN",
     "paper_count": 1
   },
   {
@@ -9701,14 +9749,6 @@
     "lat": 24.122459411621094,
     "lng": 120.67426300048828,
     "country_code": "TW",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I16295237",
-    "name": "Gansu Agricultural University",
-    "lat": 36.090755462646484,
-    "lng": 103.7008056640625,
-    "country_code": "CN",
     "paper_count": 1
   },
   {
@@ -11376,14 +11416,6 @@
     "paper_count": 1
   },
   {
-    "id": "https://openalex.org/I25355098",
-    "name": "Chang'an University",
-    "lat": 34.258331298828125,
-    "lng": 108.9286117553711,
-    "country_code": "CN",
-    "paper_count": 1
-  },
-  {
     "id": "https://openalex.org/I25399158",
     "name": "Mahidol University",
     "lat": 13.75398,
@@ -12728,6 +12760,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I3141573830",
+    "name": "Department of Biotechnology",
+    "lat": 28.62137,
+    "lng": 77.2148,
+    "country_code": "IN",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I315729180",
     "name": "Noakhali Science and Technology University",
     "lat": 22.794092178344727,
@@ -13133,6 +13173,14 @@
     "lat": 36.298336029052734,
     "lng": 57.68094253540039,
     "country_code": "IR",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4076070",
+    "name": "Bharathidasan University",
+    "lat": 10.8155,
+    "lng": 78.69651,
+    "country_code": "IN",
     "paper_count": 1
   },
   {
@@ -13701,6 +13749,14 @@
     "lat": 52.415645599365234,
     "lng": 12.968931198120117,
     "country_code": "DE",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4210092391",
+    "name": "Hubei Academy of Forestry",
+    "lat": 30.518386840820312,
+    "lng": 114.37200927734375,
+    "country_code": "CN",
     "paper_count": 1
   },
   {
@@ -18344,6 +18400,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I4210161052",
+    "name": "Korea University",
+    "lat": 35.6895,
+    "lng": 139.69171,
+    "country_code": "JP",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I4210161097",
     "name": "Bolin Centre for Climate Research",
     "lat": 59.32938003540039,
@@ -19036,6 +19100,14 @@
     "name": "American Bird Conservancy",
     "lat": 38.862060546875,
     "lng": -77.77388000488281,
+    "country_code": "",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4392738303",
+    "name": "Shanghai Institute of Pollution Control and Ecological Security",
+    "lat": 31.222219467163086,
+    "lng": 121.45806121826172,
     "country_code": "",
     "paper_count": 1
   },
@@ -19773,14 +19845,6 @@
     "lat": 48.58392,
     "lng": 7.74553,
     "country_code": "FR",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I68986083",
-    "name": "Northwest Normal University",
-    "lat": 36.057010650634766,
-    "lng": 103.8398666381836,
-    "country_code": "CN",
     "paper_count": 1
   },
   {
