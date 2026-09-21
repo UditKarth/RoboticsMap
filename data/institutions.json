@@ -4904,6 +4904,14 @@
     "paper_count": 2
   },
   {
+    "id": "https://openalex.org/I186246823",
+    "name": "University of Lucknow",
+    "lat": 26.83928,
+    "lng": 80.92313,
+    "country_code": "IN",
+    "paper_count": 2
+  },
+  {
     "id": "https://openalex.org/I189210763",
     "name": "Yunnan University",
     "lat": 25.038890838623047,
@@ -6701,6 +6709,14 @@
     "lat": 40.64427,
     "lng": -8.64554,
     "country_code": "PT",
+    "paper_count": 2
+  },
+  {
+    "id": "https://openalex.org/I62318514",
+    "name": "University of Duisburg-Essen",
+    "lat": 51.45656967163086,
+    "lng": 7.012279987335205,
+    "country_code": "DE",
     "paper_count": 2
   },
   {
@@ -10429,14 +10445,6 @@
     "lat": 43.25,
     "lng": 76.91667,
     "country_code": "KZ",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I186246823",
-    "name": "University of Lucknow",
-    "lat": 26.83928,
-    "lng": 80.92313,
-    "country_code": "IN",
     "paper_count": 1
   },
   {
@@ -17408,6 +17416,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I4210145585",
+    "name": "Patanjali Research Foundation",
+    "lat": 29.90679931640625,
+    "lng": 78.00131225585938,
+    "country_code": "IN",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I4210145632",
     "name": "The Forestry Commission of Ghana",
     "lat": 5.55602,
@@ -19668,14 +19684,6 @@
     "name": "University of Regensburg",
     "lat": 49.01512908935547,
     "lng": 12.10161018371582,
-    "country_code": "DE",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I62318514",
-    "name": "University of Duisburg-Essen",
-    "lat": 51.45656967163086,
-    "lng": 7.012279987335205,
     "country_code": "DE",
     "paper_count": 1
   },
