@@ -72,19 +72,19 @@
     "paper_count": 19
   },
   {
-    "id": "https://openalex.org/I129801699",
-    "name": "University of Tasmania",
-    "lat": -42.87936,
-    "lng": 147.32941,
-    "country_code": "AU",
-    "paper_count": 18
-  },
-  {
     "id": "https://openalex.org/I97018004",
     "name": "Stanford University",
     "lat": 37.42411,
     "lng": -122.16608,
     "country_code": "US",
+    "paper_count": 19
+  },
+  {
+    "id": "https://openalex.org/I129801699",
+    "name": "University of Tasmania",
+    "lat": -42.87936,
+    "lng": 147.32941,
+    "country_code": "AU",
     "paper_count": 18
   },
   {
@@ -160,6 +160,14 @@
     "paper_count": 14
   },
   {
+    "id": "https://openalex.org/I20231570",
+    "name": "Peking University",
+    "lat": 39.907501220703125,
+    "lng": 116.39723205566406,
+    "country_code": "CN",
+    "paper_count": 14
+  },
+  {
     "id": "https://openalex.org/I99065089",
     "name": "Tsinghua University",
     "lat": 39.9075,
@@ -208,11 +216,11 @@
     "paper_count": 13
   },
   {
-    "id": "https://openalex.org/I20231570",
-    "name": "Peking University",
-    "lat": 39.907501220703125,
-    "lng": 116.39723205566406,
-    "country_code": "CN",
+    "id": "https://openalex.org/I187531555",
+    "name": "Lund University",
+    "lat": 55.705841064453125,
+    "lng": 13.193209648132324,
+    "country_code": "SE",
     "paper_count": 13
   },
   {
@@ -261,14 +269,6 @@
     "lat": 39.00455093383789,
     "lng": -76.87552642822266,
     "country_code": "US",
-    "paper_count": 12
-  },
-  {
-    "id": "https://openalex.org/I187531555",
-    "name": "Lund University",
-    "lat": 55.705841064453125,
-    "lng": 13.193209648132324,
-    "country_code": "SE",
     "paper_count": 12
   },
   {
@@ -452,6 +452,14 @@
     "name": "Deakin University",
     "lat": -37.84978,
     "lng": 145.11901,
+    "country_code": "AU",
+    "paper_count": 9
+  },
+  {
+    "id": "https://openalex.org/I165143802",
+    "name": "The University of Queensland",
+    "lat": -27.46794,
+    "lng": 153.02809,
     "country_code": "AU",
     "paper_count": 9
   },
@@ -672,11 +680,11 @@
     "paper_count": 8
   },
   {
-    "id": "https://openalex.org/I165143802",
-    "name": "The University of Queensland",
-    "lat": -27.46794,
-    "lng": 153.02809,
-    "country_code": "AU",
+    "id": "https://openalex.org/I169381384",
+    "name": "University of Groningen",
+    "lat": 53.21917,
+    "lng": 6.56667,
+    "country_code": "NL",
     "paper_count": 8
   },
   {
@@ -912,19 +920,19 @@
     "paper_count": 7
   },
   {
+    "id": "https://openalex.org/I161318765",
+    "name": "University of California, Los Angeles",
+    "lat": 34.05223,
+    "lng": -118.24368,
+    "country_code": "US",
+    "paper_count": 7
+  },
+  {
     "id": "https://openalex.org/I165733156",
     "name": "University of Georgia",
     "lat": 33.9609489440918,
     "lng": -83.37793731689453,
     "country_code": "US",
-    "paper_count": 7
-  },
-  {
-    "id": "https://openalex.org/I169381384",
-    "name": "University of Groningen",
-    "lat": 53.21917,
-    "lng": 6.56667,
-    "country_code": "NL",
     "paper_count": 7
   },
   {
@@ -1144,14 +1152,6 @@
     "paper_count": 6
   },
   {
-    "id": "https://openalex.org/I161318765",
-    "name": "University of California, Los Angeles",
-    "lat": 34.05223,
-    "lng": -118.24368,
-    "country_code": "US",
-    "paper_count": 6
-  },
-  {
     "id": "https://openalex.org/I176453806",
     "name": "University of Potsdam",
     "lat": 52.39886,
@@ -1173,6 +1173,14 @@
     "lat": 57.1436882019043,
     "lng": -2.098140001296997,
     "country_code": "GB",
+    "paper_count": 6
+  },
+  {
+    "id": "https://openalex.org/I19894307",
+    "name": "Universit\u00e9 de Montpellier",
+    "lat": 43.61093,
+    "lng": 3.87635,
+    "country_code": "FR",
     "paper_count": 6
   },
   {
@@ -1509,14 +1517,6 @@
     "lat": 31.76904,
     "lng": 35.21633,
     "country_code": "IL",
-    "paper_count": 5
-  },
-  {
-    "id": "https://openalex.org/I19894307",
-    "name": "Universit\u00e9 de Montpellier",
-    "lat": 43.61093,
-    "lng": 3.87635,
-    "country_code": "FR",
     "paper_count": 5
   },
   {
@@ -2808,6 +2808,14 @@
     "paper_count": 3
   },
   {
+    "id": "https://openalex.org/I1344073410",
+    "name": "Howard Hughes Medical Institute",
+    "lat": 39.00287,
+    "lng": -77.07115,
+    "country_code": "US",
+    "paper_count": 3
+  },
+  {
     "id": "https://openalex.org/I13469542",
     "name": "Vrije Universiteit Brussel",
     "lat": 50.85044860839844,
@@ -3664,6 +3672,14 @@
     "paper_count": 3
   },
   {
+    "id": "https://openalex.org/I4405252610",
+    "name": "Oceans Institute",
+    "lat": -31.95224,
+    "lng": 115.8614,
+    "country_code": "AU",
+    "paper_count": 3
+  },
+  {
     "id": "https://openalex.org/I44260953",
     "name": "Heinrich Heine University D\u00fcsseldorf",
     "lat": 51.22172164916992,
@@ -4360,14 +4376,6 @@
     "paper_count": 2
   },
   {
-    "id": "https://openalex.org/I1344073410",
-    "name": "Howard Hughes Medical Institute",
-    "lat": 39.00287,
-    "lng": -77.07115,
-    "country_code": "US",
-    "paper_count": 2
-  },
-  {
     "id": "https://openalex.org/I13511017",
     "name": "Texas State University",
     "lat": 29.883270263671875,
@@ -4752,6 +4760,14 @@
     "paper_count": 2
   },
   {
+    "id": "https://openalex.org/I172675005",
+    "name": "Nanyang Technological University",
+    "lat": 1.28967,
+    "lng": 103.85007,
+    "country_code": "SG",
+    "paper_count": 2
+  },
+  {
     "id": "https://openalex.org/I172780181",
     "name": "University of the Punjab",
     "lat": 31.558000564575195,
@@ -4789,6 +4805,14 @@
     "lat": -31.952239990234375,
     "lng": 115.86139678955078,
     "country_code": "AU",
+    "paper_count": 2
+  },
+  {
+    "id": "https://openalex.org/I177639307",
+    "name": "University of Dundee",
+    "lat": 56.46913,
+    "lng": -2.97489,
+    "country_code": "GB",
     "paper_count": 2
   },
   {
@@ -6232,6 +6256,14 @@
     "paper_count": 2
   },
   {
+    "id": "https://openalex.org/I4210142708",
+    "name": "Singapore Centre for Environmental Life Sciences Engineering",
+    "lat": 1.3451199531555176,
+    "lng": 103.67977905273438,
+    "country_code": "SG",
+    "paper_count": 2
+  },
+  {
     "id": "https://openalex.org/I4210143603",
     "name": "Institute of Hydrobiology, Biology Centre, Academy of Sciences of the Czech Republic",
     "lat": 48.97446823120117,
@@ -6557,14 +6589,6 @@
     "lat": 35.19807052612305,
     "lng": -111.6512680053711,
     "country_code": "",
-    "paper_count": 2
-  },
-  {
-    "id": "https://openalex.org/I4405252610",
-    "name": "Oceans Institute",
-    "lat": -31.95224,
-    "lng": 115.8614,
-    "country_code": "AU",
     "paper_count": 2
   },
   {
@@ -10144,14 +10168,6 @@
     "paper_count": 1
   },
   {
-    "id": "https://openalex.org/I172675005",
-    "name": "Nanyang Technological University",
-    "lat": 1.28967,
-    "lng": 103.85007,
-    "country_code": "SG",
-    "paper_count": 1
-  },
-  {
     "id": "https://openalex.org/I172787465",
     "name": "University of Concepci\u00f3n",
     "lat": -36.82699,
@@ -10285,14 +10301,6 @@
     "lat": 42.814239501953125,
     "lng": -73.93956756591797,
     "country_code": "US",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I177639307",
-    "name": "University of Dundee",
-    "lat": 56.46913,
-    "lng": -2.97489,
-    "country_code": "GB",
     "paper_count": 1
   },
   {
@@ -16696,6 +16704,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I4210133846",
+    "name": "Peking University International Hospital",
+    "lat": 39.99692153930664,
+    "lng": 116.31441497802734,
+    "country_code": "CN",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I4210133906",
     "name": "Institute of Marine Engineering",
     "lat": 41.787498474121094,
@@ -17349,14 +17365,6 @@
     "lat": 34.05910110473633,
     "lng": 72.40904235839844,
     "country_code": "PK",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I4210142708",
-    "name": "Singapore Centre for Environmental Life Sciences Engineering",
-    "lat": 1.3451199531555176,
-    "lng": 103.67977905273438,
-    "country_code": "SG",
     "paper_count": 1
   },
   {
@@ -19413,6 +19421,14 @@
     "lat": 45.50884,
     "lng": -73.58781,
     "country_code": "CA",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4405261313",
+    "name": "Donders Institute for Brain, Cognition and Behaviour",
+    "lat": 51.8425,
+    "lng": 5.85278,
+    "country_code": "NL",
     "paper_count": 1
   },
   {
