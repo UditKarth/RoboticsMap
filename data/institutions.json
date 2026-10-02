@@ -1600,6 +1600,14 @@
     "paper_count": 5
   },
   {
+    "id": "https://openalex.org/I24057909",
+    "name": "Bangladesh Agricultural University",
+    "lat": 24.756359100341797,
+    "lng": 90.40646362304688,
+    "country_code": "BD",
+    "paper_count": 5
+  },
+  {
     "id": "https://openalex.org/I24354313",
     "name": "Universidad de Buenos Aires",
     "lat": -34.61315,
@@ -2285,14 +2293,6 @@
     "lat": 49.40768,
     "lng": 8.69079,
     "country_code": "DE",
-    "paper_count": 4
-  },
-  {
-    "id": "https://openalex.org/I24057909",
-    "name": "Bangladesh Agricultural University",
-    "lat": 24.756359100341797,
-    "lng": 90.40646362304688,
-    "country_code": "BD",
     "paper_count": 4
   },
   {
@@ -3765,6 +3765,14 @@
     "lat": 43.77925,
     "lng": 11.24626,
     "country_code": "IT",
+    "paper_count": 3
+  },
+  {
+    "id": "https://openalex.org/I45487847",
+    "name": "Chattogram Veterinary and Animal Sciences University",
+    "lat": 22.33839988708496,
+    "lng": 91.83168029785156,
+    "country_code": "BD",
     "paper_count": 3
   },
   {
@@ -6701,14 +6709,6 @@
     "lat": 9.02497,
     "lng": 38.74689,
     "country_code": "ET",
-    "paper_count": 2
-  },
-  {
-    "id": "https://openalex.org/I45487847",
-    "name": "Chattogram Veterinary and Animal Sciences University",
-    "lat": 22.33839988708496,
-    "lng": 91.83168029785156,
-    "country_code": "BD",
     "paper_count": 2
   },
   {
@@ -18272,6 +18272,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I4210152629",
+    "name": "Eastern University",
+    "lat": 23.742799758911133,
+    "lng": 90.38059997558594,
+    "country_code": "BD",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I4210152696",
     "name": "Brazilian Center for Research in Energy and Materials",
     "lat": -22.905559539794922,
@@ -20440,6 +20448,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I55240360",
+    "name": "Yeungnam University",
+    "lat": 35.87028,
+    "lng": 128.59111,
+    "country_code": "KR",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I55302922",
     "name": "The University of Texas Medical Branch at Galveston",
     "lat": 29.30135,
@@ -21621,6 +21637,14 @@
     "lat": 51.48165,
     "lng": 7.21648,
     "country_code": "DE",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I905180023",
+    "name": "Eastern University",
+    "lat": 40.051700592041016,
+    "lng": -75.37059783935547,
+    "country_code": "US",
     "paper_count": 1
   },
   {
