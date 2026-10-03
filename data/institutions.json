@@ -4760,6 +4760,14 @@
     "paper_count": 2
   },
   {
+    "id": "https://openalex.org/I16391192",
+    "name": "Tel Aviv University",
+    "lat": 32.08088,
+    "lng": 34.78057,
+    "country_code": "IL",
+    "paper_count": 2
+  },
+  {
     "id": "https://openalex.org/I165339363",
     "name": "Universidad de Oviedo",
     "lat": 43.36029052734375,
@@ -10045,14 +10053,6 @@
     "lat": 45.898681640625,
     "lng": -64.36836242675781,
     "country_code": "CA",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I16391192",
-    "name": "Tel Aviv University",
-    "lat": 32.08088,
-    "lng": 34.78057,
-    "country_code": "IL",
     "paper_count": 1
   },
   {
@@ -19845,6 +19845,14 @@
     "lat": 39.15817,
     "lng": -75.52437,
     "country_code": "US",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4405256261",
+    "name": "Instituto de Ciencias de la Atm\u00f3sfera y Cambio Clim\u00e1tico",
+    "lat": 19.42847,
+    "lng": -99.12766,
+    "country_code": "MX",
     "paper_count": 1
   },
   {

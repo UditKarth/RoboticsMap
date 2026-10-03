@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-10-02",
-  "total_papers": 1150,
-  "total_institutions": 2738,
+  "last_updated": "2026-10-03",
+  "total_papers": 1151,
+  "total_institutions": 2739,
   "date_range": {
     "from": "2018-01-01",
     "to": "2026-01-01"
@@ -152,6 +152,10 @@
       "paper_count": 14
     },
     {
+      "country_code": "IL",
+      "paper_count": 12
+    },
+    {
       "country_code": "AR",
       "paper_count": 12
     },
@@ -161,10 +165,6 @@
     },
     {
       "country_code": "SA",
-      "paper_count": 11
-    },
-    {
-      "country_code": "IL",
       "paper_count": 11
     },
     {
