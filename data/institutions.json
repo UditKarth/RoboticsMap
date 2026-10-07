@@ -1744,6 +1744,14 @@
     "paper_count": 5
   },
   {
+    "id": "https://openalex.org/I4210151560",
+    "name": "Institut de Ci\u00e8ncies del Mar",
+    "lat": 41.388790130615234,
+    "lng": 2.158989906311035,
+    "country_code": "ES",
+    "paper_count": 5
+  },
+  {
     "id": "https://openalex.org/I4210158097",
     "name": "Institute of Botany",
     "lat": 39.907501220703125,
@@ -2453,14 +2461,6 @@
     "lat": 18.32860565185547,
     "lng": 109.55880737304688,
     "country_code": "CN",
-    "paper_count": 4
-  },
-  {
-    "id": "https://openalex.org/I4210151560",
-    "name": "Institut de Ci\u00e8ncies del Mar",
-    "lat": 41.388790130615234,
-    "lng": 2.158989906311035,
-    "country_code": "ES",
     "paper_count": 4
   },
   {
@@ -21253,6 +21253,14 @@
     "lat": 23.991851806640625,
     "lng": 90.41486358642578,
     "country_code": "BD",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I8078737",
+    "name": "Clemson University",
+    "lat": 34.683441162109375,
+    "lng": -82.83737182617188,
+    "country_code": "US",
     "paper_count": 1
   },
   {
