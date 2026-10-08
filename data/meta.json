@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-10-07",
-  "total_papers": 1152,
-  "total_institutions": 2740,
+  "last_updated": "2026-10-08",
+  "total_papers": 1156,
+  "total_institutions": 2742,
   "date_range": {
     "from": "2018-01-01",
     "to": "2026-01-01"
@@ -88,12 +88,12 @@
       "paper_count": 25
     },
     {
-      "country_code": "CZ",
+      "country_code": "PT",
       "paper_count": 24
     },
     {
-      "country_code": "PT",
-      "paper_count": 23
+      "country_code": "CZ",
+      "paper_count": 24
     },
     {
       "country_code": "PK",

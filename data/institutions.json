@@ -152,6 +152,14 @@
     "paper_count": 14
   },
   {
+    "id": "https://openalex.org/I130238516",
+    "name": "University of Minnesota",
+    "lat": 44.97997,
+    "lng": -93.26384,
+    "country_code": "US",
+    "paper_count": 14
+  },
+  {
     "id": "https://openalex.org/I141945490",
     "name": "University of British Columbia",
     "lat": 49.24966,
@@ -182,14 +190,6 @@
     "lng": 116.39723,
     "country_code": "CN",
     "paper_count": 14
-  },
-  {
-    "id": "https://openalex.org/I130238516",
-    "name": "University of Minnesota",
-    "lat": 44.97997,
-    "lng": -93.26384,
-    "country_code": "US",
-    "paper_count": 13
   },
   {
     "id": "https://openalex.org/I135310074",
@@ -2064,6 +2064,14 @@
     "paper_count": 4
   },
   {
+    "id": "https://openalex.org/I1313323035",
+    "name": "Russian Academy of Sciences",
+    "lat": 55.75222,
+    "lng": 37.61556,
+    "country_code": "RU",
+    "paper_count": 4
+  },
+  {
     "id": "https://openalex.org/I1313416372",
     "name": "US Forest Service",
     "lat": 38.895111083984375,
@@ -2800,14 +2808,6 @@
     "paper_count": 3
   },
   {
-    "id": "https://openalex.org/I1313323035",
-    "name": "Russian Academy of Sciences",
-    "lat": 55.75222,
-    "lng": 37.61556,
-    "country_code": "RU",
-    "paper_count": 3
-  },
-  {
     "id": "https://openalex.org/I1319689352",
     "name": "Fisheries and Oceans Canada",
     "lat": 45.41117,
@@ -3200,6 +3200,14 @@
     "paper_count": 3
   },
   {
+    "id": "https://openalex.org/I19880235",
+    "name": "Lomonosov Moscow State University",
+    "lat": 55.752220153808594,
+    "lng": 37.61555862426758,
+    "country_code": "RU",
+    "paper_count": 3
+  },
+  {
     "id": "https://openalex.org/I202500258",
     "name": "Research Institute for Nature and Forest",
     "lat": 50.85045,
@@ -3221,6 +3229,14 @@
     "lat": 39.9075,
     "lng": 116.39723,
     "country_code": "CN",
+    "paper_count": 3
+  },
+  {
+    "id": "https://openalex.org/I21491767",
+    "name": "Aix-Marseille Universit\u00e9",
+    "lat": 43.29695,
+    "lng": 5.38107,
+    "country_code": "FR",
     "paper_count": 3
   },
   {
@@ -3853,6 +3869,14 @@
     "lat": 51.50853,
     "lng": -0.12574,
     "country_code": "GB",
+    "paper_count": 3
+  },
+  {
+    "id": "https://openalex.org/I60858718",
+    "name": "University of Aveiro",
+    "lat": 40.64427,
+    "lng": -8.64554,
+    "country_code": "PT",
     "paper_count": 3
   },
   {
@@ -5152,14 +5176,6 @@
     "paper_count": 2
   },
   {
-    "id": "https://openalex.org/I19880235",
-    "name": "Lomonosov Moscow State University",
-    "lat": 55.752220153808594,
-    "lng": 37.61555862426758,
-    "country_code": "RU",
-    "paper_count": 2
-  },
-  {
     "id": "https://openalex.org/I200284239",
     "name": "Universidade de Santiago de Compostela",
     "lat": 42.88051986694336,
@@ -5301,14 +5317,6 @@
     "lat": 49.19522,
     "lng": 16.60796,
     "country_code": "CZ",
-    "paper_count": 2
-  },
-  {
-    "id": "https://openalex.org/I21491767",
-    "name": "Aix-Marseille Universit\u00e9",
-    "lat": 43.29695,
-    "lng": 5.38107,
-    "country_code": "FR",
     "paper_count": 2
   },
   {
@@ -6869,14 +6877,6 @@
     "lat": 39.47391128540039,
     "lng": -0.3796600103378296,
     "country_code": "ES",
-    "paper_count": 2
-  },
-  {
-    "id": "https://openalex.org/I60858718",
-    "name": "University of Aveiro",
-    "lat": 40.64427,
-    "lng": -8.64554,
-    "country_code": "PT",
     "paper_count": 2
   },
   {
@@ -19472,6 +19472,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I4387155229",
+    "name": "Centro de Estudos do Ambiente e do Mar",
+    "lat": 40.64575,
+    "lng": -8.64643,
+    "country_code": "PT",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I4387155279",
     "name": "Leibniz Institute for the Analysis of Biodiversity Change",
     "lat": 50.73438,
@@ -19525,6 +19533,14 @@
     "lat": 31.558000564575195,
     "lng": 74.3507080078125,
     "country_code": "PK",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4388446366",
+    "name": "Indiana University Indianapolis",
+    "lat": 39.76838,
+    "lng": -86.15804,
+    "country_code": "US",
     "paper_count": 1
   },
   {
