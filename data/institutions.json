@@ -280,6 +280,14 @@
     "paper_count": 12
   },
   {
+    "id": "https://openalex.org/I134820265",
+    "name": "Consejo Superior de Investigaciones Cient\u00edficas",
+    "lat": 40.4165,
+    "lng": -3.70256,
+    "country_code": "ES",
+    "paper_count": 12
+  },
+  {
     "id": "https://openalex.org/I201448701",
     "name": "University of Washington",
     "lat": 47.60621,
@@ -317,14 +325,6 @@
     "lat": -33.86785,
     "lng": 151.20732,
     "country_code": "AU",
-    "paper_count": 11
-  },
-  {
-    "id": "https://openalex.org/I134820265",
-    "name": "Consejo Superior de Investigaciones Cient\u00edficas",
-    "lat": 40.4165,
-    "lng": -3.70256,
-    "country_code": "ES",
     "paper_count": 11
   },
   {
@@ -448,6 +448,14 @@
     "paper_count": 10
   },
   {
+    "id": "https://openalex.org/I889458895",
+    "name": "University of Hong Kong",
+    "lat": 22.26861,
+    "lng": 114.12924,
+    "country_code": "HK",
+    "paper_count": 10
+  },
+  {
     "id": "https://openalex.org/I127251866",
     "name": "Alfred-Wegener-Institut Helmholtz-Zentrum f\u00fcr Polar- und Meeresforschung",
     "lat": 53.53615188598633,
@@ -552,6 +560,14 @@
     "paper_count": 9
   },
   {
+    "id": "https://openalex.org/I74656192",
+    "name": "University of G\u00f6ttingen",
+    "lat": 51.53443,
+    "lng": 9.93228,
+    "country_code": "DE",
+    "paper_count": 9
+  },
+  {
     "id": "https://openalex.org/I74801974",
     "name": "The University of Tokyo",
     "lat": 35.68949890136719,
@@ -581,14 +597,6 @@
     "lat": 57.70716,
     "lng": 11.96679,
     "country_code": "SE",
-    "paper_count": 9
-  },
-  {
-    "id": "https://openalex.org/I889458895",
-    "name": "University of Hong Kong",
-    "lat": 22.26861,
-    "lng": 114.12924,
-    "country_code": "HK",
     "paper_count": 9
   },
   {
@@ -624,6 +632,14 @@
     "paper_count": 8
   },
   {
+    "id": "https://openalex.org/I1308126019",
+    "name": "National Oceanic and Atmospheric Administration",
+    "lat": 38.89511,
+    "lng": -77.03637,
+    "country_code": "US",
+    "paper_count": 8
+  },
+  {
     "id": "https://openalex.org/I130828816",
     "name": "University of Leeds",
     "lat": 53.79648,
@@ -653,6 +669,14 @@
     "lat": 51.33962,
     "lng": 12.37129,
     "country_code": "DE",
+    "paper_count": 8
+  },
+  {
+    "id": "https://openalex.org/I138006243",
+    "name": "University of Arizona",
+    "lat": 32.22174,
+    "lng": -110.92648,
+    "country_code": "US",
     "paper_count": 8
   },
   {
@@ -792,14 +816,6 @@
     "paper_count": 8
   },
   {
-    "id": "https://openalex.org/I74656192",
-    "name": "University of G\u00f6ttingen",
-    "lat": 51.53443,
-    "lng": 9.93228,
-    "country_code": "DE",
-    "paper_count": 8
-  },
-  {
     "id": "https://openalex.org/I76130692",
     "name": "Zhejiang University",
     "lat": 30.29365,
@@ -888,14 +904,6 @@
     "paper_count": 7
   },
   {
-    "id": "https://openalex.org/I1308126019",
-    "name": "National Oceanic and Atmospheric Administration",
-    "lat": 38.89511,
-    "lng": -77.03637,
-    "country_code": "US",
-    "paper_count": 7
-  },
-  {
     "id": "https://openalex.org/I1313003366",
     "name": "Woodwell Climate Research Center",
     "lat": 41.5515,
@@ -909,14 +917,6 @@
     "lat": 52.07667,
     "lng": 4.29861,
     "country_code": "NL",
-    "paper_count": 7
-  },
-  {
-    "id": "https://openalex.org/I138006243",
-    "name": "University of Arizona",
-    "lat": 32.22174,
-    "lng": -110.92648,
-    "country_code": "US",
     "paper_count": 7
   },
   {
@@ -1624,6 +1624,14 @@
     "paper_count": 5
   },
   {
+    "id": "https://openalex.org/I2799614521",
+    "name": "Royal Botanic Gardens, Kew",
+    "lat": 51.50852966308594,
+    "lng": -0.12574000656604767,
+    "country_code": "GB",
+    "paper_count": 5
+  },
+  {
     "id": "https://openalex.org/I2802779139",
     "name": "Stazione Zoologica Anton Dohrn",
     "lat": 40.8521614074707,
@@ -1813,6 +1821,22 @@
     "lat": 54.04648971557617,
     "lng": -2.799880027770996,
     "country_code": "GB",
+    "paper_count": 5
+  },
+  {
+    "id": "https://openalex.org/I68956291",
+    "name": "Martin Luther University Halle-Wittenberg",
+    "lat": 51.48158,
+    "lng": 11.97947,
+    "country_code": "DE",
+    "paper_count": 5
+  },
+  {
+    "id": "https://openalex.org/I71920554",
+    "name": "King Abdullah University of Science and Technology",
+    "lat": 21.49012,
+    "lng": 39.18624,
+    "country_code": "SA",
     "paper_count": 5
   },
   {
@@ -2256,6 +2280,14 @@
     "paper_count": 4
   },
   {
+    "id": "https://openalex.org/I185103710",
+    "name": "University of California, Santa Cruz",
+    "lat": 36.97412109375,
+    "lng": -122.03079986572266,
+    "country_code": "US",
+    "paper_count": 4
+  },
+  {
     "id": "https://openalex.org/I185492890",
     "name": "University of Canterbury",
     "lat": -43.53333,
@@ -2333,14 +2365,6 @@
     "lat": 47.60620880126953,
     "lng": -122.33206939697266,
     "country_code": "US",
-    "paper_count": 4
-  },
-  {
-    "id": "https://openalex.org/I2799614521",
-    "name": "Royal Botanic Gardens, Kew",
-    "lat": 51.50852966308594,
-    "lng": -0.12574000656604767,
-    "country_code": "GB",
     "paper_count": 4
   },
   {
@@ -2544,11 +2568,11 @@
     "paper_count": 4
   },
   {
-    "id": "https://openalex.org/I68956291",
-    "name": "Martin Luther University Halle-Wittenberg",
-    "lat": 51.48158,
-    "lng": 11.97947,
-    "country_code": "DE",
+    "id": "https://openalex.org/I66958751",
+    "name": "Woods Hole Oceanographic Institution",
+    "lat": 41.55149841308594,
+    "lng": -70.61475372314453,
+    "country_code": "US",
     "paper_count": 4
   },
   {
@@ -2557,14 +2581,6 @@
     "lat": -25.74485969543457,
     "lng": 28.187829971313477,
     "country_code": "ZA",
-    "paper_count": 4
-  },
-  {
-    "id": "https://openalex.org/I71920554",
-    "name": "King Abdullah University of Science and Technology",
-    "lat": 21.49012,
-    "lng": 39.18624,
-    "country_code": "SA",
     "paper_count": 4
   },
   {
@@ -3125,14 +3141,6 @@
     "lat": 43.880001068115234,
     "lng": 125.3227767944336,
     "country_code": "CN",
-    "paper_count": 3
-  },
-  {
-    "id": "https://openalex.org/I185103710",
-    "name": "University of California, Santa Cruz",
-    "lat": 36.97412109375,
-    "lng": -122.03079986572266,
-    "country_code": "US",
     "paper_count": 3
   },
   {
@@ -3904,14 +3912,6 @@
     "paper_count": 3
   },
   {
-    "id": "https://openalex.org/I66958751",
-    "name": "Woods Hole Oceanographic Institution",
-    "lat": 41.55149841308594,
-    "lng": -70.61475372314453,
-    "country_code": "US",
-    "paper_count": 3
-  },
-  {
     "id": "https://openalex.org/I69094615",
     "name": "Universidad San Francisco de Quito",
     "lat": -0.22984999418258667,
@@ -4573,6 +4573,14 @@
     "lat": 29.560260772705078,
     "lng": 106.55770874023438,
     "country_code": "CN",
+    "paper_count": 2
+  },
+  {
+    "id": "https://openalex.org/I142263535",
+    "name": "University of Nottingham",
+    "lat": 52.9536,
+    "lng": -1.15047,
+    "country_code": "GB",
     "paper_count": 2
   },
   {
@@ -6684,6 +6692,14 @@
     "name": "U.S. Geological Survey, Alaska Science Center",
     "lat": 61.21805953979492,
     "lng": -149.90028381347656,
+    "country_code": "",
+    "paper_count": 2
+  },
+  {
+    "id": "https://openalex.org/I4391768107",
+    "name": "HiLIFE \u2013 El\u00e4m\u00e4ntieteiden Instituutti",
+    "lat": 60.16952133178711,
+    "lng": 24.935449600219727,
     "country_code": "",
     "paper_count": 2
   },
@@ -9360,14 +9376,6 @@
     "paper_count": 1
   },
   {
-    "id": "https://openalex.org/I142263535",
-    "name": "University of Nottingham",
-    "lat": 52.9536,
-    "lng": -1.15047,
-    "country_code": "GB",
-    "paper_count": 1
-  },
-  {
     "id": "https://openalex.org/I142608572",
     "name": "Prince Sattam Bin Abdulaziz University",
     "lat": 24.155410766601562,
@@ -9821,6 +9829,14 @@
     "lat": 28.4853,
     "lng": -16.32014,
     "country_code": "ES",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I158708052",
+    "name": "Chulalongkorn University",
+    "lat": 13.75398,
+    "lng": 100.50144,
+    "country_code": "TH",
     "paper_count": 1
   },
   {
@@ -12301,6 +12317,14 @@
     "lat": 55.40169906616211,
     "lng": 10.391244888305664,
     "country_code": "DK",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I2801496451",
+    "name": "German Primate Center",
+    "lat": 51.53443,
+    "lng": 9.93228,
+    "country_code": "DE",
     "paper_count": 1
   },
   {
@@ -15192,6 +15216,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I4210109599",
+    "name": "NOAA National Marine Fisheries Service Southwest Fisheries Science Center",
+    "lat": 32.84727096557617,
+    "lng": -117.27420043945312,
+    "country_code": "US",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I4210109616",
     "name": "Bay Area Environmental Research Institute",
     "lat": 38.232421875,
@@ -16557,6 +16589,14 @@
     "lat": -35.2834587097168,
     "lng": 149.12806701660156,
     "country_code": "AU",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4210127902",
+    "name": "Leibniz-Institut f\u00fcr Pflanzengenetik und Kulturpflanzenforschung (IPK)",
+    "lat": 51.82215,
+    "lng": 11.28661,
+    "country_code": "DE",
     "paper_count": 1
   },
   {
@@ -18224,6 +18264,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I4210151565",
+    "name": "Leibniz ScienceCampus Primate Cognition",
+    "lat": 51.56142044067383,
+    "lng": 9.954317092895508,
+    "country_code": "DE",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I4210151647",
     "name": "Centre for Inflammation Research",
     "lat": 55.9222412109375,
@@ -19644,14 +19692,6 @@
     "name": "State Key Laboratory of Tropical Oceanography",
     "lat": 23.116670608520508,
     "lng": 113.25,
-    "country_code": "",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I4391768107",
-    "name": "HiLIFE \u2013 El\u00e4m\u00e4ntieteiden Instituutti",
-    "lat": 60.16952133178711,
-    "lng": 24.935449600219727,
     "country_code": "",
     "paper_count": 1
   },
