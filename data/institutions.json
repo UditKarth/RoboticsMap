@@ -29,7 +29,7 @@
     "lat": 51.97,
     "lng": 5.66667,
     "country_code": "NL",
-    "paper_count": 24
+    "paper_count": 25
   },
   {
     "id": "https://openalex.org/I136199984",
@@ -3248,6 +3248,14 @@
     "paper_count": 3
   },
   {
+    "id": "https://openalex.org/I219193219",
+    "name": "Purdue University West Lafayette",
+    "lat": 40.42587,
+    "lng": -86.90807,
+    "country_code": "US",
+    "paper_count": 3
+  },
+  {
     "id": "https://openalex.org/I223464139",
     "name": "Linnaeus University",
     "lat": 56.87767028808594,
@@ -5144,6 +5152,14 @@
     "paper_count": 2
   },
   {
+    "id": "https://openalex.org/I194604659",
+    "name": "Shiraz University of Medical Sciences",
+    "lat": 29.610309600830078,
+    "lng": 52.531131744384766,
+    "country_code": "IR",
+    "paper_count": 2
+  },
+  {
     "id": "https://openalex.org/I195019228",
     "name": "Yunnan Agricultural University",
     "lat": 25.038890838623047,
@@ -5333,14 +5349,6 @@
     "lat": -12.266670227050781,
     "lng": -38.966670989990234,
     "country_code": "BR",
-    "paper_count": 2
-  },
-  {
-    "id": "https://openalex.org/I219193219",
-    "name": "Purdue University West Lafayette",
-    "lat": 40.42587,
-    "lng": -86.90807,
-    "country_code": "US",
     "paper_count": 2
   },
   {
@@ -10880,14 +10888,6 @@
     "paper_count": 1
   },
   {
-    "id": "https://openalex.org/I194604659",
-    "name": "Shiraz University of Medical Sciences",
-    "lat": 29.610309600830078,
-    "lng": 52.531131744384766,
-    "country_code": "IR",
-    "paper_count": 1
-  },
-  {
     "id": "https://openalex.org/I194629146",
     "name": "School of the Art Institute of Chicago",
     "lat": 41.880279541015625,
@@ -11197,6 +11197,14 @@
     "lat": 31.0579891204834,
     "lng": 46.257259368896484,
     "country_code": "IQ",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I204331812",
+    "name": "Guilan University of Medical Sciences",
+    "lat": 37.27611,
+    "lng": 49.58862,
+    "country_code": "IR",
     "paper_count": 1
   },
   {
@@ -18784,6 +18792,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I4210159363",
+    "name": "North Khorasan University of Medical Sciences",
+    "lat": 37.481754302978516,
+    "lng": 57.31614685058594,
+    "country_code": "IR",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I4210159452",
     "name": "Star Center",
     "lat": 35.71717071533203,
@@ -19444,6 +19460,14 @@
     "name": "State Key Laboratory of Urban and Regional Ecology",
     "lat": 39.907501220703125,
     "lng": 116.39723205566406,
+    "country_code": "",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4387153357",
+    "name": "Cornell Lab of Ornithology",
+    "lat": 42.44063186645508,
+    "lng": -76.49661254882812,
     "country_code": "",
     "paper_count": 1
   },
@@ -20216,6 +20240,22 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I4405281645",
+    "name": "Guiyang Healthcare Vocational University",
+    "lat": 26.58333,
+    "lng": 106.71667,
+    "country_code": "CN",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4405283400",
+    "name": "Embrapa Cerrados",
+    "lat": -15.61791,
+    "lng": -47.64874,
+    "country_code": "BR",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I44461941",
     "name": "University of Houston",
     "lat": 29.763280868530273,
@@ -20461,6 +20501,14 @@
     "lat": 36.838138580322266,
     "lng": -2.459739923477173,
     "country_code": "ES",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I52623189",
+    "name": "Bushehr University of Medical Sciences",
+    "lat": 28.96887,
+    "lng": 50.83657,
+    "country_code": "IR",
     "paper_count": 1
   },
   {
