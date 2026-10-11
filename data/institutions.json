@@ -2320,6 +2320,14 @@
     "paper_count": 4
   },
   {
+    "id": "https://openalex.org/I211433327",
+    "name": "Ministry of Natural Resources",
+    "lat": 39.9075,
+    "lng": 116.39723,
+    "country_code": "CN",
+    "paper_count": 4
+  },
+  {
     "id": "https://openalex.org/I21250087",
     "name": "Charles University",
     "lat": 50.08804,
@@ -3228,14 +3236,6 @@
     "name": "Nankai University",
     "lat": 39.14221954345703,
     "lng": 117.17666625976562,
-    "country_code": "CN",
-    "paper_count": 3
-  },
-  {
-    "id": "https://openalex.org/I211433327",
-    "name": "Ministry of Natural Resources",
-    "lat": 39.9075,
-    "lng": 116.39723,
     "country_code": "CN",
     "paper_count": 3
   },
