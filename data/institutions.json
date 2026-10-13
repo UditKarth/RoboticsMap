@@ -13,7 +13,7 @@
     "lat": 48.85341,
     "lng": 2.3488,
     "country_code": "FR",
-    "paper_count": 48
+    "paper_count": 49
   },
   {
     "id": "https://openalex.org/I4210165038",
@@ -48,19 +48,19 @@
     "paper_count": 22
   },
   {
-    "id": "https://openalex.org/I35440088",
-    "name": "ETH Zurich",
-    "lat": 47.36667,
-    "lng": 8.55,
-    "country_code": "CH",
-    "paper_count": 20
-  },
-  {
     "id": "https://openalex.org/I4210166444",
     "name": "Institut de Recherche pour le D\u00e9veloppement",
     "lat": 43.29695,
     "lng": 5.38107,
     "country_code": "FR",
+    "paper_count": 21
+  },
+  {
+    "id": "https://openalex.org/I35440088",
+    "name": "ETH Zurich",
+    "lat": 47.36667,
+    "lng": 8.55,
+    "country_code": "CH",
     "paper_count": 20
   },
   {
@@ -408,6 +408,14 @@
     "paper_count": 10
   },
   {
+    "id": "https://openalex.org/I277688954",
+    "name": "Universit\u00e9 Paris-Saclay",
+    "lat": 48.68333,
+    "lng": 2.13333,
+    "country_code": "FR",
+    "paper_count": 10
+  },
+  {
     "id": "https://openalex.org/I2801030728",
     "name": "German Centre for Integrative Biodiversity Research",
     "lat": 51.33962,
@@ -493,14 +501,6 @@
     "lat": 52.2,
     "lng": 0.11667,
     "country_code": "GB",
-    "paper_count": 9
-  },
-  {
-    "id": "https://openalex.org/I277688954",
-    "name": "Universit\u00e9 Paris-Saclay",
-    "lat": 48.68333,
-    "lng": 2.13333,
-    "country_code": "FR",
     "paper_count": 9
   },
   {
@@ -5837,6 +5837,14 @@
     "lat": 47.36667,
     "lng": 8.55,
     "country_code": "CH",
+    "paper_count": 2
+  },
+  {
+    "id": "https://openalex.org/I4210095118",
+    "name": "Centre de Recherche en Neurosciences de Lyon",
+    "lat": 45.73865,
+    "lng": 4.91303,
+    "country_code": "FR",
     "paper_count": 2
   },
   {
@@ -13528,6 +13536,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I4210086740",
+    "name": "Institut des Neurosciences Paris-Saclay",
+    "lat": 48.7326,
+    "lng": 2.16923,
+    "country_code": "FR",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I4210086933",
     "name": "NYU Langone Health",
     "lat": 40.714271545410156,
@@ -14200,14 +14216,6 @@
     "paper_count": 1
   },
   {
-    "id": "https://openalex.org/I4210095118",
-    "name": "Centre de Recherche en Neurosciences de Lyon",
-    "lat": 45.73865,
-    "lng": 4.91303,
-    "country_code": "FR",
-    "paper_count": 1
-  },
-  {
     "id": "https://openalex.org/I4210095140",
     "name": "National Institute of Environmental Health Sciences",
     "lat": 35.88383102416992,
@@ -14549,6 +14557,14 @@
     "lat": 57.166561126708984,
     "lng": 65.51362609863281,
     "country_code": "RU",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4210100071",
+    "name": "\u00c9volution, G\u00e9nomes, Comportement, \u00c9cologie",
+    "lat": 48.85341,
+    "lng": 2.3488,
+    "country_code": "FR",
     "paper_count": 1
   },
   {
@@ -19992,6 +20008,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I4405259976",
+    "name": "Universit\u00e9 Jean Monnet",
+    "lat": 45.43389,
+    "lng": 4.39,
+    "country_code": "FR",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I4405260297",
     "name": "Bioeconomy Science Institute",
     "lat": -36.8582,
@@ -21892,6 +21916,14 @@
     "name": "University of Cincinnati Medical Center",
     "lat": 39.13043975830078,
     "lng": -84.52094268798828,
+    "country_code": "US",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I926137907",
+    "name": "Marist University",
+    "lat": 41.66981,
+    "lng": -73.90703,
     "country_code": "US",
     "paper_count": 1
   },
