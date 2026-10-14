@@ -3392,6 +3392,14 @@
     "paper_count": 3
   },
   {
+    "id": "https://openalex.org/I41125697",
+    "name": "AgResearch",
+    "lat": -43.65,
+    "lng": 172.48333,
+    "country_code": "NZ",
+    "paper_count": 3
+  },
+  {
     "id": "https://openalex.org/I4210086490",
     "name": "Mercator Research Institute on Global Commons and Climate Change",
     "lat": 52.48136520385742,
@@ -5464,6 +5472,14 @@
     "paper_count": 2
   },
   {
+    "id": "https://openalex.org/I2801711128",
+    "name": "Swedish Museum of Natural History",
+    "lat": 59.32938003540039,
+    "lng": 18.068710327148438,
+    "country_code": "SE",
+    "paper_count": 2
+  },
+  {
     "id": "https://openalex.org/I2801997990",
     "name": "Japan Meteorological Agency",
     "lat": 35.68949890136719,
@@ -5685,14 +5701,6 @@
     "lat": 47.06666946411133,
     "lng": 15.449999809265137,
     "country_code": "AT",
-    "paper_count": 2
-  },
-  {
-    "id": "https://openalex.org/I41125697",
-    "name": "AgResearch",
-    "lat": -43.65,
-    "lng": 172.48333,
-    "country_code": "NZ",
     "paper_count": 2
   },
   {
@@ -7093,6 +7101,14 @@
     "lat": 36.06488037109375,
     "lng": 120.38041687011719,
     "country_code": "CN",
+    "paper_count": 2
+  },
+  {
+    "id": "https://openalex.org/I80281795",
+    "name": "University of Otago",
+    "lat": -45.87416,
+    "lng": 170.50361,
+    "country_code": "NZ",
     "paper_count": 2
   },
   {
@@ -12389,14 +12405,6 @@
     "lat": -33.839019775390625,
     "lng": 151.23956298828125,
     "country_code": "AU",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I2801711128",
-    "name": "Swedish Museum of Natural History",
-    "lat": 59.32938003540039,
-    "lng": 18.068710327148438,
-    "country_code": "SE",
     "paper_count": 1
   },
   {
@@ -19928,6 +19936,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I4405252970",
+    "name": "Institute for Chemistry and Biology of the Marine Environment",
+    "lat": 53.14118,
+    "lng": 8.21467,
+    "country_code": "DE",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I4405254927",
     "name": "Instituto de Biodiversidad de Ecosistemas Ant\u00e1rticos y Subant\u00e1rticos",
     "lat": -33.45694,
@@ -21365,14 +21381,6 @@
     "lat": 37.98704147338867,
     "lng": -1.1300400495529175,
     "country_code": "ES",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I80281795",
-    "name": "University of Otago",
-    "lat": -45.87416,
-    "lng": 170.50361,
-    "country_code": "NZ",
     "paper_count": 1
   },
   {
