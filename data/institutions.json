@@ -1920,6 +1920,14 @@
     "paper_count": 4
   },
   {
+    "id": "https://openalex.org/I103635307",
+    "name": "University of California, Riverside",
+    "lat": 33.95335,
+    "lng": -117.39616,
+    "country_code": "US",
+    "paper_count": 4
+  },
+  {
     "id": "https://openalex.org/I107606265",
     "name": "Broad Institute",
     "lat": 42.3751,
@@ -2664,14 +2672,6 @@
     "paper_count": 3
   },
   {
-    "id": "https://openalex.org/I103635307",
-    "name": "University of California, Riverside",
-    "lat": 33.95335,
-    "lng": -117.39616,
-    "country_code": "US",
-    "paper_count": 3
-  },
-  {
     "id": "https://openalex.org/I106157433",
     "name": "University of Kassel",
     "lat": 51.31667,
@@ -3133,6 +3133,14 @@
     "lat": 37.86943817138672,
     "lng": 112.5602798461914,
     "country_code": "CN",
+    "paper_count": 3
+  },
+  {
+    "id": "https://openalex.org/I182534213",
+    "name": "Universidade do Porto",
+    "lat": 41.1485,
+    "lng": -8.61097,
+    "country_code": "PT",
     "paper_count": 3
   },
   {
@@ -5040,14 +5048,6 @@
     "paper_count": 2
   },
   {
-    "id": "https://openalex.org/I182534213",
-    "name": "Universidade do Porto",
-    "lat": 41.1485,
-    "lng": -8.61097,
-    "country_code": "PT",
-    "paper_count": 2
-  },
-  {
     "id": "https://openalex.org/I184558857",
     "name": "Royal Holloway University of London",
     "lat": 51.43157958984375,
@@ -6685,6 +6685,14 @@
     "lat": 38.58156967163086,
     "lng": -121.49440002441406,
     "country_code": "US",
+    "paper_count": 2
+  },
+  {
+    "id": "https://openalex.org/I4387153601",
+    "name": "Centro Interdisciplinar de Investiga\u00e7\u00e3o Marinha e Ambiental",
+    "lat": 41.14960861206055,
+    "lng": -8.610989570617676,
+    "country_code": "",
     "paper_count": 2
   },
   {
@@ -10284,6 +10292,14 @@
     "name": "University of North Carolina at Greensboro",
     "lat": 36.07263946533203,
     "lng": -79.79197692871094,
+    "country_code": "US",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I169521973",
+    "name": "University of New Mexico",
+    "lat": 35.08449,
+    "lng": -106.65114,
     "country_code": "US",
     "paper_count": 1
   },
@@ -17656,6 +17672,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I4210142087",
+    "name": "Institut Pasteur de Tunis",
+    "lat": 36.81897,
+    "lng": 10.16579,
+    "country_code": "TN",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I4210142220",
     "name": "National Institute of Health Dr. Ricardo Jorge",
     "lat": 38.764564514160156,
@@ -17829,6 +17853,14 @@
     "lat": 31.233810424804688,
     "lng": 121.4423828125,
     "country_code": "CN",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4210144488",
+    "name": "Institut National des Sciences et Technologies de la Mer",
+    "lat": 36.84196,
+    "lng": 10.32274,
+    "country_code": "TN",
     "paper_count": 1
   },
   {
@@ -19504,14 +19536,6 @@
     "paper_count": 1
   },
   {
-    "id": "https://openalex.org/I4387153601",
-    "name": "Centro Interdisciplinar de Investiga\u00e7\u00e3o Marinha e Ambiental",
-    "lat": 41.14960861206055,
-    "lng": -8.610989570617676,
-    "country_code": "",
-    "paper_count": 1
-  },
-  {
     "id": "https://openalex.org/I4387154021",
     "name": "Alanya Alaaddin Keykubat \u00dcniversitesi",
     "lat": 36.54375076293945,
@@ -20109,6 +20133,14 @@
     "lat": 18.98878,
     "lng": 73.11013,
     "country_code": "IN",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4405263123",
+    "name": "Instituto de Ci\u00eancias Biom\u00e9dicas Albel Salazar",
+    "lat": 41.1485,
+    "lng": -8.61097,
+    "country_code": "PT",
     "paper_count": 1
   },
   {
