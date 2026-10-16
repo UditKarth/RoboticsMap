@@ -496,6 +496,14 @@
     "paper_count": 9
   },
   {
+    "id": "https://openalex.org/I212119943",
+    "name": "University of Victoria",
+    "lat": 48.4359,
+    "lng": -123.35155,
+    "country_code": "CA",
+    "paper_count": 9
+  },
+  {
     "id": "https://openalex.org/I241749",
     "name": "University of Cambridge",
     "lat": 52.2,
@@ -765,14 +773,6 @@
     "lat": 50.08804,
     "lng": 14.42076,
     "country_code": "CZ",
-    "paper_count": 8
-  },
-  {
-    "id": "https://openalex.org/I212119943",
-    "name": "University of Victoria",
-    "lat": 48.4359,
-    "lng": -123.35155,
-    "country_code": "CA",
     "paper_count": 8
   },
   {
@@ -1096,6 +1096,14 @@
     "paper_count": 7
   },
   {
+    "id": "https://openalex.org/I84884186",
+    "name": "Newcastle University",
+    "lat": 54.97328,
+    "lng": -1.61396,
+    "country_code": "GB",
+    "paper_count": 7
+  },
+  {
     "id": "https://openalex.org/I881766915",
     "name": "Nanjing University",
     "lat": 32.061668395996094,
@@ -1125,6 +1133,14 @@
     "lat": 32.061668395996094,
     "lng": 118.77777862548828,
     "country_code": "CN",
+    "paper_count": 6
+  },
+  {
+    "id": "https://openalex.org/I1280640908",
+    "name": "The Nature Conservancy",
+    "lat": 38.88100814819336,
+    "lng": -77.10427856445312,
+    "country_code": "US",
     "paper_count": 6
   },
   {
@@ -1368,14 +1384,6 @@
     "paper_count": 6
   },
   {
-    "id": "https://openalex.org/I84884186",
-    "name": "Newcastle University",
-    "lat": 54.97328,
-    "lng": -1.61396,
-    "country_code": "GB",
-    "paper_count": 6
-  },
-  {
     "id": "https://openalex.org/I86467917",
     "name": "James Cook University",
     "lat": -19.26639,
@@ -1421,14 +1429,6 @@
     "lat": -22.90641975402832,
     "lng": -43.18223190307617,
     "country_code": "BR",
-    "paper_count": 5
-  },
-  {
-    "id": "https://openalex.org/I1280640908",
-    "name": "The Nature Conservancy",
-    "lat": 38.88100814819336,
-    "lng": -77.10427856445312,
-    "country_code": "US",
     "paper_count": 5
   },
   {
@@ -15832,6 +15832,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I4210117821",
+    "name": "Palau International Coral Reef Center",
+    "lat": 7.338753700256348,
+    "lng": 134.4659423828125,
+    "country_code": "PW",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I4210118295",
     "name": "Isparta University of Applied Sciences",
     "lat": 37.76443862915039,
@@ -20045,6 +20053,14 @@
     "lat": 37.27611,
     "lng": 49.58862,
     "country_code": "IR",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4405259864",
+    "name": "Tri-Chandra Multiple Campus",
+    "lat": 27.70169,
+    "lng": 85.3206,
+    "country_code": "NP",
     "paper_count": 1
   },
   {
