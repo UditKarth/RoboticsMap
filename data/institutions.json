@@ -192,6 +192,14 @@
     "paper_count": 14
   },
   {
+    "id": "https://openalex.org/I134820265",
+    "name": "Consejo Superior de Investigaciones Cient\u00edficas",
+    "lat": 40.4165,
+    "lng": -3.70256,
+    "country_code": "ES",
+    "paper_count": 13
+  },
+  {
     "id": "https://openalex.org/I135310074",
     "name": "University of Wisconsin\u2013Madison",
     "lat": 43.07305,
@@ -277,14 +285,6 @@
     "lat": 39.00455093383789,
     "lng": -76.87552642822266,
     "country_code": "US",
-    "paper_count": 12
-  },
-  {
-    "id": "https://openalex.org/I134820265",
-    "name": "Consejo Superior de Investigaciones Cient\u00edficas",
-    "lat": 40.4165,
-    "lng": -3.70256,
-    "country_code": "ES",
     "paper_count": 12
   },
   {
@@ -509,6 +509,14 @@
     "lat": 52.2,
     "lng": 0.11667,
     "country_code": "GB",
+    "paper_count": 9
+  },
+  {
+    "id": "https://openalex.org/I298625061",
+    "name": "Swedish University of Agricultural Sciences",
+    "lat": 59.858821868896484,
+    "lng": 17.63888931274414,
+    "country_code": "SE",
     "paper_count": 9
   },
   {
@@ -773,14 +781,6 @@
     "lat": 50.08804,
     "lng": 14.42076,
     "country_code": "CZ",
-    "paper_count": 8
-  },
-  {
-    "id": "https://openalex.org/I298625061",
-    "name": "Swedish University of Agricultural Sciences",
-    "lat": 59.858821868896484,
-    "lng": 17.63888931274414,
-    "country_code": "SE",
     "paper_count": 8
   },
   {
@@ -1432,6 +1432,14 @@
     "paper_count": 5
   },
   {
+    "id": "https://openalex.org/I123387679",
+    "name": "Uppsala University",
+    "lat": 59.85882,
+    "lng": 17.63889,
+    "country_code": "SE",
+    "paper_count": 5
+  },
+  {
     "id": "https://openalex.org/I1312222531",
     "name": "Agricultural Research Service",
     "lat": 38.895111083984375,
@@ -1880,6 +1888,14 @@
     "paper_count": 5
   },
   {
+    "id": "https://openalex.org/I90267481",
+    "name": "Ume\u00e5 University",
+    "lat": 63.82842,
+    "lng": 20.25972,
+    "country_code": "SE",
+    "paper_count": 5
+  },
+  {
     "id": "https://openalex.org/I926574661",
     "name": "Leipzig University",
     "lat": 51.33962,
@@ -2005,14 +2021,6 @@
     "lat": 41.4910888671875,
     "lng": 2.1407899856567383,
     "country_code": "ES",
-    "paper_count": 4
-  },
-  {
-    "id": "https://openalex.org/I123387679",
-    "name": "Uppsala University",
-    "lat": 59.85882,
-    "lng": 17.63889,
-    "country_code": "SE",
     "paper_count": 4
   },
   {
@@ -2629,14 +2637,6 @@
     "lat": 30.26715,
     "lng": -97.74306,
     "country_code": "US",
-    "paper_count": 4
-  },
-  {
-    "id": "https://openalex.org/I90267481",
-    "name": "Ume\u00e5 University",
-    "lat": 63.82842,
-    "lng": 20.25972,
-    "country_code": "SE",
     "paper_count": 4
   },
   {
@@ -4264,6 +4264,14 @@
     "paper_count": 2
   },
   {
+    "id": "https://openalex.org/I126601174",
+    "name": "Tezpur University",
+    "lat": 26.63333,
+    "lng": 92.8,
+    "country_code": "IN",
+    "paper_count": 2
+  },
+  {
     "id": "https://openalex.org/I126924076",
     "name": "Chongqing Normal University",
     "lat": 29.560260772705078,
@@ -4661,6 +4669,14 @@
     "lat": 41.03121,
     "lng": -73.92708,
     "country_code": "US",
+    "paper_count": 2
+  },
+  {
+    "id": "https://openalex.org/I152429107",
+    "name": "Jawaharlal Nehru University",
+    "lat": 28.621370315551758,
+    "lng": 77.21479797363281,
+    "country_code": "IN",
     "paper_count": 2
   },
   {
@@ -8336,14 +8352,6 @@
     "paper_count": 1
   },
   {
-    "id": "https://openalex.org/I126601174",
-    "name": "Tezpur University",
-    "lat": 26.63333,
-    "lng": 92.8,
-    "country_code": "IN",
-    "paper_count": 1
-  },
-  {
     "id": "https://openalex.org/I126860399",
     "name": "Charles Darwin Foundation",
     "lat": -0.7401800155639648,
@@ -9693,14 +9701,6 @@
     "lat": 36.668331146240234,
     "lng": 116.99722290039062,
     "country_code": "CN",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I152429107",
-    "name": "Jawaharlal Nehru University",
-    "lat": 28.621370315551758,
-    "lng": 77.21479797363281,
-    "country_code": "IN",
     "paper_count": 1
   },
   {
@@ -19592,6 +19592,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I4387154792",
+    "name": "National Bioinformatics Infrastructure Sweden",
+    "lat": 59.858821868896484,
+    "lng": 17.63888931274414,
+    "country_code": "",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I4387155127",
     "name": "Centre de recherche en pal\u00e9ontologie - Paris",
     "lat": 48.85341,
@@ -20629,6 +20637,14 @@
     "lat": 49.947818756103516,
     "lng": 11.578929901123047,
     "country_code": "DE",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I54021868",
+    "name": "Kerala Agricultural University",
+    "lat": 10.516670227050781,
+    "lng": 76.21666717529297,
+    "country_code": "IN",
     "paper_count": 1
   },
   {
