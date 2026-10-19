@@ -4176,6 +4176,14 @@
     "paper_count": 2
   },
   {
+    "id": "https://openalex.org/I113428412",
+    "name": "\u00c9cole Normale Sup\u00e9rieure de Lyon",
+    "lat": 45.74906,
+    "lng": 4.84789,
+    "country_code": "FR",
+    "paper_count": 2
+  },
+  {
     "id": "https://openalex.org/I114090438",
     "name": "Goethe University Frankfurt",
     "lat": 50.11552,
@@ -5624,6 +5632,14 @@
     "paper_count": 2
   },
   {
+    "id": "https://openalex.org/I32881790",
+    "name": "Universit\u00e9 de Poitiers",
+    "lat": 46.58261,
+    "lng": 0.34348,
+    "country_code": "FR",
+    "paper_count": 2
+  },
+  {
     "id": "https://openalex.org/I34034455",
     "name": "Ramakrishna Mission Vivekananda Educational and Research Institute",
     "lat": 22.56262969970703,
@@ -6205,6 +6221,14 @@
     "lat": 30.271240234375,
     "lng": 119.96514892578125,
     "country_code": "CN",
+    "paper_count": 2
+  },
+  {
+    "id": "https://openalex.org/I4210123595",
+    "name": "Mus\u00e9um national d'Histoire naturelle",
+    "lat": 48.85341,
+    "lng": 2.3488,
+    "country_code": "FR",
     "paper_count": 2
   },
   {
@@ -7877,14 +7901,6 @@
     "lat": 34.400001525878906,
     "lng": 132.4499969482422,
     "country_code": "JP",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I113428412",
-    "name": "\u00c9cole Normale Sup\u00e9rieure de Lyon",
-    "lat": 45.74906,
-    "lng": 4.84789,
-    "country_code": "FR",
     "paper_count": 1
   },
   {
@@ -13160,14 +13176,6 @@
     "paper_count": 1
   },
   {
-    "id": "https://openalex.org/I32881790",
-    "name": "Universit\u00e9 de Poitiers",
-    "lat": 46.58261,
-    "lng": 0.34348,
-    "country_code": "FR",
-    "paper_count": 1
-  },
-  {
     "id": "https://openalex.org/I33103891",
     "name": "Ardabil University of Medical Sciences",
     "lat": 38.214599609375,
@@ -16296,14 +16304,6 @@
     "paper_count": 1
   },
   {
-    "id": "https://openalex.org/I4210123595",
-    "name": "Mus\u00e9um national d'Histoire naturelle",
-    "lat": 48.85341,
-    "lng": 2.3488,
-    "country_code": "FR",
-    "paper_count": 1
-  },
-  {
     "id": "https://openalex.org/I4210123766",
     "name": "Jigjiga University",
     "lat": 9.358968734741211,
@@ -18616,6 +18616,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I4210155927",
+    "name": "Laboratoire de G\u00e9ologie de Lyon : Terre, Plan\u00e8tes et Environnement",
+    "lat": 45.74906,
+    "lng": 4.84789,
+    "country_code": "FR",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I4210155963",
     "name": "Western Digital (Netherlands)",
     "lat": 52.292625427246094,
@@ -20229,6 +20237,14 @@
     "lat": 9.93988,
     "lng": 76.26022,
     "country_code": "IN",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4405269557",
+    "name": "Laboratoire Pal\u00e9ontologie \u00c9volution Pal\u00e9o\u00e9cosyst\u00e8mes Pal\u00e9oprimatologie",
+    "lat": 46.58261,
+    "lng": 0.34348,
+    "country_code": "FR",
     "paper_count": 1
   },
   {
