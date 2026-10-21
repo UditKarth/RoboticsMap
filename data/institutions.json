@@ -144,6 +144,14 @@
     "paper_count": 15
   },
   {
+    "id": "https://openalex.org/I99065089",
+    "name": "Tsinghua University",
+    "lat": 39.9075,
+    "lng": 116.39723,
+    "country_code": "CN",
+    "paper_count": 15
+  },
+  {
     "id": "https://openalex.org/I118564535",
     "name": "University of Bern",
     "lat": 46.94809,
@@ -180,14 +188,6 @@
     "name": "Peking University",
     "lat": 39.907501220703125,
     "lng": 116.39723205566406,
-    "country_code": "CN",
-    "paper_count": 14
-  },
-  {
-    "id": "https://openalex.org/I99065089",
-    "name": "Tsinghua University",
-    "lat": 39.9075,
-    "lng": 116.39723,
     "country_code": "CN",
     "paper_count": 14
   },
@@ -816,6 +816,14 @@
     "paper_count": 8
   },
   {
+    "id": "https://openalex.org/I61057504",
+    "name": "Fujian Agriculture and Forestry University",
+    "lat": 26.061389923095703,
+    "lng": 119.30610656738281,
+    "country_code": "CN",
+    "paper_count": 8
+  },
+  {
     "id": "https://openalex.org/I76130692",
     "name": "Zhejiang University",
     "lat": 30.29365,
@@ -1053,14 +1061,6 @@
     "lat": 51.50853,
     "lng": -0.12574,
     "country_code": "GB",
-    "paper_count": 7
-  },
-  {
-    "id": "https://openalex.org/I61057504",
-    "name": "Fujian Agriculture and Forestry University",
-    "lat": 26.061389923095703,
-    "lng": 119.30610656738281,
-    "country_code": "CN",
     "paper_count": 7
   },
   {
@@ -1517,6 +1517,14 @@
     "lat": 43.4668,
     "lng": -80.51639,
     "country_code": "CA",
+    "paper_count": 5
+  },
+  {
+    "id": "https://openalex.org/I154130895",
+    "name": "University of Auckland",
+    "lat": -36.84853,
+    "lng": 174.76349,
+    "country_code": "NZ",
     "paper_count": 5
   },
   {
@@ -2192,14 +2200,6 @@
     "paper_count": 4
   },
   {
-    "id": "https://openalex.org/I154130895",
-    "name": "University of Auckland",
-    "lat": -36.84853,
-    "lng": 174.76349,
-    "country_code": "NZ",
-    "paper_count": 4
-  },
-  {
     "id": "https://openalex.org/I154570441",
     "name": "University of California, Santa Barbara",
     "lat": 34.42083,
@@ -2517,6 +2517,14 @@
     "lat": 18.32860565185547,
     "lng": 109.55880737304688,
     "country_code": "CN",
+    "paper_count": 4
+  },
+  {
+    "id": "https://openalex.org/I4210150845",
+    "name": "Department of Biodiversity, Conservation and Attractions",
+    "lat": -31.996131896972656,
+    "lng": 115.88388061523438,
+    "country_code": "AU",
     "paper_count": 4
   },
   {
@@ -3672,14 +3680,6 @@
     "paper_count": 3
   },
   {
-    "id": "https://openalex.org/I4210150845",
-    "name": "Department of Biodiversity, Conservation and Attractions",
-    "lat": -31.996131896972656,
-    "lng": 115.88388061523438,
-    "country_code": "AU",
-    "paper_count": 3
-  },
-  {
     "id": "https://openalex.org/I4210152006",
     "name": "Jilin Agricultural University",
     "lat": 43.880001068115234,
@@ -4013,6 +4013,14 @@
     "lat": 37.21807,
     "lng": 28.3665,
     "country_code": "TR",
+    "paper_count": 3
+  },
+  {
+    "id": "https://openalex.org/I80281795",
+    "name": "University of Otago",
+    "lat": -45.87416,
+    "lng": 170.50361,
+    "country_code": "NZ",
     "paper_count": 3
   },
   {
@@ -7152,14 +7160,6 @@
     "paper_count": 2
   },
   {
-    "id": "https://openalex.org/I80281795",
-    "name": "University of Otago",
-    "lat": -45.87416,
-    "lng": 170.50361,
-    "country_code": "NZ",
-    "paper_count": 2
-  },
-  {
     "id": "https://openalex.org/I80606768",
     "name": "Universidad de Extremadura",
     "lat": 38.877891540527344,
@@ -7181,6 +7181,14 @@
     "lat": -18.91861,
     "lng": -48.27722,
     "country_code": "BR",
+    "paper_count": 2
+  },
+  {
+    "id": "https://openalex.org/I80947539",
+    "name": "Fuzhou University",
+    "lat": 26.061389923095703,
+    "lng": 119.30610656738281,
+    "country_code": "CN",
     "paper_count": 2
   },
   {
@@ -11749,6 +11757,14 @@
     "lat": 26.32539,
     "lng": 89.44508,
     "country_code": "IN",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I262074209",
+    "name": "Ministry for Primary Industries",
+    "lat": -41.28664016723633,
+    "lng": 174.77557373046875,
+    "country_code": "NZ",
     "paper_count": 1
   },
   {
@@ -18192,6 +18208,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I4210149962",
+    "name": "Sanming University",
+    "lat": 26.24861,
+    "lng": 117.61861,
+    "country_code": "CN",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I4210150117",
     "name": "Landesuntersuchungsamt Rheinland-Pfalz",
     "lat": 50.35356903076172,
@@ -20896,6 +20920,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I63548447",
+    "name": "Lappeenranta-Lahti University of Technology",
+    "lat": 61.05871,
+    "lng": 28.18871,
+    "country_code": "FI",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I63634437",
     "name": "Universidad Aut\u00f3noma de Madrid",
     "lat": 40.4165,
@@ -21485,14 +21517,6 @@
     "lat": 12.326629638671875,
     "lng": 76.61337280273438,
     "country_code": "IN",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I80947539",
-    "name": "Fuzhou University",
-    "lat": 26.061389923095703,
-    "lng": 119.30610656738281,
-    "country_code": "CN",
     "paper_count": 1
   },
   {
