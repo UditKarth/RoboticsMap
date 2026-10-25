@@ -20392,6 +20392,54 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I4405286207",
+    "name": "Institute of Plant Science and Resources, Okayama University",
+    "lat": 34.58333,
+    "lng": 133.76667,
+    "country_code": "JP",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4405286245",
+    "name": "Research Institute of Disaster Medicine, Chiba University",
+    "lat": 35.6,
+    "lng": 140.11667,
+    "country_code": "JP",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4405287066",
+    "name": "Synergy Institute for Futuristic Mucosal Vaccine Research and Development, Chiba University",
+    "lat": 35.6,
+    "lng": 140.11667,
+    "country_code": "JP",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4405287243",
+    "name": "Institute of Tropical Medicine, Nagasaki University",
+    "lat": 32.75,
+    "lng": 129.88333,
+    "country_code": "JP",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4405287420",
+    "name": "Center for Living Systems Information Science, Kyoto University",
+    "lat": 35.02107,
+    "lng": 135.75385,
+    "country_code": "JP",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4405287524",
+    "name": "Medical Mycology Research Center, Chiba University",
+    "lat": 35.6,
+    "lng": 140.11667,
+    "country_code": "JP",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I44461941",
     "name": "University of Houston",
     "lat": 29.763280868530273,
