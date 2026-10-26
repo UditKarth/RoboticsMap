@@ -1152,6 +1152,14 @@
     "paper_count": 6
   },
   {
+    "id": "https://openalex.org/I132053463",
+    "name": "Universit\u00e9 Libre de Bruxelles",
+    "lat": 50.85044860839844,
+    "lng": 4.348780155181885,
+    "country_code": "BE",
+    "paper_count": 6
+  },
+  {
     "id": "https://openalex.org/I1334627681",
     "name": "Jet Propulsion Laboratory",
     "lat": 34.14778,
@@ -1445,14 +1453,6 @@
     "lat": 38.895111083984375,
     "lng": -77.03636932373047,
     "country_code": "US",
-    "paper_count": 5
-  },
-  {
-    "id": "https://openalex.org/I132053463",
-    "name": "Universit\u00e9 Libre de Bruxelles",
-    "lat": 50.85044860839844,
-    "lng": 4.348780155181885,
-    "country_code": "BE",
     "paper_count": 5
   },
   {
@@ -12712,6 +12712,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I2803024705",
+    "name": "Westmead Hospital",
+    "lat": -33.86785,
+    "lng": 151.20732,
+    "country_code": "AU",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I2803026322",
     "name": "Centre for Process Innovation",
     "lat": 54.571510314941406,
@@ -20080,6 +20088,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I4405257431",
+    "name": "Centro de Matem\u00e1tica",
+    "lat": 41.55032,
+    "lng": -8.42005,
+    "country_code": "PT",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I4405258363",
     "name": "Institute of Evolution",
     "lat": 47.49835,
@@ -20184,6 +20200,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I4405261575",
+    "name": "Unidade Local de Sa\u00fade Gaia/Espinho",
+    "lat": 41.12401,
+    "lng": -8.61241,
+    "country_code": "PT",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I4405262953",
     "name": "Amity University Mumbai",
     "lat": 18.98878,
@@ -20245,6 +20269,14 @@
     "lat": 17.33583,
     "lng": 76.83757,
     "country_code": "IN",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4405268573",
+    "name": "Institute of Public Health, University of Porto",
+    "lat": 41.1485,
+    "lng": -8.61097,
+    "country_code": "PT",
     "paper_count": 1
   },
   {
