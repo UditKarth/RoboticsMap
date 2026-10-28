@@ -20416,6 +20416,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I4405282834",
+    "name": "Embrapa Amap\u00e1",
+    "lat": 0.03889,
+    "lng": -51.06639,
+    "country_code": "BR",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I4405283400",
     "name": "Embrapa Cerrados",
     "lat": -15.61791,
