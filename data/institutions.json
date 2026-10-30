@@ -1616,6 +1616,14 @@
     "paper_count": 5
   },
   {
+    "id": "https://openalex.org/I211433327",
+    "name": "Ministry of Natural Resources",
+    "lat": 39.9075,
+    "lng": 116.39723,
+    "country_code": "CN",
+    "paper_count": 5
+  },
+  {
     "id": "https://openalex.org/I24057909",
     "name": "Bangladesh Agricultural University",
     "lat": 24.756359100341797,
@@ -2341,14 +2349,6 @@
     "lat": -15.71048641204834,
     "lng": -47.90955352783203,
     "country_code": "BR",
-    "paper_count": 4
-  },
-  {
-    "id": "https://openalex.org/I211433327",
-    "name": "Ministry of Natural Resources",
-    "lat": 39.9075,
-    "lng": 116.39723,
-    "country_code": "CN",
     "paper_count": 4
   },
   {
