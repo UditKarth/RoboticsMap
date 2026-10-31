@@ -2616,6 +2616,14 @@
     "paper_count": 4
   },
   {
+    "id": "https://openalex.org/I70900168",
+    "name": "Universit\u00e9 Savoie Mont Blanc",
+    "lat": 45.56628,
+    "lng": 5.92079,
+    "country_code": "FR",
+    "paper_count": 4
+  },
+  {
     "id": "https://openalex.org/I78037679",
     "name": "UiT The Arctic University of Norway",
     "lat": 69.6489,
@@ -3949,14 +3957,6 @@
     "lat": 49.59552,
     "lng": 17.25175,
     "country_code": "CZ",
-    "paper_count": 3
-  },
-  {
-    "id": "https://openalex.org/I70900168",
-    "name": "Universit\u00e9 Savoie Mont Blanc",
-    "lat": 45.56628,
-    "lng": 5.92079,
-    "country_code": "FR",
     "paper_count": 3
   },
   {
@@ -18077,6 +18077,14 @@
     "lat": 35.309326171875,
     "lng": 113.9285659790039,
     "country_code": "CN",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4210147278",
+    "name": "Centre de Biologie pour la Gestion des Populations",
+    "lat": 43.66806,
+    "lng": 3.85686,
+    "country_code": "FR",
     "paper_count": 1
   },
   {
