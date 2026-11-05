@@ -112,6 +112,14 @@
     "paper_count": 17
   },
   {
+    "id": "https://openalex.org/I17974374",
+    "name": "Universidade de S\u00e3o Paulo",
+    "lat": -23.5475,
+    "lng": -46.63611,
+    "country_code": "BR",
+    "paper_count": 16
+  },
+  {
     "id": "https://openalex.org/I205783295",
     "name": "Cornell University",
     "lat": 42.44063,
@@ -133,14 +141,6 @@
     "lat": 44.97997,
     "lng": -93.26384,
     "country_code": "US",
-    "paper_count": 15
-  },
-  {
-    "id": "https://openalex.org/I17974374",
-    "name": "Universidade de S\u00e3o Paulo",
-    "lat": -23.5475,
-    "lng": -46.63611,
-    "country_code": "BR",
     "paper_count": 15
   },
   {
@@ -448,6 +448,14 @@
     "paper_count": 10
   },
   {
+    "id": "https://openalex.org/I4210154168",
+    "name": "Max Planck Institute for Biogeochemistry",
+    "lat": 50.92877960205078,
+    "lng": 11.589900016784668,
+    "country_code": "DE",
+    "paper_count": 10
+  },
+  {
     "id": "https://openalex.org/I5681781",
     "name": "The University of Adelaide",
     "lat": -34.92866,
@@ -549,14 +557,6 @@
     "lat": 39.907501220703125,
     "lng": 116.39723205566406,
     "country_code": "CN",
-    "paper_count": 9
-  },
-  {
-    "id": "https://openalex.org/I4210154168",
-    "name": "Max Planck Institute for Biogeochemistry",
-    "lat": 50.92877960205078,
-    "lng": 11.589900016784668,
-    "country_code": "DE",
     "paper_count": 9
   },
   {
@@ -2432,6 +2432,14 @@
     "paper_count": 4
   },
   {
+    "id": "https://openalex.org/I315704651",
+    "name": "Leibniz Association",
+    "lat": 52.52437,
+    "lng": 13.41053,
+    "country_code": "DE",
+    "paper_count": 4
+  },
+  {
     "id": "https://openalex.org/I4210087915",
     "name": "Massachusetts General Hospital",
     "lat": 42.358428955078125,
@@ -2853,6 +2861,14 @@
     "lat": 52.2,
     "lng": 0.11667,
     "country_code": "GB",
+    "paper_count": 3
+  },
+  {
+    "id": "https://openalex.org/I130343225",
+    "name": "Universiti Putra Malaysia",
+    "lat": 3.03333,
+    "lng": 101.71667,
+    "country_code": "MY",
     "paper_count": 3
   },
   {
@@ -3397,14 +3413,6 @@
     "lat": 30.583330154418945,
     "lng": 114.26667022705078,
     "country_code": "CN",
-    "paper_count": 3
-  },
-  {
-    "id": "https://openalex.org/I315704651",
-    "name": "Leibniz Association",
-    "lat": 52.52437,
-    "lng": 13.41053,
-    "country_code": "DE",
     "paper_count": 3
   },
   {
@@ -4392,14 +4400,6 @@
     "paper_count": 2
   },
   {
-    "id": "https://openalex.org/I130343225",
-    "name": "Universiti Putra Malaysia",
-    "lat": 3.03333,
-    "lng": 101.71667,
-    "country_code": "MY",
-    "paper_count": 2
-  },
-  {
     "id": "https://openalex.org/I1304608119",
     "name": "Bermuda Institute of Ocean Sciences",
     "lat": 32.38167190551758,
@@ -5125,6 +5125,14 @@
     "lat": 26.83928,
     "lng": 80.92313,
     "country_code": "IN",
+    "paper_count": 2
+  },
+  {
+    "id": "https://openalex.org/I187079419",
+    "name": "Instituto Nacional de Pesquisas da Amaz\u00f4nia",
+    "lat": -3.10194,
+    "lng": -60.025,
+    "country_code": "BR",
     "paper_count": 2
   },
   {
@@ -8136,6 +8144,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I119896790",
+    "name": "Sebelas Maret University",
+    "lat": -7.561408042907715,
+    "lng": 110.85578155517578,
+    "country_code": "ID",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I119916105",
     "name": "Augsburg University",
     "lat": 44.9799690246582,
@@ -9800,6 +9816,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I153975220",
+    "name": "Kenyatta University",
+    "lat": -1.283329963684082,
+    "lng": 36.81666946411133,
+    "country_code": "KE",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I155419210",
     "name": "Islamic Azad University, Science and Research Branch",
     "lat": 35.782569885253906,
@@ -10197,6 +10221,14 @@
     "lat": -7.801390171051025,
     "lng": 110.3647232055664,
     "country_code": "ID",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I165390105",
+    "name": "University of South Africa",
+    "lat": -25.74486,
+    "lng": 28.18783,
+    "country_code": "ZA",
     "paper_count": 1
   },
   {
@@ -10792,14 +10824,6 @@
     "paper_count": 1
   },
   {
-    "id": "https://openalex.org/I187079419",
-    "name": "Instituto Nacional de Pesquisas da Amaz\u00f4nia",
-    "lat": -3.10194,
-    "lng": -60.025,
-    "country_code": "BR",
-    "paper_count": 1
-  },
-  {
     "id": "https://openalex.org/I187272911",
     "name": "Wetlands International",
     "lat": 52.02146911621094,
@@ -10941,6 +10965,14 @@
     "lat": -26.20227,
     "lng": 28.04363,
     "country_code": "ZA",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I193073490",
+    "name": "Siksha O Anusandhan University",
+    "lat": 20.27241,
+    "lng": 85.83385,
+    "country_code": "IN",
     "paper_count": 1
   },
   {
@@ -13832,6 +13864,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I4210089074",
+    "name": "Coconut Research Institute",
+    "lat": 7.354852199554443,
+    "lng": 79.87273406982422,
+    "country_code": "LK",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I4210089209",
     "name": "Japan International Research Center for Agricultural Sciences",
     "lat": 36.20000076293945,
@@ -14013,6 +14053,14 @@
     "lat": 39.58977508544922,
     "lng": -0.39518898725509644,
     "country_code": "ES",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4210091513",
+    "name": "Bangladesh Wheat and Maize Research Institute",
+    "lat": 25.746702194213867,
+    "lng": 88.67201232910156,
+    "country_code": "BD",
     "paper_count": 1
   },
   {
@@ -19024,6 +19072,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I4210160095",
+    "name": "Universitas Islam Malang",
+    "lat": -7.9797,
+    "lng": 112.6304,
+    "country_code": "ID",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I4210160307",
     "name": "Ministry of Agriculture and Forests",
     "lat": 27.486297607421875,
@@ -20621,6 +20677,14 @@
     "lat": 40.5142,
     "lng": -88.99063,
     "country_code": "US",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I47639616",
+    "name": "Centurion University of Technology and Management",
+    "lat": 20.272409439086914,
+    "lng": 85.83384704589844,
+    "country_code": "IN",
     "paper_count": 1
   },
   {

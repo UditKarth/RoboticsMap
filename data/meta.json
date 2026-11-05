@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-11-04",
-  "total_papers": 1179,
-  "total_institutions": 2789,
+  "last_updated": "2026-11-05",
+  "total_papers": 1184,
+  "total_institutions": 2797,
   "date_range": {
     "from": "2018-01-01",
     "to": "2026-01-01"
@@ -21,7 +21,7 @@
     },
     {
       "country_code": "DE",
-      "paper_count": 131
+      "paper_count": 132
     },
     {
       "country_code": "AU",
@@ -57,7 +57,7 @@
     },
     {
       "country_code": "IN",
-      "paper_count": 56
+      "paper_count": 57
     },
     {
       "country_code": "JP",
@@ -65,7 +65,7 @@
     },
     {
       "country_code": "BR",
-      "paper_count": 52
+      "paper_count": 53
     },
     {
       "country_code": "BE",
@@ -108,11 +108,15 @@
       "paper_count": 20
     },
     {
-      "country_code": "FI",
+      "country_code": "BD",
+      "paper_count": 20
+    },
+    {
+      "country_code": "MY",
       "paper_count": 19
     },
     {
-      "country_code": "BD",
+      "country_code": "FI",
       "paper_count": 19
     },
     {
@@ -121,10 +125,6 @@
     },
     {
       "country_code": "NZ",
-      "paper_count": 18
-    },
-    {
-      "country_code": "MY",
       "paper_count": 18
     },
     {
@@ -168,12 +168,12 @@
       "paper_count": 11
     },
     {
-      "country_code": "GR",
+      "country_code": "ID",
       "paper_count": 11
     },
     {
-      "country_code": "ID",
-      "paper_count": 9
+      "country_code": "GR",
+      "paper_count": 11
     },
     {
       "country_code": "EE",
@@ -204,15 +204,15 @@
       "paper_count": 7
     },
     {
+      "country_code": "KE",
+      "paper_count": 7
+    },
+    {
       "country_code": "HU",
       "paper_count": 7
     },
     {
       "country_code": "MA",
-      "paper_count": 6
-    },
-    {
-      "country_code": "KE",
       "paper_count": 6
     },
     {
@@ -493,6 +493,10 @@
     },
     {
       "country_code": "LS",
+      "paper_count": 1
+    },
+    {
+      "country_code": "LK",
       "paper_count": 1
     },
     {
