@@ -472,6 +472,14 @@
     "paper_count": 10
   },
   {
+    "id": "https://openalex.org/I74656192",
+    "name": "University of G\u00f6ttingen",
+    "lat": 51.53443,
+    "lng": 9.93228,
+    "country_code": "DE",
+    "paper_count": 10
+  },
+  {
     "id": "https://openalex.org/I889458895",
     "name": "University of Hong Kong",
     "lat": 22.26861,
@@ -576,14 +584,6 @@
     "paper_count": 9
   },
   {
-    "id": "https://openalex.org/I74656192",
-    "name": "University of G\u00f6ttingen",
-    "lat": 51.53443,
-    "lng": 9.93228,
-    "country_code": "DE",
-    "paper_count": 9
-  },
-  {
     "id": "https://openalex.org/I74801974",
     "name": "The University of Tokyo",
     "lat": 35.68949890136719,
@@ -636,6 +636,14 @@
     "name": "Boston University",
     "lat": 42.35843,
     "lng": -71.05977,
+    "country_code": "US",
+    "paper_count": 8
+  },
+  {
+    "id": "https://openalex.org/I114027177",
+    "name": "University of North Carolina at Chapel Hill",
+    "lat": 35.9132,
+    "lng": -79.05584,
     "country_code": "US",
     "paper_count": 8
   },
@@ -784,6 +792,14 @@
     "paper_count": 8
   },
   {
+    "id": "https://openalex.org/I32971472",
+    "name": "Yale University",
+    "lat": 41.30815,
+    "lng": -72.92816,
+    "country_code": "US",
+    "paper_count": 8
+  },
+  {
     "id": "https://openalex.org/I4210103115",
     "name": "Xinjiang Institute of Ecology and Geography",
     "lat": 43.800960540771484,
@@ -877,14 +893,6 @@
     "lat": 52.627830505371094,
     "lng": 1.2983399629592896,
     "country_code": "GB",
-    "paper_count": 7
-  },
-  {
-    "id": "https://openalex.org/I114027177",
-    "name": "University of North Carolina at Chapel Hill",
-    "lat": 35.9132,
-    "lng": -79.05584,
-    "country_code": "US",
     "paper_count": 7
   },
   {
@@ -997,14 +1005,6 @@
     "lat": 53.48095,
     "lng": -2.23743,
     "country_code": "GB",
-    "paper_count": 7
-  },
-  {
-    "id": "https://openalex.org/I32971472",
-    "name": "Yale University",
-    "lat": 41.30815,
-    "lng": -72.92816,
-    "country_code": "US",
     "paper_count": 7
   },
   {
@@ -1268,6 +1268,14 @@
     "name": "Northern Arizona University",
     "lat": 35.19807052612305,
     "lng": -111.6512680053711,
+    "country_code": "US",
+    "paper_count": 6
+  },
+  {
+    "id": "https://openalex.org/I204465549",
+    "name": "Washington University in St. Louis",
+    "lat": 38.62727,
+    "lng": -90.19789,
     "country_code": "US",
     "paper_count": 6
   },
@@ -1581,14 +1589,6 @@
     "lat": 22.27832,
     "lng": 114.17469,
     "country_code": "HK",
-    "paper_count": 5
-  },
-  {
-    "id": "https://openalex.org/I204465549",
-    "name": "Washington University in St. Louis",
-    "lat": 38.62727,
-    "lng": -90.19789,
-    "country_code": "US",
     "paper_count": 5
   },
   {
@@ -2949,6 +2949,14 @@
     "lat": 50.85044860839844,
     "lng": 4.348780155181885,
     "country_code": "BE",
+    "paper_count": 3
+  },
+  {
+    "id": "https://openalex.org/I138689650",
+    "name": "University of Padua",
+    "lat": 45.40797,
+    "lng": 11.88586,
+    "country_code": "IT",
     "paper_count": 3
   },
   {
@@ -4589,14 +4597,6 @@
     "lat": 25.038890838623047,
     "lng": 102.71833038330078,
     "country_code": "CN",
-    "paper_count": 2
-  },
-  {
-    "id": "https://openalex.org/I138689650",
-    "name": "University of Padua",
-    "lat": 45.40797,
-    "lng": 11.88586,
-    "country_code": "IT",
     "paper_count": 2
   },
   {
@@ -13184,6 +13184,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I31512782",
+    "name": "Technische Universit\u00e4t Darmstadt",
+    "lat": 49.87167,
+    "lng": 8.65027,
+    "country_code": "DE",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I315729180",
     "name": "Noakhali Science and Technology University",
     "lat": 22.794092178344727,
@@ -13712,6 +13720,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I4210087465",
+    "name": "Veneto Institute of Molecular Medicine",
+    "lat": 45.4079704284668,
+    "lng": 11.885860443115234,
+    "country_code": "IT",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I4210087493",
     "name": "National Institute of Measurement and Testing Technology",
     "lat": 30.66667,
@@ -14021,6 +14037,14 @@
     "lat": 48.95833,
     "lng": 2.34167,
     "country_code": "FR",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4210091327",
+    "name": "Max Planck Institute for Mathematics in the Sciences",
+    "lat": 51.33961868286133,
+    "lng": 12.37129020690918,
+    "country_code": "DE",
     "paper_count": 1
   },
   {
@@ -14837,6 +14861,14 @@
     "lat": 51.2204704284668,
     "lng": 4.400259971618652,
     "country_code": "BE",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4210102282",
+    "name": "Universidad de Las Am\u00e9ricas",
+    "lat": -0.22984999418258667,
+    "lng": -78.52494812011719,
+    "country_code": "EC",
     "paper_count": 1
   },
   {
@@ -16661,6 +16693,14 @@
     "lat": 43.821048736572266,
     "lng": 87.60619354248047,
     "country_code": "CN",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4210126294",
+    "name": "Riga Stradi\u0146\u0161 University",
+    "lat": 56.946,
+    "lng": 24.10589,
+    "country_code": "LV",
     "paper_count": 1
   },
   {
@@ -21157,6 +21197,14 @@
     "lat": 7.377560138702393,
     "lng": 3.905910015106201,
     "country_code": "NG",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I64295750",
+    "name": "Indian Institute of Technology Indore",
+    "lat": 22.71792,
+    "lng": 75.8333,
+    "country_code": "IN",
     "paper_count": 1
   },
   {
