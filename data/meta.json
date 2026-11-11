@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-11-10",
-  "total_papers": 1194,
-  "total_institutions": 2805,
+  "last_updated": "2026-11-11",
+  "total_papers": 1199,
+  "total_institutions": 2812,
   "date_range": {
     "from": "2018-01-01",
     "to": "2026-01-01"
@@ -9,43 +9,43 @@
   "papers_by_country": [
     {
       "country_code": "US",
-      "paper_count": 320
+      "paper_count": 322
     },
     {
       "country_code": "CN",
-      "paper_count": 286
+      "paper_count": 287
     },
     {
       "country_code": "GB",
-      "paper_count": 158
+      "paper_count": 159
     },
     {
       "country_code": "DE",
-      "paper_count": 134
+      "paper_count": 136
     },
     {
       "country_code": "AU",
-      "paper_count": 114
+      "paper_count": 115
     },
     {
       "country_code": "CA",
-      "paper_count": 87
+      "paper_count": 88
     },
     {
       "country_code": "FR",
-      "paper_count": 82
+      "paper_count": 83
     },
     {
       "country_code": "NL",
-      "paper_count": 75
+      "paper_count": 76
     },
     {
       "country_code": "ES",
-      "paper_count": 75
+      "paper_count": 76
     },
     {
       "country_code": "IT",
-      "paper_count": 69
+      "paper_count": 70
     },
     {
       "country_code": "CH",
@@ -60,11 +60,11 @@
       "paper_count": 58
     },
     {
-      "country_code": "JP",
-      "paper_count": 53
+      "country_code": "BR",
+      "paper_count": 54
     },
     {
-      "country_code": "BR",
+      "country_code": "JP",
       "paper_count": 53
     },
     {
@@ -77,14 +77,18 @@
     },
     {
       "country_code": "DK",
-      "paper_count": 34
+      "paper_count": 35
     },
     {
       "country_code": "AT",
-      "paper_count": 29
+      "paper_count": 30
     },
     {
       "country_code": "ZA",
+      "paper_count": 26
+    },
+    {
+      "country_code": "CZ",
       "paper_count": 26
     },
     {
@@ -92,23 +96,19 @@
       "paper_count": 25
     },
     {
-      "country_code": "CZ",
-      "paper_count": 25
+      "country_code": "HK",
+      "paper_count": 23
     },
     {
       "country_code": "PK",
       "paper_count": 22
     },
     {
-      "country_code": "HK",
-      "paper_count": 22
+      "country_code": "BD",
+      "paper_count": 21
     },
     {
       "country_code": "KR",
-      "paper_count": 20
-    },
-    {
-      "country_code": "BD",
       "paper_count": 20
     },
     {
@@ -188,6 +188,10 @@
       "paper_count": 8
     },
     {
+      "country_code": "HU",
+      "paper_count": 8
+    },
+    {
       "country_code": "SG",
       "paper_count": 7
     },
@@ -208,7 +212,7 @@
       "paper_count": 7
     },
     {
-      "country_code": "HU",
+      "country_code": "CO",
       "paper_count": 7
     },
     {
@@ -221,10 +225,6 @@
     },
     {
       "country_code": "EC",
-      "paper_count": 6
-    },
-    {
-      "country_code": "CO",
       "paper_count": 6
     },
     {
@@ -360,6 +360,10 @@
       "paper_count": 2
     },
     {
+      "country_code": "PF",
+      "paper_count": 2
+    },
+    {
       "country_code": "NP",
       "paper_count": 2
     },
@@ -453,10 +457,6 @@
     },
     {
       "country_code": "PG",
-      "paper_count": 1
-    },
-    {
-      "country_code": "PF",
       "paper_count": 1
     },
     {
