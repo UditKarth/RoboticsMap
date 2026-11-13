@@ -2216,6 +2216,14 @@
     "paper_count": 4
   },
   {
+    "id": "https://openalex.org/I141596103",
+    "name": "University of Lisbon",
+    "lat": 38.72509,
+    "lng": -9.1498,
+    "country_code": "PT",
+    "paper_count": 4
+  },
+  {
     "id": "https://openalex.org/I14243506",
     "name": "Hong Kong Polytechnic University",
     "lat": 22.27832,
@@ -2389,6 +2397,14 @@
     "lat": 47.26266,
     "lng": 11.39454,
     "country_code": "AT",
+    "paper_count": 4
+  },
+  {
+    "id": "https://openalex.org/I191208505",
+    "name": "Xiamen University",
+    "lat": 24.47978973388672,
+    "lng": 118.08187103271484,
+    "country_code": "CN",
     "paper_count": 4
   },
   {
@@ -3032,14 +3048,6 @@
     "paper_count": 3
   },
   {
-    "id": "https://openalex.org/I141596103",
-    "name": "University of Lisbon",
-    "lat": 38.72509,
-    "lng": -9.1498,
-    "country_code": "PT",
-    "paper_count": 3
-  },
-  {
     "id": "https://openalex.org/I149213910",
     "name": "University of Antwerp",
     "lat": 51.22272872924805,
@@ -3285,14 +3293,6 @@
     "lat": 26.164180755615234,
     "lng": 32.72671127319336,
     "country_code": "EG",
-    "paper_count": 3
-  },
-  {
-    "id": "https://openalex.org/I191208505",
-    "name": "Xiamen University",
-    "lat": 24.47978973388672,
-    "lng": 118.08187103271484,
-    "country_code": "CN",
     "paper_count": 3
   },
   {
@@ -20232,6 +20232,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I4405252804",
+    "name": "Centro de Estudos Geogr\u00e1ficos",
+    "lat": 38.716670989990234,
+    "lng": -9.133330345153809,
+    "country_code": "PT",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I4405254927",
     "name": "Instituto de Biodiversidad de Ecosistemas Ant\u00e1rticos y Subant\u00e1rticos",
     "lat": -33.45694,
@@ -20484,6 +20492,14 @@
     "name": "Institute of Public Health, University of Porto",
     "lat": 41.1485,
     "lng": -8.61097,
+    "country_code": "PT",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4405268612",
+    "name": "Laborat\u00f3rio Associado TERRA",
+    "lat": 38.72509,
+    "lng": -9.1498,
     "country_code": "PT",
     "paper_count": 1
   },
