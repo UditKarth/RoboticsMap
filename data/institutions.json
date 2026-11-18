@@ -3872,6 +3872,14 @@
     "paper_count": 3
   },
   {
+    "id": "https://openalex.org/I4210165339",
+    "name": "Ningbo Institute of Industrial Technology",
+    "lat": 29.878189086914062,
+    "lng": 121.54945373535156,
+    "country_code": "CN",
+    "paper_count": 3
+  },
+  {
     "id": "https://openalex.org/I4210166112",
     "name": "State Key Laboratory of Remote Sensing Science",
     "lat": 39.907501220703125,
@@ -6040,6 +6048,14 @@
     "paper_count": 2
   },
   {
+    "id": "https://openalex.org/I4210094421",
+    "name": "AZTI",
+    "lat": 43.32586669921875,
+    "lng": -1.9311109781265259,
+    "country_code": "ES",
+    "paper_count": 2
+  },
+  {
     "id": "https://openalex.org/I4210095118",
     "name": "Centre de Recherche en Neurosciences de Lyon",
     "lat": 45.73865,
@@ -6805,14 +6821,6 @@
     "lat": 48.85341,
     "lng": 2.3488,
     "country_code": "FR",
-    "paper_count": 2
-  },
-  {
-    "id": "https://openalex.org/I4210165339",
-    "name": "Ningbo Institute of Industrial Technology",
-    "lat": 29.878189086914062,
-    "lng": 121.54945373535156,
-    "country_code": "CN",
     "paper_count": 2
   },
   {
@@ -12816,6 +12824,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I2802236040",
+    "name": "University of Colorado System",
+    "lat": 40.01499,
+    "lng": -105.27055,
+    "country_code": "US",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I2802259095",
     "name": "Energy Research Centre of the Netherlands",
     "lat": 52.76667022705078,
@@ -14525,14 +14541,6 @@
     "lat": 40.20867919921875,
     "lng": 44.536067962646484,
     "country_code": "AM",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I4210094421",
-    "name": "AZTI",
-    "lat": 43.32586669921875,
-    "lng": -1.9311109781265259,
-    "country_code": "ES",
     "paper_count": 1
   },
   {
@@ -19053,6 +19061,14 @@
     "lat": 53.5921630859375,
     "lng": 9.87926959991455,
     "country_code": "DE",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4210156194",
+    "name": "Addenbrooke's Hospital",
+    "lat": 52.17599868774414,
+    "lng": 0.14000000059604645,
+    "country_code": "GB",
     "paper_count": 1
   },
   {
