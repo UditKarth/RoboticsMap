@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-18",
-  "total_papers": 1226,
+  "last_updated": "2026-11-19",
+  "total_papers": 1227,
   "total_institutions": 2847,
   "date_range": {
     "from": "2018-01-01",
@@ -49,7 +49,7 @@
     },
     {
       "country_code": "CH",
-      "paper_count": 63
+      "paper_count": 64
     },
     {
       "country_code": "SE",

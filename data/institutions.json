@@ -1464,6 +1464,14 @@
     "paper_count": 6
   },
   {
+    "id": "https://openalex.org/I97565354",
+    "name": "University of Lausanne",
+    "lat": 46.516,
+    "lng": 6.63282,
+    "country_code": "CH",
+    "paper_count": 6
+  },
+  {
     "id": "https://openalex.org/I114017466",
     "name": "University of Technology Sydney",
     "lat": -33.86785,
@@ -2021,14 +2029,6 @@
     "lat": 50.66828918457031,
     "lng": 4.614429950714111,
     "country_code": "BE",
-    "paper_count": 5
-  },
-  {
-    "id": "https://openalex.org/I97565354",
-    "name": "University of Lausanne",
-    "lat": 46.516,
-    "lng": 6.63282,
-    "country_code": "CH",
     "paper_count": 5
   },
   {
@@ -5549,6 +5549,14 @@
     "lat": 45.67965,
     "lng": -111.03856,
     "country_code": "US",
+    "paper_count": 2
+  },
+  {
+    "id": "https://openalex.org/I24906876",
+    "name": "Institut Agro Montpellier",
+    "lat": 43.61093,
+    "lng": 3.87635,
+    "country_code": "FR",
     "paper_count": 2
   },
   {
@@ -11933,14 +11941,6 @@
     "lat": 52.512779235839844,
     "lng": 13.389166831970215,
     "country_code": "DE",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I24906876",
-    "name": "Institut Agro Montpellier",
-    "lat": 43.61093,
-    "lng": 3.87635,
-    "country_code": "FR",
     "paper_count": 1
   },
   {
