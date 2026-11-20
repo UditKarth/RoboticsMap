@@ -648,6 +648,14 @@
     "paper_count": 8
   },
   {
+    "id": "https://openalex.org/I1118541",
+    "name": "University of East Anglia",
+    "lat": 52.627830505371094,
+    "lng": 1.2983399629592896,
+    "country_code": "GB",
+    "paper_count": 8
+  },
+  {
     "id": "https://openalex.org/I114027177",
     "name": "University of North Carolina at Chapel Hill",
     "lat": 35.9132,
@@ -917,14 +925,6 @@
     "lat": 40.01499,
     "lng": -105.27055,
     "country_code": "US",
-    "paper_count": 7
-  },
-  {
-    "id": "https://openalex.org/I1118541",
-    "name": "University of East Anglia",
-    "lat": 52.627830505371094,
-    "lng": 1.2983399629592896,
-    "country_code": "GB",
     "paper_count": 7
   },
   {
@@ -1336,6 +1336,14 @@
     "paper_count": 6
   },
   {
+    "id": "https://openalex.org/I2799300731",
+    "name": "Norwich Research Park",
+    "lat": 52.62389373779297,
+    "lng": 1.22394597530365,
+    "country_code": "GB",
+    "paper_count": 6
+  },
+  {
     "id": "https://openalex.org/I31683504",
     "name": "Beijing Forestry University",
     "lat": 39.907501220703125,
@@ -1725,14 +1733,6 @@
     "lat": 40.8105583190918,
     "lng": 111.6522216796875,
     "country_code": "CN",
-    "paper_count": 5
-  },
-  {
-    "id": "https://openalex.org/I2799300731",
-    "name": "Norwich Research Park",
-    "lat": 52.62389373779297,
-    "lng": 1.22394597530365,
-    "country_code": "GB",
     "paper_count": 5
   },
   {
@@ -3160,6 +3160,14 @@
     "paper_count": 3
   },
   {
+    "id": "https://openalex.org/I15477984",
+    "name": "James Hutton Institute",
+    "lat": 56.46913146972656,
+    "lng": -2.9748899936676025,
+    "country_code": "GB",
+    "paper_count": 3
+  },
+  {
     "id": "https://openalex.org/I155093810",
     "name": "University of Idaho",
     "lat": 46.732391357421875,
@@ -3469,6 +3477,14 @@
     "lat": -33.93462,
     "lng": 18.86676,
     "country_code": "ZA",
+    "paper_count": 3
+  },
+  {
+    "id": "https://openalex.org/I2799553609",
+    "name": "Rothamsted Research",
+    "lat": 51.81040954589844,
+    "lng": -0.3562549948692322,
+    "country_code": "GB",
     "paper_count": 3
   },
   {
@@ -4528,6 +4544,14 @@
     "paper_count": 2
   },
   {
+    "id": "https://openalex.org/I1302404375",
+    "name": "CAB International",
+    "lat": 51.59981918334961,
+    "lng": -1.1247999668121338,
+    "country_code": "GB",
+    "paper_count": 2
+  },
+  {
     "id": "https://openalex.org/I1302991022",
     "name": "Milken Institute",
     "lat": 34.01948928833008,
@@ -4885,14 +4909,6 @@
     "lat": 46.80237,
     "lng": 7.15128,
     "country_code": "CH",
-    "paper_count": 2
-  },
-  {
-    "id": "https://openalex.org/I15477984",
-    "name": "James Hutton Institute",
-    "lat": 56.46913146972656,
-    "lng": -2.9748899936676025,
-    "country_code": "GB",
     "paper_count": 2
   },
   {
@@ -5584,6 +5600,14 @@
     "paper_count": 2
   },
   {
+    "id": "https://openalex.org/I260719752",
+    "name": "Scotland's Rural College",
+    "lat": 55.95206069946289,
+    "lng": -3.1964800357818604,
+    "country_code": "GB",
+    "paper_count": 2
+  },
+  {
     "id": "https://openalex.org/I268303160",
     "name": "Medical University of Warsaw",
     "lat": 52.22977066040039,
@@ -5597,14 +5621,6 @@
     "lat": 47.366668701171875,
     "lng": 8.550000190734863,
     "country_code": "CH",
-    "paper_count": 2
-  },
-  {
-    "id": "https://openalex.org/I2799553609",
-    "name": "Rothamsted Research",
-    "lat": 51.81040954589844,
-    "lng": -0.3562549948692322,
-    "country_code": "GB",
     "paper_count": 2
   },
   {
@@ -7640,6 +7656,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I100288624",
+    "name": "John Innes Centre",
+    "lat": 52.62783,
+    "lng": 1.29834,
+    "country_code": "GB",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I10052268",
     "name": "New Mexico State University",
     "lat": 32.31232,
@@ -8861,14 +8885,6 @@
     "lat": 38.89511,
     "lng": -77.03637,
     "country_code": "US",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I1302404375",
-    "name": "CAB International",
-    "lat": 51.59981918334961,
-    "lng": -1.1247999668121338,
-    "country_code": "GB",
     "paper_count": 1
   },
   {
@@ -11997,14 +12013,6 @@
     "lat": 49.79391,
     "lng": 9.95121,
     "country_code": "DE",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I260719752",
-    "name": "Scotland's Rural College",
-    "lat": 55.95206069946289,
-    "lng": -3.1964800357818604,
-    "country_code": "GB",
     "paper_count": 1
   },
   {
