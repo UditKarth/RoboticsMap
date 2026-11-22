@@ -2376,6 +2376,14 @@
     "paper_count": 4
   },
   {
+    "id": "https://openalex.org/I16391192",
+    "name": "Tel Aviv University",
+    "lat": 32.08088,
+    "lng": 34.78057,
+    "country_code": "IL",
+    "paper_count": 4
+  },
+  {
     "id": "https://openalex.org/I165368041",
     "name": "University of Iceland",
     "lat": 64.13548,
@@ -3237,14 +3245,6 @@
     "lat": 43.133968353271484,
     "lng": -70.92645263671875,
     "country_code": "US",
-    "paper_count": 3
-  },
-  {
-    "id": "https://openalex.org/I16391192",
-    "name": "Tel Aviv University",
-    "lat": 32.08088,
-    "lng": 34.78057,
-    "country_code": "IL",
     "paper_count": 3
   },
   {
@@ -14301,6 +14301,14 @@
     "lat": 47.37746047973633,
     "lng": 8.55285930633545,
     "country_code": "CH",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4210090971",
+    "name": "Southeast University",
+    "lat": 23.7104,
+    "lng": 90.40744,
+    "country_code": "BD",
     "paper_count": 1
   },
   {
