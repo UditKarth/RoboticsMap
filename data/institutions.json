@@ -69,7 +69,7 @@
     "lat": 39.9075,
     "lng": 116.39723,
     "country_code": "CN",
-    "paper_count": 19
+    "paper_count": 20
   },
   {
     "id": "https://openalex.org/I97018004",
@@ -1344,6 +1344,14 @@
     "paper_count": 6
   },
   {
+    "id": "https://openalex.org/I20942203",
+    "name": "Hainan University",
+    "lat": 20.034210205078125,
+    "lng": 110.34651184082031,
+    "country_code": "CN",
+    "paper_count": 6
+  },
+  {
     "id": "https://openalex.org/I22248866",
     "name": "AgroParisTech",
     "lat": 48.71828,
@@ -1701,14 +1709,6 @@
     "lat": 33.851810455322266,
     "lng": 130.850341796875,
     "country_code": "JP",
-    "paper_count": 5
-  },
-  {
-    "id": "https://openalex.org/I20942203",
-    "name": "Hainan University",
-    "lat": 20.034210205078125,
-    "lng": 110.34651184082031,
-    "country_code": "CN",
     "paper_count": 5
   },
   {
@@ -2333,6 +2333,14 @@
     "lat": 48.85341,
     "lng": 2.3488,
     "country_code": "FR",
+    "paper_count": 4
+  },
+  {
+    "id": "https://openalex.org/I157773358",
+    "name": "Sun Yat-sen University",
+    "lat": 23.11667,
+    "lng": 113.25,
+    "country_code": "CN",
     "paper_count": 4
   },
   {
@@ -3205,14 +3213,6 @@
     "lat": -33.96333,
     "lng": 18.47639,
     "country_code": "ZA",
-    "paper_count": 3
-  },
-  {
-    "id": "https://openalex.org/I157773358",
-    "name": "Sun Yat-sen University",
-    "lat": 23.11667,
-    "lng": 113.25,
-    "country_code": "CN",
     "paper_count": 3
   },
   {
@@ -5448,6 +5448,14 @@
     "paper_count": 2
   },
   {
+    "id": "https://openalex.org/I200650556",
+    "name": "University of Agder",
+    "lat": 58.14670944213867,
+    "lng": 7.99560022354126,
+    "country_code": "NO",
+    "paper_count": 2
+  },
+  {
     "id": "https://openalex.org/I200763008",
     "name": "Justus-Liebig-Universit\u00e4t Gie\u00dfen",
     "lat": 50.58727,
@@ -6853,6 +6861,14 @@
     "lat": 40.43292999267578,
     "lng": -3.813380002975464,
     "country_code": "ES",
+    "paper_count": 2
+  },
+  {
+    "id": "https://openalex.org/I4210162457",
+    "name": "Fujian Institute of Oceanography",
+    "lat": 24.482221603393555,
+    "lng": 118.08169555664062,
+    "country_code": "CN",
     "paper_count": 2
   },
   {
@@ -11536,14 +11552,6 @@
     "paper_count": 1
   },
   {
-    "id": "https://openalex.org/I200650556",
-    "name": "University of Agder",
-    "lat": 58.14670944213867,
-    "lng": 7.99560022354126,
-    "country_code": "NO",
-    "paper_count": 1
-  },
-  {
     "id": "https://openalex.org/I200719446",
     "name": "Vanderbilt University",
     "lat": 36.16589,
@@ -15424,6 +15432,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I4210105051",
+    "name": "Institute of Parasitology of the Slovak Academy of Sciences",
+    "lat": 48.713951110839844,
+    "lng": 21.258079528808594,
+    "country_code": "SK",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I4210105059",
     "name": "Universitas Muhammadiyah Malang",
     "lat": -7.9256720542907715,
@@ -19096,6 +19112,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I4210155110",
+    "name": "Donetsk Botanical Garden",
+    "lat": 48.00935745239258,
+    "lng": 37.878658294677734,
+    "country_code": "UA",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I4210155152",
     "name": "Rumah Sakit Umum Pusat Nasional Dr. Cipto Mangunkusumo",
     "lat": -6.197244167327881,
@@ -19661,14 +19685,6 @@
     "lat": 48.85341,
     "lng": 2.3488,
     "country_code": "FR",
-    "paper_count": 1
-  },
-  {
-    "id": "https://openalex.org/I4210162457",
-    "name": "Fujian Institute of Oceanography",
-    "lat": 24.482221603393555,
-    "lng": 118.08169555664062,
-    "country_code": "CN",
     "paper_count": 1
   },
   {
@@ -20317,6 +20333,14 @@
     "lat": 35.68949890136719,
     "lng": 139.69171142578125,
     "country_code": "",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4391012567",
+    "name": "Southern Marine Science and Engineering Guangdong Laboratory (Zhuhai)",
+    "lat": 22.27694,
+    "lng": 113.56778,
+    "country_code": "CN",
     "paper_count": 1
   },
   {
@@ -21109,6 +21133,22 @@
     "lat": 35.6,
     "lng": 140.11667,
     "country_code": "JP",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4405289939",
+    "name": "Northern Forestry Centre",
+    "lat": 53.55014,
+    "lng": -113.46871,
+    "country_code": "CA",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4405290409",
+    "name": "Centre d'\u00e9tude de la for\u00eat",
+    "lat": 45.50884,
+    "lng": -73.58781,
+    "country_code": "CA",
     "paper_count": 1
   },
   {
