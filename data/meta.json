@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-11-24",
-  "total_papers": 1245,
-  "total_institutions": 2872,
+  "last_updated": "2026-11-25",
+  "total_papers": 1246,
+  "total_institutions": 2875,
   "date_range": {
     "from": "2018-01-01",
     "to": "2026-01-01"
@@ -57,7 +57,7 @@
     },
     {
       "country_code": "IN",
-      "paper_count": 58
+      "paper_count": 59
     },
     {
       "country_code": "BR",

@@ -1352,6 +1352,14 @@
     "paper_count": 6
   },
   {
+    "id": "https://openalex.org/I211433327",
+    "name": "Ministry of Natural Resources",
+    "lat": 39.9075,
+    "lng": 116.39723,
+    "country_code": "CN",
+    "paper_count": 6
+  },
+  {
     "id": "https://openalex.org/I22248866",
     "name": "AgroParisTech",
     "lat": 48.71828,
@@ -1709,14 +1717,6 @@
     "lat": 33.851810455322266,
     "lng": 130.850341796875,
     "country_code": "JP",
-    "paper_count": 5
-  },
-  {
-    "id": "https://openalex.org/I211433327",
-    "name": "Ministry of Natural Resources",
-    "lat": 39.9075,
-    "lng": 116.39723,
-    "country_code": "CN",
     "paper_count": 5
   },
   {
@@ -9836,6 +9836,14 @@
     "name": "University of Jammu",
     "lat": 32.71860122680664,
     "lng": 74.86920166015625,
+    "country_code": "IN",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I145894827",
+    "name": "Indian Institute of Technology Kharagpur",
+    "lat": 22.33971,
+    "lng": 87.32501,
     "country_code": "IN",
     "paper_count": 1
   },
@@ -20712,6 +20720,14 @@
     "paper_count": 1
   },
   {
+    "id": "https://openalex.org/I4405258546",
+    "name": "Third Institute of Oceanography",
+    "lat": 24.70209,
+    "lng": 118.11566,
+    "country_code": "CN",
+    "paper_count": 1
+  },
+  {
     "id": "https://openalex.org/I4405259829",
     "name": "International Sturgeon Research Institute",
     "lat": 37.27611,
@@ -21133,6 +21149,14 @@
     "lat": 35.6,
     "lng": 140.11667,
     "country_code": "JP",
+    "paper_count": 1
+  },
+  {
+    "id": "https://openalex.org/I4405288811",
+    "name": "Centre for Sustainable Tropical Fisheries and Aquaculture",
+    "lat": -19.26639,
+    "lng": 146.80569,
+    "country_code": "AU",
     "paper_count": 1
   },
   {
